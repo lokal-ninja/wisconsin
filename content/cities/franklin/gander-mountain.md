@@ -1,0 +1,4 @@
+---
+title: "Gander Mountain"
+url: /franklin/gander-mountain/
+---
