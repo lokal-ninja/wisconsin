@@ -1,0 +1,15 @@
+baseURL = "https://shoogle.us/wisconsin"
+languageCode = "en-US"
+title = "Wisconsin"
+theme = "ln-base-en"
+
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "wisconsin"
