@@ -1,12 +1,12 @@
-id: 663568232
-type: way
-shop: convenience
-latitude: 42.977055
-longitude: -87.90968550000001
-postcode: "53207"
+id: 8008108201
+type: node
+shop: chemist
+latitude: 43.0907362
+longitude: -88.00800290000001
+postcode: ""
 city: Milwaukee
-street: "South Howell Avenue"
-housenumber: 3701
-phone: "(414) 482-1470"
-opening_hours: "Mo-Su 08:00-00:00"
-website: "https://www.walgreens.com/locator/walgreens-3701+s+howell+ave-milwaukee-wi-53207/id=649"
+street: "West Capitol Drive"
+housenumber: 7600
+phone: ""
+opening_hours: ""
+website: ""

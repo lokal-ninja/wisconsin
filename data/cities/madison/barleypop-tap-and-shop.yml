@@ -8,5 +8,5 @@ city: Madison
 street: "Atwood Avenue"
 housenumber: 2045
 phone: ""
-opening_hours: "Th-Fr 12:00-00:00; Sa 11:00-00:00; Su 13:00-21:00; Mo-We 14:00-22:00"
+opening_hours: "Th-Fr 12:00-24:00; Sa 11:00-24:00; Su 13:00-21:00; Mo-We 14:00-22:00"
 website: ""
