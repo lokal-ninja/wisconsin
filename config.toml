@@ -1,4 +1,4 @@
-baseURL = "https://shoogle.us/wisconsin"
+baseURL = "https://us.shoogle.net/wisconsin"
 languageCode = "en-US"
 title = "Wisconsin"
 theme = "ln-base"
