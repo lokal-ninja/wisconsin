@@ -1,4 +1,4 @@
 ---
-title: "wheelers Chevrolet GMC"
+title: "Wheelers Chevrolet GMC"
 url: /marshfield/wheelers-chevrolet-gmc/
 ---
