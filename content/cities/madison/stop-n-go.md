@@ -1,4 +1,4 @@
 ---
-title: "Stop N Go"
+title: "Stop-N-Go"
 url: /madison/stop-n-go/
 ---
