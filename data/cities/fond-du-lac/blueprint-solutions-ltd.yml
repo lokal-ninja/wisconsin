@@ -1,6 +1,5 @@
 id: 8285523035
 type: node
-shop: copyshop
 latitude: 43.781143500000006
 longitude: -88.4474232
 postcode: "54935"
@@ -8,5 +7,5 @@ city: Fond du Lac
 street: "North Main Street"
 housenumber: 78
 phone: "920-922-3592"
-opening_hours: "Mo-Th 08:00-16:00 Fr 08:00-12:00"
+opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-12:00"
 website: "https://www.blueprintfdl.com/"
