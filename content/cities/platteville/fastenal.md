@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
-url: /milwaukee/fastenal/
+url: /platteville/fastenal/
 shop: trade
 ---
