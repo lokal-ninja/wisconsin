@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /baraboo/aldi/
 shop: supermarket
 ---
