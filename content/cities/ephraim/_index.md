@@ -1,6 +1,6 @@
 ---
 title: Ephraim
 url: /ephraim/
-latitude: 45.156378000000004
-longitude: -87.168166
+latitude: 45.177
+longitude: -87.155
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cake Anatomy"
 url: /kaukauna/cake-anatomy/
-shop: bakery
+shop: Bäckerei
 ---

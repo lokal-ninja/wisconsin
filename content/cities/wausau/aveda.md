@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /wausau/aveda/
-shop: beauty
+shop: Kosmetik
 ---

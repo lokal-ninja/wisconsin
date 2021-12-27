@@ -1,5 +1,5 @@
 ---
 title: "Stefan's Soccer"
 url: /fox-point/stefans-soccer/
-shop: sports
+shop: Sport
 ---

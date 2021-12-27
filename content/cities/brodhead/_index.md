@@ -1,6 +1,6 @@
 ---
 title: Brodhead
 url: /brodhead/
-latitude: 42.6197159
-longitude: -89.37682960000001
+latitude: 42.606
+longitude: -89.375
 ---

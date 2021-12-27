@@ -1,6 +1,6 @@
 ---
 title: Minocqua
 url: /minocqua/
-latitude: 45.871342000000006
-longitude: -89.710981
+latitude: 45.888
+longitude: -89.718
 ---

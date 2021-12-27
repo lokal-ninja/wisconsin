@@ -1,6 +1,6 @@
 ---
 title: North Hudson
 url: /north-hudson/
-latitude: 44.993023
-longitude: -92.7568705
+latitude: 45.005
+longitude: -92.753
 ---

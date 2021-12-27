@@ -1,6 +1,6 @@
 ---
 title: New London
 url: /new-london/
-latitude: 44.3927581
-longitude: -88.73982550000001
+latitude: 44.411
+longitude: -88.744
 ---

@@ -1,6 +1,6 @@
 ---
 title: Waupaca
 url: /waupaca/
-latitude: 44.4927889
-longitude: -88.9650419
+latitude: 44.356
+longitude: -89.108
 ---

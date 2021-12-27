@@ -1,5 +1,5 @@
 ---
 title: "Simple Elegance"
 url: /richland-center/simple-elegance/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,6 +1,6 @@
 ---
 title: Kenosha
 url: /kenosha/
-latitude: 42.5729233
-longitude: -88.0679837
+latitude: 42.576
+longitude: -87.838
 ---

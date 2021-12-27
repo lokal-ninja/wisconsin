@@ -1,6 +1,6 @@
 ---
 title: Chilton
 url: /chilton/
-latitude: 44.028944
-longitude: -88.1628151
+latitude: 44.024
+longitude: -88.139
 ---

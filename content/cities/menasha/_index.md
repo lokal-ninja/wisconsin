@@ -1,6 +1,6 @@
 ---
 title: Menasha
 url: /menasha/
-latitude: 44.202229300000006
-longitude: -88.4465361
+latitude: 44.235
+longitude: -88.426
 ---

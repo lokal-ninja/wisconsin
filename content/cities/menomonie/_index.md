@@ -1,6 +1,6 @@
 ---
 title: Menomonie
 url: /menomonie/
-latitude: 44.8755183
-longitude: -91.9193422
+latitude: 44.876
+longitude: -91.925
 ---

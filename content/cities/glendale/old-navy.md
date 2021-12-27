@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /glendale/old-navy/
-shop: clothes
+shop: Kleidung
 ---

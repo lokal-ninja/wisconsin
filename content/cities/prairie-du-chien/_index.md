@@ -1,6 +1,6 @@
 ---
 title: Prairie Du Chien
 url: /prairie-du-chien/
-latitude: 
-longitude: 
+latitude: 43.017
+longitude: -91.108
 ---

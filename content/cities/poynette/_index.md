@@ -1,6 +1,6 @@
 ---
 title: Poynette
 url: /poynette/
-latitude: 43.3902644
-longitude: -89.40289630000001
+latitude: 43.395
+longitude: -89.396
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Habitat ReStore (Madison East)"
 url: /monona/habitat-restore-madison-east/
-shop: doityourself
+shop: Baumarkt
 ---

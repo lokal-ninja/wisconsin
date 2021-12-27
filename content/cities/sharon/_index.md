@@ -1,6 +1,6 @@
 ---
 title: Sharon
 url: /sharon/
-latitude: 42.502516500000006
-longitude: -88.7289927
+latitude: 42.508
+longitude: -88.732
 ---

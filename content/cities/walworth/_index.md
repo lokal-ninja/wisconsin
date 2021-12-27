@@ -1,6 +1,6 @@
 ---
 title: Walworth
 url: /walworth/
-latitude: 42.671151300000005
-longitude: -88.5467715
+latitude: 42.575
+longitude: -88.581
 ---

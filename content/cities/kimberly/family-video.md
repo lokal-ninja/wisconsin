@@ -1,5 +1,5 @@
 ---
 title: "Family Video"
 url: /kimberly/family-video/
-shop: video
+shop: Videothek
 ---

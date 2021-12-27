@@ -1,6 +1,6 @@
 ---
 title: East Troy
 url: /east-troy/
-latitude: 42.7851871
-longitude: -88.40543740000001
+latitude: 42.785
+longitude: -88.405
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pleasant Prairie
 url: /pleasant-prairie/
-latitude: 42.526971800000005
-longitude: -87.85445680000001
+latitude: 42.517
+longitude: -87.947
 ---

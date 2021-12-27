@@ -1,6 +1,6 @@
 ---
 title: Dousman
 url: /dousman/
-latitude: 43.014176000000006
-longitude: -88.4725983
+latitude: 43.016
+longitude: -88.473
 ---

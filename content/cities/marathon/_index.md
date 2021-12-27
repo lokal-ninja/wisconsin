@@ -1,6 +1,6 @@
 ---
 title: Marathon
 url: /marathon/
-latitude: 44.891403600000004
-longitude: -89.7748098
+latitude: 45.049
+longitude: -89.844
 ---

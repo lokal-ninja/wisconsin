@@ -1,6 +1,6 @@
 ---
 title: Sorona
 url: /sorona/
-latitude: 
-longitude: 
+latitude: 45.746
+longitude: -91.724
 ---

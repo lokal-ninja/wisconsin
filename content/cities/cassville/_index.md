@@ -1,6 +1,6 @@
 ---
 title: Cassville
 url: /cassville/
-latitude: 42.714440800000006
-longitude: -90.9907697
+latitude: 42.715
+longitude: -90.99
 ---

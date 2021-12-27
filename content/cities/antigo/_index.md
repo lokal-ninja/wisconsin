@@ -1,6 +1,6 @@
 ---
 title: Antigo
 url: /antigo/
-latitude: 45.140245
-longitude: -89.15233500000001
+latitude: 45.164
+longitude: -89.142
 ---

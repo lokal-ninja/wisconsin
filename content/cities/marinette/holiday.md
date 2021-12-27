@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /marinette/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: oa
 url: /oa/
-latitude: 
-longitude: 
+latitude: 42.87
+longitude: -87.913
 ---

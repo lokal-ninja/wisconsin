@@ -1,5 +1,5 @@
 ---
 title: "Batteries Plus Bulbs"
 url: /madison/batteries-plus-bulbs/
-shop: electronics
+shop: Elektronik
 ---

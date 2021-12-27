@@ -1,6 +1,6 @@
 ---
 title: Iola
 url: /iola/
-latitude: 44.5080338
-longitude: -89.1306665
+latitude: 44.503
+longitude: -89.122
 ---

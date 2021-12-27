@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /necedah/true-value/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lomira
 url: /lomira/
-latitude: 43.591382
-longitude: -88.443713
+latitude: 43.607
+longitude: -88.431
 ---

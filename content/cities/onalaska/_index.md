@@ -1,6 +1,6 @@
 ---
 title: Onalaska
 url: /onalaska/
-latitude: 43.8830606
-longitude: -91.2343539
+latitude: 43.883
+longitude: -91.234
 ---

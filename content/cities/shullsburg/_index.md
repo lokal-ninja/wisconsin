@@ -1,6 +1,6 @@
 ---
 title: Shullsburg
 url: /shullsburg/
-latitude: 42.5729483
-longitude: -90.2308849
+latitude: 42.573
+longitude: -90.239
 ---

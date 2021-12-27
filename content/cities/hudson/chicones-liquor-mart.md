@@ -1,5 +1,5 @@
 ---
 title: "Chicone's Liquor Mart"
 url: /hudson/chicones-liquor-mart/
-shop: alcohol
+shop: Spirituosen
 ---

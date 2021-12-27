@@ -1,6 +1,6 @@
 ---
 title: Phelps
 url: /phelps/
-latitude: 46.064423000000005
-longitude: -89.08763400000001
+latitude: 46.056
+longitude: -89.101
 ---

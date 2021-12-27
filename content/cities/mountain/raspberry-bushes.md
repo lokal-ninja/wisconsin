@@ -1,5 +1,5 @@
 ---
 title: "Raspberry Bushes"
 url: /mountain/raspberry-bushes/
-shop: garden centre
+shop: Garten-Center
 ---

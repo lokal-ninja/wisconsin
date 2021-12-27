@@ -1,6 +1,6 @@
 ---
 title: Saint Croix Falls
 url: /saint-croix-falls/
-latitude: 
-longitude: 
+latitude: 45.396
+longitude: -92.588
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Brickner Motors"
 url: /marathon/brickner-motors/
-shop: car
+shop: Autohaus
 ---

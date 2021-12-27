@@ -1,5 +1,5 @@
 ---
 title: "Go Fetch"
 url: /winneconne/go-fetch/
-shop: pet
+shop: Tiere
 ---

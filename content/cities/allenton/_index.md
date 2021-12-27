@@ -1,6 +1,6 @@
 ---
 title: Allenton
 url: /allenton/
-latitude: 43.4210536
-longitude: -88.3408655
+latitude: 43.476
+longitude: -88.368
 ---

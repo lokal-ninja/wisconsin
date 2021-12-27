@@ -1,6 +1,6 @@
 ---
 title: Luck
 url: /luck/
-latitude: 45.575888400000004
-longitude: -92.4822709
+latitude: 45.576
+longitude: -92.482
 ---

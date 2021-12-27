@@ -1,6 +1,6 @@
 ---
 title: Ladysmith
 url: /ladysmith/
-latitude: 45.4630231
-longitude: -91.1040358
+latitude: 45.458
+longitude: -91.113
 ---

@@ -1,6 +1,6 @@
 ---
 title: Pardeeville
 url: /pardeeville/
-latitude: 43.5377608
-longitude: -89.3001174
+latitude: 43.525
+longitude: -89.303
 ---

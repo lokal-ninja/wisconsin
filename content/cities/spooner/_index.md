@@ -1,6 +1,6 @@
 ---
 title: Spooner
 url: /spooner/
-latitude: 45.822841100000005
-longitude: -91.8908593
+latitude: 45.834
+longitude: -91.908
 ---

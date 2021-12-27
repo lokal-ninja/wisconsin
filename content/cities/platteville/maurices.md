@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /platteville/maurices/
-shop: clothes
+shop: Kleidung
 ---

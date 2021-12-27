@@ -1,5 +1,5 @@
 ---
 title: "Classics Barbershop"
 url: /milwaukee/classics-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

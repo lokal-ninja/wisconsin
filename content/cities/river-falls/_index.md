@@ -1,6 +1,6 @@
 ---
 title: River Falls
 url: /river-falls/
-latitude: 44.859511100000006
-longitude: -92.62658970000001
+latitude: 44.877
+longitude: -92.624
 ---

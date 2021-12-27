@@ -1,5 +1,5 @@
 ---
 title: "Cellcom"
 url: /wausau/cellcom/
-shop: electronics
+shop: Elektronik
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lac du Flambeau
 url: /lac-du-flambeau/
-latitude: 45.969673
-longitude: -89.892099
+latitude: 45.973
+longitude: -89.891
 ---

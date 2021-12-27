@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /greendale/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

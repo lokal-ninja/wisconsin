@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cudahy/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

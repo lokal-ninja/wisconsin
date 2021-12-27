@@ -1,6 +1,6 @@
 ---
 title: Fitchburg
 url: /fitchburg/
-latitude: 43.0020919
-longitude: -89.423817
+latitude: 43.005
+longitude: -89.421
 ---

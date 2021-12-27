@@ -1,5 +1,5 @@
 ---
 title: "UniPrice Cleaners"
 url: /milwaukee/uniprice-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

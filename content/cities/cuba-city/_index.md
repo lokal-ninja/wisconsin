@@ -1,6 +1,6 @@
 ---
 title: Cuba City
 url: /cuba-city/
-latitude: 42.6055549
-longitude: -90.4298502
+latitude: 42.604
+longitude: -90.43
 ---

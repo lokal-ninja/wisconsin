@@ -1,5 +1,5 @@
 ---
 title: "Shell Select"
 url: /cambridge/shell-select/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /west-allis/speedway-2/
-shop: convenience
+shop: Lebensmittel
 ---

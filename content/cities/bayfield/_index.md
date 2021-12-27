@@ -1,6 +1,6 @@
 ---
 title: Bayfield
 url: /bayfield/
-latitude: 46.4710241
-longitude: -91.1983175
+latitude: 46.81
+longitude: -90.816
 ---

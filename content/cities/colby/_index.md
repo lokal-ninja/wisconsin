@@ -1,6 +1,6 @@
 ---
 title: Colby
 url: /colby/
-latitude: 44.9099665
-longitude: -90.31569110000001
+latitude: 44.918
+longitude: -90.315
 ---

@@ -1,6 +1,6 @@
 ---
 title: South Wayne
 url: /south-wayne/
-latitude: 42.5688955
-longitude: -89.8798448
+latitude: 42.637
+longitude: -89.953
 ---

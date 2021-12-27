@@ -1,5 +1,5 @@
 ---
 title: "Midland Energy Cenex"
 url: /brule/midland-energy-cenex/
-shop: convenience
+shop: Lebensmittel
 ---

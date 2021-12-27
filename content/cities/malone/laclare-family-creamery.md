@@ -1,5 +1,5 @@
 ---
 title: "LaClare Family Creamery"
 url: /malone/laclare-family-creamery/
-shop: dairy
+shop: Milch
 ---

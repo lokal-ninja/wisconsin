@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /merrill/walgreens/
-shop: chemist
+shop: Drogerie
 ---

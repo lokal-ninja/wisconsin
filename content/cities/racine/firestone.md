@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /racine/firestone/
-shop: car repair
+shop: Autowerkstatt
 ---

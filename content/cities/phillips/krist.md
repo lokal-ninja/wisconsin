@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /phillips/krist/
-shop: convenience
+shop: Lebensmittel
 ---

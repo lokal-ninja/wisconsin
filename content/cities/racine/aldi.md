@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /racine/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

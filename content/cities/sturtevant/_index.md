@@ -1,6 +1,6 @@
 ---
 title: Sturtevant
 url: /sturtevant/
-latitude: 42.6980749
-longitude: -87.89452290000001
+latitude: 42.697
+longitude: -87.894
 ---

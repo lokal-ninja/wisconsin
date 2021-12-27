@@ -1,6 +1,6 @@
 ---
 title: Wautoma
 url: /wautoma/
-latitude: 44.0746995
-longitude: -89.287897
+latitude: 44.07
+longitude: -89.271
 ---

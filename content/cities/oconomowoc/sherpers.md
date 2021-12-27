@@ -1,5 +1,5 @@
 ---
 title: "Sherper’s"
 url: /oconomowoc/sherpers/
-shop: sports
+shop: Sport
 ---

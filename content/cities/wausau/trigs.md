@@ -1,5 +1,5 @@
 ---
 title: "Trig's"
 url: /wausau/trigs/
-shop: supermarket
+shop: Supermarkt
 ---

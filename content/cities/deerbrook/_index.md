@@ -1,6 +1,6 @@
 ---
 title: Deerbrook
 url: /deerbrook/
-latitude: 45.2335768
-longitude: -89.15566940000001
+latitude: 45.3
+longitude: -89.148
 ---

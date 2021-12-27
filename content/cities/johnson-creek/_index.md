@@ -1,6 +1,6 @@
 ---
 title: Johnson Creek
 url: /johnson-creek/
-latitude: 43.076113
-longitude: -88.7742707
+latitude: 43.082
+longitude: -88.761
 ---

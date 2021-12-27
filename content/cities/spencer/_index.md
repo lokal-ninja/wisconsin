@@ -1,6 +1,6 @@
 ---
 title: Spencer
 url: /spencer/
-latitude: 44.757741800000005
-longitude: -90.2968012
+latitude: 44.754
+longitude: -90.292
 ---

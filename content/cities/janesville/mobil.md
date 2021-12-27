@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /janesville/mobil/
-shop: convenience
+shop: Lebensmittel
 ---

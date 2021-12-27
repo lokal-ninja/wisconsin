@@ -1,6 +1,6 @@
 ---
 title: Algoma
 url: /algoma/
-latitude: 44.610784100000004
-longitude: -87.4387358
+latitude: 44.595
+longitude: -87.444
 ---

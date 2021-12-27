@@ -1,5 +1,5 @@
 ---
 title: "Krist"
 url: /oconto/krist/
-shop: convenience
+shop: Lebensmittel
 ---

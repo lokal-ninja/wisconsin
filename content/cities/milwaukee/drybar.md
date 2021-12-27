@@ -1,5 +1,5 @@
 ---
 title: "Drybar"
 url: /milwaukee/drybar/
-shop: hairdresser
+shop: Friseur
 ---

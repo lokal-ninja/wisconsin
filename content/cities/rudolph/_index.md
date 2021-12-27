@@ -1,6 +1,6 @@
 ---
 title: Rudolph
 url: /rudolph/
-latitude: 44.4960752
-longitude: -89.80762390000001
+latitude: 44.474
+longitude: -89.808
 ---

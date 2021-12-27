@@ -1,5 +1,5 @@
 ---
 title: "Scheels"
 url: /eau-claire/scheels/
-shop: department store
+shop: Warenhaus
 ---

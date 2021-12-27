@@ -1,6 +1,6 @@
 ---
 title: Beliot
 url: /beliot/
-latitude: 
-longitude: 
+latitude: 42.516
+longitude: -89.062
 ---

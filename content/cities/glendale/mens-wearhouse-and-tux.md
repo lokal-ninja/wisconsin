@@ -1,5 +1,5 @@
 ---
 title: "Mens Wearhouse and Tux"
 url: /glendale/mens-wearhouse-and-tux/
-shop: clothes
+shop: Kleidung
 ---

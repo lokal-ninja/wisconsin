@@ -1,5 +1,5 @@
 ---
 title: "Moon Valley Resort"
 url: /merrimac/moon-valley-resort/
-shop: convenience
+shop: Lebensmittel
 ---

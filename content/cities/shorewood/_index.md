@@ -1,6 +1,6 @@
 ---
 title: Shorewood
 url: /shorewood/
-latitude: 43.0883957
-longitude: -87.8881302
+latitude: 43.082
+longitude: -87.887
 ---

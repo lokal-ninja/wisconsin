@@ -1,6 +1,6 @@
 ---
 title: Montfort
 url: /montfort/
-latitude: 42.971658500000004
-longitude: -90.4331808
+latitude: 42.966
+longitude: -90.433
 ---

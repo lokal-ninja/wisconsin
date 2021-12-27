@@ -1,5 +1,5 @@
 ---
 title: "Bayshore"
 url: /glendale/bayshore/
-shop: mall
+shop: Einkaufszentrum
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Commonplace"
 url: /milwaukee/commonplace/
-shop: houseware
+shop: Haushaltsartikel
 ---

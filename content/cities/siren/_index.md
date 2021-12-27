@@ -1,6 +1,6 @@
 ---
 title: Siren
 url: /siren/
-latitude: 45.7857818
-longitude: -92.3810284
+latitude: 45.787
+longitude: -92.386
 ---

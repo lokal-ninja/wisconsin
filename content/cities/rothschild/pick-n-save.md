@@ -1,5 +1,5 @@
 ---
 title: "Pick 'n Save"
 url: /rothschild/pick-n-save/
-shop: supermarket
+shop: Supermarkt
 ---

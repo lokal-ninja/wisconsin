@@ -1,5 +1,5 @@
 ---
 title: "Legends of the Celts"
 url: /hayward/legends-of-the-celts/
-shop: variety store
+shop: Kramladen
 ---

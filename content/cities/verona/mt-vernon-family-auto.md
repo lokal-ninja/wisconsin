@@ -1,5 +1,5 @@
 ---
 title: "Mt. Vernon Family Auto"
 url: /verona/mt-vernon-family-auto/
-shop: car repair
+shop: Autowerkstatt
 ---

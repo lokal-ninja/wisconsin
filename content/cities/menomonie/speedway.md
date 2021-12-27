@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /menomonie/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

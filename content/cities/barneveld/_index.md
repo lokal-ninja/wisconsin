@@ -1,6 +1,6 @@
 ---
 title: Barneveld
 url: /barneveld/
-latitude: 43.0153376
-longitude: -89.89587920000001
+latitude: 43.009
+longitude: -89.901
 ---

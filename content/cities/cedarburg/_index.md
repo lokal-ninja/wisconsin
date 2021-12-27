@@ -1,6 +1,6 @@
 ---
 title: Cedarburg
 url: /cedarburg/
-latitude: 43.2966545
-longitude: -87.9875348
+latitude: 43.281
+longitude: -87.987
 ---

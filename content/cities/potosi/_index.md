@@ -1,6 +1,6 @@
 ---
 title: Potosi
 url: /potosi/
-latitude: 42.6895651
-longitude: -90.71224260000001
+latitude: 42.689
+longitude: -90.713
 ---

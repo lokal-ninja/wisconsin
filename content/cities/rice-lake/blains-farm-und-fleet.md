@@ -1,0 +1,5 @@
+---
+title: "Blain's Farm & Fleet"
+url: /rice-lake/blains-farm-und-fleet/
+shop: Dorfladen
+---

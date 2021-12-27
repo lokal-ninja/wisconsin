@@ -1,6 +1,6 @@
 ---
 title: Sister Bay
 url: /sister-bay/
-latitude: 45.187211000000005
-longitude: -87.120945
+latitude: 45.2
+longitude: -87.119
 ---

@@ -1,6 +1,6 @@
 ---
 title: Arena
 url: /arena/
-latitude: 43.165548
-longitude: -89.9129013
+latitude: 43.162
+longitude: -89.902
 ---

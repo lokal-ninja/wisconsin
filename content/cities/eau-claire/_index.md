@@ -1,6 +1,6 @@
 ---
 title: Eau Claire
 url: /eau-claire/
-latitude: 44.7257643
-longitude: -91.3040313
+latitude: 44.82
+longitude: -91.471
 ---

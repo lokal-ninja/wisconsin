@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /greenfield/best-buy/
-shop: electronics
+shop: Elektronik
 ---

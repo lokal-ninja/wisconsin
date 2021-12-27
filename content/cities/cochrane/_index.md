@@ -1,6 +1,6 @@
 ---
 title: Cochrane
 url: /cochrane/
-latitude: 44.2274643
-longitude: -91.83515700000001
+latitude: 44.226
+longitude: -91.835
 ---

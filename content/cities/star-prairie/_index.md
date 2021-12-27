@@ -1,6 +1,6 @@
 ---
 title: Star Prairie
 url: /star-prairie/
-latitude: 45.1969094
-longitude: -92.5307537
+latitude: 45.197
+longitude: -92.531
 ---

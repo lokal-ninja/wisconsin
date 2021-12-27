@@ -1,6 +1,6 @@
 ---
 title: Crandon
 url: /crandon/
-latitude: 45.571907
-longitude: -88.90289200000001
+latitude: 45.569
+longitude: -88.85
 ---

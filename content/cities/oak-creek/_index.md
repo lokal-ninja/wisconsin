@@ -1,6 +1,6 @@
 ---
 title: Oak Creek
 url: /oak-creek/
-latitude: 42.8858503
-longitude: -87.8631362
+latitude: 42.895
+longitude: -87.913
 ---

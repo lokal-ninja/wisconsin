@@ -1,5 +1,5 @@
 ---
 title: "Chevrolet"
 url: /brodhead/chevrolet/
-shop: car
+shop: Autohaus
 ---

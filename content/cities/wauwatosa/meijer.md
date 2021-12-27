@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /wauwatosa/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: Saint Francis
 url: /saint-francis/
-latitude: 42.974408100000005
-longitude: -87.87093080000001
+latitude: 42.98
+longitude: -87.879
 ---

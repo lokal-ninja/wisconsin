@@ -1,6 +1,6 @@
 ---
 title: Janesville
 url: /janesville/
-latitude: 42.6829765
-longitude: -89.02267930000001
+latitude: 42.68
+longitude: -89.031
 ---

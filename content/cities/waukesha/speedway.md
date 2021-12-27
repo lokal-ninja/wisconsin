@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /waukesha/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

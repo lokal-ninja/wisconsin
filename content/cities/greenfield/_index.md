@@ -1,6 +1,6 @@
 ---
 title: Greenfield
 url: /greenfield/
-latitude: 42.9614039
-longitude: -88.01258650000001
+latitude: 42.955
+longitude: -88.009
 ---

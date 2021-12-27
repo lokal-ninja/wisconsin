@@ -1,5 +1,5 @@
 ---
 title: "Ye Old Goat"
 url: /appleton/ye-old-goat/
-shop: antiques
+shop: Antiquitäten
 ---

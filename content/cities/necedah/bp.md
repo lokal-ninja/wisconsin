@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /necedah/bp/
-shop: convenience
+shop: Lebensmittel
 ---

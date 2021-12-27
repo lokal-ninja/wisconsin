@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /grafton/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,6 +1,6 @@
 ---
 title: West Salem
 url: /west-salem/
-latitude: 43.899132200000004
-longitude: -91.0812465
+latitude: 43.839
+longitude: -91.106
 ---

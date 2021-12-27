@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /milwaukee/fastenal/
-shop: trade
+shop: Baustoffe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milwaukee PC"
 url: /milwaukee/milwaukee-pc/
-shop: computer
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gooseberries"
 url: /burlington/gooseberries/
-shop: supermarket
+shop: Supermarkt
 ---

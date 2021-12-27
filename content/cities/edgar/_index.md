@@ -1,6 +1,6 @@
 ---
 title: Edgar
 url: /edgar/
-latitude: 44.9271888
-longitude: -89.96346290000001
+latitude: 44.943
+longitude: -89.966
 ---

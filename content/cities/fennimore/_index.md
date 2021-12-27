@@ -1,6 +1,6 @@
 ---
 title: Fennimore
 url: /fennimore/
-latitude: 42.9836175
-longitude: -90.65560190000001
+latitude: 42.989
+longitude: -90.657
 ---

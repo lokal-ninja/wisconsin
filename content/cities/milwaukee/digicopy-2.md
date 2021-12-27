@@ -1,5 +1,5 @@
 ---
 title: "DigiCOPY"
 url: /milwaukee/digicopy-2/
-shop: copyshop
+shop: Kopieren
 ---

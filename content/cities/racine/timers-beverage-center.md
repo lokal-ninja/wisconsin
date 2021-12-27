@@ -1,5 +1,5 @@
 ---
 title: "Timers Beverage Center"
 url: /racine/timers-beverage-center/
-shop: alcohol
+shop: Spirituosen
 ---

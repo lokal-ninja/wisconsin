@@ -1,6 +1,6 @@
 ---
 title: Crivitz
 url: /crivitz/
-latitude: 45.232476000000005
-longitude: -88.00760600000001
+latitude: 45.307
+longitude: -88.18
 ---

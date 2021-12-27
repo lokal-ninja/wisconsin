@@ -1,6 +1,6 @@
 ---
 title: Ashwaubenon
 url: /ashwaubenon/
-latitude: 44.475260600000006
-longitude: -88.06073500000001
+latitude: 44.493
+longitude: -88.097
 ---
