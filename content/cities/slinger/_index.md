@@ -1,6 +1,6 @@
 ---
 title: Slinger
 url: /slinger/
-latitude: 43.359
-longitude: -88.293
+latitude: 43.327
+longitude: -88.26
 ---
