@@ -1,5 +1,5 @@
 ---
 title: "Calumet Pantry"
 url: /appleton/calumet-pantry/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /greenfield/marshalls/
-shop: Warenhaus
+shop: department store
 ---

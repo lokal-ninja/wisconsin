@@ -1,5 +1,5 @@
 ---
 title: "Freistadt Automotive"
 url: /mequon/freistadt-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

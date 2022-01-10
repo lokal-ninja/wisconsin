@@ -1,5 +1,5 @@
 ---
 title: "Grishaber Service Garage"
 url: /appleton/grishaber-service-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

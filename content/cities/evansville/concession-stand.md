@@ -1,5 +1,5 @@
 ---
 title: "Concession Stand"
 url: /evansville/concession-stand/
-shop: Lebensmittel
+shop: convenience
 ---

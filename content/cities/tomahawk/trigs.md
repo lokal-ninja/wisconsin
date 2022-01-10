@@ -1,5 +1,5 @@
 ---
 title: "Trig's"
 url: /tomahawk/trigs/
-shop: Supermarkt
+shop: supermarket
 ---

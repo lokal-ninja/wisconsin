@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /schofield/target/
-shop: Warenhaus
+shop: department store
 ---

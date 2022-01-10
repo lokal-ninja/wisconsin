@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
 url: /mount-pleasant/verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

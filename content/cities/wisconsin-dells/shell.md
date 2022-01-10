@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /wisconsin-dells/shell/
-shop: Lebensmittel
+shop: convenience
 ---

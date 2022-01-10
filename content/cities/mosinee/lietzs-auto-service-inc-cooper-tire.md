@@ -1,5 +1,5 @@
 ---
 title: "Lietz's Auto Service Inc - Cooper Tire"
 url: /mosinee/lietzs-auto-service-inc-cooper-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

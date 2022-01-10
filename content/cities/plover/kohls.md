@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /plover/kohls/
-shop: Warenhaus
+shop: department store
 ---

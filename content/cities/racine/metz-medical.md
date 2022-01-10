@@ -1,5 +1,5 @@
 ---
 title: "Metz Medical"
 url: /racine/metz-medical/
-shop: Sanitätshaus
+shop: medical supply
 ---

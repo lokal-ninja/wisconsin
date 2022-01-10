@@ -1,5 +1,5 @@
 ---
 title: "Infusion Chocolates"
 url: /madison/infusion-chocolates/
-shop: Schokolade
+shop: chocolate
 ---

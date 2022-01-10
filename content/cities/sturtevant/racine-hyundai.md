@@ -1,5 +1,5 @@
 ---
 title: "Racine Hyundai"
 url: /sturtevant/racine-hyundai/
-shop: Autohaus
+shop: car
 ---

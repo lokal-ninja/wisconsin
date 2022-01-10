@@ -1,5 +1,5 @@
 ---
 title: "Marshalls"
 url: /appleton/marshalls/
-shop: Warenhaus
+shop: department store
 ---

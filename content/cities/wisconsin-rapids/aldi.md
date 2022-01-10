@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /wisconsin-rapids/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

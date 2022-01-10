@@ -1,5 +1,5 @@
 ---
 title: "Blabaum's Food Center"
 url: /highland/blabaums-food-center/
-shop: Supermarkt
+shop: supermarket
 ---

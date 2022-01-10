@@ -1,5 +1,5 @@
 ---
 title: "ProBuild"
 url: /richland-center/probuild-2/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /greenfield/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

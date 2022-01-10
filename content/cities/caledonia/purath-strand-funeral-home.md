@@ -1,5 +1,5 @@
 ---
 title: "Purath-Strand Funeral Home"
 url: /caledonia/purath-strand-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

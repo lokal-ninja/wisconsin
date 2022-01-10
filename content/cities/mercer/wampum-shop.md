@@ -1,5 +1,5 @@
 ---
 title: "Wampum Shop"
 url: /mercer/wampum-shop/
-shop: Andenken
+shop: gift
 ---

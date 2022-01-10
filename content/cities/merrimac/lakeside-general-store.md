@@ -1,5 +1,5 @@
 ---
 title: "Lakeside General Store"
 url: /merrimac/lakeside-general-store/
-shop: Lebensmittel
+shop: convenience
 ---

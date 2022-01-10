@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /beloit/autozone/
-shop: Autoteile
+shop: car parts
 ---

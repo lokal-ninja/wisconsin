@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /mount-pleasant/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carpetland USA"
 url: /oshkosh/carpetland-usa/
-shop: Teppiche
+shop: carpet
 ---

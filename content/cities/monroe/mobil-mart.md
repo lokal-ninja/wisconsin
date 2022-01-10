@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /monroe/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

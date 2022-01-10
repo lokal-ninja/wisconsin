@@ -1,5 +1,5 @@
 ---
 title: "CGX"
 url: /milwaukee/cgx/
-shop: Warenhaus
+shop: department store
 ---

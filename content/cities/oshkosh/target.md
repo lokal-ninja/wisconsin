@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /oshkosh/target/
-shop: Warenhaus
+shop: department store
 ---

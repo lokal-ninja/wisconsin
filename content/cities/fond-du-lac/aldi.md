@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /fond-du-lac/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

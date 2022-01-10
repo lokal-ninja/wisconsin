@@ -1,5 +1,5 @@
 ---
 title: "Party Store"
 url: /brown-deer/party-store/
-shop: Partyzubehör
+shop: party
 ---

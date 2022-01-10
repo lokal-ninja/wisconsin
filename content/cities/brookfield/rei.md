@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /brookfield/rei/
-shop: Outdoor
+shop: outdoor
 ---

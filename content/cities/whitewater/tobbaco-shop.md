@@ -1,5 +1,5 @@
 ---
 title: "Tobbaco Shop"
 url: /whitewater/tobbaco-shop/
-shop: Tabak
+shop: tobacco
 ---

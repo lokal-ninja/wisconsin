@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /green-bay/family-dollar-2/
-shop: Kramladen
+shop: variety store
 ---

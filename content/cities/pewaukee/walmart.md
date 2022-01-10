@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /pewaukee/walmart/
-shop: Warenhaus
+shop: department store
 ---

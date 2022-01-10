@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /marinette/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

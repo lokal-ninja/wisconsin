@@ -1,5 +1,5 @@
 ---
 title: "BP Main Stop"
 url: /green-bay/bp-main-stop/
-shop: Lebensmittel
+shop: convenience
 ---

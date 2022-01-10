@@ -1,5 +1,5 @@
 ---
 title: "True Value"
 url: /madison/true-value-2/
-shop: Eisenwaren
+shop: hardware
 ---

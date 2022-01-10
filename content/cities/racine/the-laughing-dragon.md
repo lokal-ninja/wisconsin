@@ -1,5 +1,5 @@
 ---
 title: "The Laughing Dragon"
 url: /racine/the-laughing-dragon/
-shop: Kräuter
+shop: herbalist
 ---

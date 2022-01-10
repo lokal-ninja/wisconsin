@@ -1,5 +1,5 @@
 ---
 title: "Grand Avenue Market"
 url: /milwaukee/grand-avenue-market/
-shop: Lebensmittel
+shop: convenience
 ---

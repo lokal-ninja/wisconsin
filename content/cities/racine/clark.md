@@ -1,5 +1,5 @@
 ---
 title: "Clark"
 url: /racine/clark/
-shop: Lebensmittel
+shop: convenience
 ---

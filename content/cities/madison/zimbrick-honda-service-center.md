@@ -1,5 +1,5 @@
 ---
 title: "Zimbrick Honda Service Center"
 url: /madison/zimbrick-honda-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

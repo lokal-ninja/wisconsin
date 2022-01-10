@@ -1,5 +1,5 @@
 ---
 title: "Carter's"
 url: /milwaukee/carters/
-shop: Kleidung
+shop: clothes
 ---

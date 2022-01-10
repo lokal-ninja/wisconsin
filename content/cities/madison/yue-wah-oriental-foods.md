@@ -1,5 +1,5 @@
 ---
 title: "Yue-Wah Oriental Foods"
 url: /madison/yue-wah-oriental-foods/
-shop: Supermarkt
+shop: supermarket
 ---

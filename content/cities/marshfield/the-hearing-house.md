@@ -1,5 +1,5 @@
 ---
 title: "The Hearing House"
 url: /marshfield/the-hearing-house/
-shop: Hörgeräte
+shop: hearing aids
 ---

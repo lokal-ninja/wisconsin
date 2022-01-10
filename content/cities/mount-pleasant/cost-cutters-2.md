@@ -1,5 +1,5 @@
 ---
 title: "Cost Cutters"
 url: /mount-pleasant/cost-cutters-2/
-shop: Friseur
+shop: hairdresser
 ---

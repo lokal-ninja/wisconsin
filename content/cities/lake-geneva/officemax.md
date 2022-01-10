@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /lake-geneva/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

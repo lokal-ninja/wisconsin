@@ -1,5 +1,5 @@
 ---
 title: "Sunseekers Tanning"
 url: /holmen/sunseekers-tanning/
-shop: Kosmetik
+shop: beauty
 ---

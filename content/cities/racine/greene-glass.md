@@ -1,5 +1,5 @@
 ---
 title: "Greene Glass"
 url: /racine/greene-glass/
-shop: Autoteile
+shop: car parts
 ---

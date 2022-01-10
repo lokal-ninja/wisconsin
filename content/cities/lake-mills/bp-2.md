@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /lake-mills/bp-2/
-shop: Lebensmittel
+shop: convenience
 ---

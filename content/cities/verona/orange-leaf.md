@@ -1,5 +1,5 @@
 ---
 title: "Orange Leaf"
 url: /verona/orange-leaf/
-shop: Eisprodukte
+shop: ice cream
 ---

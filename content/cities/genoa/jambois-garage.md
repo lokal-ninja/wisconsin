@@ -1,5 +1,5 @@
 ---
 title: "Jambois Garage"
 url: /genoa/jambois-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

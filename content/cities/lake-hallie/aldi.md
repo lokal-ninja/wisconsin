@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lake-hallie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

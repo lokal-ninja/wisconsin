@@ -1,5 +1,5 @@
 ---
 title: "Area Storage"
 url: /caledonia/area-storage/
-shop: Mieten
+shop: storage rental
 ---

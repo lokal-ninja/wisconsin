@@ -1,5 +1,5 @@
 ---
 title: "Jelacic Funeral Home"
 url: /milwaukee/jelacic-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

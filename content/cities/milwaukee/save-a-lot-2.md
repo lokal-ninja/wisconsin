@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
 url: /milwaukee/save-a-lot-2/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Belgium Service Center"
 url: /belgium/belgium-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

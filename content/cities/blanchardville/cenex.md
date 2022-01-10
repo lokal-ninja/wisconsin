@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /blanchardville/cenex/
-shop: Lebensmittel
+shop: convenience
 ---

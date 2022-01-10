@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /baraboo/bp/
-shop: Lebensmittel
+shop: convenience
 ---

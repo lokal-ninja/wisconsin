@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /milwaukee/t-mobile-6/
-shop: Handy
+shop: mobile phone
 ---

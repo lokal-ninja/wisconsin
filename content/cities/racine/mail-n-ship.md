@@ -1,5 +1,5 @@
 ---
 title: "Mail 'n Ship"
 url: /racine/mail-n-ship/
-shop: Allgemein
+shop: shop
 ---

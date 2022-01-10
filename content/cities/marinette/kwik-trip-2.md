@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /marinette/kwik-trip-2/
-shop: Lebensmittel
+shop: convenience
 ---

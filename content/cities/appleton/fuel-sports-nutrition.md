@@ -1,5 +1,5 @@
 ---
 title: "Fuel Sports Nutrition"
 url: /appleton/fuel-sports-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

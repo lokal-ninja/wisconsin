@@ -1,5 +1,5 @@
 ---
 title: "Regency Mall"
 url: /racine/regency-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JCPenney"
 url: /pleasant-prairie/jcpenney/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bennett Coachworks"
 url: /milwaukee/bennett-coachworks/
-shop: Autowerkstatt
+shop: car repair
 ---

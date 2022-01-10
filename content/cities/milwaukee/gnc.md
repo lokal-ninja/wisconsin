@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /milwaukee/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

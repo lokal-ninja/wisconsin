@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /appleton/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

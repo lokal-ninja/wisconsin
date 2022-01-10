@@ -1,5 +1,5 @@
 ---
 title: "Tuffy Auto Repair"
 url: /appleton/tuffy-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

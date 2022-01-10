@@ -1,5 +1,5 @@
 ---
 title: "HouseWarmings"
 url: /bangor/housewarmings/
-shop: Möbel
+shop: furniture
 ---

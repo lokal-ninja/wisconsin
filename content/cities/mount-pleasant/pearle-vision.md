@@ -1,5 +1,5 @@
 ---
 title: "Pearle Vision"
 url: /mount-pleasant/pearle-vision/
-shop: Optiker
+shop: optician
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /stoughton/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /rhinelander/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

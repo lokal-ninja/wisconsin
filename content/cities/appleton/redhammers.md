@@ -1,5 +1,5 @@
 ---
 title: "Redhammers"
 url: /appleton/redhammers/
-shop: Spiele
+shop: games
 ---

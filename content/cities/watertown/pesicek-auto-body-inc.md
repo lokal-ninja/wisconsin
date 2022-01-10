@@ -1,5 +1,5 @@
 ---
 title: "Pesicek Auto Body Inc"
 url: /watertown/pesicek-auto-body-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

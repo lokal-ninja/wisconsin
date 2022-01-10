@@ -1,5 +1,5 @@
 ---
 title: "Mex Muffler"
 url: /janesville/mex-muffler/
-shop: Autowerkstatt
+shop: car repair
 ---

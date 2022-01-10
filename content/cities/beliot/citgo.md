@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /beliot/citgo/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citi Trends"
 url: /mount-pleasant/citi-trends/
-shop: Kleidung
+shop: clothes
 ---

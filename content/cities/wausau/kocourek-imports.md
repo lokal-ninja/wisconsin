@@ -1,5 +1,5 @@
 ---
 title: "Kocourek Imports"
 url: /wausau/kocourek-imports/
-shop: Autohaus
+shop: car
 ---

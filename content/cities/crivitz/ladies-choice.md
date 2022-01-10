@@ -1,5 +1,5 @@
 ---
 title: "Ladies Choice"
 url: /crivitz/ladies-choice/
-shop: Kleidung
+shop: clothes
 ---

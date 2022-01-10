@@ -1,5 +1,5 @@
 ---
 title: "Nordstrom"
 url: /wauwatosa/nordstrom/
-shop: Warenhaus
+shop: department store
 ---

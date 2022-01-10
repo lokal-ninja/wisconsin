@@ -1,5 +1,5 @@
 ---
 title: "MKE Shears"
 url: /milwaukee/mke-shears/
-shop: Friseur
+shop: hairdresser
 ---

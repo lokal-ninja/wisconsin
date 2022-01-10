@@ -1,5 +1,5 @@
 ---
 title: "Pets For You"
 url: /rice-lake/pets-for-you/
-shop: Tiere
+shop: pet
 ---

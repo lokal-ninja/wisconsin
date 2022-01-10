@@ -1,5 +1,5 @@
 ---
 title: "Donut Squad"
 url: /milwaukee/donut-squad/
-shop: Konditorei
+shop: pastry
 ---

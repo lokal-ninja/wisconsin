@@ -1,5 +1,5 @@
 ---
 title: "Marketplace Foods"
 url: /st-croix-falls/marketplace-foods/
-shop: Supermarkt
+shop: supermarket
 ---

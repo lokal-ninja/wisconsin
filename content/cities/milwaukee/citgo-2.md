@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /milwaukee/citgo-2/
-shop: Lebensmittel
+shop: convenience
 ---

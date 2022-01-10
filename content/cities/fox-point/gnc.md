@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /fox-point/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /racine/target/
-shop: Warenhaus
+shop: department store
 ---

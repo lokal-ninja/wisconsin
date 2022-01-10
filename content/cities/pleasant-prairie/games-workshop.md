@@ -1,5 +1,5 @@
 ---
 title: "Games Workshop"
 url: /pleasant-prairie/games-workshop/
-shop: Spiele
+shop: games
 ---

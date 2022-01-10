@@ -1,5 +1,5 @@
 ---
 title: "Schaefer's IGA"
 url: /crandon/schaefers-iga/
-shop: Lebensmittel
+shop: convenience
 ---

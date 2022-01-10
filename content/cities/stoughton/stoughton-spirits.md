@@ -1,5 +1,5 @@
 ---
 title: "Stoughton Spirits"
 url: /stoughton/stoughton-spirits/
-shop: Spirituosen
+shop: alcohol
 ---

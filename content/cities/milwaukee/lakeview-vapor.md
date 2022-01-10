@@ -1,5 +1,5 @@
 ---
 title: "Lakeview Vapor"
 url: /milwaukee/lakeview-vapor/
-shop: Tabak
+shop: tobacco
 ---

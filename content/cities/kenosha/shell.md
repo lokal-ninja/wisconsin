@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /kenosha/shell/
-shop: Lebensmittel
+shop: convenience
 ---

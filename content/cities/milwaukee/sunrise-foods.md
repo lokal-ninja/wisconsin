@@ -1,5 +1,5 @@
 ---
 title: "Sunrise Foods"
 url: /milwaukee/sunrise-foods/
-shop: Lebensmittel
+shop: convenience
 ---

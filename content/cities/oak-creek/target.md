@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /oak-creek/target/
-shop: Warenhaus
+shop: department store
 ---

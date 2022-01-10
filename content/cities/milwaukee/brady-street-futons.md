@@ -1,5 +1,5 @@
 ---
 title: "Brady Street Futons"
 url: /milwaukee/brady-street-futons/
-shop: Möbel
+shop: furniture
 ---

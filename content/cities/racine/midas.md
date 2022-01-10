@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /racine/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

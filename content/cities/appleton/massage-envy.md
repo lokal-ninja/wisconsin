@@ -1,5 +1,5 @@
 ---
 title: "Massage Envy"
 url: /appleton/massage-envy/
-shop: Massage
+shop: massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Inner Sleeve Records"
 url: /wausau/inner-sleeve-records/
-shop: Musik
+shop: music
 ---

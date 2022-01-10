@@ -1,5 +1,5 @@
 ---
 title: "BP"
 url: /galesville/bp/
-shop: Lebensmittel
+shop: convenience
 ---

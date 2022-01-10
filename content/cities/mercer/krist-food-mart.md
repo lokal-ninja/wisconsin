@@ -1,5 +1,5 @@
 ---
 title: "Krist Food Mart"
 url: /mercer/krist-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

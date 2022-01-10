@@ -1,5 +1,5 @@
 ---
 title: "Big Guns Tattoo"
 url: /oshkosh/big-guns-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Old Navy"
 url: /madison/old-navy/
-shop: Kleidung
+shop: clothes
 ---

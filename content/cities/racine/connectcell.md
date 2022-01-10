@@ -1,5 +1,5 @@
 ---
 title: "ConnectCell"
 url: /racine/connectcell/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohler Design Center"
 url: /kohler/kohler-design-center/
-shop: Allgemein
+shop: shop
 ---

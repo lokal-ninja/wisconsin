@@ -1,5 +1,5 @@
 ---
 title: "FedEx Office"
 url: /milwaukee/fedex-office-2/
-shop: Kopieren
+shop: copyshop
 ---

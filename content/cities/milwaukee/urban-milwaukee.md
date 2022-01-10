@@ -1,5 +1,5 @@
 ---
 title: "Urban Milwaukee"
 url: /milwaukee/urban-milwaukee/
-shop: Andenken
+shop: gift
 ---

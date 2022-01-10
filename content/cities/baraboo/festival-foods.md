@@ -1,5 +1,5 @@
 ---
 title: "Festival Foods"
 url: /baraboo/festival-foods/
-shop: Supermarkt
+shop: supermarket
 ---

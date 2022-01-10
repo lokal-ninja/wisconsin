@@ -1,5 +1,5 @@
 ---
 title: "Voegeli Chevrolet"
 url: /monticello/voegeli-chevrolet/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Extra Space Storage"
 url: /milwaukee/extra-space-storage/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Studio Tattoo"
 url: /racine/the-studio-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

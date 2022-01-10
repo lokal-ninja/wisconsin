@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /wausau/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

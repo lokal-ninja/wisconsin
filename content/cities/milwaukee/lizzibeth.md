@@ -1,5 +1,5 @@
 ---
 title: "Lizzibeth"
 url: /milwaukee/lizzibeth/
-shop: Kleidung
+shop: clothes
 ---

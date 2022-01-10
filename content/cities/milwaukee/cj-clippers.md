@@ -1,5 +1,5 @@
 ---
 title: "CJ Clippers"
 url: /milwaukee/cj-clippers/
-shop: Friseur
+shop: hairdresser
 ---

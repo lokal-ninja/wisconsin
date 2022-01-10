@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /eagle-river/holiday/
-shop: Lebensmittel
+shop: convenience
 ---

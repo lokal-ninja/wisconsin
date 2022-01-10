@@ -1,5 +1,5 @@
 ---
 title: "Horan Funeral Home"
 url: /chippewa-falls/horan-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

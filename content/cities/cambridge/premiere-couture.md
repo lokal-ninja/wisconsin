@@ -1,5 +1,5 @@
 ---
 title: "Premiere Couture"
 url: /cambridge/premiere-couture/
-shop: Kleidung
+shop: clothes
 ---

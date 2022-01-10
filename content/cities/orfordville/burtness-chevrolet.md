@@ -1,5 +1,5 @@
 ---
 title: "Burtness Chevrolet"
 url: /orfordville/burtness-chevrolet/
-shop: Autohaus
+shop: car
 ---

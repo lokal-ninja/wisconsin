@@ -1,5 +1,5 @@
 ---
 title: "Homebody"
 url: /oconomowoc/homebody/
-shop: Kleidung
+shop: clothes
 ---

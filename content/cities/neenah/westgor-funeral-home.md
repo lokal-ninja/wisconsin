@@ -1,5 +1,5 @@
 ---
 title: "Westgor Funeral Home"
 url: /neenah/westgor-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

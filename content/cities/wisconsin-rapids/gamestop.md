@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /wisconsin-rapids/gamestop/
-shop: Videospiele
+shop: video games
 ---

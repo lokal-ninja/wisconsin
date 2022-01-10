@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /rhinelander/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

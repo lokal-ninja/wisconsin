@@ -1,5 +1,5 @@
 ---
 title: "Brone's Bike Shop"
 url: /fountain-city/brones-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

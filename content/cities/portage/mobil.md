@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /portage/mobil/
-shop: Lebensmittel
+shop: convenience
 ---

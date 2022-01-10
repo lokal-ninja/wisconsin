@@ -1,5 +1,5 @@
 ---
 title: "Kirkland's"
 url: /greenfield/kirklands/
-shop: Raumausstattung
+shop: interior decoration
 ---

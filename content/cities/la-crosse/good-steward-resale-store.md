@@ -1,5 +1,5 @@
 ---
 title: "Good Steward Resale Store"
 url: /la-crosse/good-steward-resale-store/
-shop: Gebrauchtwaren
+shop: charity
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baraboo Surplus Store"
 url: /baraboo/baraboo-surplus-store/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CFSC Checks Cashed"
 url: /milwaukee/cfsc-checks-cashed/
-shop: Leiher
+shop: pawnbroker
 ---

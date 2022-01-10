@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /tomah/shell/
-shop: Lebensmittel
+shop: convenience
 ---

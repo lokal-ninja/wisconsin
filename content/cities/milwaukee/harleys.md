@@ -1,5 +1,5 @@
 ---
 title: "Harleys"
 url: /milwaukee/harleys/
-shop: Kleidung
+shop: clothes
 ---

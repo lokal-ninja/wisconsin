@@ -1,5 +1,5 @@
 ---
 title: "Shopko"
 url: /racine/shopko/
-shop: Warenhaus
+shop: department store
 ---

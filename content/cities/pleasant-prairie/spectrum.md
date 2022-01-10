@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /pleasant-prairie/spectrum/
-shop: Handy
+shop: mobile phone
 ---

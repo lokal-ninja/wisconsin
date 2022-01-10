@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /milwaukee/metropcs-6/
-shop: Handy
+shop: mobile phone
 ---

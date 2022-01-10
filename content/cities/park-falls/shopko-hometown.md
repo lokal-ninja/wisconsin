@@ -1,5 +1,5 @@
 ---
 title: "Shopko Hometown"
 url: /park-falls/shopko-hometown/
-shop: Leerstehend
+shop: vacant
 ---

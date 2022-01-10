@@ -1,5 +1,5 @@
 ---
 title: "Best Cleaners"
 url: /middleton/best-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

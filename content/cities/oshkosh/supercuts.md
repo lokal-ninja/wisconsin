@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /oshkosh/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

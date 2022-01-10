@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /wisconsin-rapids/walgreens/
-shop: Drogerie
+shop: chemist
 ---

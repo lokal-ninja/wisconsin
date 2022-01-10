@@ -1,5 +1,5 @@
 ---
 title: "Sugar River Power Center"
 url: /new-glarus/sugar-river-power-center/
-shop: Garten-Center
+shop: garden centre
 ---

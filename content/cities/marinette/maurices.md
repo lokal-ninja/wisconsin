@@ -1,5 +1,5 @@
 ---
 title: "Maurices"
 url: /marinette/maurices/
-shop: Kleidung
+shop: clothes
 ---

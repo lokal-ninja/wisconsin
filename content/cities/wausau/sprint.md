@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /wausau/sprint/
-shop: Handy
+shop: mobile phone
 ---

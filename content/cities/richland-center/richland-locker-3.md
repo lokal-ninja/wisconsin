@@ -1,5 +1,5 @@
 ---
 title: "Richland Locker"
 url: /richland-center/richland-locker-3/
-shop: Metzgerei
+shop: butcher
 ---

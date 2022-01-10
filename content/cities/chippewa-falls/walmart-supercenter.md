@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /chippewa-falls/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

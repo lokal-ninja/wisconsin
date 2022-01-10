@@ -1,5 +1,5 @@
 ---
 title: "Advanced Autosports"
 url: /beloit/advanced-autosports/
-shop: Autoteile
+shop: car parts
 ---

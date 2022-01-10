@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /sauk-city/cenex/
-shop: Lebensmittel
+shop: convenience
 ---

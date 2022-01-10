@@ -1,5 +1,5 @@
 ---
 title: "ARTspace"
 url: /kohler/artspace/
-shop: Kunst
+shop: art
 ---

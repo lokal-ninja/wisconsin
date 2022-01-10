@@ -1,5 +1,5 @@
 ---
 title: "Anthropologie"
 url: /milwaukee/anthropologie/
-shop: Kleidung
+shop: clothes
 ---

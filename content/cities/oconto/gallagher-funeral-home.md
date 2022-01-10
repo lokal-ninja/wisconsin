@@ -1,5 +1,5 @@
 ---
 title: "Gallagher Funeral Home"
 url: /oconto/gallagher-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

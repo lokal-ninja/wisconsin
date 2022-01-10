@@ -1,5 +1,5 @@
 ---
 title: "PDQ"
 url: /middleton/pdq/
-shop: Lebensmittel
+shop: convenience
 ---

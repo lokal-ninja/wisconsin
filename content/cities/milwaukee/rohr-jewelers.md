@@ -1,5 +1,5 @@
 ---
 title: "Rohr Jewelers"
 url: /milwaukee/rohr-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

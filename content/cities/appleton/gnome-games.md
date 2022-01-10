@@ -1,5 +1,5 @@
 ---
 title: "Gnome Games"
 url: /appleton/gnome-games/
-shop: Spiele
+shop: games
 ---

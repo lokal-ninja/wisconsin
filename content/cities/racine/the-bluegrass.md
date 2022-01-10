@@ -1,5 +1,5 @@
 ---
 title: "The Bluegrass"
 url: /racine/the-bluegrass/
-shop: Kosmetik
+shop: beauty
 ---

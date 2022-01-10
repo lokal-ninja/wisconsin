@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /platteville/walgreens/
-shop: Drogerie
+shop: chemist
 ---

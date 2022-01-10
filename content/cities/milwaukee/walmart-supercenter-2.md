@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /milwaukee/walmart-supercenter-2/
-shop: Supermarkt
+shop: supermarket
 ---

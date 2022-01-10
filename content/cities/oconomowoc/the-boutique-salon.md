@@ -1,5 +1,5 @@
 ---
 title: "The Boutique Salon"
 url: /oconomowoc/the-boutique-salon/
-shop: Kosmetik
+shop: beauty
 ---

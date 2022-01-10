@@ -1,5 +1,5 @@
 ---
 title: "Vision Mart"
 url: /milwaukee/vision-mart/
-shop: Optiker
+shop: optician
 ---

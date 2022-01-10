@@ -1,5 +1,5 @@
 ---
 title: "Tina's Food Market"
 url: /milwaukee/tinas-food-market/
-shop: Lebensmittel
+shop: convenience
 ---

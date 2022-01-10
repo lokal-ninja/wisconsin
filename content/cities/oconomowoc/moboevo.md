@@ -1,5 +1,5 @@
 ---
 title: "moboevo"
 url: /oconomowoc/moboevo/
-shop: Fahrrad
+shop: bicycle
 ---

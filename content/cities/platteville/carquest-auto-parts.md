@@ -1,5 +1,5 @@
 ---
 title: "Carquest Auto Parts"
 url: /platteville/carquest-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lamplighter Fine Gifts"
 url: /wausau/lamplighter-fine-gifts/
-shop: Andenken
+shop: gift
 ---

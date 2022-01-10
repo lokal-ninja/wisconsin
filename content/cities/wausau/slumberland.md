@@ -1,5 +1,5 @@
 ---
 title: "Slumberland"
 url: /wausau/slumberland/
-shop: Möbel
+shop: furniture
 ---

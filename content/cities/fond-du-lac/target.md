@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /fond-du-lac/target/
-shop: Warenhaus
+shop: department store
 ---

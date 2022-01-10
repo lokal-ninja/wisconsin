@@ -1,5 +1,5 @@
 ---
 title: "Moto Mart"
 url: /menasha/moto-mart/
-shop: Lebensmittel
+shop: convenience
 ---

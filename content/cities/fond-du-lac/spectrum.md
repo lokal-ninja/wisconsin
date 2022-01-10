@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /fond-du-lac/spectrum/
-shop: Handy
+shop: mobile phone
 ---

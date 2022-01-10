@@ -1,5 +1,5 @@
 ---
 title: "Salon Central"
 url: /marshfield/salon-central/
-shop: Friseur
+shop: hairdresser
 ---

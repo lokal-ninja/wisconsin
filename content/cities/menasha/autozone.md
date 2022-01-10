@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /menasha/autozone/
-shop: Autoteile
+shop: car parts
 ---
