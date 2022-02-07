@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /mount-pleasant/speedway/
+url: /racine/speedway-4/
 shop: convenience
 ---
