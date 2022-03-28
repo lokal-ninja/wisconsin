@@ -1,5 +1,5 @@
 ---
 title: "Mb smoke on"
-url: /greenfield/mb-smoke-on/
+url: /greendale/mb-smoke-on/
 shop: shop
 ---
