@@ -1,5 +1,5 @@
 ---
 title: "Denise's Designs"
-url: /oa/denises-designs/
+url: /oak-creek/denises-designs/
 shop: beauty
 ---
