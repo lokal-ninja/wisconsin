@@ -7,5 +7,5 @@ city: Milwaukee
 street: "North Water Street"
 housenumber: 301
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-18:00; Tu,Th 09:00-19:00; Sa 09:00-15:00"
+opening_hours: "Mo,We-Fr 09:00-18:00; Tu 09:00-19:00; Sa 09:00-15:00"
 website: ""
