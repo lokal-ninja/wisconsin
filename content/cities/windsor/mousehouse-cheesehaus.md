@@ -1,5 +1,5 @@
 ---
 title: "Mousehouse Cheesehaus"
-url: /deforest/mousehouse-cheesehaus/
+url: /windsor/mousehouse-cheesehaus/
 shop: cheese
 ---
