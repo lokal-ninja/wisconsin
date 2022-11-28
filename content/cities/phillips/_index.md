@@ -1,6 +1,6 @@
 ---
 title: Phillips
 url: /phillips/
-latitude: 45.689
-longitude: -90.396
+latitude: 45.691
+longitude: -90.398
 ---
