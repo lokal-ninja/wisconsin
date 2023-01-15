@@ -1,6 +1,6 @@
 ---
 title: Manitowish Waters
 url: /manitowish-waters/
-latitude: 46.123
-longitude: -89.861
+latitude: 46.124
+longitude: -89.871
 ---
