@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /fond-du-lac/family-dollar-2/
+url: /fond-du-lac/family-dollar/
 shop: variety store
 ---

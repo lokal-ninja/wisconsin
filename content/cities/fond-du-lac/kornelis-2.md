@@ -1,5 +1,5 @@
 ---
 title: "Korneli's"
-url: /fond-du-lac/kornelis-2/
+url: /fond-du-lac/kornelis/
 shop: convenience
 ---

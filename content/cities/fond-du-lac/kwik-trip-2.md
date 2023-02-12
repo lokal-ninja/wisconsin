@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /fond-du-lac/kwik-trip-2/
+url: /fond-du-lac/kwik-trip/
 shop: convenience
 ---
