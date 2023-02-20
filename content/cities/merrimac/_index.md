@@ -1,6 +1,6 @@
 ---
 title: Merrimac
 url: /merrimac/
-latitude: 43.372
-longitude: -89.677
+latitude: 43.373
+longitude: -89.67
 ---
