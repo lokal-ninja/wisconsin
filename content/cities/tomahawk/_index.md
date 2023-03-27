@@ -1,6 +1,6 @@
 ---
 title: Tomahawk
 url: /tomahawk/
-latitude: 45.472
-longitude: -89.697
+latitude: 45.453
+longitude: -89.773
 ---
