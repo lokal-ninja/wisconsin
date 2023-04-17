@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
-url: /west-allis/t-mobile/
+url: /milwaukee/t-mobile/
 shop: mobile phone
 ---
