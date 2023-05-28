@@ -1,6 +1,6 @@
 ---
 title: Mosinee
 url: /mosinee/
-latitude: 44.792
-longitude: -89.702
+latitude: 44.859
+longitude: -89.636
 ---
