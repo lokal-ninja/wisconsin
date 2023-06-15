@@ -1,6 +1,6 @@
 ---
 title: Grand Chute
 url: /grand-chute/
-latitude: 44.27
-longitude: -88.488
+latitude: 44.272
+longitude: -88.495
 ---
