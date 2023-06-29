@@ -1,6 +1,6 @@
 ---
 title: Wittenberg
 url: /wittenberg/
-latitude: 44.83
-longitude: -89.169
+latitude: 44.826
+longitude: -89.162
 ---
