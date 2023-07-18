@@ -1,6 +1,6 @@
 ---
 title: Mountain
 url: /mountain/
-latitude: 45.233
-longitude: -88.369
+latitude: 45.184
+longitude: -88.472
 ---
