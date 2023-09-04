@@ -1,6 +1,6 @@
 ---
 title: Sturgeon Bay
 url: /sturgeon-bay/
-latitude: 44.952
-longitude: -87.336
+latitude: 44.851
+longitude: -87.361
 ---

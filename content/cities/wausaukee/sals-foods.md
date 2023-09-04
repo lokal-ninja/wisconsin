@@ -1,5 +1,5 @@
 ---
-title: "Sals Foods"
+title: "Sal's Foods"
 url: /wausaukee/sals-foods/
-shop: supermarket
+shop: convenience
 ---

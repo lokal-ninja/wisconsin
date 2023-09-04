@@ -1,6 +1,6 @@
 ---
 title: Washington Island
 url: /washington-island/
-latitude: 45.377
-longitude: -86.92
+latitude: 45.376
+longitude: -86.931
 ---

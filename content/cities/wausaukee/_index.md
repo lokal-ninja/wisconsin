@@ -1,6 +1,6 @@
 ---
 title: Wausaukee
 url: /wausaukee/
-latitude: 45.376
-longitude: -87.952
+latitude: 45.369
+longitude: -87.95
 ---
