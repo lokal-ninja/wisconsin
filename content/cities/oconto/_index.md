@@ -1,6 +1,6 @@
 ---
 title: Oconto
 url: /oconto/
-latitude: 44.887
-longitude: -87.867
+latitude: 44.893
+longitude: -87.891
 ---

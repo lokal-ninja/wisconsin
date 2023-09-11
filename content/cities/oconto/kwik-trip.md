@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /hayward/kwik-trip/
+url: /oconto/kwik-trip/
 shop: convenience
 ---
