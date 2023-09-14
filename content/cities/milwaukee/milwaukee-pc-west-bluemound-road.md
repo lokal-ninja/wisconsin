@@ -1,5 +1,5 @@
 ---
 title: "Milwaukee PC"
-url: /milwaukee/milwaukee-pc/
+url: /milwaukee/milwaukee-pc-west-bluemound-road/
 shop: computer
 ---

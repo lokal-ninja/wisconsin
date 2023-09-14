@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
-url: /milwaukee/dollar-tree/
+url: /milwaukee/dollar-tree-west-brown-deer-road/
 shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /onalaska/kwik-trip/
+url: /onalaska/kwik-trip-crossing-meadows-drive/
 shop: convenience
 ---

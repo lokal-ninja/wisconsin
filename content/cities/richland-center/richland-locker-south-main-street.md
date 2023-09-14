@@ -1,5 +1,5 @@
 ---
 title: "Richland Locker"
-url: /richland-center/richland-locker/
+url: /richland-center/richland-locker-south-main-street/
 shop: butcher
 ---

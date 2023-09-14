@@ -1,5 +1,5 @@
 ---
 title: "R Store"
-url: /rothschild/r-store/
+url: /rothschild/r-store-east-grand-avenue/
 shop: convenience
 ---

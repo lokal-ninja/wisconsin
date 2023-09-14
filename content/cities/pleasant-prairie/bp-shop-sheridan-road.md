@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /pleasant-prairie/bp-shop/
+url: /pleasant-prairie/bp-shop-sheridan-road/
 shop: convenience
 ---

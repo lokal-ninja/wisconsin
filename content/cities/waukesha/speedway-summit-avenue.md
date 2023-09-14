@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /waukesha/speedway/
+url: /waukesha/speedway-summit-avenue/
 shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sentry Foods"
-url: /milwaukee/sentry-foods/
+url: /milwaukee/sentry-foods-west-lisbon-avenue/
 shop: supermarket
 ---

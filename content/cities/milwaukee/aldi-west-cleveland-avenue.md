@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /milwaukee/aldi/
+url: /milwaukee/aldi-west-cleveland-avenue/
 shop: supermarket
 ---

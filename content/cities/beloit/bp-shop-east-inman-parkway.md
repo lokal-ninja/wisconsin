@@ -1,5 +1,5 @@
 ---
 title: "BP Shop"
-url: /beloit/bp-shop/
+url: /beloit/bp-shop-east-inman-parkway/
 shop: convenience
 ---

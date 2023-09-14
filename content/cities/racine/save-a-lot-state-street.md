@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
-url: /racine/save-a-lot/
+url: /racine/save-a-lot-state-street/
 shop: supermarket
 ---

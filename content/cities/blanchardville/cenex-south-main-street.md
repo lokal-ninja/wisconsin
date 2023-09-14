@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
-url: /blanchardville/cenex/
+url: /blanchardville/cenex-south-main-street/
 shop: convenience
 ---

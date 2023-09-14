@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
-url: /milwaukee/rainbow/
+url: /milwaukee/rainbow-west-silver-spring-drive/
 shop: clothes
 ---

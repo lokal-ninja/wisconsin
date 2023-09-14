@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /milwaukee/speedway/
+url: /milwaukee/speedway-west-loomis-road/
 shop: convenience
 ---

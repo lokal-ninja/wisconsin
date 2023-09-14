@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
-url: /oak-creek/great-clips/
+url: /oak-creek/great-clips-west-ryan-road/
 shop: hairdresser
 ---

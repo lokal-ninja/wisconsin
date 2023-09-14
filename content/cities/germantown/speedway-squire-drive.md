@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /germantown/speedway/
+url: /germantown/speedway-squire-drive/
 shop: convenience
 ---

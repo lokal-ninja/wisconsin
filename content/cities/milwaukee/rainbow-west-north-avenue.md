@@ -1,5 +1,5 @@
 ---
 title: "Rainbow"
-url: /milwaukee/rainbow/
+url: /milwaukee/rainbow-west-north-avenue/
 shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /racine/speedway/
+url: /racine/speedway-douglas-avenue/
 shop: convenience
 ---

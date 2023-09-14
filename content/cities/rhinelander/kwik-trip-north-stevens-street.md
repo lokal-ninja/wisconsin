@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /rhinelander/kwik-trip/
+url: /rhinelander/kwik-trip-north-stevens-street/
 shop: convenience
 ---

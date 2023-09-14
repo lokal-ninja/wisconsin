@@ -1,5 +1,5 @@
 ---
 title: "Mattress Galaxy"
-url: /hudson/mattress-galaxy/
+url: /hudson/mattress-galaxy-dominion-drive/
 shop: bed
 ---

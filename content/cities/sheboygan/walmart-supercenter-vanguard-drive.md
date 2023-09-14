@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
-url: /sheboygan/walmart-supercenter/
+url: /sheboygan/walmart-supercenter-vanguard-drive/
 shop: supermarket
 ---

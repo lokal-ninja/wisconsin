@@ -1,5 +1,5 @@
 ---
 title: "CFSC"
-url: /milwaukee/cfsc/
+url: /milwaukee/cfsc-east-brady-street/
 shop: pawnbroker
 ---

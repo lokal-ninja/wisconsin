@@ -1,5 +1,5 @@
 ---
 title: "Save-A-Lot"
-url: /milwaukee/save-a-lot/
+url: /milwaukee/save-a-lot-north-76th-street/
 shop: supermarket
 ---

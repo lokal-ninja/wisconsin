@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /milwaukee/family-dollar/
+url: /milwaukee/family-dollar-south-13th-street/
 shop: variety store
 ---

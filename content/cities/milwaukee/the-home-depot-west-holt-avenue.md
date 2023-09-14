@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /milwaukee/the-home-depot/
+url: /milwaukee/the-home-depot-west-holt-avenue/
 shop: doityourself
 ---

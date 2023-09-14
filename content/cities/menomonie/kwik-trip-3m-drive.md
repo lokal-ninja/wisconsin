@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /menomonie/kwik-trip/
+url: /menomonie/kwik-trip-3m-drive/
 shop: convenience
 ---

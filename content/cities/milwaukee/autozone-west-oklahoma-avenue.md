@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /milwaukee/autozone/
+url: /milwaukee/autozone-west-oklahoma-avenue/
 shop: car parts
 ---

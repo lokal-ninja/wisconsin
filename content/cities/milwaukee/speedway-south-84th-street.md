@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /milwaukee/speedway/
+url: /milwaukee/speedway-south-84th-street/
 shop: convenience
 ---
