@@ -1,6 +1,6 @@
 ---
 title: Pewaukee
 url: /pewaukee/
-latitude: 43.081
-longitude: -88.261
+latitude: 43.085
+longitude: -88.229
 ---
