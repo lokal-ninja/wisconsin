@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /kenosha/speedway-75th-street-2/
+url: /kenosha/speedway-washington-road/
 shop: convenience
 ---
