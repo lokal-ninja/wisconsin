@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
-url: /madison/kwik-trip-maple-grove-drive/
+url: /madison/kwik-trip-university-avenue/
 shop: convenience
 ---
