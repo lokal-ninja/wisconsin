@@ -1,6 +1,6 @@
 ---
 title: Dodgeville
 url: /dodgeville/
-latitude: 43.054
-longitude: -90.073
+latitude: 42.959
+longitude: -90.131
 ---
