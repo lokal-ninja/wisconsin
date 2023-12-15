@@ -1,6 +1,6 @@
 ---
 title: Kewaskum
 url: /kewaskum/
-latitude: 43.511
-longitude: -88.221
+latitude: 43.512
+longitude: -88.223
 ---
