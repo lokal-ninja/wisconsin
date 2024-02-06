@@ -1,6 +1,6 @@
 ---
 title: Marinette
 url: /marinette/
-latitude: 45.077
-longitude: -87.661
+latitude: 45.079
+longitude: -87.662
 ---
