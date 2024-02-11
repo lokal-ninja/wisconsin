@@ -1,6 +1,6 @@
 ---
 title: De Pere
 url: /de-pere/
-latitude: 44.449
-longitude: -88.055
+latitude: 44.437
+longitude: -88.035
 ---

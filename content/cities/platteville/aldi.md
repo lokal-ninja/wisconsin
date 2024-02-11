@@ -1,5 +1,5 @@
 ---
-title: "Aldi"
+title: "ALDI"
 url: /platteville/aldi/
 shop: supermarket
 ---

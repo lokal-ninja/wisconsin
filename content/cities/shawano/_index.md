@@ -1,6 +1,6 @@
 ---
 title: Shawano
 url: /shawano/
-latitude: 44.775
-longitude: -88.61
+latitude: 44.782
+longitude: -88.579
 ---
