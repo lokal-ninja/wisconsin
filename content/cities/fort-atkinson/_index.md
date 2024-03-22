@@ -1,6 +1,6 @@
 ---
 title: Fort Atkinson
 url: /fort-atkinson/
-latitude: 42.931
-longitude: -88.839
+latitude: 42.932
+longitude: -88.837
 ---
