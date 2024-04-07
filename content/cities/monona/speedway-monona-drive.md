@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /monona/speedway-royal-avenue/
+url: /monona/speedway-monona-drive/
 shop: convenience
 ---
