@@ -1,6 +1,6 @@
 ---
 title: Cashton
 url: /cashton/
-latitude: 43.734
-longitude: -90.739
+latitude: 43.743
+longitude: -90.778
 ---
