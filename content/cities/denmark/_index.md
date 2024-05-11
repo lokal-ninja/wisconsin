@@ -1,6 +1,6 @@
 ---
 title: Denmark
 url: /denmark/
-latitude: 44.399
-longitude: -87.684
+latitude: 44.346
+longitude: -87.843
 ---
