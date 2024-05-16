@@ -1,6 +1,6 @@
 ---
 title: Boscobel
 url: /boscobel/
-latitude: 43.141
-longitude: -90.71
+latitude: 43.133
+longitude: -90.711
 ---

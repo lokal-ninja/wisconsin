@@ -1,6 +1,6 @@
 ---
 title: Green Bay
 url: /green-bay/
-latitude: 44.491
-longitude: -88.098
+latitude: 44.486
+longitude: -87.961
 ---
