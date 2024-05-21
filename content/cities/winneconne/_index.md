@@ -1,6 +1,6 @@
 ---
 title: Winneconne
 url: /winneconne/
-latitude: 44.113
-longitude: -88.696
+latitude: 44.112
+longitude: -88.698
 ---
