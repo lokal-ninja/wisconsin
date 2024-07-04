@@ -1,6 +1,6 @@
 ---
 title: Manitowoc
 url: /manitowoc/
-latitude: 44.075
-longitude: -87.704
+latitude: 44.076
+longitude: -87.705
 ---
