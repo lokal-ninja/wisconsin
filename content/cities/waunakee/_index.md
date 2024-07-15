@@ -1,6 +1,6 @@
 ---
 title: Waunakee
 url: /waunakee/
-latitude: 43.189
-longitude: -89.462
+latitude: 43.191
+longitude: -89.463
 ---

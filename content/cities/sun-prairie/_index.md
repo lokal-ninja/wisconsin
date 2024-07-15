@@ -1,6 +1,6 @@
 ---
 title: Sun Prairie
 url: /sun-prairie/
-latitude: 43.168
-longitude: -89.27
+latitude: 43.189
+longitude: -89.229
 ---

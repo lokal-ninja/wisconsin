@@ -1,6 +1,6 @@
 ---
 title: Plover
 url: /plover/
-latitude: 44.497
-longitude: -89.512
+latitude: 44.494
+longitude: -89.514
 ---

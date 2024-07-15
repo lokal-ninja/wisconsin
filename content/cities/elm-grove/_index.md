@@ -1,6 +1,6 @@
 ---
 title: Elm Grove
 url: /elm-grove/
-latitude: 43.042
-longitude: -88.079
+latitude: 43.037
+longitude: -88.106
 ---
