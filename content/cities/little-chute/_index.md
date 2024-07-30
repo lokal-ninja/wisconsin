@@ -1,6 +1,6 @@
 ---
 title: Little Chute
 url: /little-chute/
-latitude: 44.284
-longitude: -88.292
+latitude: 44.286
+longitude: -88.313
 ---
