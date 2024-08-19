@@ -1,6 +1,6 @@
 ---
 title: Thiensville
 url: /thiensville/
-latitude: 43.236
-longitude: -87.983
+latitude: 43.232
+longitude: -87.985
 ---
