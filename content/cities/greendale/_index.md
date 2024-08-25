@@ -1,6 +1,6 @@
 ---
 title: Greendale
 url: /greendale/
-latitude: 42.95
-longitude: -88.005
+latitude: 42.935
+longitude: -87.992
 ---
