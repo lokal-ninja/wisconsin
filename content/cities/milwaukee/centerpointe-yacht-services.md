@@ -1,5 +1,5 @@
 ---
 title: "CenterPointe Yacht Services"
 url: /milwaukee/centerpointe-yacht-services/
-shop: boat
+shop: Boot
 ---

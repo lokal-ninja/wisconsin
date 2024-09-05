@@ -1,5 +1,5 @@
 ---
 title: "Pet World Warehouse Outlet"
 url: /madison/pet-world-warehouse-outlet/
-shop: pet
+shop: Tiere
 ---

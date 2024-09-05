@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /greendale/walgreens/
-shop: chemist
+shop: Drogerie
 ---

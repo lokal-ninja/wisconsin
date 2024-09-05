@@ -1,5 +1,5 @@
 ---
 title: "Galleria"
 url: /milwaukee/galleria/
-shop: furniture
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /appleton/dsw/
-shop: shoes
+shop: Schuhe
 ---

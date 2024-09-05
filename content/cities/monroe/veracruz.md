@@ -1,5 +1,5 @@
 ---
 title: "Veracruz"
 url: /monroe/veracruz/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /shorewood/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /grafton/officemax/
-shop: office supplies
+shop: Schreibwaren
 ---

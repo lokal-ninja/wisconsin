@@ -1,5 +1,5 @@
 ---
 title: "Xiong Oriental Market"
 url: /green-bay/xiong-oriental-market/
-shop: supermarket
+shop: Supermarkt
 ---

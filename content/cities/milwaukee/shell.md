@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /milwaukee/shell/
-shop: convenience
+shop: Lebensmittel
 ---

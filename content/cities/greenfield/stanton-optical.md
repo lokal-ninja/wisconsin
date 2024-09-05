@@ -1,5 +1,5 @@
 ---
 title: "Stanton Optical"
 url: /greenfield/stanton-optical/
-shop: optician
+shop: Optiker
 ---

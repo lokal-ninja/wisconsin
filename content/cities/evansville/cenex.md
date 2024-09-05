@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /evansville/cenex/
-shop: convenience
+shop: Lebensmittel
 ---

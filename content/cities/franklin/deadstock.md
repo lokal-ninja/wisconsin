@@ -1,5 +1,5 @@
 ---
 title: "Deadstock"
 url: /franklin/deadstock/
-shop: shoes
+shop: Schuhe
 ---

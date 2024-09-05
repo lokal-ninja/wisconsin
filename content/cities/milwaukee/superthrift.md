@@ -1,5 +1,5 @@
 ---
 title: "SuperThrift"
 url: /milwaukee/superthrift/
-shop: charity
+shop: Gebrauchtwaren
 ---

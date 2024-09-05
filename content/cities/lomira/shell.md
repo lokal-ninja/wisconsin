@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /lomira/shell/
-shop: convenience
+shop: Lebensmittel
 ---

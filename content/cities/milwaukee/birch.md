@@ -1,5 +1,5 @@
 ---
 title: "Birch"
 url: /milwaukee/birch/
-shop: butcher
+shop: Metzgerei
 ---

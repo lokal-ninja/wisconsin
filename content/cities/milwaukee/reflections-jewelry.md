@@ -1,5 +1,5 @@
 ---
 title: "Reflections Jewelry"
 url: /milwaukee/reflections-jewelry/
-shop: jewelry
+shop: Schmuck
 ---

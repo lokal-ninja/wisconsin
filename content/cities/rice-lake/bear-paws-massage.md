@@ -1,5 +1,5 @@
 ---
 title: "Bear Paws Massage"
 url: /rice-lake/bear-paws-massage/
-shop: massage
+shop: Massage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dorn's True Value"
 url: /sun-prairie/dorns-true-value/
-shop: doityourself
+shop: Baumarkt
 ---

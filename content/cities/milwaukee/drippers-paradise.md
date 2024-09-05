@@ -1,5 +1,5 @@
 ---
 title: "Dripper's Paradise"
 url: /milwaukee/drippers-paradise/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

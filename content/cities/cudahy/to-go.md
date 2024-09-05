@@ -1,5 +1,5 @@
 ---
 title: "To Go"
 url: /cudahy/to-go/
-shop: convenience
+shop: Lebensmittel
 ---

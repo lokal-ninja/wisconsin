@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
 url: /glendale/journeys/
-shop: shoes
+shop: Schuhe
 ---

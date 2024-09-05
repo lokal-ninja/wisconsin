@@ -1,5 +1,5 @@
 ---
 title: "Rstore"
 url: /pound/rstore/
-shop: convenience
+shop: Lebensmittel
 ---

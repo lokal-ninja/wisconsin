@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /windsor/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

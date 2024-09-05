@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /appleton/gamestop/
-shop: video games
+shop: Videospiele
 ---

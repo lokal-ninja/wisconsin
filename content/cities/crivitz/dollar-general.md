@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /crivitz/dollar-general/
-shop: variety store
+shop: Kramladen
 ---

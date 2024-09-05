@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /oshkosh/menards/
-shop: doityourself
+shop: Baumarkt
 ---

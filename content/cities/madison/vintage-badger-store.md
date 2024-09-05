@@ -1,5 +1,5 @@
 ---
 title: "Vintage Badger Store"
 url: /madison/vintage-badger-store/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Erik's"
 url: /glendale/eriks/
-shop: outdoor
+shop: Outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Harley Davidson Wausau"
 url: /mosinee/harley-davidson-wausau/
-shop: motorcycle
+shop: Motorrad
 ---

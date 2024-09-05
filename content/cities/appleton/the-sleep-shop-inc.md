@@ -1,5 +1,5 @@
 ---
 title: "The Sleep Shop Inc"
 url: /appleton/the-sleep-shop-inc/
-shop: bed
+shop: Betten
 ---

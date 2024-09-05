@@ -1,5 +1,5 @@
 ---
 title: "Smoke Vape"
 url: /milwaukee/smoke-vape/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

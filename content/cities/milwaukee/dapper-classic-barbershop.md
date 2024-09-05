@@ -1,5 +1,5 @@
 ---
 title: "Dapper Classic Barbershop"
 url: /milwaukee/dapper-classic-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

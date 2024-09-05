@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /marinette/walmart-supercenter/
-shop: supermarket
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warby Parker"
 url: /milwaukee/warby-parker/
-shop: optician
+shop: Optiker
 ---

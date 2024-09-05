@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /delafield/target/
-shop: department store
+shop: Warenhaus
 ---

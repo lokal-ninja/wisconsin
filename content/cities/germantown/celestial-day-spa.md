@@ -1,5 +1,5 @@
 ---
 title: "Celestial Day Spa"
 url: /germantown/celestial-day-spa/
-shop: beauty
+shop: Kosmetik
 ---

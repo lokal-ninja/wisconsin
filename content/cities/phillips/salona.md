@@ -1,5 +1,5 @@
 ---
 title: "Salona"
 url: /phillips/salona/
-shop: hairdresser
+shop: Friseur
 ---

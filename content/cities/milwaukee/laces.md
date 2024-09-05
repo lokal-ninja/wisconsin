@@ -1,5 +1,5 @@
 ---
 title: "Laces"
 url: /milwaukee/laces/
-shop: shoes
+shop: Schuhe
 ---

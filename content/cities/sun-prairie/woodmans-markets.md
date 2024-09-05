@@ -1,5 +1,5 @@
 ---
 title: "Woodman's Markets"
 url: /sun-prairie/woodmans-markets/
-shop: supermarket
+shop: Supermarkt
 ---

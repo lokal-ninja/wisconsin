@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /verona/costco/
-shop: wholesale
+shop: Großhandel
 ---

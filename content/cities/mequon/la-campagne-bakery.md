@@ -1,5 +1,5 @@
 ---
 title: "La Campagne Bakery"
 url: /mequon/la-campagne-bakery/
-shop: bakery
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tangles Salon Studio"
 url: /racine/tangles-salon-studio/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /eau-claire/mattress-firm/
-shop: bed
+shop: Betten
 ---

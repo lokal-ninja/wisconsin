@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /waukesha/petco/
-shop: pet
+shop: Tiere
 ---

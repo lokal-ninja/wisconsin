@@ -1,5 +1,5 @@
 ---
 title: "Nationwide Auto Sales"
 url: /milwaukee/nationwide-auto-sales/
-shop: car
+shop: Autohaus
 ---

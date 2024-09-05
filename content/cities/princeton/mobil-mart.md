@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /princeton/mobil-mart/
-shop: convenience
+shop: Lebensmittel
 ---

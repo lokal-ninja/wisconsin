@@ -1,5 +1,5 @@
 ---
 title: "Hair"
 url: /madison/hair/
-shop: hairdresser
+shop: Friseur
 ---

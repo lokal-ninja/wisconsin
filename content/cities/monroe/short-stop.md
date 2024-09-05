@@ -1,5 +1,5 @@
 ---
 title: "Short Stop"
 url: /monroe/short-stop/
-shop: convenience
+shop: Lebensmittel
 ---

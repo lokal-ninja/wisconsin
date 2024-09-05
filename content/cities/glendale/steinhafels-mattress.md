@@ -1,5 +1,5 @@
 ---
 title: "Steinhafel's Mattress"
 url: /glendale/steinhafels-mattress/
-shop: bed
+shop: Betten
 ---

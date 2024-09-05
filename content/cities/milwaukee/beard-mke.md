@@ -1,5 +1,5 @@
 ---
 title: "Beard MKE"
 url: /milwaukee/beard-mke/
-shop: gift
+shop: Andenken
 ---

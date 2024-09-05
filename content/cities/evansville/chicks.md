@@ -1,5 +1,5 @@
 ---
 title: "Chicks"
 url: /evansville/chicks/
-shop: hairdresser
+shop: Friseur
 ---

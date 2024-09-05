@@ -1,5 +1,5 @@
 ---
 title: "Circle The Date"
 url: /marshfield/circle-the-date/
-shop: clothes
+shop: Kleidung
 ---

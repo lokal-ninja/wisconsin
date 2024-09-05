@@ -1,5 +1,5 @@
 ---
 title: "Paulina Esthetics Boutique"
 url: /wauwatosa/paulina-esthetics-boutique/
-shop: beauty
+shop: Kosmetik
 ---

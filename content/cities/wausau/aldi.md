@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /wausau/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

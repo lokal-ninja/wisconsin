@@ -1,5 +1,5 @@
 ---
 title: "Festival"
 url: /wausau/festival/
-shop: supermarket
+shop: Supermarkt
 ---

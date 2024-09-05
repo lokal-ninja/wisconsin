@@ -1,5 +1,5 @@
 ---
 title: "Cut in Stone"
 url: /stone-lake/cut-in-stone/
-shop: hairdresser
+shop: Friseur
 ---

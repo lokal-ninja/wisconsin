@@ -1,5 +1,5 @@
 ---
 title: "Ethan Allen"
 url: /brookfield/ethan-allen/
-shop: furniture
+shop: Möbel
 ---

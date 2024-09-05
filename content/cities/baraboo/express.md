@@ -1,5 +1,5 @@
 ---
 title: "Express"
 url: /baraboo/express/
-shop: clothes
+shop: Kleidung
 ---

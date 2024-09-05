@@ -1,5 +1,5 @@
 ---
 title: "Elysian Nails"
 url: /neenah/elysian-nails/
-shop: beauty
+shop: Kosmetik
 ---

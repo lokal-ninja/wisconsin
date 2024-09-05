@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /sheboygan/meijer/
-shop: supermarket
+shop: Supermarkt
 ---

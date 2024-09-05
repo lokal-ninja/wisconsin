@@ -1,5 +1,5 @@
 ---
 title: "George's"
 url: /milwaukee/georges/
-shop: fishing
+shop: Angeln
 ---

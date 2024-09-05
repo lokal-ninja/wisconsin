@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /waukesha/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

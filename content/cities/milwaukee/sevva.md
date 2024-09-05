@@ -1,5 +1,5 @@
 ---
 title: "Sevva"
 url: /milwaukee/sevva/
-shop: beauty
+shop: Kosmetik
 ---

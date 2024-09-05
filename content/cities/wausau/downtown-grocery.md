@@ -1,5 +1,5 @@
 ---
 title: "Downtown Grocery"
 url: /wausau/downtown-grocery/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

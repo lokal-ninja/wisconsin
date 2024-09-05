@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /franklin/gnc/
-shop: nutrition supplements
+shop: Nahrungsergänzung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /stoughton/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

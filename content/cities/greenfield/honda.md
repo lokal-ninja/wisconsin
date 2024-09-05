@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /greenfield/honda/
-shop: car
+shop: Autohaus
 ---

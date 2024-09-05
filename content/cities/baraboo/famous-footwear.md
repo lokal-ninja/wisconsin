@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /baraboo/famous-footwear/
-shop: shoes
+shop: Schuhe
 ---

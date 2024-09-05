@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /menasha/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

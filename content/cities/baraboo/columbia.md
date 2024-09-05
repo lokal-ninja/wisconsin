@@ -1,5 +1,5 @@
 ---
 title: "Columbia"
 url: /baraboo/columbia/
-shop: clothes
+shop: Kleidung
 ---

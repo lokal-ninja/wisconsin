@@ -1,5 +1,5 @@
 ---
 title: "Two Sisters Boutique"
 url: /rice-lake/two-sisters-boutique/
-shop: clothes
+shop: Kleidung
 ---

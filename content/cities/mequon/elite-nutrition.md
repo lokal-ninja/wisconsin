@@ -1,5 +1,5 @@
 ---
 title: "Elite Nutrition"
 url: /mequon/elite-nutrition/
-shop: health food
+shop: Bioladen
 ---

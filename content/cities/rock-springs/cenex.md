@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /rock-springs/cenex/
-shop: convenience
+shop: Lebensmittel
 ---

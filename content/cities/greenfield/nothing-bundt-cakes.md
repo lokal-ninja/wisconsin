@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
 url: /greenfield/nothing-bundt-cakes/
-shop: pastry
+shop: Konditorei
 ---

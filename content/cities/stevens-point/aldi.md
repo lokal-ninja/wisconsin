@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /stevens-point/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

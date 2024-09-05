@@ -1,5 +1,5 @@
 ---
 title: "BILTRITE"
 url: /greenfield/biltrite/
-shop: furniture
+shop: Möbel
 ---

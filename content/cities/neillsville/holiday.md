@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /neillsville/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

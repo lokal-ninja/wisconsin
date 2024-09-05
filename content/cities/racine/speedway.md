@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /racine/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

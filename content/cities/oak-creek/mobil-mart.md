@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /oak-creek/mobil-mart/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pilot"
 url: /beloit/pilot/
-shop: convenience
+shop: Lebensmittel
 ---

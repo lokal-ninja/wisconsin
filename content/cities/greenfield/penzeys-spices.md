@@ -1,5 +1,5 @@
 ---
 title: "Penzeys Spices"
 url: /greenfield/penzeys-spices/
-shop: spices
+shop: Gewürze
 ---

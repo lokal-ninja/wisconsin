@@ -1,5 +1,5 @@
 ---
 title: "Benoit Cheese Haus"
 url: /ashland/benoit-cheese-haus/
-shop: cheese
+shop: Käse
 ---

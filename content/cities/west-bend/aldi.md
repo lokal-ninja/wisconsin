@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /west-bend/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

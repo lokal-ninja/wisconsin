@@ -1,5 +1,5 @@
 ---
 title: "Fish Creek Market"
 url: /fish-creek/fish-creek-market/
-shop: supermarket
+shop: Supermarkt
 ---

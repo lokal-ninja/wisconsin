@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /delavan/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

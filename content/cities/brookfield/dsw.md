@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /brookfield/dsw/
-shop: shoes
+shop: Schuhe
 ---

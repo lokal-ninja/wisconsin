@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /greendale/dsw/
-shop: shoes
+shop: Schuhe
 ---

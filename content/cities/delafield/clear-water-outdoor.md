@@ -1,5 +1,5 @@
 ---
 title: "Clear Water Outdoor"
 url: /delafield/clear-water-outdoor/
-shop: outdoor
+shop: Outdoor
 ---

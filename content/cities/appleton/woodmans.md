@@ -1,5 +1,5 @@
 ---
 title: "Woodman's"
 url: /appleton/woodmans/
-shop: supermarket
+shop: Supermarkt
 ---

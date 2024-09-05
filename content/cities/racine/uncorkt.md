@@ -1,5 +1,5 @@
 ---
 title: "Uncorkt"
 url: /racine/uncorkt/
-shop: wine
+shop: Wein
 ---

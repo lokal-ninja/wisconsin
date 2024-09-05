@@ -1,5 +1,5 @@
 ---
 title: "Xpress Food Mart"
 url: /racine/xpress-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

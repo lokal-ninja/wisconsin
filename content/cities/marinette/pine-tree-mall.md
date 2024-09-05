@@ -1,5 +1,5 @@
 ---
 title: "Pine Tree Mall"
 url: /marinette/pine-tree-mall/
-shop: mall
+shop: Einkaufszentrum
 ---

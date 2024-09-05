@@ -1,5 +1,5 @@
 ---
 title: "Meraki"
 url: /madison/meraki/
-shop: hairdresser
+shop: Friseur
 ---

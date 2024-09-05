@@ -1,5 +1,5 @@
 ---
 title: "Hallman-Lindsay Paints"
 url: /wauwatosa/hallman-lindsay-paints/
-shop: paint
+shop: Farben
 ---

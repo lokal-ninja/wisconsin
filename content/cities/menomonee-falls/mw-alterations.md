@@ -1,5 +1,5 @@
 ---
 title: "MW Alterations"
 url: /menomonee-falls/mw-alterations/
-shop: tailor
+shop: Schneiderei
 ---

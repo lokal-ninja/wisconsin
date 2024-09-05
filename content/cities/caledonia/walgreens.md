@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /caledonia/walgreens/
-shop: chemist
+shop: Drogerie
 ---

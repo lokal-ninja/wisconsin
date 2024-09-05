@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /milton/kwik-trip/
-shop: convenience
+shop: Lebensmittel
 ---

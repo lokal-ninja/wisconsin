@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /plover/michaels/
-shop: craft
+shop: Basteln
 ---

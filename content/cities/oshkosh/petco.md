@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /oshkosh/petco/
-shop: pet
+shop: Tiere
 ---

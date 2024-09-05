@@ -1,5 +1,5 @@
 ---
 title: "Majestic Nails"
 url: /middleton/majestic-nails/
-shop: beauty
+shop: Kosmetik
 ---

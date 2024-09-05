@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /mount-pleasant/sherwin-williams/
-shop: paint
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toyota"
 url: /milwaukee/toyota/
-shop: car
+shop: Autohaus
 ---

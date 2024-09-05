@@ -1,5 +1,5 @@
 ---
 title: "Northland Citgo"
 url: /appleton/northland-citgo/
-shop: convenience
+shop: Lebensmittel
 ---

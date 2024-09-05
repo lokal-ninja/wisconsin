@@ -1,5 +1,5 @@
 ---
 title: "Marineland"
 url: /onalaska/marineland/
-shop: diving
+shop: Tauchen
 ---

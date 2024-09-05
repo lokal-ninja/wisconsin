@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /mosinee/cenex/
-shop: convenience
+shop: Lebensmittel
 ---

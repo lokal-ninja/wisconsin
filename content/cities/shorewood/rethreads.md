@@ -1,5 +1,5 @@
 ---
 title: "ReThreads"
 url: /shorewood/rethreads/
-shop: clothes
+shop: Kleidung
 ---

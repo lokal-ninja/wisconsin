@@ -1,5 +1,5 @@
 ---
 title: "Cheyka Motors Inc"
 url: /schofield/cheyka-motors-inc/
-shop: car
+shop: Autohaus
 ---

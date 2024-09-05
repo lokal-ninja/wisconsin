@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /beloit/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

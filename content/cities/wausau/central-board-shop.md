@@ -1,5 +1,5 @@
 ---
 title: "Central Board Shop"
 url: /wausau/central-board-shop/
-shop: sports
+shop: Sport
 ---

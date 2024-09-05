@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /racine/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

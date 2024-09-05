@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /merrill/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

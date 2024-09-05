@@ -1,5 +1,5 @@
 ---
 title: "Otto's Beverage Center"
 url: /milwaukee/ottos-beverage-center/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Steinhafels"
 url: /greenfield/steinhafels/
-shop: furniture
+shop: Möbel
 ---

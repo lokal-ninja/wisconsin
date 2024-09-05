@@ -1,5 +1,5 @@
 ---
 title: "Tennis Hardware"
 url: /west-bend/tennis-hardware/
-shop: doityourself
+shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Down A Country Road"
 url: /cashton/down-a-country-road/
-shop: gift
+shop: Andenken
 ---

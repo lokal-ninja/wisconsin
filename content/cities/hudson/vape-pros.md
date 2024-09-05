@@ -1,5 +1,5 @@
 ---
 title: "Vape Pro's"
 url: /hudson/vape-pros/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

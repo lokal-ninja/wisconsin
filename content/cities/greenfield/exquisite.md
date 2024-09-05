@@ -1,5 +1,5 @@
 ---
 title: "Exquisite"
 url: /greenfield/exquisite/
-shop: beauty
+shop: Kosmetik
 ---

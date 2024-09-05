@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /caledonia/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

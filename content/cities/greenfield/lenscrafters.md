@@ -1,5 +1,5 @@
 ---
 title: "LensCrafters"
 url: /greenfield/lenscrafters/
-shop: optician
+shop: Optiker
 ---

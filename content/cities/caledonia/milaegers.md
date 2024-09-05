@@ -1,5 +1,5 @@
 ---
 title: "Milaeger's"
 url: /caledonia/milaegers/
-shop: garden centre
+shop: Garten-Center
 ---

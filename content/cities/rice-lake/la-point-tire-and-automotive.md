@@ -1,5 +1,5 @@
 ---
 title: "La Point Tire and Automotive"
 url: /rice-lake/la-point-tire-and-automotive/
-shop: car repair
+shop: Autowerkstatt
 ---

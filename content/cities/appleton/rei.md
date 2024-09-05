@@ -1,5 +1,5 @@
 ---
 title: "REI"
 url: /appleton/rei/
-shop: outdoor
+shop: Outdoor
 ---

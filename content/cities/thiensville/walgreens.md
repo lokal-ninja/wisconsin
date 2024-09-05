@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /thiensville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /plover/menards/
-shop: doityourself
+shop: Baumarkt
 ---

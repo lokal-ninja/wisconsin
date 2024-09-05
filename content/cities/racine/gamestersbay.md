@@ -1,5 +1,5 @@
 ---
 title: "Gamestersbay"
 url: /racine/gamestersbay/
-shop: video games
+shop: Videospiele
 ---

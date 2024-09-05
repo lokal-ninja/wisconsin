@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /delavan/piggly-wiggly/
-shop: supermarket
+shop: Supermarkt
 ---

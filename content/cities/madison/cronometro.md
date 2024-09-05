@@ -1,5 +1,5 @@
 ---
 title: "Cronometro"
 url: /madison/cronometro/
-shop: bicycle
+shop: Fahrrad
 ---

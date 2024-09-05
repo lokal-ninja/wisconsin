@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /verona/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

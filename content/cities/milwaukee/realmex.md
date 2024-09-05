@@ -1,5 +1,5 @@
 ---
 title: "RealMex"
 url: /milwaukee/realmex/
-shop: pawnbroker
+shop: Leiher
 ---

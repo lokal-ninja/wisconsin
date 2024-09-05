@@ -1,5 +1,5 @@
 ---
 title: "Cramers Shoe Repair"
 url: /marinette/cramers-shoe-repair/
-shop: shoes
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /rice-lake/kwik-trip/
-shop: convenience
+shop: Lebensmittel
 ---

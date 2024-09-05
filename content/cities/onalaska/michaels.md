@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /onalaska/michaels/
-shop: craft
+shop: Basteln
 ---

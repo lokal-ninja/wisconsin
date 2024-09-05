@@ -1,5 +1,5 @@
 ---
 title: "AtomicKatz"
 url: /oshkosh/atomickatz/
-shop: clothes
+shop: Kleidung
 ---

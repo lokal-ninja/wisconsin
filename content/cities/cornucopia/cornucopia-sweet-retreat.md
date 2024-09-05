@@ -1,5 +1,5 @@
 ---
 title: "Cornucopia Sweet Retreat"
 url: /cornucopia/cornucopia-sweet-retreat/
-shop: confectionery
+shop: Süßwaren
 ---

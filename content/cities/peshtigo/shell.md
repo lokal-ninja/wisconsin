@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /peshtigo/shell/
-shop: convenience
+shop: Lebensmittel
 ---

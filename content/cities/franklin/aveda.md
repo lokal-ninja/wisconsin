@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
 url: /franklin/aveda/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /milwaukee/napa-auto-parts-west-burnham-street/
-shop: car parts
+shop: Autoteile
 ---

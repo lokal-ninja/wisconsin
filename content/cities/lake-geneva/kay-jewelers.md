@@ -1,5 +1,5 @@
 ---
 title: "Kay Jewelers"
 url: /lake-geneva/kay-jewelers/
-shop: jewelry
+shop: Schmuck
 ---

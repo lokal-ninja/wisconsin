@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /milwaukee/mobil-mart/
-shop: convenience
+shop: Lebensmittel
 ---

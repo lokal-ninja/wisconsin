@@ -1,5 +1,5 @@
 ---
 title: "Levics Salon"
 url: /milwaukee/levics-salon/
-shop: beauty
+shop: Kosmetik
 ---

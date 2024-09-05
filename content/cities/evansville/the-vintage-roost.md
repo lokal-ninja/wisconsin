@@ -1,5 +1,5 @@
 ---
 title: "The Vintage Roost"
 url: /evansville/the-vintage-roost/
-shop: furniture
+shop: Möbel
 ---

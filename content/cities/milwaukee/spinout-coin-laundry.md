@@ -1,5 +1,5 @@
 ---
 title: "Spinout Coin Laundry"
 url: /milwaukee/spinout-coin-laundry/
-shop: laundry
+shop: Wäscherei
 ---

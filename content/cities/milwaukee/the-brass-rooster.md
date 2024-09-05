@@ -1,5 +1,5 @@
 ---
 title: "The Brass Rooster"
 url: /milwaukee/the-brass-rooster/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bright Food Market"
 url: /milwaukee/bright-food-market/
-shop: convenience
+shop: Lebensmittel
 ---
