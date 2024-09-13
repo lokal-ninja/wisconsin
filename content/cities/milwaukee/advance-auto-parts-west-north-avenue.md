@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /milwaukee/advance-auto-parts-west-north-avenue/
-shop: Autoteile
+shop: car parts
 ---

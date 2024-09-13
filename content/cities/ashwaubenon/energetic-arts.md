@@ -1,5 +1,5 @@
 ---
 title: "Energetic Arts"
 url: /ashwaubenon/energetic-arts/
-shop: Allgemein
+shop: shop
 ---

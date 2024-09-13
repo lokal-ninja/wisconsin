@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /wauwatosa/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

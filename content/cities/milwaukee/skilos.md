@@ -1,5 +1,5 @@
 ---
 title: "Skilos"
 url: /milwaukee/skilos/
-shop: Tiersalon
+shop: pet grooming
 ---

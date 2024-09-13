@@ -1,5 +1,5 @@
 ---
 title: "Ulta Beauty"
 url: /appleton/ulta-beauty/
-shop: Kosmetik
+shop: beauty
 ---

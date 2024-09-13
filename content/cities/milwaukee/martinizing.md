@@ -1,5 +1,5 @@
 ---
 title: "Martinizing"
 url: /milwaukee/martinizing/
-shop: Wäscherei
+shop: laundry
 ---

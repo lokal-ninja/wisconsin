@@ -1,5 +1,5 @@
 ---
 title: "Eyeopia"
 url: /madison/eyeopia/
-shop: Optiker
+shop: optician
 ---

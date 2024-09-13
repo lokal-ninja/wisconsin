@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /west-allis/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keyes ChevyTown"
 url: /menomonie/keyes-chevytown/
-shop: Autohaus
+shop: car
 ---

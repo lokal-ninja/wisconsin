@@ -1,5 +1,5 @@
 ---
 title: "King Furniture"
 url: /holmen/king-furniture/
-shop: Möbel
+shop: furniture
 ---

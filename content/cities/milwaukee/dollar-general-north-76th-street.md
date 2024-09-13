@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /milwaukee/dollar-general-north-76th-street/
-shop: Kramladen
+shop: variety store
 ---

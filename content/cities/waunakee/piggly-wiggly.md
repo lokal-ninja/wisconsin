@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /waunakee/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

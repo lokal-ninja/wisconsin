@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ellsworth/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dawn's Tailors"
 url: /franklin/dawns-tailors/
-shop: Schneiderei
+shop: tailor
 ---

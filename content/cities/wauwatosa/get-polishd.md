@@ -1,5 +1,5 @@
 ---
 title: "Get Polish'd"
 url: /wauwatosa/get-polishd/
-shop: Kosmetik
+shop: beauty
 ---

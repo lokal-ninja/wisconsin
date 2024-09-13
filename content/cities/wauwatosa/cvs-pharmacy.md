@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /wauwatosa/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ontario Fastrip"
 url: /ontario/ontario-fastrip/
-shop: Lebensmittel
+shop: convenience
 ---

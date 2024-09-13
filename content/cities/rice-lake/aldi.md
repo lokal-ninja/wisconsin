@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rice-lake/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

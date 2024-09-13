@@ -1,5 +1,5 @@
 ---
 title: "Olson Funeral Home"
 url: /menomonie/olson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

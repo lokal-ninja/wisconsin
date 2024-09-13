@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /green-bay/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bramble Patch"
 url: /new-glarus/bramble-patch/
-shop: Andenken
+shop: gift
 ---

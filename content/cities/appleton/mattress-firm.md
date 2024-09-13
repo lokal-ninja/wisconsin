@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /appleton/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /menomonee-falls/walgreens/
-shop: Drogerie
+shop: chemist
 ---

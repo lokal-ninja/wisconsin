@@ -1,5 +1,5 @@
 ---
 title: "Family Hair Care"
 url: /hudson/family-hair-care/
-shop: Friseur
+shop: hairdresser
 ---

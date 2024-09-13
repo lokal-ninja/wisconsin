@@ -1,5 +1,5 @@
 ---
 title: "Mainstream Boutique"
 url: /menomonie/mainstream-boutique/
-shop: Kleidung
+shop: clothes
 ---

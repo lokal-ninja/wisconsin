@@ -1,5 +1,5 @@
 ---
 title: "A Team Automotive Repair"
 url: /milwaukee/a-team-automotive-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

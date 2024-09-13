@@ -1,5 +1,5 @@
 ---
 title: "Haystack Apparel"
 url: /crivitz/haystack-apparel/
-shop: Kleidung
+shop: clothes
 ---

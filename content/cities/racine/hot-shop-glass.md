@@ -1,5 +1,5 @@
 ---
 title: "Hot Shop Glass"
 url: /racine/hot-shop-glass/
-shop: Kunst
+shop: art
 ---

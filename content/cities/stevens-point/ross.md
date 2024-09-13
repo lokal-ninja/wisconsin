@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /stevens-point/ross/
-shop: Warenhaus
+shop: department store
 ---

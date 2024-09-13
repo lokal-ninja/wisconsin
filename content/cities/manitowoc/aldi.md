@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /manitowoc/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

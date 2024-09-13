@@ -1,5 +1,5 @@
 ---
 title: "Shelli"
 url: /bayfield/shelli/
-shop: Kleidung
+shop: clothes
 ---

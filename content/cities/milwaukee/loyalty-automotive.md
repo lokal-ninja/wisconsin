@@ -1,5 +1,5 @@
 ---
 title: "Loyalty Automotive"
 url: /milwaukee/loyalty-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

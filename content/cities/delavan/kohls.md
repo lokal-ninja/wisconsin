@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /delavan/kohls/
-shop: Warenhaus
+shop: department store
 ---

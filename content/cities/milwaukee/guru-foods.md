@@ -1,5 +1,5 @@
 ---
 title: "Guru Foods"
 url: /milwaukee/guru-foods/
-shop: Lebensmittel
+shop: convenience
 ---

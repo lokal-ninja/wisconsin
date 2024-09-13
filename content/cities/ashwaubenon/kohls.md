@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /ashwaubenon/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freedom Storage"
 url: /merrill/freedom-storage/
-shop: Mieten
+shop: storage rental
 ---

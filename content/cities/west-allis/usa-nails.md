@@ -1,5 +1,5 @@
 ---
 title: "USA Nails"
 url: /west-allis/usa-nails/
-shop: Kosmetik
+shop: beauty
 ---

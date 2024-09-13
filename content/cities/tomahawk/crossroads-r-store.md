@@ -1,5 +1,5 @@
 ---
 title: "Crossroads R-Store"
 url: /tomahawk/crossroads-r-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /appleton/sola-salons/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Heppe's Service"
 url: /milwaukee/heppes-service/
-shop: Autowerkstatt
+shop: car repair
 ---

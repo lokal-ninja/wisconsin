@@ -1,5 +1,5 @@
 ---
 title: "Goodman-Bensman Funeral Home"
 url: /whitefish-bay/goodman-bensman-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

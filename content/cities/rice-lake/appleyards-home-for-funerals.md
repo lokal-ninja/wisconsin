@@ -1,5 +1,5 @@
 ---
 title: "Appleyard's Home For Funerals"
 url: /rice-lake/appleyards-home-for-funerals/
-shop: Bestattungen
+shop: funeral directors
 ---

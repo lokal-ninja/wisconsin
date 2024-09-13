@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /marinette/petco/
-shop: Tiere
+shop: pet
 ---

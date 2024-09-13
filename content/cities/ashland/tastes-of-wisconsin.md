@@ -1,5 +1,5 @@
 ---
 title: "Tastes of Wisconsin"
 url: /ashland/tastes-of-wisconsin/
-shop: Supermarkt
+shop: supermarket
 ---

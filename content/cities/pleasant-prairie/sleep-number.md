@@ -1,5 +1,5 @@
 ---
 title: "Sleep Number"
 url: /pleasant-prairie/sleep-number/
-shop: Betten
+shop: bed
 ---

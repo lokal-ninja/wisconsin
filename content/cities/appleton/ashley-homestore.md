@@ -1,5 +1,5 @@
 ---
 title: "Ashley HomeStore"
 url: /appleton/ashley-homestore/
-shop: Möbel
+shop: furniture
 ---

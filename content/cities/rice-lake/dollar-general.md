@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /rice-lake/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

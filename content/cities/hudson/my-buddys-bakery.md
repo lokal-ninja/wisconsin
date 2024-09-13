@@ -1,5 +1,5 @@
 ---
 title: "My Buddy's Bakery"
 url: /hudson/my-buddys-bakery/
-shop: Bäckerei
+shop: bakery
 ---

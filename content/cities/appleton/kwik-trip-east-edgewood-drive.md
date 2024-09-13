@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /appleton/kwik-trip-east-edgewood-drive/
-shop: Lebensmittel
+shop: convenience
 ---

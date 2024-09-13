@@ -1,5 +1,5 @@
 ---
 title: "Nature’s Health Foods"
 url: /oconomowoc/natures-health-foods/
-shop: Bioladen
+shop: health food
 ---

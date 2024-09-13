@@ -1,5 +1,5 @@
 ---
 title: "City Market"
 url: /shorewood/city-market/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /menomonee-falls/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

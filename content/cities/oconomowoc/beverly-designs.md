@@ -1,5 +1,5 @@
 ---
 title: "Beverly Designs"
 url: /oconomowoc/beverly-designs/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /lake-geneva/target/
-shop: Warenhaus
+shop: department store
 ---

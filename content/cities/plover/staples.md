@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /plover/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /monroe/autozone/
-shop: Autoteile
+shop: car parts
 ---

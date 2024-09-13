@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /brookfield/hallmark/
-shop: Andenken
+shop: gift
 ---

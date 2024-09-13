@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sheboygan-falls/target/
-shop: Supermarkt
+shop: supermarket
 ---

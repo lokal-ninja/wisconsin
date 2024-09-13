@@ -1,5 +1,5 @@
 ---
 title: "Scissor Sisters Salon"
 url: /waupaca/scissor-sisters-salon/
-shop: Friseur
+shop: hairdresser
 ---

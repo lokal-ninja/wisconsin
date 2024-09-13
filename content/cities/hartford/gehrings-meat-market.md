@@ -1,5 +1,5 @@
 ---
 title: "Gehrings Meat Market"
 url: /hartford/gehrings-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

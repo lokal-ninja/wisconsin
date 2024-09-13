@@ -1,5 +1,5 @@
 ---
 title: "Saints and Sinners Tattoo"
 url: /milwaukee/saints-and-sinners-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

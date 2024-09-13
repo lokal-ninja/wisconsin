@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /milwaukee/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

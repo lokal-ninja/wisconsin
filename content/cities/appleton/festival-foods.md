@@ -1,5 +1,5 @@
 ---
 title: "Festival Foods"
 url: /appleton/festival-foods/
-shop: Supermarkt
+shop: supermarket
 ---

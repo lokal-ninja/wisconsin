@@ -1,5 +1,5 @@
 ---
 title: "Walmart Autocenter"
 url: /beloit/walmart-autocenter/
-shop: Autowerkstatt
+shop: car repair
 ---

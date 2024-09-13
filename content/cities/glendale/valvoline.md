@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /glendale/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

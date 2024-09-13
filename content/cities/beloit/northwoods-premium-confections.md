@@ -1,5 +1,5 @@
 ---
 title: "Northwoods Premium Confections"
 url: /beloit/northwoods-premium-confections/
-shop: Süßwaren
+shop: confectionery
 ---

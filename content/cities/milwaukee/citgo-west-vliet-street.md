@@ -1,5 +1,5 @@
 ---
 title: "Citgo"
 url: /milwaukee/citgo-west-vliet-street/
-shop: Lebensmittel
+shop: convenience
 ---

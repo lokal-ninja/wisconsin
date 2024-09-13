@@ -1,5 +1,5 @@
 ---
 title: "Festival Foods"
 url: /fond-du-lac/festival-foods/
-shop: Supermarkt
+shop: supermarket
 ---

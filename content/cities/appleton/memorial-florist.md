@@ -1,5 +1,5 @@
 ---
 title: "Memorial Florist"
 url: /appleton/memorial-florist/
-shop: Blumen
+shop: florist
 ---

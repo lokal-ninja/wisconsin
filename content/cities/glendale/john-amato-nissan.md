@@ -1,5 +1,5 @@
 ---
 title: "John Amato Nissan"
 url: /glendale/john-amato-nissan/
-shop: Autohaus
+shop: car
 ---

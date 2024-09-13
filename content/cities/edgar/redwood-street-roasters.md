@@ -1,5 +1,5 @@
 ---
 title: "Redwood Street Roasters"
 url: /edgar/redwood-street-roasters/
-shop: Kaffee
+shop: coffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /rice-lake/honda/
-shop: Autowerkstatt
+shop: car repair
 ---

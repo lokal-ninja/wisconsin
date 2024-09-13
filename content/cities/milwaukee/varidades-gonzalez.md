@@ -1,5 +1,5 @@
 ---
 title: "Varidades Gonzalez"
 url: /milwaukee/varidades-gonzalez/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /west-allis/ross/
-shop: Warenhaus
+shop: department store
 ---

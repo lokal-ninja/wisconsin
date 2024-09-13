@@ -1,5 +1,5 @@
 ---
 title: "Black Saddle Bike Shop"
 url: /madison/black-saddle-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

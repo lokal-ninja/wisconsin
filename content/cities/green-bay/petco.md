@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /green-bay/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lee's Cleaners"
 url: /rice-lake/lees-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

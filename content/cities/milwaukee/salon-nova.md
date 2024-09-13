@@ -1,5 +1,5 @@
 ---
 title: "Salon Nova"
 url: /milwaukee/salon-nova/
-shop: Friseur
+shop: hairdresser
 ---

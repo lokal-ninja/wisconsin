@@ -1,5 +1,5 @@
 ---
 title: "Sinclair"
 url: /dickeyville/sinclair/
-shop: Lebensmittel
+shop: convenience
 ---

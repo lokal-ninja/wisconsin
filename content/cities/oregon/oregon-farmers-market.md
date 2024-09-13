@@ -1,5 +1,5 @@
 ---
 title: "Oregon Farmers' Market"
 url: /oregon/oregon-farmers-market/
-shop: Hofladen
+shop: farm
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /ripon/walgreens/
-shop: Drogerie
+shop: chemist
 ---

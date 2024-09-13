@@ -1,5 +1,5 @@
 ---
 title: "Voluptuous Secrets"
 url: /milwaukee/voluptuous-secrets/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /mount-pleasant/hallmark/
-shop: Andenken
+shop: gift
 ---

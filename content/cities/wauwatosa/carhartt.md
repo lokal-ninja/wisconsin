@@ -1,5 +1,5 @@
 ---
 title: "Carhartt"
 url: /wauwatosa/carhartt/
-shop: Kleidung
+shop: clothes
 ---

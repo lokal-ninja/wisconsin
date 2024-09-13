@@ -1,5 +1,5 @@
 ---
 title: "Paradise Guitars"
 url: /beloit/paradise-guitars/
-shop: Instrumente
+shop: musical instrument
 ---

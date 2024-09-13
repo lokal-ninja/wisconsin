@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /oshkosh/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /manitowoc/verizon/
-shop: Handy
+shop: mobile phone
 ---

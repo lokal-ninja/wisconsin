@@ -1,5 +1,5 @@
 ---
 title: "Royal Petro"
 url: /marinette/royal-petro/
-shop: Lebensmittel
+shop: convenience
 ---

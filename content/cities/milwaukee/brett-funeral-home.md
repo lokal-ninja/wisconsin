@@ -1,5 +1,5 @@
 ---
 title: "Brett Funeral Home"
 url: /milwaukee/brett-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

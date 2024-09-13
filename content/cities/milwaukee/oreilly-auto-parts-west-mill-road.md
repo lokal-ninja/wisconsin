@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /milwaukee/oreilly-auto-parts-west-mill-road/
-shop: Autoteile
+shop: car parts
 ---

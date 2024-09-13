@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /franklin/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

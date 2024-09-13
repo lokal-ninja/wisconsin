@@ -1,5 +1,5 @@
 ---
 title: "Metro Market"
 url: /milwaukee/metro-market/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dollar General"
 url: /east-troy/dollar-general/
-shop: Kramladen
+shop: variety store
 ---

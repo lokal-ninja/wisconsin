@@ -1,5 +1,5 @@
 ---
 title: "Menards"
 url: /monona/menards/
-shop: Baumarkt
+shop: doityourself
 ---

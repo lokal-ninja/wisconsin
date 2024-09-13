@@ -1,5 +1,5 @@
 ---
 title: "Chu Hai Oriental Market"
 url: /milwaukee/chu-hai-oriental-market/
-shop: Supermarkt
+shop: supermarket
 ---

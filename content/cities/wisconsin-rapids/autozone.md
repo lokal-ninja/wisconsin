@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /wisconsin-rapids/autozone/
-shop: Autoteile
+shop: car parts
 ---

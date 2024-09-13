@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /wausau/great-clips/
-shop: Friseur
+shop: hairdresser
 ---

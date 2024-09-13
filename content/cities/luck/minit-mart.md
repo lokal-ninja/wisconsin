@@ -1,5 +1,5 @@
 ---
 title: "Minit Mart"
 url: /luck/minit-mart/
-shop: Lebensmittel
+shop: convenience
 ---

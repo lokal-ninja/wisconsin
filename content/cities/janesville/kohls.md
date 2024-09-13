@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /janesville/kohls/
-shop: Warenhaus
+shop: department store
 ---

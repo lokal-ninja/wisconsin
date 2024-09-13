@@ -1,5 +1,5 @@
 ---
 title: "PLATTEVILLE GAS"
 url: /platteville/platteville-gas/
-shop: Lebensmittel
+shop: convenience
 ---

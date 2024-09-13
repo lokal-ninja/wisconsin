@@ -1,5 +1,5 @@
 ---
 title: "P.T. Nails"
 url: /st-francis/p-t-nails/
-shop: Kosmetik
+shop: beauty
 ---

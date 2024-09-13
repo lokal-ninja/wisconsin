@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /la-crosse/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

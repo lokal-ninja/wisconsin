@@ -1,5 +1,5 @@
 ---
 title: "Sleepy Hollow Chevrolet"
 url: /viroqua/sleepy-hollow-chevrolet/
-shop: Autohaus
+shop: car
 ---

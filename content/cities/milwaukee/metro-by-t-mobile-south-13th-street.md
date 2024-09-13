@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /milwaukee/metro-by-t-mobile-south-13th-street/
-shop: Handy
+shop: mobile phone
 ---

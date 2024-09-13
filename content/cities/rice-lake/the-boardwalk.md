@@ -1,5 +1,5 @@
 ---
 title: "The Boardwalk"
 url: /rice-lake/the-boardwalk/
-shop: Spiele
+shop: games
 ---

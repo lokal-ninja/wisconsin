@@ -1,5 +1,5 @@
 ---
 title: "Valentine’s Salon"
 url: /fox-point/valentines-salon/
-shop: Friseur
+shop: hairdresser
 ---

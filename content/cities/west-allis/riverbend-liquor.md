@@ -1,5 +1,5 @@
 ---
 title: "Riverbend Liquor"
 url: /west-allis/riverbend-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

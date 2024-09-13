@@ -1,5 +1,5 @@
 ---
 title: "America’s Gunsmith Shop"
 url: /burlington/americas-gunsmith-shop/
-shop: Waffen
+shop: weapons
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /kaukauna/verizon/
-shop: Handy
+shop: mobile phone
 ---

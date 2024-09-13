@@ -1,5 +1,5 @@
 ---
 title: "Village Food"
 url: /sturtevant/village-food/
-shop: Supermarkt
+shop: supermarket
 ---

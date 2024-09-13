@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /pleasant-prairie/gamestop/
-shop: Videospiele
+shop: video games
 ---

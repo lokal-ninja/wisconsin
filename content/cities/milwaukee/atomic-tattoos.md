@@ -1,5 +1,5 @@
 ---
 title: "Atomic Tattoos"
 url: /milwaukee/atomic-tattoos/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /eau-claire/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

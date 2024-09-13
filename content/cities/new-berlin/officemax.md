@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /new-berlin/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /oconomowoc/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

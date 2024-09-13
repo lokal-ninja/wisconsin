@@ -1,5 +1,5 @@
 ---
 title: "Sports Nutrition KING"
 url: /racine/sports-nutrition-king/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

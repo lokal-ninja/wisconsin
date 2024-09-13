@@ -1,5 +1,5 @@
 ---
 title: "Beltone"
 url: /racine/beltone/
-shop: Hörgeräte
+shop: hearing aids
 ---

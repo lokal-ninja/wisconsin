@@ -1,5 +1,5 @@
 ---
 title: "HearingLife of Marinette WI"
 url: /marinette/hearinglife-of-marinette-wi/
-shop: Hörgeräte
+shop: hearing aids
 ---

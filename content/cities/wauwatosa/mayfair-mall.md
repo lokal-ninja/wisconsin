@@ -1,5 +1,5 @@
 ---
 title: "Mayfair Mall"
 url: /wauwatosa/mayfair-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

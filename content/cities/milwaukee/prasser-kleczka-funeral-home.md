@@ -1,5 +1,5 @@
 ---
 title: "Prasser-Kleczka Funeral Home"
 url: /milwaukee/prasser-kleczka-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /grafton/five-below/
-shop: Warenhaus
+shop: department store
 ---

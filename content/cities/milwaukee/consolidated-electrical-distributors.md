@@ -1,5 +1,5 @@
 ---
 title: "Consolidated Electrical Distributors"
 url: /milwaukee/consolidated-electrical-distributors/
-shop: Eisenwaren
+shop: hardware
 ---

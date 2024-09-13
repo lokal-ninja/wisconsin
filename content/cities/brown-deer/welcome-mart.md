@@ -1,5 +1,5 @@
 ---
 title: "Welcome Mart"
 url: /brown-deer/welcome-mart/
-shop: Lebensmittel
+shop: convenience
 ---

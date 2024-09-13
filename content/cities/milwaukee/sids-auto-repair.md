@@ -1,5 +1,5 @@
 ---
 title: "Sid's Auto Repair"
 url: /milwaukee/sids-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

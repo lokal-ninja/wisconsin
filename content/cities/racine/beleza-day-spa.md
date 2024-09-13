@@ -1,5 +1,5 @@
 ---
 title: "Beleza Day Spa"
 url: /racine/beleza-day-spa/
-shop: Kosmetik
+shop: beauty
 ---

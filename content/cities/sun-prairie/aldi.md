@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /sun-prairie/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

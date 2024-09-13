@@ -1,5 +1,5 @@
 ---
 title: "Festival Foods"
 url: /mount-pleasant/festival-foods/
-shop: Supermarkt
+shop: supermarket
 ---

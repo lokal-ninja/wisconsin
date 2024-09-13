@@ -1,5 +1,5 @@
 ---
 title: "Float Light"
 url: /appleton/float-light/
-shop: Massage
+shop: massage
 ---

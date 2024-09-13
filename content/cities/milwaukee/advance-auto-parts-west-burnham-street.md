@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /milwaukee/advance-auto-parts-west-burnham-street/
-shop: Autoteile
+shop: car parts
 ---

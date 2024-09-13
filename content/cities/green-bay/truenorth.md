@@ -1,5 +1,5 @@
 ---
 title: "TrueNorth"
 url: /green-bay/truenorth/
-shop: Lebensmittel
+shop: convenience
 ---

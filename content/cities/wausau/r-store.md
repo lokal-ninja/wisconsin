@@ -1,5 +1,5 @@
 ---
 title: "R Store"
 url: /wausau/r-store/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /madison/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

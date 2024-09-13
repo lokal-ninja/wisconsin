@@ -1,5 +1,5 @@
 ---
 title: "Youngstedts"
 url: /eau-claire/youngstedts/
-shop: Autowerkstatt
+shop: car repair
 ---

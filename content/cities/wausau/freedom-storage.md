@@ -1,5 +1,5 @@
 ---
 title: "Freedom Storage"
 url: /wausau/freedom-storage/
-shop: Mieten
+shop: storage rental
 ---

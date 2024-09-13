@@ -1,5 +1,5 @@
 ---
 title: "Carstar"
 url: /milwaukee/carstar/
-shop: Autowerkstatt
+shop: car repair
 ---

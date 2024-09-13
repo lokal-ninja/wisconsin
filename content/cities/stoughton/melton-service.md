@@ -1,5 +1,5 @@
 ---
 title: "Melton Service"
 url: /stoughton/melton-service/
-shop: Autowerkstatt
+shop: car repair
 ---

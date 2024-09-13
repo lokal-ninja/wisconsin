@@ -1,5 +1,5 @@
 ---
 title: "Velasquez and Sons Mufflers"
 url: /racine/velasquez-and-sons-mufflers/
-shop: Autoteile
+shop: car parts
 ---

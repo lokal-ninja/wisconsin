@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /shawano/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

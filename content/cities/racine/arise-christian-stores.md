@@ -1,5 +1,5 @@
 ---
 title: "Arise! Christian Stores"
 url: /racine/arise-christian-stores/
-shop: Bücher
+shop: books
 ---

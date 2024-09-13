@@ -1,5 +1,5 @@
 ---
 title: "All Care Automotive"
 url: /marinette/all-care-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Motors LLC"
 url: /milwaukee/xtreme-motors-llc/
-shop: Autohaus
+shop: car
 ---

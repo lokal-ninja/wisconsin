@@ -1,5 +1,5 @@
 ---
 title: "Wisconsin Vision"
 url: /west-milwaukee/wisconsin-vision/
-shop: Optiker
+shop: optician
 ---

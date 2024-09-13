@@ -1,5 +1,5 @@
 ---
 title: "Rosen Ford"
 url: /belleville/rosen-ford/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baraboo Power Equipment"
 url: /baraboo/baraboo-power-equipment/
-shop: Platzpflege
+shop: groundskeeping
 ---

@@ -1,5 +1,5 @@
 ---
 title: "El Rey Food Mart"
 url: /milwaukee/el-rey-food-mart/
-shop: Supermarkt
+shop: supermarket
 ---

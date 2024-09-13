@@ -1,5 +1,5 @@
 ---
 title: "Public Storage"
 url: /oak-creek/public-storage/
-shop: Mieten
+shop: storage rental
 ---

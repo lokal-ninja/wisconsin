@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /milwaukee/u-haul-west-appleton-avenue/
-shop: Mieten
+shop: storage rental
 ---

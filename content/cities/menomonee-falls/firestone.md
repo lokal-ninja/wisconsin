@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /menomonee-falls/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

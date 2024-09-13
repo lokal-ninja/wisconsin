@@ -1,5 +1,5 @@
 ---
 title: "Rogan's Shoes"
 url: /racine/rogans-shoes/
-shop: Schuhe
+shop: shoes
 ---

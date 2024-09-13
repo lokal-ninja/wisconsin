@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /menomonee-falls/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

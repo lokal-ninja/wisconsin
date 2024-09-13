@@ -1,5 +1,5 @@
 ---
 title: "Hmong Town"
 url: /milwaukee/hmong-town/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scandinavia Fine Furniture"
 url: /milwaukee/scandinavia-fine-furniture/
-shop: Möbel
+shop: furniture
 ---

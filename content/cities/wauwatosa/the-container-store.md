@@ -1,5 +1,5 @@
 ---
 title: "The Container Store"
 url: /wauwatosa/the-container-store/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /green-bay/burlington/
-shop: Warenhaus
+shop: department store
 ---

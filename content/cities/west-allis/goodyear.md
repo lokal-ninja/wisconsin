@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /west-allis/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

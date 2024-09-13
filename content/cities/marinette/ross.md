@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /marinette/ross/
-shop: Warenhaus
+shop: department store
 ---

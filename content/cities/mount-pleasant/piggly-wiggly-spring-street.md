@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /mount-pleasant/piggly-wiggly-spring-street/
-shop: Supermarkt
+shop: supermarket
 ---

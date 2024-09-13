@@ -1,5 +1,5 @@
 ---
 title: "Executive Travel Center"
 url: /racine/executive-travel-center/
-shop: Reisebüro
+shop: travel agency
 ---

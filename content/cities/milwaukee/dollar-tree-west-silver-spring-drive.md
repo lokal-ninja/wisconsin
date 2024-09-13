@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /milwaukee/dollar-tree-west-silver-spring-drive/
-shop: Kramladen
+shop: variety store
 ---

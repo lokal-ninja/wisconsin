@@ -1,5 +1,5 @@
 ---
 title: "Tradehome Shoes"
 url: /madison/tradehome-shoes/
-shop: Schuhe
+shop: shoes
 ---

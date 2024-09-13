@@ -1,5 +1,5 @@
 ---
 title: "Granite Peak"
 url: /wausau/granite-peak/
-shop: Sport
+shop: sports
 ---

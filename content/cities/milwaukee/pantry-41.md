@@ -1,5 +1,5 @@
 ---
 title: "Pantry 41"
 url: /milwaukee/pantry-41/
-shop: Lebensmittel
+shop: convenience
 ---

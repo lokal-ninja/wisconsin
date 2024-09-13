@@ -1,5 +1,5 @@
 ---
 title: "Porcaro Mitsubishi"
 url: /mount-pleasant/porcaro-mitsubishi/
-shop: Autohaus
+shop: car
 ---

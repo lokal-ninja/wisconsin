@@ -1,5 +1,5 @@
 ---
 title: "Silver Leash"
 url: /hartland/silver-leash/
-shop: Tiersalon
+shop: pet grooming
 ---

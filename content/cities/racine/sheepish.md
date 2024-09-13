@@ -1,5 +1,5 @@
 ---
 title: "Sheepish"
 url: /racine/sheepish/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cosmo Beauty"
 url: /milwaukee/cosmo-beauty-west-north-avenue/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

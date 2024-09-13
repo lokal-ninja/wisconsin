@@ -1,5 +1,5 @@
 ---
 title: "Handy Mart"
 url: /nelson/handy-mart/
-shop: Lebensmittel
+shop: convenience
 ---

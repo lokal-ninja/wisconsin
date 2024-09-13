@@ -1,5 +1,5 @@
 ---
 title: "East Towne Mall"
 url: /madison/east-towne-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

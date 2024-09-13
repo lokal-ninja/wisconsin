@@ -1,5 +1,5 @@
 ---
 title: "Brownwell Quality Collision Center"
 url: /west-allis/brownwell-quality-collision-center/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Anthology"
 url: /madison/anthology/
-shop: Andenken
+shop: gift
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pelkin's Smokey Meat Market"
 url: /crivitz/pelkins-smokey-meat-market/
-shop: Metzgerei
+shop: butcher
 ---

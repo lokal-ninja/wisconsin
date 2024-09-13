@@ -1,5 +1,5 @@
 ---
 title: "Martins Auto Repair LLC"
 url: /mosinee/martins-auto-repair-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

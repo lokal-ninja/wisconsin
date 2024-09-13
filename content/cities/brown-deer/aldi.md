@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /brown-deer/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fairchild Equipment"
 url: /marinette/fairchild-equipment/
-shop: Eisenwaren
+shop: hardware
 ---

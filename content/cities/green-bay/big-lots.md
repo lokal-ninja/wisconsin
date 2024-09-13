@@ -1,5 +1,5 @@
 ---
 title: "Big Lots"
 url: /green-bay/big-lots/
-shop: Warenhaus
+shop: department store
 ---

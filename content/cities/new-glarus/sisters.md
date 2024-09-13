@@ -1,5 +1,5 @@
 ---
 title: "Sisters"
 url: /new-glarus/sisters/
-shop: Andenken
+shop: gift
 ---

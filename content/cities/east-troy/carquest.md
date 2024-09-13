@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /east-troy/carquest/
-shop: Autoteile
+shop: car parts
 ---

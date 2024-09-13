@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /tomahawk/shell/
-shop: Lebensmittel
+shop: convenience
 ---

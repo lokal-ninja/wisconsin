@@ -1,5 +1,5 @@
 ---
 title: "Anastos Motors"
 url: /kenosha/anastos-motors/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /greenfield/warhammer/
-shop: Spiele
+shop: games
 ---

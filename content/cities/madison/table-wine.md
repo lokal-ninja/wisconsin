@@ -1,5 +1,5 @@
 ---
 title: "Table Wine"
 url: /madison/table-wine/
-shop: Wein
+shop: wine
 ---

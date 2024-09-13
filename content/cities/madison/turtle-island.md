@@ -1,5 +1,5 @@
 ---
 title: "Turtle Island"
 url: /madison/turtle-island/
-shop: Hanf
+shop: cannabis
 ---

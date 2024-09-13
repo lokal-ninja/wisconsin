@@ -1,5 +1,5 @@
 ---
 title: "Eye Candy"
 url: /delafield/eye-candy/
-shop: Modehaus
+shop: boutique
 ---

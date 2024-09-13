@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /cedarburg/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

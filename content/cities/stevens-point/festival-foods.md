@@ -1,5 +1,5 @@
 ---
 title: "Festival Foods"
 url: /stevens-point/festival-foods/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /brookfield/ross/
-shop: Warenhaus
+shop: department store
 ---

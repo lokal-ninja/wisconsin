@@ -1,5 +1,5 @@
 ---
 title: "Lynch Auto Body Inc."
 url: /madison/lynch-auto-body-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

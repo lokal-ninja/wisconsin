@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /ashwaubenon/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

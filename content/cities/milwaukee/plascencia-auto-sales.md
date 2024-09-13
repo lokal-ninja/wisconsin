@@ -1,5 +1,5 @@
 ---
 title: "Plascencia Auto Sales"
 url: /milwaukee/plascencia-auto-sales/
-shop: Autohaus
+shop: car
 ---

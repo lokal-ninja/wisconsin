@@ -1,5 +1,5 @@
 ---
 title: "Hy-Vee"
 url: /fitchburg/hy-vee/
-shop: Supermarkt
+shop: supermarket
 ---

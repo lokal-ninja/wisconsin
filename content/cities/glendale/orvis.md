@@ -1,5 +1,5 @@
 ---
 title: "Orvis"
 url: /glendale/orvis/
-shop: Outdoor
+shop: outdoor
 ---

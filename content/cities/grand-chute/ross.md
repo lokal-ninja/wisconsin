@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /grand-chute/ross/
-shop: Warenhaus
+shop: department store
 ---

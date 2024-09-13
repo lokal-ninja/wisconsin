@@ -1,5 +1,5 @@
 ---
 title: "Pekar's Liquor"
 url: /st-francis/pekars-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

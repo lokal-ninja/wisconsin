@@ -1,5 +1,5 @@
 ---
 title: "Journeys Kidz"
 url: /glendale/journeys-kidz/
-shop: Schuhe
+shop: shoes
 ---

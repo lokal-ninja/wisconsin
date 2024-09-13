@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /menomonie/verizon/
-shop: Handy
+shop: mobile phone
 ---

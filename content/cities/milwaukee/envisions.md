@@ -1,5 +1,5 @@
 ---
 title: "Envisions"
 url: /milwaukee/envisions/
-shop: Kleidung
+shop: clothes
 ---

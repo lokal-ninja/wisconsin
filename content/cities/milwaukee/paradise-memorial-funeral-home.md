@@ -1,5 +1,5 @@
 ---
 title: "Paradise Memorial Funeral Home"
 url: /milwaukee/paradise-memorial-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

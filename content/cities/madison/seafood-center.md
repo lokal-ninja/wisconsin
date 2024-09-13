@@ -1,5 +1,5 @@
 ---
 title: "Seafood Center"
 url: /madison/seafood-center/
-shop: Fisch
+shop: seafood
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /cedar-grove/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

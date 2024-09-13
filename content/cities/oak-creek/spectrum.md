@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /oak-creek/spectrum/
-shop: Handy
+shop: mobile phone
 ---

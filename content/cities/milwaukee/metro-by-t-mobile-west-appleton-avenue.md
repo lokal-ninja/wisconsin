@@ -1,5 +1,5 @@
 ---
 title: "Metro by T-Mobile"
 url: /milwaukee/metro-by-t-mobile-west-appleton-avenue/
-shop: Handy
+shop: mobile phone
 ---

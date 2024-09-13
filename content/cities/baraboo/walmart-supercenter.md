@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /baraboo/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

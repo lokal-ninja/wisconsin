@@ -1,5 +1,5 @@
 ---
 title: "Skechers Outlet"
 url: /greenfield/skechers-outlet/
-shop: Schuhe
+shop: shoes
 ---

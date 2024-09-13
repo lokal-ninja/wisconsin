@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /grafton/michaels/
-shop: Basteln
+shop: craft
 ---

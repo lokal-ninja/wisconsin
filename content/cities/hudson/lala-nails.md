@@ -1,5 +1,5 @@
 ---
 title: "Lala Nails"
 url: /hudson/lala-nails/
-shop: Kosmetik
+shop: beauty
 ---

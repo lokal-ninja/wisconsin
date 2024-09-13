@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /waupun/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

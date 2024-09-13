@@ -1,5 +1,5 @@
 ---
 title: "Wild Roots"
 url: /delafield/wild-roots/
-shop: Friseur
+shop: hairdresser
 ---

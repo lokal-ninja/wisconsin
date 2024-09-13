@@ -1,5 +1,5 @@
 ---
 title: "Catholic Books and Gifts"
 url: /west-allis/catholic-books-and-gifts/
-shop: Bücher
+shop: books
 ---

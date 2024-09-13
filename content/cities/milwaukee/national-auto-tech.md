@@ -1,5 +1,5 @@
 ---
 title: "National Auto Tech"
 url: /milwaukee/national-auto-tech/
-shop: Autowerkstatt
+shop: car repair
 ---

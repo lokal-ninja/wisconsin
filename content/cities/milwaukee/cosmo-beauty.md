@@ -1,5 +1,5 @@
 ---
 title: "Cosmo Beauty"
 url: /milwaukee/cosmo-beauty/
-shop: Kosmetik
+shop: beauty
 ---

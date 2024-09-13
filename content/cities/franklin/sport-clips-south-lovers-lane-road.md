@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /franklin/sport-clips-south-lovers-lane-road/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Simple Sports"
 url: /menomonie/simple-sports/
-shop: Fahrrad
+shop: bicycle
 ---

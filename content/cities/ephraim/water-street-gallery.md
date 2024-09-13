@@ -1,5 +1,5 @@
 ---
 title: "Water Street Gallery"
 url: /ephraim/water-street-gallery/
-shop: Kunst
+shop: art
 ---

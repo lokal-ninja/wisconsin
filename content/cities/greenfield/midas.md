@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /greenfield/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

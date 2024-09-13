@@ -1,5 +1,5 @@
 ---
 title: "Kensington Liquor"
 url: /milwaukee/kensington-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

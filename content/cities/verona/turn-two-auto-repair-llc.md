@@ -1,5 +1,5 @@
 ---
 title: "Turn Two Auto Repair LLC"
 url: /verona/turn-two-auto-repair-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Miller-Reeseman Funeral Home"
 url: /burlington/miller-reeseman-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

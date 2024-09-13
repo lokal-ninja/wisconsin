@@ -1,5 +1,5 @@
 ---
 title: "Rittertech Parkerstore"
 url: /west-milwaukee/rittertech-parkerstore/
-shop: Baustoffe
+shop: trade
 ---

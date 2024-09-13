@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /glendale/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

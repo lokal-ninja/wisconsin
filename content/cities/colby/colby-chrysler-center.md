@@ -1,5 +1,5 @@
 ---
 title: "Colby Chrysler Center"
 url: /colby/colby-chrysler-center/
-shop: Autohaus
+shop: car
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /waukesha/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

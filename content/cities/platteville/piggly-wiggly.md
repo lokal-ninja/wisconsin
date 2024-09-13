@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /platteville/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

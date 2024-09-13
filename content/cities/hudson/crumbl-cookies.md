@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /hudson/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

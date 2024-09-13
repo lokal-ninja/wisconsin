@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /watertown/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

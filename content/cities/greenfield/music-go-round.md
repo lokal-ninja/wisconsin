@@ -1,5 +1,5 @@
 ---
 title: "Music Go Round"
 url: /greenfield/music-go-round/
-shop: Instrumente
+shop: musical instrument
 ---

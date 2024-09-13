@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /delavan/autozone/
-shop: Autoteile
+shop: car parts
 ---

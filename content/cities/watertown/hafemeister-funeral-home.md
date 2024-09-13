@@ -1,5 +1,5 @@
 ---
 title: "Hafemeister Funeral Home"
 url: /watertown/hafemeister-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

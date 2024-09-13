@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /milwaukee/advance-auto-parts-north-teutonia-avenue/
-shop: Autoteile
+shop: car parts
 ---

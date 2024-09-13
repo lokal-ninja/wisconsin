@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /green-bay/target-cormier-road/
-shop: Warenhaus
+shop: department store
 ---

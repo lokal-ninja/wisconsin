@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
 url: /milwaukee/burlington/
-shop: Warenhaus
+shop: department store
 ---

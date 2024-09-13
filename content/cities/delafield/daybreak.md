@@ -1,5 +1,5 @@
 ---
 title: "Daybreak"
 url: /delafield/daybreak/
-shop: Lebensmittel
+shop: convenience
 ---

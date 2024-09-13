@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /madison/party-city-zeier-road/
-shop: Partyzubehör
+shop: party
 ---

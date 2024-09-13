@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /manitowoc/kohls/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /oak-creek/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

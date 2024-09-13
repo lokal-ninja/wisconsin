@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /marinette/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quinn Auto Body"
 url: /west-allis/quinn-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /appleton/petco/
-shop: Tiere
+shop: pet
 ---

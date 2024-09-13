@@ -1,5 +1,5 @@
 ---
 title: "Trusted Gallery"
 url: /milwaukee/trusted-gallery/
-shop: Kleidung
+shop: clothes
 ---

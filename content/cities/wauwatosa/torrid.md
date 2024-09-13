@@ -1,5 +1,5 @@
 ---
 title: "Torrid"
 url: /wauwatosa/torrid/
-shop: Kleidung
+shop: clothes
 ---

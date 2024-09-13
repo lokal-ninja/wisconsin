@@ -1,5 +1,5 @@
 ---
 title: "Half Price Books"
 url: /appleton/half-price-books/
-shop: Bücher
+shop: books
 ---

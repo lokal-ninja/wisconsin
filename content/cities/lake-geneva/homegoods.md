@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /lake-geneva/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Actualink Designs"
 url: /milwaukee/actualink-designs/
-shop: Schneiderei
+shop: tailor
 ---

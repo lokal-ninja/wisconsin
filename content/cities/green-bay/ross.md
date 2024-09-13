@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /green-bay/ross/
-shop: Warenhaus
+shop: department store
 ---

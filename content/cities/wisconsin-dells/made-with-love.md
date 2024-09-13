@@ -1,5 +1,5 @@
 ---
 title: "Made With Love"
 url: /wisconsin-dells/made-with-love/
-shop: Andenken
+shop: gift
 ---

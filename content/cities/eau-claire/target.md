@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /eau-claire/target/
-shop: Warenhaus
+shop: department store
 ---

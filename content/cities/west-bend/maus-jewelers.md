@@ -1,5 +1,5 @@
 ---
 title: "Maus Jewelers"
 url: /west-bend/maus-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

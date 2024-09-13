@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /wauwatosa/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

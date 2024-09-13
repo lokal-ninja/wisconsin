@@ -1,5 +1,5 @@
 ---
 title: "Old Town Cycles"
 url: /madison/old-town-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

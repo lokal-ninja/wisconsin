@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /pleasant-prairie/target/
-shop: Warenhaus
+shop: department store
 ---

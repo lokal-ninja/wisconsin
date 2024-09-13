@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /west-bend/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

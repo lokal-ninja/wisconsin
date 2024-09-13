@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /waukesha/target-kossow-road/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michad Computer Consulting"
 url: /washburn/michad-computer-consulting/
-shop: Computer
+shop: computer
 ---

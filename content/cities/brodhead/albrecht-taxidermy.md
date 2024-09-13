@@ -1,5 +1,5 @@
 ---
 title: "Albrecht Taxidermy"
 url: /brodhead/albrecht-taxidermy/
-shop: Allgemein
+shop: shop
 ---

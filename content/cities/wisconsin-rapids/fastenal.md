@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /wisconsin-rapids/fastenal/
-shop: Baustoffe
+shop: trade
 ---

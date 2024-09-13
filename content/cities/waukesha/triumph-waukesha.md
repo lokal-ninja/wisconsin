@@ -1,5 +1,5 @@
 ---
 title: "Triumph Waukesha"
 url: /waukesha/triumph-waukesha/
-shop: Motorrad
+shop: motorcycle
 ---

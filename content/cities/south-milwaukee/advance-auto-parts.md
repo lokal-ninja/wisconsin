@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /south-milwaukee/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

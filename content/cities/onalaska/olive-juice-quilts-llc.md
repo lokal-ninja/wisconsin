@@ -1,5 +1,5 @@
 ---
 title: "Olive Juice Quilts, LLC"
 url: /onalaska/olive-juice-quilts-llc/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Northwoods Convenience"
 url: /hawkins/northwoods-convenience/
-shop: Lebensmittel
+shop: convenience
 ---

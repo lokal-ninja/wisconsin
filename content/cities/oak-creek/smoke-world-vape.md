@@ -1,5 +1,5 @@
 ---
 title: "Smoke World Vape"
 url: /oak-creek/smoke-world-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

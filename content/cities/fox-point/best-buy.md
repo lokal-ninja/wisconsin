@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /fox-point/best-buy/
-shop: Elektronik
+shop: electronics
 ---

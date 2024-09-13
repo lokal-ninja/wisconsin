@@ -1,5 +1,5 @@
 ---
 title: "Hibbet Sports"
 url: /platteville/hibbet-sports/
-shop: Sport
+shop: sports
 ---

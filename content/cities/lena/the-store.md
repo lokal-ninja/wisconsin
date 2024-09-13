@@ -1,5 +1,5 @@
 ---
 title: "The Store"
 url: /lena/the-store/
-shop: Lebensmittel
+shop: convenience
 ---

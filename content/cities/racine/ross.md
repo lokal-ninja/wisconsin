@@ -1,5 +1,5 @@
 ---
 title: "Ross"
 url: /racine/ross/
-shop: Warenhaus
+shop: department store
 ---

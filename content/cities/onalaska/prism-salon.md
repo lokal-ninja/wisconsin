@@ -1,5 +1,5 @@
 ---
 title: "Prism Salon"
 url: /onalaska/prism-salon/
-shop: Friseur
+shop: hairdresser
 ---

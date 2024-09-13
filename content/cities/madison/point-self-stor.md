@@ -1,5 +1,5 @@
 ---
 title: "Point Self-Stor"
 url: /madison/point-self-stor/
-shop: Mieten
+shop: storage rental
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Water Street Self-Storage"
 url: /milwaukee/water-street-self-storage/
-shop: Mieten
+shop: storage rental
 ---

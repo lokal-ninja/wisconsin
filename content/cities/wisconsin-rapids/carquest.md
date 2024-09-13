@@ -1,5 +1,5 @@
 ---
 title: "Carquest"
 url: /wisconsin-rapids/carquest/
-shop: Autoteile
+shop: car parts
 ---

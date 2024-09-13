@@ -1,5 +1,5 @@
 ---
 title: "Gamechangers"
 url: /milwaukee/gamechangers/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /eau-claire/petco/
-shop: Tiere
+shop: pet
 ---

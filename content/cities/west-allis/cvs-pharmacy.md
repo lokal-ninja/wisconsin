@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /west-allis/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

@@ -1,5 +1,5 @@
 ---
 title: "EZ Self Storage"
 url: /milwaukee/ez-self-storage/
-shop: Mieten
+shop: storage rental
 ---

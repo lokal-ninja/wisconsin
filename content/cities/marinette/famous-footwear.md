@@ -1,5 +1,5 @@
 ---
 title: "Famous Footwear"
 url: /marinette/famous-footwear/
-shop: Schuhe
+shop: shoes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Phase II Skateshop"
 url: /wauwatosa/phase-ii-skateshop/
-shop: Allgemein
+shop: shop
 ---

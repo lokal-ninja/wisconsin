@@ -1,5 +1,5 @@
 ---
 title: "Mattress Galaxy"
 url: /hudson/mattress-galaxy/
-shop: Betten
+shop: bed
 ---

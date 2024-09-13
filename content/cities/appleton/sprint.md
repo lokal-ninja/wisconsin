@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /appleton/sprint/
-shop: Handy
+shop: mobile phone
 ---

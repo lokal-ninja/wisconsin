@@ -1,5 +1,5 @@
 ---
 title: "Spectrum"
 url: /mount-pleasant/spectrum/
-shop: Handy
+shop: mobile phone
 ---

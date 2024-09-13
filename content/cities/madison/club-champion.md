@@ -1,5 +1,5 @@
 ---
 title: "Club Champion"
 url: /madison/club-champion/
-shop: Sport
+shop: sports
 ---

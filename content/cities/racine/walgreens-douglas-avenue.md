@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /racine/walgreens-douglas-avenue/
-shop: Drogerie
+shop: chemist
 ---

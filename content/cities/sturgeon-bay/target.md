@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sturgeon-bay/target/
-shop: Warenhaus
+shop: department store
 ---

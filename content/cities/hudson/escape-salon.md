@@ -1,5 +1,5 @@
 ---
 title: "Escape Salon"
 url: /hudson/escape-salon/
-shop: Kosmetik
+shop: beauty
 ---

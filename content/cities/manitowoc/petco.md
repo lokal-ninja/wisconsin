@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /manitowoc/petco/
-shop: Tiere
+shop: pet
 ---

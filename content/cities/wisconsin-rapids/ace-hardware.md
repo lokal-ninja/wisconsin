@@ -1,5 +1,5 @@
 ---
 title: "Ace Hardware"
 url: /wisconsin-rapids/ace-hardware/
-shop: Baumarkt
+shop: doityourself
 ---

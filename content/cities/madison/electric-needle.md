@@ -1,5 +1,5 @@
 ---
 title: "Electric Needle"
 url: /madison/electric-needle/
-shop: Nähzubehör
+shop: sewing
 ---

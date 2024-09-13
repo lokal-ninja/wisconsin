@@ -1,5 +1,5 @@
 ---
 title: "Epic Nail Spa"
 url: /franklin/epic-nail-spa/
-shop: Kosmetik
+shop: beauty
 ---

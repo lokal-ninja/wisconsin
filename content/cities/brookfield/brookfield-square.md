@@ -1,5 +1,5 @@
 ---
 title: "Brookfield Square"
 url: /brookfield/brookfield-square/
-shop: Einkaufszentrum
+shop: mall
 ---

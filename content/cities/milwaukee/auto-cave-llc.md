@@ -1,5 +1,5 @@
 ---
 title: "Auto Cave LLC"
 url: /milwaukee/auto-cave-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

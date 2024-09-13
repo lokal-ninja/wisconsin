@@ -1,5 +1,5 @@
 ---
 title: "U-Haul"
 url: /baraboo/u-haul/
-shop: Mieten
+shop: storage rental
 ---

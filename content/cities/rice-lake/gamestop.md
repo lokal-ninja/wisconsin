@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /rice-lake/gamestop/
-shop: Videospiele
+shop: video games
 ---

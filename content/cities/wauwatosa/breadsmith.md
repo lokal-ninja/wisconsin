@@ -1,5 +1,5 @@
 ---
 title: "Breadsmith"
 url: /wauwatosa/breadsmith/
-shop: Bäckerei
+shop: bakery
 ---

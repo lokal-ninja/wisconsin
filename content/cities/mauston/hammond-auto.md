@@ -1,5 +1,5 @@
 ---
 title: "Hammond Auto"
 url: /mauston/hammond-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

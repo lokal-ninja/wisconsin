@@ -1,5 +1,5 @@
 ---
 title: "4 Seasons Auto"
 url: /milwaukee/4-seasons-auto/
-shop: Autohaus
+shop: car
 ---

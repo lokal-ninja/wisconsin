@@ -1,5 +1,5 @@
 ---
 title: "Cricket Wireless"
 url: /west-allis/cricket-wireless/
-shop: Handy
+shop: mobile phone
 ---

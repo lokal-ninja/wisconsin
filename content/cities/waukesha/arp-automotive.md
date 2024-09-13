@@ -1,5 +1,5 @@
 ---
 title: "ARP Automotive"
 url: /waukesha/arp-automotive/
-shop: Autohaus
+shop: car
 ---

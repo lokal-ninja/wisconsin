@@ -1,5 +1,5 @@
 ---
 title: "The Laundry Basket"
 url: /oak-creek/the-laundry-basket/
-shop: Wäscherei
+shop: laundry
 ---

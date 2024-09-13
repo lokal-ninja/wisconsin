@@ -1,5 +1,5 @@
 ---
 title: "River Stop"
 url: /trempealeau/river-stop/
-shop: Lebensmittel
+shop: convenience
 ---

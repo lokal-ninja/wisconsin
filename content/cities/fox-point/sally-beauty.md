@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /fox-point/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

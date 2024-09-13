@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /grafton/target/
-shop: Warenhaus
+shop: department store
 ---

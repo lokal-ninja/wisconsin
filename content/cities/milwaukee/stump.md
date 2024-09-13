@@ -1,5 +1,5 @@
 ---
 title: "Stump"
 url: /milwaukee/stump/
-shop: Garten-Center
+shop: garden centre
 ---

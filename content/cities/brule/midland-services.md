@@ -1,5 +1,5 @@
 ---
 title: "Midland Services"
 url: /brule/midland-services/
-shop: Lebensmittel
+shop: convenience
 ---

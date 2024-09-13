@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /milwaukee/valvoline-west-silver-spring-drive/
-shop: Autowerkstatt
+shop: car repair
 ---

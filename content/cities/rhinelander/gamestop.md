@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /rhinelander/gamestop/
-shop: Videospiele
+shop: video games
 ---

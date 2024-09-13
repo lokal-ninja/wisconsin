@@ -1,5 +1,5 @@
 ---
 title: "Tiffany's Dessert Bar"
 url: /glendale/tiffanys-dessert-bar/
-shop: Bäckerei
+shop: bakery
 ---

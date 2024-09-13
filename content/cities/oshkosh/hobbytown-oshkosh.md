@@ -1,5 +1,5 @@
 ---
 title: "HobbyTown Oshkosh"
 url: /oshkosh/hobbytown-oshkosh/
-shop: Spielzeug
+shop: toys
 ---

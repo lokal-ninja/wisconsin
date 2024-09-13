@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /mauston/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "GATES AUTO"
 url: /sturtevant/gates-auto/
-shop: Autohaus
+shop: car
 ---

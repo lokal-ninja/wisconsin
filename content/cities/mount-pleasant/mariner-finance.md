@@ -1,5 +1,5 @@
 ---
-title: "MARINER FINANCE"
+title: "Mariner Finance"
 url: /mount-pleasant/mariner-finance/
-shop: Leiher
+shop: pawnbroker
 ---

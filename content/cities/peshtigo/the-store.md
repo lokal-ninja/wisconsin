@@ -1,5 +1,5 @@
 ---
 title: "The Store"
 url: /peshtigo/the-store/
-shop: Lebensmittel
+shop: convenience
 ---

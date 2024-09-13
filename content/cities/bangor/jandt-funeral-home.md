@@ -1,5 +1,5 @@
 ---
 title: "Jandt Funeral Home"
 url: /bangor/jandt-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

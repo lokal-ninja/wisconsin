@@ -1,5 +1,5 @@
 ---
 title: "Specs Appeal"
 url: /glendale/specs-appeal/
-shop: Optiker
+shop: optician
 ---

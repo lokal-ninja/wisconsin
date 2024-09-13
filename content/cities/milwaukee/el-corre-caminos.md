@@ -1,5 +1,5 @@
 ---
 title: "El Corre Caminos"
 url: /milwaukee/el-corre-caminos/
-shop: Handy
+shop: mobile phone
 ---

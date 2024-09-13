@@ -1,5 +1,5 @@
 ---
 title: "Weaver Auto Parts"
 url: /oregon/weaver-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

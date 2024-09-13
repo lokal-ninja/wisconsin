@@ -1,5 +1,5 @@
 ---
 title: "Kuyoth's Klassics"
 url: /stratford/kuyoths-klassics/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "My Villa HOME DECOR"
 url: /cable/my-villa-home-decor/
-shop: Raumausstattung
+shop: interior decoration
 ---

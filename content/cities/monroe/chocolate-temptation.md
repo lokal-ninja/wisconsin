@@ -1,5 +1,5 @@
 ---
 title: "Chocolate Temptation"
 url: /monroe/chocolate-temptation/
-shop: Schokolade
+shop: chocolate
 ---

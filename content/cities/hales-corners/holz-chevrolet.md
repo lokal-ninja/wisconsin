@@ -1,5 +1,5 @@
 ---
 title: "Holz Chevrolet"
 url: /hales-corners/holz-chevrolet/
-shop: Autohaus
+shop: car
 ---

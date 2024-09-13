@@ -1,5 +1,5 @@
 ---
 title: "Farwell Food Mart"
 url: /milwaukee/farwell-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

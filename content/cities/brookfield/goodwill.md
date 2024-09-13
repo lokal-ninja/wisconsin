@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /brookfield/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

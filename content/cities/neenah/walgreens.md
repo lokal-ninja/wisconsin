@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /neenah/walgreens/
-shop: Drogerie
+shop: chemist
 ---

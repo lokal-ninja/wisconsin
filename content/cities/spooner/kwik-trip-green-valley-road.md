@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /spooner/kwik-trip-green-valley-road/
-shop: Lebensmittel
+shop: convenience
 ---

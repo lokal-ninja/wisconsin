@@ -1,5 +1,5 @@
 ---
 title: "Meijer"
 url: /pewaukee/meijer/
-shop: Supermarkt
+shop: supermarket
 ---

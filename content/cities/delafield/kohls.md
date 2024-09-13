@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /delafield/kohls/
-shop: Warenhaus
+shop: department store
 ---

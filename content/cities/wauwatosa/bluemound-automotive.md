@@ -1,5 +1,5 @@
 ---
 title: "Bluemound Automotive"
 url: /wauwatosa/bluemound-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Milwaukee Wireless"
 url: /milwaukee/milwaukee-wireless/
-shop: Handy
+shop: mobile phone
 ---

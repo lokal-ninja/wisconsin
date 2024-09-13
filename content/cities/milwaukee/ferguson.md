@@ -1,5 +1,5 @@
 ---
 title: "Ferguson"
 url: /milwaukee/ferguson/
-shop: Baustoffe
+shop: trade
 ---

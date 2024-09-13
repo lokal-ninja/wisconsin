@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /ashland/kwik-trip-lake-shore-drive-west/
-shop: Lebensmittel
+shop: convenience
 ---

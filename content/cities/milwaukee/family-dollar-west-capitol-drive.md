@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /milwaukee/family-dollar-west-capitol-drive/
-shop: Kramladen
+shop: variety store
 ---

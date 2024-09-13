@@ -1,5 +1,5 @@
 ---
 title: "A Summer's Garden Florist"
 url: /kenosha/a-summers-garden-florist/
-shop: Blumen
+shop: florist
 ---

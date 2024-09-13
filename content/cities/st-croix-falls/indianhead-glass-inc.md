@@ -1,5 +1,5 @@
 ---
 title: "Indianhead Glass Inc."
 url: /st-croix-falls/indianhead-glass-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

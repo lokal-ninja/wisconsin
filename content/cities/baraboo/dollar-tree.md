@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /baraboo/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

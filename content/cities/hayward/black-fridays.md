@@ -1,5 +1,5 @@
 ---
 title: "Black Fridays"
 url: /hayward/black-fridays/
-shop: Kramladen
+shop: variety store
 ---

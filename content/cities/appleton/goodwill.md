@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /appleton/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

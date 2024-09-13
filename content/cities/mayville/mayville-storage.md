@@ -1,5 +1,5 @@
 ---
 title: "Mayville Storage"
 url: /mayville/mayville-storage/
-shop: Mieten
+shop: storage rental
 ---

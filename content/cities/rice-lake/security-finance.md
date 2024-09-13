@@ -1,5 +1,5 @@
 ---
 title: "Security Finance"
 url: /rice-lake/security-finance/
-shop: Leiher
+shop: pawnbroker
 ---

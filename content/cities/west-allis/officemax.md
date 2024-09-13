@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /west-allis/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Valvoline"
 url: /waukesha/valvoline/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Evereve"
 url: /glendale/evereve/
-shop: Kleidung
+shop: clothes
 ---

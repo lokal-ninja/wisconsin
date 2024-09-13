@@ -1,5 +1,5 @@
 ---
 title: "Trendz"
 url: /oconomowoc/trendz/
-shop: Kleidung
+shop: clothes
 ---

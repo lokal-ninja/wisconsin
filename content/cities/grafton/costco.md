@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /grafton/costco/
-shop: Großhandel
+shop: wholesale
 ---

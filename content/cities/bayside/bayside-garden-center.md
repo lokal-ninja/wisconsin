@@ -1,5 +1,5 @@
 ---
 title: "Bayside Garden Center"
 url: /bayside/bayside-garden-center/
-shop: Garten-Center
+shop: garden centre
 ---

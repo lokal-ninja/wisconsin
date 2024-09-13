@@ -1,5 +1,5 @@
 ---
 title: "Finnegans' RV Center"
 url: /south-beloit/finnegans-rv-center/
-shop: Wohnwagen
+shop: caravan
 ---

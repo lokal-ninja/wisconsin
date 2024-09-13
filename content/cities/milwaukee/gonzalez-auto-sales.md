@@ -1,5 +1,5 @@
 ---
 title: "Gonzalez Auto Sales"
 url: /milwaukee/gonzalez-auto-sales/
-shop: Autohaus
+shop: car
 ---

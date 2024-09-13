@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /saint-croix-falls/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

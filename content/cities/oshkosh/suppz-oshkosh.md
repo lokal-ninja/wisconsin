@@ -1,5 +1,5 @@
 ---
 title: "Suppz - Oshkosh"
 url: /oshkosh/suppz-oshkosh/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

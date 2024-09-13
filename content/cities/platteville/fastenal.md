@@ -1,5 +1,5 @@
 ---
 title: "Fastenal"
 url: /platteville/fastenal/
-shop: Baustoffe
+shop: trade
 ---

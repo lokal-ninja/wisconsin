@@ -1,5 +1,5 @@
 ---
 title: "Shell"
 url: /plover/shell/
-shop: Lebensmittel
+shop: convenience
 ---

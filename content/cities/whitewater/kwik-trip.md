@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /whitewater/kwik-trip/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McFarland Liquor"
 url: /mcfarland/mcfarland-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

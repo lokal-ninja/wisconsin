@@ -1,5 +1,5 @@
 ---
 title: "Pick 'n Save"
 url: /west-allis/pick-n-save/
-shop: Supermarkt
+shop: supermarket
 ---

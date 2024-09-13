@@ -1,5 +1,5 @@
 ---
 title: "Independent Amsoil Dealer"
 url: /eagle/independent-amsoil-dealer/
-shop: Autowerkstatt
+shop: car repair
 ---

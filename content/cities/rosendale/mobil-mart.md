@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /rosendale/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /appleton/target/
-shop: Warenhaus
+shop: department store
 ---

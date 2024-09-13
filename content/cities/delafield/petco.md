@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /delafield/petco/
-shop: Tiere
+shop: pet
 ---

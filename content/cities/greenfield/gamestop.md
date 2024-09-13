@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /greenfield/gamestop/
-shop: Videospiele
+shop: video games
 ---

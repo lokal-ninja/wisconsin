@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /lake-geneva/gamestop/
-shop: Videospiele
+shop: video games
 ---

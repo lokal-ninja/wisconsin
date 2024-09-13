@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /monona/verizon/
-shop: Handy
+shop: mobile phone
 ---

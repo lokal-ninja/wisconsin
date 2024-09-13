@@ -1,5 +1,5 @@
 ---
 title: "Door Peninsula Winery"
 url: /sturgeon-bay/door-peninsula-winery/
-shop: Wein
+shop: wine
 ---

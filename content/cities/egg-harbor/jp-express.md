@@ -1,5 +1,5 @@
 ---
 title: "JP Express"
 url: /egg-harbor/jp-express/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PrintGraphix"
 url: /greenfield/printgraphix/
-shop: Kopieren
+shop: copyshop
 ---

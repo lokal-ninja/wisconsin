@@ -1,5 +1,5 @@
 ---
 title: "Mannheim Milwaukee"
 url: /caledonia/mannheim-milwaukee/
-shop: Autohaus
+shop: car
 ---

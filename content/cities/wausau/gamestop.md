@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /wausau/gamestop/
-shop: Videospiele
+shop: video games
 ---

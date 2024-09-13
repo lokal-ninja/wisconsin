@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /crivitz/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

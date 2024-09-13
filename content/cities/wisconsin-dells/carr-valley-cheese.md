@@ -1,5 +1,5 @@
 ---
 title: "Carr Valley Cheese"
 url: /wisconsin-dells/carr-valley-cheese/
-shop: Käse
+shop: cheese
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bella Beauty Salon"
 url: /milwaukee/bella-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

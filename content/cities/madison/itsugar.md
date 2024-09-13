@@ -1,5 +1,5 @@
 ---
 title: "IT'SUGAR"
 url: /madison/itsugar/
-shop: Süßwaren
+shop: confectionery
 ---

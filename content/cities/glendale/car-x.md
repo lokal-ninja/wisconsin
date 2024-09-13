@@ -1,5 +1,5 @@
 ---
 title: "Car-X"
 url: /glendale/car-x/
-shop: Autowerkstatt
+shop: car repair
 ---

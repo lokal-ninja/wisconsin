@@ -1,5 +1,5 @@
 ---
 title: "Andare Sports"
 url: /fox-point/andare-sports/
-shop: Schuhe
+shop: shoes
 ---

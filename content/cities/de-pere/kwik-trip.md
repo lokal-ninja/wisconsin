@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /de-pere/kwik-trip/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /neenah/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

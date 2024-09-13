@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /onalaska/sport-clips/
-shop: Friseur
+shop: hairdresser
 ---

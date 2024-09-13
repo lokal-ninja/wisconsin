@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /plover/gamestop/
-shop: Videospiele
+shop: video games
 ---

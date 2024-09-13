@@ -1,5 +1,5 @@
 ---
 title: "Steinhafels Furniture"
 url: /oak-creek/steinhafels-furniture/
-shop: Möbel
+shop: furniture
 ---

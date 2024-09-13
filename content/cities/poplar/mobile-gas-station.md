@@ -1,5 +1,5 @@
 ---
 title: "Mobile Gas Station"
 url: /poplar/mobile-gas-station/
-shop: Lebensmittel
+shop: convenience
 ---

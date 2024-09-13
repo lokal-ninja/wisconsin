@@ -1,5 +1,5 @@
 ---
 title: "Autoflex"
 url: /milwaukee/autoflex/
-shop: Autohaus
+shop: car
 ---

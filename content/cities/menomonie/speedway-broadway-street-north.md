@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /menomonie/speedway-broadway-street-north/
-shop: Lebensmittel
+shop: convenience
 ---

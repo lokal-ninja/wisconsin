@@ -1,5 +1,5 @@
 ---
 title: "Climastore"
 url: /kimberly/climastore/
-shop: Mieten
+shop: storage rental
 ---

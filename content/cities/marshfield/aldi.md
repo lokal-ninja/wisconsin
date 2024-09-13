@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /marshfield/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

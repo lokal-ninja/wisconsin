@@ -1,5 +1,5 @@
 ---
 title: "Kenosha Nissan"
 url: /bristol/kenosha-nissan/
-shop: Autohaus
+shop: car
 ---

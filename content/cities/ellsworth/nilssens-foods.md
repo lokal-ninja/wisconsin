@@ -1,5 +1,5 @@
 ---
 title: "Nilssen's Foods"
 url: /ellsworth/nilssens-foods/
-shop: Supermarkt
+shop: supermarket
 ---

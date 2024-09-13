@@ -1,5 +1,5 @@
 ---
 title: "O'Reilly Auto Parts"
 url: /watertown/oreilly-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

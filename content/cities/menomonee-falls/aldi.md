@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /menomonee-falls/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

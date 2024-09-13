@@ -1,5 +1,5 @@
 ---
 title: "Berg"
 url: /evansville/berg/
-shop: Immobilien
+shop: estate agent
 ---

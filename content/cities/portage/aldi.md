@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /portage/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

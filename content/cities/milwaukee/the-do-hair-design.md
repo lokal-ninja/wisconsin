@@ -1,5 +1,5 @@
 ---
 title: "The ‘Do Hair Design"
 url: /milwaukee/the-do-hair-design/
-shop: Friseur
+shop: hairdresser
 ---

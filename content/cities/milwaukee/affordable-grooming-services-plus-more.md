@@ -1,5 +1,5 @@
 ---
 title: "Affordable Grooming Services Plus More"
 url: /milwaukee/affordable-grooming-services-plus-more/
-shop: Tiersalon
+shop: pet grooming
 ---

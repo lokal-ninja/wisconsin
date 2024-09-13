@@ -1,5 +1,5 @@
 ---
 title: "Cenex"
 url: /westby/cenex/
-shop: Lebensmittel
+shop: convenience
 ---

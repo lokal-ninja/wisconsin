@@ -1,5 +1,5 @@
 ---
 title: "Monroe Street Framing"
 url: /madison/monroe-street-framing/
-shop: Rahmen
+shop: frame
 ---

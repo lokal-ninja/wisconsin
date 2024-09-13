@@ -1,5 +1,5 @@
 ---
 title: "NAPA Auto Parts"
 url: /rice-lake/napa-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

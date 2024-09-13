@@ -1,5 +1,5 @@
 ---
 title: "Welcome Mart:)"
 url: /racine/welcome-mart/
-shop: Lebensmittel
+shop: convenience
 ---

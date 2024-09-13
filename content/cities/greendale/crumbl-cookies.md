@@ -1,5 +1,5 @@
 ---
 title: "Crumbl Cookies"
 url: /greendale/crumbl-cookies/
-shop: Konditorei
+shop: pastry
 ---

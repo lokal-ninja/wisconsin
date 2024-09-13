@@ -1,5 +1,5 @@
 ---
 title: "Leo's Service LLC"
 url: /winneconne/leos-service-llc/
-shop: Autowerkstatt
+shop: car repair
 ---

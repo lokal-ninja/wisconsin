@@ -1,5 +1,5 @@
 ---
 title: "Pilgrim Petro"
 url: /menomonee-falls/pilgrim-petro/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /milwaukee/autozone-north-76th-street/
-shop: Autoteile
+shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cost Cutters"
 url: /marinette/cost-cutters/
-shop: Friseur
+shop: hairdresser
 ---

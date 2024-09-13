@@ -1,5 +1,5 @@
 ---
 title: "Northshore Funeral Services"
 url: /shorewood/northshore-funeral-services/
-shop: Bestattungen
+shop: funeral directors
 ---

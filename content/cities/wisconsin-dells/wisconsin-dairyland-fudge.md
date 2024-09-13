@@ -1,5 +1,5 @@
 ---
 title: "Wisconsin Dairyland Fudge"
 url: /wisconsin-dells/wisconsin-dairyland-fudge/
-shop: Süßwaren
+shop: confectionery
 ---

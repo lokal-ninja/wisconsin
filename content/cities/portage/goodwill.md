@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /portage/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

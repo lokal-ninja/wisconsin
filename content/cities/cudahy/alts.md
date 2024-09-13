@@ -1,5 +1,5 @@
 ---
 title: "Alt's"
 url: /cudahy/alts/
-shop: Antiquitäten
+shop: antiques
 ---

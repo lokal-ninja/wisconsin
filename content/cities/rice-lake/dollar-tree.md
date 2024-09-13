@@ -1,5 +1,5 @@
 ---
 title: "Dollar Tree"
 url: /rice-lake/dollar-tree/
-shop: Kramladen
+shop: variety store
 ---

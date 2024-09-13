@@ -1,5 +1,5 @@
 ---
 title: "Trendsetters"
 url: /burlington/trendsetters/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cernohous Chevrolet"
 url: /prescott/cernohous-chevrolet/
-shop: Autohaus
+shop: car
 ---

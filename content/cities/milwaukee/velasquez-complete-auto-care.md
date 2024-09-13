@@ -1,5 +1,5 @@
 ---
 title: "Velasquez Complete Auto Care"
 url: /milwaukee/velasquez-complete-auto-care/
-shop: Autowerkstatt
+shop: car repair
 ---

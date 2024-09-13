@@ -1,5 +1,5 @@
 ---
 title: "Coco Nails"
 url: /rice-lake/coco-nails/
-shop: Kosmetik
+shop: beauty
 ---

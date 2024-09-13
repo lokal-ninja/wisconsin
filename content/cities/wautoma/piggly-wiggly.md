@@ -1,5 +1,5 @@
 ---
 title: "Piggly Wiggly"
 url: /wautoma/piggly-wiggly/
-shop: Supermarkt
+shop: supermarket
 ---

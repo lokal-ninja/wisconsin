@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /madison/target-state-street/
-shop: Warenhaus
+shop: department store
 ---

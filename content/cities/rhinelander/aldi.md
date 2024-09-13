@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /rhinelander/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

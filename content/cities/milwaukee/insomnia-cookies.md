@@ -1,5 +1,5 @@
 ---
 title: "Insomnia Cookies"
 url: /milwaukee/insomnia-cookies/
-shop: Konditorei
+shop: pastry
 ---

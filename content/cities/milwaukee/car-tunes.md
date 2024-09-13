@@ -1,5 +1,5 @@
 ---
 title: "Car Tunes"
 url: /milwaukee/car-tunes/
-shop: Autowerkstatt
+shop: car repair
 ---

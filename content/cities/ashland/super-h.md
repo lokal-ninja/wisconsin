@@ -1,5 +1,5 @@
 ---
 title: "Super H"
 url: /ashland/super-h/
-shop: Supermarkt
+shop: supermarket
 ---

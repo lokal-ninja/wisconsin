@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /sun-prairie/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wilson Funeral Home"
 url: /racine/wilson-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

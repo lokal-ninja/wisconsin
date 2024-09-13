@@ -1,5 +1,5 @@
 ---
 title: "Beltone Hearing Aid Center"
 url: /rice-lake/beltone-hearing-aid-center/
-shop: Hörgeräte
+shop: hearing aids
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /milwaukee/kohls-west-wisconsin-avenue/
-shop: Warenhaus
+shop: department store
 ---

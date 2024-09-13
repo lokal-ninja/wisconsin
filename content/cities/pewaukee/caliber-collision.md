@@ -1,5 +1,5 @@
 ---
 title: "Caliber Collision"
 url: /pewaukee/caliber-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

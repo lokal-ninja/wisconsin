@@ -1,5 +1,5 @@
 ---
 title: "Cougar Shell"
 url: /coleman/cougar-shell/
-shop: Lebensmittel
+shop: convenience
 ---

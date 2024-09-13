@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /brookfield/michaels/
-shop: Basteln
+shop: craft
 ---

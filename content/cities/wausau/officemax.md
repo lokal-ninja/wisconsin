@@ -1,5 +1,5 @@
 ---
 title: "OfficeMax"
 url: /wausau/officemax/
-shop: Schreibwaren
+shop: office supplies
 ---

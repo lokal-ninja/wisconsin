@@ -1,5 +1,5 @@
 ---
 title: "Costco"
 url: /middleton/costco/
-shop: Großhandel
+shop: wholesale
 ---

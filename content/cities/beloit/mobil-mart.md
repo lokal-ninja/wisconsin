@@ -1,5 +1,5 @@
 ---
 title: "Mobil Mart"
 url: /beloit/mobil-mart/
-shop: Lebensmittel
+shop: convenience
 ---

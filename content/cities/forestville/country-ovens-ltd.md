@@ -1,5 +1,5 @@
 ---
 title: "Country Ovens Ltd"
 url: /forestville/country-ovens-ltd/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pepper Palace"
 url: /wisconsin-dells/pepper-palace/
-shop: Gewürze
+shop: spices
 ---

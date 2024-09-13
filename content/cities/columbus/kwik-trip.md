@@ -1,5 +1,5 @@
 ---
 title: "Kwik Trip"
 url: /columbus/kwik-trip/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Porterfield Pit Stop"
 url: /marinette/porterfield-pit-stop/
-shop: Lebensmittel
+shop: convenience
 ---

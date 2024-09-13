@@ -1,5 +1,5 @@
 ---
 title: "Lisbon Foods"
 url: /milwaukee/lisbon-foods/
-shop: Lebensmittel
+shop: convenience
 ---

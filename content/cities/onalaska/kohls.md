@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
 url: /onalaska/kohls/
-shop: Warenhaus
+shop: department store
 ---

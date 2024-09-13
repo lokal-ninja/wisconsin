@@ -1,5 +1,5 @@
 ---
 title: "Avenue Fabricare Cleaners"
 url: /milwaukee/avenue-fabricare-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /oshkosh/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

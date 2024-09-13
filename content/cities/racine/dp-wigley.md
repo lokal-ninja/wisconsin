@@ -1,5 +1,5 @@
 ---
 title: "DP Wigley"
 url: /racine/dp-wigley/
-shop: Garten-Center
+shop: garden centre
 ---
