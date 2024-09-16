@@ -1,11 +1,11 @@
 id: 734029483
-type: way
+type: node
 latitude: 42.97487
 longitude: -88.10979
 postcode: "53151"
 city: New Berlin
-street: "South Moorland Road"
-housenumber: 3855
+street: South Moorland Road
+housenumber: "3855"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.walgreens.com/locator/walgreens-3855+s+moorland+rd-new+berlin-wi-53151/id=7259"
+opening_hours: 24/7
+website: https://www.walgreens.com/locator/walgreens-3855+s+moorland+rd-new+berlin-wi-53151/id=7259

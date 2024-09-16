@@ -1,11 +1,11 @@
 id: 979898959
-type: way
+type: node
 latitude: 45.10637
 longitude: -91.48903
 postcode: "54724"
 city: Bloomer
-street: "Main Street"
-housenumber: 919
-phone: "+1-715-568-2511"
-opening_hours: "Mo-Fr 06:30-17:30; Sa 07:30-12:00"
-website: "https://www.napaonline.com/stores/wi/bloomer/919-main-st."
+street: Main Street
+housenumber: "919"
+phone: +1-715-568-2511
+opening_hours: Mo-Fr 06:30-17:30; Sa 07:30-12:00
+website: https://www.napaonline.com/stores/wi/bloomer/919-main-st.

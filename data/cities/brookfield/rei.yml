@@ -1,11 +1,11 @@
 id: 758541520
-type: way
+type: node
 latitude: 43.09031
 longitude: -88.07472
 postcode: "53005"
 city: Brookfield
-street: "West Capitol Drive"
-housenumber: 13100
-phone: "+1-262-783-6150"
+street: West Capitol Drive
+housenumber: "13100"
+phone: +1-262-783-6150
 opening_hours: ""
-website: "https://www.rei.com/stores/brookfield"
+website: https://www.rei.com/stores/brookfield

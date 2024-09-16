@@ -1,11 +1,11 @@
 id: 664019212
-type: way
+type: node
 latitude: 42.94616
 longitude: -87.94715
 postcode: "53221"
 city: Milwaukee
-street: "South 27th Street"
-housenumber: 5400
+street: South 27th Street
+housenumber: "5400"
 phone: ""
 opening_hours: ""
 website: ""

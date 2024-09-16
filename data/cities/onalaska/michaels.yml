@@ -1,11 +1,11 @@
 id: 258660360
-type: way
+type: node
 latitude: 43.86898
 longitude: -91.20371
 postcode: "54650"
 city: Onalaska
-street: "Saint Highway 16, Stes 100"
-housenumber: 9348
-phone: "+1 608-406-2767"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/wi/onalaska/5150"
+street: Saint Highway 16, Stes 100
+housenumber: "9348"
+phone: +1 608-406-2767
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/wi/onalaska/5150

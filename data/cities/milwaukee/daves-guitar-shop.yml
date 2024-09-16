@@ -4,8 +4,8 @@ latitude: 43.02173
 longitude: -87.91668
 postcode: "53204"
 city: Milwaukee
-street: "South 5th Street"
-housenumber: 914
+street: South 5th Street
+housenumber: "914"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off"
-website: "https://www.davesguitar.com/pages/milwaukee"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-17:00; Su off
+website: https://www.davesguitar.com/pages/milwaukee

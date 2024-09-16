@@ -1,11 +1,11 @@
 id: 803775524
-type: way
+type: node
 latitude: 45.32001
 longitude: -92.70418
 postcode: "54020"
 city: Osceola
-street: "Chieftain Street"
-housenumber: 112
+street: Chieftain Street
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://dicksfreshmarket.com/"
+website: https://dicksfreshmarket.com/

@@ -1,11 +1,11 @@
 id: 943030224
-type: way
+type: node
 latitude: 46.85043
 longitude: -90.79015
 postcode: "54814"
 city: Bayfield
-street: "Dock Road"
-housenumber: 37525
+street: Dock Road
+housenumber: "37525"
 phone: ""
 opening_hours: ""
-website: "http://redclifffish.com/"
+website: http://redclifffish.com/

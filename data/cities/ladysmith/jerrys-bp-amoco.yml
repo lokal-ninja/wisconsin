@@ -1,11 +1,11 @@
 id: 360169938
-type: way
+type: node
 latitude: 45.46479
 longitude: -91.10169
 postcode: "54848"
 city: Ladysmith
-street: "Lake Avenue West"
-housenumber: 112
+street: Lake Avenue West
+housenumber: "112"
 phone: ""
 opening_hours: ""
-website: "https://www.jerrysamocoautorepair.com/"
+website: https://www.jerrysamocoautorepair.com/

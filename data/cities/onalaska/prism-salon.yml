@@ -1,11 +1,11 @@
 id: 1143661732
-type: way
+type: node
 latitude: 43.88298
 longitude: -91.23272
 postcode: "54650"
 city: Onalaska
-street: "Main Street"
-housenumber: 304
-phone: "+1-608-797-7768"
+street: Main Street
+housenumber: "304"
+phone: +1-608-797-7768
 opening_hours: ""
-website: "https://www.facebook.com/PrismSalonLLC"
+website: https://www.facebook.com/PrismSalonLLC

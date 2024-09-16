@@ -1,11 +1,11 @@
 id: 124476424
-type: way
+type: node
 latitude: 43.05759
 longitude: -89.52264
 postcode: "53719"
 city: Madison
-street: "Commerce Drive"
-housenumber: 3690
-phone: "+1 608 833 9090"
+street: Commerce Drive
+housenumber: "3690"
+phone: +1 608 833 9090
 opening_hours: ""
-website: "https://pointselfstor.com/"
+website: https://pointselfstor.com/

@@ -1,11 +1,11 @@
 id: 786323943
-type: way
+type: node
 latitude: 45.0991
 longitude: -87.62904
 postcode: "54143"
 city: Marinette
-street: "Main Street"
-housenumber: 1622
+street: Main Street
+housenumber: "1622"
 phone: ""
 opening_hours: ""
 website: ""

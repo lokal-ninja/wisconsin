@@ -1,11 +1,11 @@
 id: 664024951
-type: way
+type: node
 latitude: 42.95274
 longitude: -88.00688
 postcode: "53220"
 city: Greenfield
-street: "South 74th Street"
-housenumber: 5005
-phone: "+1 414-282-7586"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/wi/greenfield-store1631.html"
+street: South 74th Street
+housenumber: "5005"
+phone: +1 414-282-7586
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/wi/greenfield-store1631.html

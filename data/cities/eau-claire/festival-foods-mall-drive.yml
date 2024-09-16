@@ -1,11 +1,11 @@
 id: 559762726
-type: way
+type: node
 latitude: 44.78863
 longitude: -91.46079
 postcode: "54701"
 city: Eau Claire
-street: "Mall Drive"
-housenumber: 3007
-phone: "+1-715-838-1000"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.festfoods.com/"
+street: Mall Drive
+housenumber: "3007"
+phone: +1-715-838-1000
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.festfoods.com/

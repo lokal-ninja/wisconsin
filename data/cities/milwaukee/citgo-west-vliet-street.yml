@@ -1,11 +1,11 @@
 id: 662468827
-type: way
+type: node
 latitude: 43.049
 longitude: -87.95559
 postcode: "53208"
 city: Milwaukee
-street: "West Vliet Street"
-housenumber: 3308
+street: West Vliet Street
+housenumber: "3308"
 phone: ""
 opening_hours: ""
 website: ""

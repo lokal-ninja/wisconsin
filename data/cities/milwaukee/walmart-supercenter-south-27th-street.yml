@@ -1,11 +1,11 @@
 id: 663648998
-type: way
+type: node
 latitude: 42.98459
 longitude: -87.95058
 postcode: "53215"
 city: Milwaukee
-street: "South 27th Street"
-housenumber: 3355
-phone: "+1 414-383-1113"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2828/milwaukee-wi/whats-new"
+street: South 27th Street
+housenumber: "3355"
+phone: +1 414-383-1113
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2828/milwaukee-wi/whats-new

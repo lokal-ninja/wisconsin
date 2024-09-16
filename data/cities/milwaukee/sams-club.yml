@@ -1,11 +1,11 @@
 id: 1068488199
-type: way
+type: node
 latitude: 43.16518
 longitude: -88.06364
 postcode: "53224"
 city: Milwaukee
-street: "North 124th Street"
-housenumber: 8100
-phone: "+1 414-365-3700"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/milwaukee-wi-sams-club/6324"
+street: North 124th Street
+housenumber: "8100"
+phone: +1 414-365-3700
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/milwaukee-wi-sams-club/6324

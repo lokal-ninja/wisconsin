@@ -4,8 +4,8 @@ latitude: 42.98065
 longitude: -88.00824
 postcode: "53220"
 city: Milwaukee
-street: "South 76th Street"
-housenumber: 3505
-phone: "+1-414-546-0905"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 10:00-15:00; Su off"
-website: "https://www.xtrememotorswi.com/"
+street: South 76th Street
+housenumber: "3505"
+phone: +1-414-546-0905
+opening_hours: Mo-Fr 09:30-17:00; Sa 10:00-15:00; Su off
+website: https://www.xtrememotorswi.com/

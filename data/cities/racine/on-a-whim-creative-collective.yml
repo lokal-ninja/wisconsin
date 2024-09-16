@@ -1,11 +1,11 @@
 id: 231694523
-type: way
+type: node
 latitude: 42.73461
 longitude: -87.78246
 postcode: ""
 city: Racine
-street: "Dodge Street"
-housenumber: 200
+street: Dodge Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

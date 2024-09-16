@@ -4,8 +4,8 @@ latitude: 42.98793
 longitude: -87.99912
 postcode: "53219"
 city: Milwaukee
-street: "West Oklahoma Avenue"
-housenumber: 6901
-phone: "+1-414-541-7777"
-opening_hours: "Mo-Su 11:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.sciplus.com/"
+street: West Oklahoma Avenue
+housenumber: "6901"
+phone: +1-414-541-7777
+opening_hours: Mo-Su 11:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.sciplus.com/

@@ -1,11 +1,11 @@
 id: 430292115
-type: way
+type: node
 latitude: 43.07826
 longitude: -88.91363
 postcode: "53551"
 city: Lake Mills
-street: "South Main Street"
-housenumber: 219
-phone: "920-945-0570"
+street: South Main Street
+housenumber: "219"
+phone: 920-945-0570
 opening_hours: ""
-website: "http://www.exxonmobilstations.com/"
+website: http://www.exxonmobilstations.com/

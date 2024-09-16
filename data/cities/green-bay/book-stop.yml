@@ -4,8 +4,8 @@ latitude: 44.52411
 longitude: -88.06296
 postcode: "54303"
 city: Green Bay
-street: "South Military Avenue"
-housenumber: 603
+street: South Military Avenue
+housenumber: "603"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00; Sa 10:00-16:00"
-website: "http://www.bookstopinc.info/"
+opening_hours: Mo-Fr 10:00-17:00; Sa 10:00-16:00
+website: http://www.bookstopinc.info/

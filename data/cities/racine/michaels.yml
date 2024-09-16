@@ -2,10 +2,10 @@ id: 3798193547
 type: node
 latitude: 42.70105
 longitude: -87.85533
-postcode: "53406-4900"
+postcode: 53406-4900
 city: Racine
-street: "South Green Bay Road"
-housenumber: 2630
-phone: "+1 262-554-1557"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/wi/mount-pleasant/9192"
+street: South Green Bay Road
+housenumber: "2630"
+phone: +1 262-554-1557
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/wi/mount-pleasant/9192

@@ -1,11 +1,11 @@
 id: 570404252
-type: way
+type: node
 latitude: 43.87999
 longitude: -91.21119
 postcode: "54650"
 city: Onalaska
-street: "Oak Forest Drive"
-housenumber: 412
+street: Oak Forest Drive
+housenumber: "412"
 phone: ""
-opening_hours: "Mo - Sa 09:00 - 21:00; Su 11:00 - 19:00"
-website: "http://marinelandpetswi.net/"
+opening_hours: Mo - Sa 09:00 - 21:00; Su 11:00 - 19:00
+website: http://marinelandpetswi.net/

@@ -1,11 +1,11 @@
 id: 452715528
-type: way
+type: node
 latitude: 42.92465
 longitude: -88.05139
 postcode: "53132"
 city: Franklin
-street: "West Speedway Drive"
-housenumber: 10925
+street: West Speedway Drive
+housenumber: "10925"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3195"
+website: https://www.menards.com/store-details/store.html?store=3195

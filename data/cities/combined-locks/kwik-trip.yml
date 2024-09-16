@@ -1,11 +1,11 @@
 id: 914732075
-type: way
+type: node
 latitude: 44.25631
 longitude: -88.29439
 postcode: "54113"
 city: Combined Locks
-street: "Debruin Road"
-housenumber: 459
-phone: "+1 920 759 9011"
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=1061"
+street: Debruin Road
+housenumber: "459"
+phone: +1 920 759 9011
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=1061

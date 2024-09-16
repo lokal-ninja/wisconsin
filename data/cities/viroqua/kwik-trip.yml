@@ -1,11 +1,11 @@
 id: 415391070
-type: way
+type: node
 latitude: 43.57541
 longitude: -90.88831
 postcode: "54655"
 city: Viroqua
-street: "North Main Street"
-housenumber: 1301
+street: North Main Street
+housenumber: "1301"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=757"
+website: https://www.kwiktrip.com/locator/store?id=757

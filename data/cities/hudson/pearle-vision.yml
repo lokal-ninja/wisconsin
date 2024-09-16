@@ -1,11 +1,11 @@
 id: 205955940
-type: way
+type: node
 latitude: 44.96604
 longitude: -92.7219
 postcode: "54016"
 city: Hudson
-street: "Carmichael Road"
-housenumber: 113
-phone: "+1 715-377-7970"
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://www.pearlevision.com/pv-us/stores/wi/hudson/7863"
+street: Carmichael Road
+housenumber: "113"
+phone: +1 715-377-7970
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-18:00; Sa 09:00-17:00
+website: https://www.pearlevision.com/pv-us/stores/wi/hudson/7863

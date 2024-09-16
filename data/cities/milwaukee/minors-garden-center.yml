@@ -1,11 +1,11 @@
 id: 358651900
-type: way
+type: node
 latitude: 43.15603
 longitude: -88.00873
 postcode: ""
 city: Milwaukee
-street: "North 76th Street"
-housenumber: 7777
+street: North 76th Street
+housenumber: "7777"
 phone: ""
 opening_hours: ""
-website: "https://www.minorsgardencenter.com/"
+website: https://www.minorsgardencenter.com/

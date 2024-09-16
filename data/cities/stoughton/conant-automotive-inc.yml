@@ -1,11 +1,11 @@
 id: 667963434
-type: way
+type: node
 latitude: 42.91879
 longitude: -89.23646
 postcode: "53589"
 city: Stoughton
-street: "Hwy 151-138"
-housenumber: 1324
+street: Hwy 151-138
+housenumber: "1324"
 phone: ""
 opening_hours: ""
 website: ""

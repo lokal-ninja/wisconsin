@@ -1,11 +1,11 @@
 id: 1227950125
-type: way
+type: node
 latitude: 45.31379
 longitude: -92.7039
 postcode: "54020"
 city: Osceola
-street: "Ridge Road"
-housenumber: 100
-phone: "+1-715-294-4451"
+street: Ridge Road
+housenumber: "100"
+phone: +1-715-294-4451
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1083"
+website: https://www.kwiktrip.com/locator/store?id=1083

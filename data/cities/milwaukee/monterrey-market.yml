@@ -1,11 +1,11 @@
 id: 663421958
-type: way
+type: node
 latitude: 42.98974
 longitude: -87.92844
-postcode: "53215-3873"
+postcode: 53215-3873
 city: Milwaukee
-street: "South 13th Street"
-housenumber: 3014
+street: South 13th Street
+housenumber: "3014"
 phone: ""
 opening_hours: ""
 website: ""

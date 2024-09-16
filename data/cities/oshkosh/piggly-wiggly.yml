@@ -1,11 +1,11 @@
 id: 709055298
-type: way
+type: node
 latitude: 44.03822
 longitude: -88.52982
 postcode: "54901"
 city: Oshkosh
-street: "East Murdock Avenue"
-housenumber: 525
-phone: "+1 920-236-7801"
+street: East Murdock Avenue
+housenumber: "525"
+phone: +1 920-236-7801
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 692101292
-type: way
+type: node
 latitude: 42.68137
 longitude: -90.1188
 postcode: "53530"
 city: Darlington
-street: "Park Place"
-housenumber: 508
-phone: "608-776-3542"
+street: Park Place
+housenumber: "508"
+phone: 608-776-3542
 opening_hours: ""
-website: "https://www.ericksonfuneralhome.com/"
+website: https://www.ericksonfuneralhome.com/

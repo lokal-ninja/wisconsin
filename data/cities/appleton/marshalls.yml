@@ -1,11 +1,11 @@
 id: 768963563
-type: way
+type: node
 latitude: 44.24091
 longitude: -88.34911
 postcode: ""
 city: Appleton
-street: "East Calumet Street"
-housenumber: 3825
+street: East Calumet Street
+housenumber: "3825"
 phone: ""
 opening_hours: ""
 website: ""

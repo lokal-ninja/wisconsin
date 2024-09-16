@@ -1,11 +1,11 @@
 id: 642924874
-type: way
+type: node
 latitude: 45.25411
 longitude: -87.07385
 postcode: "54210"
 city: Ellison Bay
-street: "State Highway 42"
-housenumber: 12023
-phone: "+1-920-854-3045"
-opening_hours: "Mo-Sa 07:30-20:00; Su 07:30-18:00"
+street: State Highway 42
+housenumber: "12023"
+phone: +1-920-854-3045
+opening_hours: Mo-Sa 07:30-20:00; Su 07:30-18:00
 website: ""

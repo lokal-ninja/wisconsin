@@ -1,11 +1,11 @@
 id: 660264891
-type: way
+type: node
 latitude: 43.11202
 longitude: -88.02665
-postcode: "53225-3401"
+postcode: 53225-3401
 city: Milwaukee
-street: "North 91st Street"
-housenumber: 5201
+street: North 91st Street
+housenumber: "5201"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-5201+n+91st+st-milwaukee-wi-53225/id=4254"
+website: https://www.walgreens.com/locator/walgreens-5201+n+91st+st-milwaukee-wi-53225/id=4254

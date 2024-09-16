@@ -1,11 +1,11 @@
 id: 360602260
-type: way
+type: node
 latitude: 46.24417
 longitude: -89.72918
 postcode: "54557"
 city: Presque Isle
-street: "County Road W"
-housenumber: 11610
-phone: "+1-715-686-2480"
+street: County Road W
+housenumber: "11610"
+phone: +1-715-686-2480
 opening_hours: ""
 website: ""

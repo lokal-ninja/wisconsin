@@ -1,11 +1,11 @@
 id: 557184405
-type: way
+type: node
 latitude: 44.26909
 longitude: -88.46567
 postcode: "54914"
 city: Grand Chute
-street: "Westhill Boulevard"
-housenumber: 697
-phone: "+1 920-749-2100"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://stores.burlington.com/wi/grand-chute/125"
+street: Westhill Boulevard
+housenumber: "697"
+phone: +1 920-749-2100
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://stores.burlington.com/wi/grand-chute/125

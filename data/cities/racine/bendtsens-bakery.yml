@@ -1,11 +1,11 @@
 id: 398082711
-type: way
+type: node
 latitude: 42.71908
 longitude: -87.81765
 postcode: ""
 city: Racine
-street: "Washington Avenue"
-housenumber: 3200
+street: Washington Avenue
+housenumber: "3200"
 phone: ""
 opening_hours: ""
 website: ""

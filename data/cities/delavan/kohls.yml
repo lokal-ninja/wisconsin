@@ -1,11 +1,11 @@
 id: 124521145
-type: way
+type: node
 latitude: 42.6309
 longitude: -88.61124
 postcode: "53115"
 city: Delavan
-street: "East Geneva Street"
-housenumber: 1921
-phone: "+1 262-728-4727"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/wi/delavan-484.shtml"
+street: East Geneva Street
+housenumber: "1921"
+phone: +1 262-728-4727
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/wi/delavan-484.shtml

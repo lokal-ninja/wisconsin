@@ -4,8 +4,8 @@ latitude: 43.05821
 longitude: -89.42716
 postcode: "53711"
 city: Madison
-street: "Monroe Street"
-housenumber: 2503
+street: Monroe Street
+housenumber: "2503"
 phone: ""
-opening_hours: "Mo-Sa 10:00-17:00; Su 11:00-17:00"
-website: "https://www.infusionchocolates.com/"
+opening_hours: Mo-Sa 10:00-17:00; Su 11:00-17:00
+website: https://www.infusionchocolates.com/

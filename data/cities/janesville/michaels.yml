@@ -1,11 +1,11 @@
 id: 105428984
-type: way
+type: node
 latitude: 42.71863
 longitude: -88.97886
-postcode: "53546-3453"
+postcode: 53546-3453
 city: Janesville
-street: "Deerfield Drive"
-housenumber: 2900
-phone: "+1 608-743-0081"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://locations.michaels.com/wi/janesville/9904"
+street: Deerfield Drive
+housenumber: "2900"
+phone: +1 608-743-0081
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://locations.michaels.com/wi/janesville/9904

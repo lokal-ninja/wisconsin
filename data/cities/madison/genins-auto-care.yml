@@ -1,11 +1,11 @@
 id: 372514597
-type: way
+type: node
 latitude: 43.07488
 longitude: -89.44729
 postcode: "53705"
 city: Madison
-street: "University Avenue"
-housenumber: 3505
-phone: "608-238-1088"
+street: University Avenue
+housenumber: "3505"
+phone: 608-238-1088
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 290284385
-type: way
+type: node
 latitude: 43.47051
 longitude: -89.74027
 postcode: "53913"
 city: Baraboo
-street: "Ash Street"
-housenumber: 516
+street: Ash Street
+housenumber: "516"
 phone: ""
 opening_hours: ""
 website: ""

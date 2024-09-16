@@ -1,11 +1,11 @@
 id: 838889482
-type: way
+type: node
 latitude: 42.50825
 longitude: -89.03817
 postcode: "53511"
 city: Beloit
-street: "4th Street"
-housenumber: 930
+street: 4th Street
+housenumber: "930"
 phone: ""
 opening_hours: ""
 website: ""

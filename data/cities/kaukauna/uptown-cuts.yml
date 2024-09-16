@@ -1,11 +1,11 @@
 id: 286699861
-type: way
+type: node
 latitude: 44.28232
 longitude: -88.26814
 postcode: "54130"
 city: Kaukauna
-street: "West Wisconsin Avenue"
-housenumber: 116
-phone: "+1-920-766-5612"
+street: West Wisconsin Avenue
+housenumber: "116"
+phone: +1-920-766-5612
 opening_hours: ""
-website: "https://www.uptowncuts.biz/"
+website: https://www.uptowncuts.biz/

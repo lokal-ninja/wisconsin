@@ -1,11 +1,11 @@
 id: 660338306
-type: way
+type: node
 latitude: 43.10334
 longitude: -87.9066
 postcode: "53211"
 city: Whitefish Bay
-street: "North Santa Monica Boulevard"
-housenumber: 4750
+street: North Santa Monica Boulevard
+housenumber: "4750"
 phone: ""
 opening_hours: ""
 website: ""

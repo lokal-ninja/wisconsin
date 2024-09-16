@@ -1,11 +1,11 @@
 id: 1136337924
-type: way
+type: node
 latitude: 42.95397
 longitude: -88.00458
 postcode: "53220"
 city: Greenfield
-street: "South 74th Street"
-housenumber: 5008
+street: South 74th Street
+housenumber: "5008"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/wi/milwaukee/1099/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/wi/milwaukee/1099/

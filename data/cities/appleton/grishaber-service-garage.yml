@@ -1,11 +1,11 @@
 id: 468895005
-type: way
+type: node
 latitude: 44.25647
 longitude: -88.38333
 postcode: ""
 city: Appleton
-street: "East South River Street"
-housenumber: 1404
+street: East South River Street
+housenumber: "1404"
 phone: ""
 opening_hours: ""
 website: ""

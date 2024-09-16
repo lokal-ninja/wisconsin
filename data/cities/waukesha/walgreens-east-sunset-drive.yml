@@ -1,11 +1,11 @@
 id: 334413524
-type: way
+type: node
 latitude: 42.98751
 longitude: -88.22206
 postcode: "53189"
 city: Waukesha
-street: "East Sunset Drive"
-housenumber: 221
+street: East Sunset Drive
+housenumber: "221"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-221+e+sunset+dr-waukesha-wi-53189/id=3883"
+website: https://www.walgreens.com/locator/walgreens-221+e+sunset+dr-waukesha-wi-53189/id=3883

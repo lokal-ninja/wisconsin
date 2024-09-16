@@ -1,11 +1,11 @@
 id: 583973885
-type: way
+type: node
 latitude: 44.07979
 longitude: -87.70654
 postcode: "54220"
 city: Manitowoc
-street: "Expo Drive"
-housenumber: 4611
+street: Expo Drive
+housenumber: "4611"
 phone: ""
 opening_hours: ""
 website: ""

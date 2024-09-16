@@ -1,11 +1,11 @@
 id: 974526237
-type: way
+type: node
 latitude: 43.06076
 longitude: -88.40396
 postcode: "53018"
 city: Delafield
-street: "Genesee Street"
-housenumber: 622
+street: Genesee Street
+housenumber: "622"
 phone: "+12626461974"
 opening_hours: ""
-website: "https://daybreakprimemeats.com/"
+website: https://daybreakprimemeats.com/

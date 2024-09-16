@@ -1,11 +1,11 @@
 id: 256662210
-type: way
+type: node
 latitude: 42.49971
 longitude: -89.03648
 postcode: "53511"
 city: Beloit
-street: "State Street"
-housenumber: 328
+street: State Street
+housenumber: "328"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.06566
 longitude: -87.98243
 postcode: "53210"
 city: Milwaukee
-street: "West Lisbon Avenue"
-housenumber: 5518
-phone: "+1-414-312-7155"
-opening_hours: "By appointment"
+street: West Lisbon Avenue
+housenumber: "5518"
+phone: +1-414-312-7155
+opening_hours: '"By appointment"'
 website: ""

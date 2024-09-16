@@ -1,11 +1,11 @@
 id: 587569954
-type: way
+type: node
 latitude: 42.49901
 longitude: -88.32505
 postcode: ""
 city: Genoa City
 street: ""
-housenumber: 322
+housenumber: "322"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/genoa-city/17613"
+website: https://www.dollargeneral.com/store-directory/wi/genoa-city/17613

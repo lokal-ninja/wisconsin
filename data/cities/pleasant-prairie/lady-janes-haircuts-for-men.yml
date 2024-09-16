@@ -1,11 +1,11 @@
 id: 976513303
-type: way
+type: node
 latitude: 42.56597
 longitude: -87.91882
 postcode: "53158"
 city: Pleasant Prairie
-street: "76th Street"
-housenumber: 9160
-phone: "+1 262 220 3633"
-opening_hours: "Mo-Th 10:00-20:00; Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://www.ladyjanes.com/"
+street: 76th Street
+housenumber: "9160"
+phone: +1 262 220 3633
+opening_hours: Mo-Th 10:00-20:00; Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://www.ladyjanes.com/

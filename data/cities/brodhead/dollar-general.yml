@@ -1,11 +1,11 @@
 id: 97521653
-type: way
+type: node
 latitude: 42.60728
 longitude: -89.37576
 postcode: "53520"
 city: Brodhead
-street: "1st Center Avenue"
-housenumber: 2410
-phone: "1-608-897-1350"
+street: 1st Center Avenue
+housenumber: "2410"
+phone: 1-608-897-1350
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/brodhead/5866"
+website: https://www.dollargeneral.com/store-directory/wi/brodhead/5866

@@ -1,11 +1,11 @@
 id: 660804171
-type: way
+type: node
 latitude: 43.08893
 longitude: -87.90869
 postcode: "53212"
 city: Milwaukee
-street: "East Capitol Drive"
-housenumber: 225
-phone: "+1 877-464-1019"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/milwaukee/225-east-capitol-drive"
+street: East Capitol Drive
+housenumber: "225"
+phone: +1 877-464-1019
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/milwaukee/225-east-capitol-drive

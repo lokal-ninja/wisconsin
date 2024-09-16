@@ -1,11 +1,11 @@
 id: 1173500490
-type: way
+type: node
 latitude: 42.94238
 longitude: -87.85914
 postcode: "53110"
 city: Cudahy
-street: "South Packard Avenue"
-housenumber: 5656
+street: South Packard Avenue
+housenumber: "5656"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/wi/cudahy/7628/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/wi/cudahy/7628/

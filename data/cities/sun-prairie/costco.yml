@@ -1,11 +1,11 @@
 id: 289287309
-type: way
+type: node
 latitude: 43.16785
 longitude: -89.27469
 postcode: "53590"
 city: Sun Prairie
-street: "Hoepker Road"
-housenumber: 2850
-phone: "+1 608-825-4001"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/sun-prairie-wi-1121.html"
+street: Hoepker Road
+housenumber: "2850"
+phone: +1 608-825-4001
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/sun-prairie-wi-1121.html

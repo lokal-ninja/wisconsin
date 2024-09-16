@@ -1,11 +1,11 @@
 id: 1071796143
-type: way
+type: node
 latitude: 44.97598
 longitude: -92.72209
 postcode: "54016"
 city: Hudson
-street: "Annabelle Way"
-housenumber: 520
+street: Annabelle Way
+housenumber: "520"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1168"
+website: https://www.kwiktrip.com/locator/store?id=1168

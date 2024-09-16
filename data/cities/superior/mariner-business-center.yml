@@ -1,11 +1,11 @@
 id: 790235503
-type: way
+type: node
 latitude: 46.70874
 longitude: -92.07343
 postcode: "54880"
 city: Superior
-street: "North 28th Street"
-housenumber: 69
+street: North 28th Street
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "https://marinerbusinesscenter-wi.com/"
+website: https://marinerbusinesscenter-wi.com/

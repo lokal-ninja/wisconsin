@@ -1,11 +1,11 @@
 id: 685109364
-type: way
+type: node
 latitude: 42.98669
 longitude: -88.22028
 postcode: "53189"
 city: Waukesha
-street: "East Sunset Drive"
-housenumber: 801
-phone: "+1-262-899-6000"
+street: East Sunset Drive
+housenumber: "801"
+phone: +1-262-899-6000
 opening_hours: ""
 website: ""

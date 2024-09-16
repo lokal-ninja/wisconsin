@@ -1,11 +1,11 @@
 id: 447781543
-type: way
+type: node
 latitude: 42.68246
 longitude: -89.02131
 postcode: "53545"
 city: Janesville
-street: "South Main Street"
-housenumber: 31
+street: South Main Street
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

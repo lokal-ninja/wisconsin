@@ -1,11 +1,11 @@
 id: 452154661
-type: way
+type: node
 latitude: 42.80813
 longitude: -89.63214
 postcode: "53574"
 city: New Glarus
-street: "State Highway 69"
-housenumber: 1201
+street: State Highway 69
+housenumber: "1201"
 phone: ""
 opening_hours: ""
 website: ""

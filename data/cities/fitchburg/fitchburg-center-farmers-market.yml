@@ -1,11 +1,11 @@
 id: 1103740080
-type: way
+type: node
 latitude: 43.00537
 longitude: -89.42407
 postcode: "53711"
 city: Fitchburg
-street: "East Cheryl Parkway"
-housenumber: 5511
+street: East Cheryl Parkway
+housenumber: "5511"
 phone: ""
-opening_hours: "Th 15:00-18:00"
-website: "http://fitchburgcenter.com"
+opening_hours: Th 15:00-18:00
+website: http://fitchburgcenter.com

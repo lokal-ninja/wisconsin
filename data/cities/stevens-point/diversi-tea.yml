@@ -1,11 +1,11 @@
 id: 372080708
-type: way
+type: node
 latitude: 44.52262
 longitude: -89.58541
 postcode: "54481"
 city: Stevens Point
-street: "Clark Street"
-housenumber: 920
+street: Clark Street
+housenumber: "920"
 phone: ""
 opening_hours: ""
-website: "https://www.diversi-tea.com/"
+website: https://www.diversi-tea.com/

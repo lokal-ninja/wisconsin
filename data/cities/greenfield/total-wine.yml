@@ -1,11 +1,11 @@
 id: 1007494440
-type: way
+type: node
 latitude: 42.9617
 longitude: -88.02198
 postcode: "53228"
 city: Greenfield
-street: "West Sura Lane"
-housenumber: 8700
-phone: "+1 414-425-7373"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.totalwine.com/store-info/wisconsin-greenfield/1903"
+street: West Sura Lane
+housenumber: "8700"
+phone: +1 414-425-7373
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.totalwine.com/store-info/wisconsin-greenfield/1903

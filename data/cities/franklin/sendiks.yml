@@ -1,11 +1,11 @@
 id: 664190071
-type: way
+type: node
 latitude: 42.91762
 longitude: -87.98222
 postcode: "53129"
 city: Franklin
-street: "West Rawson Avenue"
-housenumber: 5200
+street: West Rawson Avenue
+housenumber: "5200"
 phone: ""
 opening_hours: ""
 website: ""

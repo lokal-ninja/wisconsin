@@ -1,11 +1,11 @@
 id: 409157329
-type: way
+type: node
 latitude: 44.95984
 longitude: -92.73078
 postcode: "54016"
 city: Hudson
-street: "O'Keefe Road"
-housenumber: 1000
-phone: "+1 (715) 386-4000"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.hilltopservice.com/"
+street: O'Keefe Road
+housenumber: "1000"
+phone: +1 (715) 386-4000
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.hilltopservice.com/

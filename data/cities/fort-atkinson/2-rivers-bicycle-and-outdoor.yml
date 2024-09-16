@@ -1,11 +1,11 @@
 id: 286838973
-type: way
+type: node
 latitude: 42.92979
 longitude: -88.83822
 postcode: "53538"
 city: Fort Atkinson
-street: "Sherman Avenue West"
-housenumber: 33
+street: Sherman Avenue West
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

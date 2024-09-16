@@ -1,11 +1,11 @@
 id: 583379447
-type: way
+type: node
 latitude: 44.76256
 longitude: -92.79001
 postcode: "54021"
 city: Prescott
-street: "Eagle Ridge Drive"
-housenumber: 1005
+street: Eagle Ridge Drive
+housenumber: "1005"
 phone: ""
 opening_hours: ""
 website: ""

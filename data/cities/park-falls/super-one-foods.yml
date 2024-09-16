@@ -1,11 +1,11 @@
 id: 361623456
-type: way
+type: node
 latitude: 45.91605
 longitude: -90.44859
 postcode: "54552"
 city: Park Falls
-street: "4th Avenue South"
-housenumber: 1347
-phone: "+1-715-762-4272"
+street: 4th Avenue South
+housenumber: "1347"
+phone: +1-715-762-4272
 opening_hours: ""
-website: "https://www.superonefoods.com/"
+website: https://www.superonefoods.com/

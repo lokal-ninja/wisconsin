@@ -1,11 +1,11 @@
 id: 1165488760
-type: way
+type: node
 latitude: 43.06209
 longitude: -88.06789
 postcode: "53005"
 city: Brookfield
-street: "North 124th Street"
-housenumber: 2355
+street: North 124th Street
+housenumber: "2355"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.03147
 longitude: -87.90515
 postcode: "53202"
 city: Milwaukee
-street: "East Menomonee Street"
-housenumber: 419
+street: East Menomonee Street
+housenumber: "419"
 phone: ""
-opening_hours: "Mo,Fr 13:00-20:00; Tu-Th 08:00-20:00; Sa 08:00-16:00"
-website: "https://www.stephaniebarenz.com/"
+opening_hours: Mo,Fr 13:00-20:00; Tu-Th 08:00-20:00; Sa 08:00-16:00
+website: https://www.stephaniebarenz.com/

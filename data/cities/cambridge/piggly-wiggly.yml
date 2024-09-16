@@ -1,11 +1,11 @@
 id: 229842119
-type: way
+type: node
 latitude: 43.00779
 longitude: -89.02147
 postcode: "53523"
 city: Cambridge
-street: "Jefferson Street"
-housenumber: 100
-phone: "+1 608-423-4004"
+street: Jefferson Street
+housenumber: "100"
+phone: +1 608-423-4004
 opening_hours: ""
 website: ""

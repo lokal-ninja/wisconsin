@@ -1,11 +1,11 @@
 id: 251404339
-type: way
+type: node
 latitude: 43.8534
 longitude: -88.86129
 postcode: "54971"
 city: Ripon
-street: "West Fond du Lac Street"
-housenumber: 1117
+street: West Fond du Lac Street
+housenumber: "1117"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/ripon/autoparts-2427.html"
+website: https://locations.oreillyauto.com/wi/ripon/autoparts-2427.html

@@ -1,11 +1,11 @@
 id: 436789962
-type: way
+type: node
 latitude: 45.08863
 longitude: -87.65082
 postcode: "54143"
 city: Marinette
-street: "Marinette Avenue"
-housenumber: 1625
+street: Marinette Avenue
+housenumber: "1625"
 phone: ""
 opening_hours: ""
 website: ""

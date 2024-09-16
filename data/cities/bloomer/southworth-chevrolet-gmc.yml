@@ -1,11 +1,12 @@
 id: 1261363560
-type: way
+type: node
 latitude: 45.09659
 longitude: -91.50228
 postcode: "54724"
 city: Bloomer
-street: "West 20th Avenue"
-housenumber: 2111
+street: West 20th Avenue
+housenumber: "2111"
 phone: "+17155682180"
-opening_hours: "Mo 09:00-19:00; Tu-Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-15:00; Su closed"
-website: "https://www.southworthchevroletgmc.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-website"
+opening_hours: Mo 09:00-19:00; Tu-Th 09:00-18:00; Fr 09:00-18:00; Sa 09:00-15:00;
+    Su closed
+website: https://www.southworthchevroletgmc.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-website

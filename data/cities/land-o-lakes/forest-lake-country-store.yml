@@ -1,11 +1,11 @@
 id: 360680161
-type: way
+type: node
 latitude: 46.15926
 longitude: -89.35746
 postcode: "54540"
 city: Land O' Lakes
-street: "County Road B"
-housenumber: 6256
-phone: "+1-715-547-8222"
+street: County Road B
+housenumber: "6256"
+phone: +1-715-547-8222
 opening_hours: ""
-website: "https://forestlakecountrystore.com/"
+website: https://forestlakecountrystore.com/

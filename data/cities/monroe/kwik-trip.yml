@@ -1,11 +1,11 @@
 id: 522426933
-type: way
+type: node
 latitude: 42.60432
 longitude: -89.64966
 postcode: "53566"
 city: Monroe
-street: "8th Avenue"
-housenumber: 720
+street: 8th Avenue
+housenumber: "720"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=661"
+website: https://www.kwiktrip.com/locator/store?id=661

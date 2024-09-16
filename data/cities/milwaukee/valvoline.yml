@@ -1,11 +1,11 @@
 id: 660304880
-type: way
+type: node
 latitude: 43.09019
 longitude: -88.00028
-postcode: "53216-2028"
+postcode: 53216-2028
 city: Milwaukee
-street: "West Capitol Drive"
-housenumber: 7028
+street: West Capitol Drive
+housenumber: "7028"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/wi/milwaukee/oil-change-gr0050.html"
+website: https://store.vioc.com/wi/milwaukee/oil-change-gr0050.html

@@ -1,11 +1,11 @@
 id: 64373663
-type: way
+type: node
 latitude: 43.58426
 longitude: -89.81126
 postcode: "53965"
 city: Wisconsin Dells
-street: "Commerce Street"
-housenumber: 130
-phone: "+1 608-253-3490"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3505/wisconsin-dells-wi/whats-new"
+street: Commerce Street
+housenumber: "130"
+phone: +1 608-253-3490
+opening_hours: 24/7
+website: https://www.walmart.com/store/3505/wisconsin-dells-wi/whats-new

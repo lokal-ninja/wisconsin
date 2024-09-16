@@ -1,11 +1,11 @@
 id: 380873499
-type: way
+type: node
 latitude: 42.67893
 longitude: -89.04462
 postcode: "53548"
 city: Janesville
-street: "West Court Street"
-housenumber: 1933
+street: West Court Street
+housenumber: "1933"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1933+w+court+st-janesville-wi-53548/id=13613"
+website: https://www.walgreens.com/locator/walgreens-1933+w+court+st-janesville-wi-53548/id=13613

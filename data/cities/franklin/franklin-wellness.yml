@@ -1,11 +1,11 @@
 id: 1175975600
-type: way
+type: node
 latitude: 42.91362
 longitude: -88.01112
 postcode: "53132"
 city: Franklin
-street: "South 76th Street"
-housenumber: 7249
+street: South 76th Street
+housenumber: "7249"
 phone: ""
 opening_hours: ""
 website: ""

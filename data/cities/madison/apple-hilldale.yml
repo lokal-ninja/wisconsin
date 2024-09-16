@@ -1,11 +1,11 @@
 id: 1134399564
-type: way
+type: node
 latitude: 43.07205
 longitude: -89.45289
 postcode: "53705"
 city: Madison
-street: "North Midvale Boulevard"
-housenumber: 444
+street: North Midvale Boulevard
+housenumber: "444"
 phone: ""
 opening_hours: ""
-website: "https://www.apple.com/retail/hilldale"
+website: https://www.apple.com/retail/hilldale

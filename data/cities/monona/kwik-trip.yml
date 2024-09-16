@@ -1,11 +1,11 @@
 id: 105666302
-type: way
+type: node
 latitude: 43.04833
 longitude: -89.32433
 postcode: "53716"
 city: Monona
-street: "Broadway"
-housenumber: 105
+street: Broadway
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=966"
+website: https://www.kwiktrip.com/locator/store?id=966

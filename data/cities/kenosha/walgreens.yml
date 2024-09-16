@@ -1,11 +1,11 @@
 id: 84639952
-type: way
+type: node
 latitude: 42.56569
 longitude: -87.88711
 postcode: "53142"
 city: Kenosha
-street: "Green Bay Road"
-housenumber: 7535
-phone: "+1 262 697 8927"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-7535+green+bay+rd-kenosha-wi-53142/id=3738"
+street: Green Bay Road
+housenumber: "7535"
+phone: +1 262 697 8927
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walgreens.com/locator/walgreens-7535+green+bay+rd-kenosha-wi-53142/id=3738

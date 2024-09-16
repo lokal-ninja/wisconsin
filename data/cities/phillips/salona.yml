@@ -1,11 +1,11 @@
 id: 1160553261
-type: way
+type: node
 latitude: 45.68225
 longitude: -90.39128
 postcode: "54555"
 city: Phillips
-street: "South Lake Avenue"
-housenumber: 598
-phone: "+1-715-339-6804"
-opening_hours: "Mo-Fr 09:00-15:00"
+street: South Lake Avenue
+housenumber: "598"
+phone: +1-715-339-6804
+opening_hours: Mo-Fr 09:00-15:00
 website: ""

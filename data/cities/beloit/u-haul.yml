@@ -1,11 +1,11 @@
 id: 835890566
-type: way
+type: node
 latitude: 42.51678
 longitude: -89.0628
 postcode: "53511"
 city: Beloit
-street: "South Madison Road"
-housenumber: 1405
-phone: "+1-608-713-4948"
+street: South Madison Road
+housenumber: "1405"
+phone: +1-608-713-4948
 opening_hours: ""
-website: "https://www.uhaul.com/Locations/Self-Storage-near-Beloit-WI-53511/749079/"
+website: https://www.uhaul.com/Locations/Self-Storage-near-Beloit-WI-53511/749079/

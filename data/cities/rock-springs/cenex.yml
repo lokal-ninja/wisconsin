@@ -1,11 +1,11 @@
 id: 315565115
-type: way
+type: node
 latitude: 43.47751
 longitude: -89.91685
 postcode: "53961"
 city: Rock Springs
-street: "West Broadway Street"
-housenumber: 103
+street: West Broadway Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

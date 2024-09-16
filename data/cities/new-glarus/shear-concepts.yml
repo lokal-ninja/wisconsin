@@ -1,11 +1,11 @@
 id: 27123523
-type: way
+type: node
 latitude: 42.81373
 longitude: -89.63263
 postcode: "53574"
 city: New Glarus
-street: "Railroad Street"
-housenumber: 618
-phone: "608-527-4247"
+street: Railroad Street
+housenumber: "618"
+phone: 608-527-4247
 opening_hours: ""
 website: ""

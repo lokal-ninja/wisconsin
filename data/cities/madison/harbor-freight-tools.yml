@@ -1,11 +1,11 @@
 id: 310891477
-type: way
+type: node
 latitude: 43.03377
 longitude: -89.4542
 postcode: "53711"
 city: Madison
-street: "Verona Road"
-housenumber: 4617
-phone: "+1 608-276-7934"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/4617-verona-road-madison-53711?number=135"
+street: Verona Road
+housenumber: "4617"
+phone: +1 608-276-7934
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/4617-verona-road-madison-53711?number=135

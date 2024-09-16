@@ -1,11 +1,11 @@
 id: 1060413470
-type: way
+type: node
 latitude: 43.87041
 longitude: -91.20421
 postcode: "54650"
 city: Onalaska
-street: "County Road PH"
-housenumber: 1258
+street: County Road PH
+housenumber: "1258"
 phone: ""
 opening_hours: ""
-website: "https://www.olivejuicequilts.com/"
+website: https://www.olivejuicequilts.com/

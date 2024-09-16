@@ -1,11 +1,11 @@
 id: 1159237219
-type: way
+type: node
 latitude: 42.62877
 longitude: -88.60755
 postcode: "53115"
 city: Delavan
-street: "East Geneva Street"
-housenumber: 2027
-phone: "+1 844-464-1050"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/delavan/2027-east-geneva"
+street: East Geneva Street
+housenumber: "2027"
+phone: +1 844-464-1050
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/delavan/2027-east-geneva

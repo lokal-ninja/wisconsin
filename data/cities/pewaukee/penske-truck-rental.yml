@@ -1,11 +1,11 @@
 id: 1011341029
-type: way
+type: node
 latitude: 43.07558
 longitude: -88.23727
 postcode: "53072"
 city: Pewaukee
-street: "Hickory Street"
-housenumber: 1270
-phone: "+1 262 695 21 40"
+street: Hickory Street
+housenumber: "1270"
+phone: +1 262 695 21 40
 opening_hours: ""
-website: "https://www.pensketruckrental.com/"
+website: https://www.pensketruckrental.com/

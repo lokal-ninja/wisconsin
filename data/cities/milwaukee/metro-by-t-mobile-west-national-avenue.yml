@@ -1,11 +1,11 @@
 id: 663022789
-type: way
+type: node
 latitude: 43.02201
 longitude: -87.94753
 postcode: ""
 city: Milwaukee
-street: "West National Avenue"
-housenumber: 2637
+street: West National Avenue
+housenumber: "2637"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-milwaukee-wi-10295561/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-milwaukee-wi-10295561/

@@ -1,11 +1,11 @@
 id: 191594246
-type: way
+type: node
 latitude: 42.73565
 longitude: -90.43711
 postcode: "53818"
 city: Platteville
-street: "Progressive Parkway"
-housenumber: 1800
-phone: "+1 608-348-4888"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/958/platteville-wi/whats-new"
+street: Progressive Parkway
+housenumber: "1800"
+phone: +1 608-348-4888
+opening_hours: 24/7
+website: https://www.walmart.com/store/958/platteville-wi/whats-new

@@ -1,11 +1,11 @@
 id: 375434458
-type: way
+type: node
 latitude: 42.78537
 longitude: -87.80884
 postcode: "53402"
 city: Caledonia
-street: "Douglas Avenue"
-housenumber: 5005
+street: Douglas Avenue
+housenumber: "5005"
 phone: ""
 opening_hours: ""
 website: ""

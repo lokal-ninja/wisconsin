@@ -1,11 +1,11 @@
 id: 97601510
-type: way
+type: node
 latitude: 43.09214
 longitude: -89.49076
-postcode: "53562-3415"
+postcode: 53562-3415
 city: Middleton
-street: "University Avenue"
-housenumber: 6305
-phone: "+1 608-238-0251"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-17:00"
+street: University Avenue
+housenumber: "6305"
+phone: +1 608-238-0251
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-17:00
 website: ""

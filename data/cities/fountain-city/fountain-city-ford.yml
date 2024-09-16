@@ -1,11 +1,11 @@
 id: 884912447
-type: way
+type: node
 latitude: 44.13041
 longitude: -91.71749
 postcode: "54629"
 city: Fountain City
-street: "S Shore Dr"
-housenumber: 19
+street: S Shore Dr
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://www.fcford.com"
+website: https://www.fcford.com

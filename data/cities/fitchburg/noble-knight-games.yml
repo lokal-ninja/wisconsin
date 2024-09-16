@@ -1,11 +1,11 @@
 id: 701158168
-type: way
+type: node
 latitude: 43.00889
 longitude: -89.46902
 postcode: "53719"
 city: Fitchburg
-street: "Commerce Park Drive"
-housenumber: 2835
+street: Commerce Park Drive
+housenumber: "2835"
 phone: ""
 opening_hours: ""
-website: "https://www.nobleknight.com/"
+website: https://www.nobleknight.com/

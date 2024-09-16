@@ -1,11 +1,11 @@
 id: 1039750874
-type: way
+type: node
 latitude: 42.98062
 longitude: -88.10397
 postcode: "53151"
 city: New Berlin
-street: "West National Avenue"
-housenumber: 15250
-phone: "1-262-827-0659"
+street: West National Avenue
+housenumber: "15250"
+phone: 1-262-827-0659
 opening_hours: ""
-website: "https://www.churchandchapel.com/"
+website: https://www.churchandchapel.com/

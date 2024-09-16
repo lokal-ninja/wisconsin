@@ -1,11 +1,11 @@
 id: 300704096
-type: way
+type: node
 latitude: 45.40045
 longitude: -92.6075
 postcode: "54024"
 city: St. Croix Falls
-street: "East Highway 8"
-housenumber: 2179
-phone: "+1 715-483-2640"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: East Highway 8
+housenumber: "2179"
+phone: +1 715-483-2640
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

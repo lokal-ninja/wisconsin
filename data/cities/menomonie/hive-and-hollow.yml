@@ -1,11 +1,11 @@
 id: 701478536
-type: way
+type: node
 latitude: 44.87586
 longitude: -91.91999
 postcode: "54751"
 city: Menomonie
-street: "Wilson Avenue"
-housenumber: 809
-phone: "+1-715-231-3133"
+street: Wilson Avenue
+housenumber: "809"
+phone: +1-715-231-3133
 opening_hours: ""
-website: "https://hiveandhollow.earth/pages/menomonie"
+website: https://hiveandhollow.earth/pages/menomonie

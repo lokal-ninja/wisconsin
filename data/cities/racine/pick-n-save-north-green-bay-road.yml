@@ -1,11 +1,11 @@
 id: 378686019
-type: way
+type: node
 latitude: 42.73601
 longitude: -87.84107
 postcode: ""
 city: Racine
-street: "North Green Bay Road"
-housenumber: 1202
+street: North Green Bay Road
+housenumber: "1202"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 321246676
-type: way
+type: node
 latitude: 44.27962
 longitude: -88.31741
 postcode: "54140"
 city: Little Chute
-street: "West Main Street"
-housenumber: 219
+street: West Main Street
+housenumber: "219"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-219+w+main+st-little+chute-wi-54140/id=9682"
+website: https://www.walgreens.com/locator/walgreens-219+w+main+st-little+chute-wi-54140/id=9682

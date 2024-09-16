@@ -1,11 +1,11 @@
 id: 1288784576
-type: way
+type: node
 latitude: 44.3151
 longitude: -89.90568
 postcode: "54457"
 city: Nekoosa
-street: "Market Street"
-housenumber: 1025
-phone: "+1-715-886-4621"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://www.shopthepig.com/"
+street: Market Street
+housenumber: "1025"
+phone: +1-715-886-4621
+opening_hours: Mo-Su 07:00-20:00
+website: https://www.shopthepig.com/

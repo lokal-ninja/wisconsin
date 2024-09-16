@@ -1,11 +1,11 @@
 id: 307403391
-type: way
+type: node
 latitude: 44.35526
 longitude: -89.81238
 postcode: "54494"
 city: Wisconsin Rapids
-street: "8th Street South"
-housenumber: 4331
-phone: "+1 715-423-1900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1202/wisconsin-rapids-wi/whats-new"
+street: 8th Street South
+housenumber: "4331"
+phone: +1 715-423-1900
+opening_hours: 24/7
+website: https://www.walmart.com/store/1202/wisconsin-rapids-wi/whats-new

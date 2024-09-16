@@ -1,11 +1,11 @@
 id: 663402672
-type: way
+type: node
 latitude: 43.00249
 longitude: -87.9864
 postcode: "53219"
 city: West Allis
-street: "West Lincoln Avenue"
-housenumber: 5909
+street: West Lincoln Avenue
+housenumber: "5909"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 26745276
-type: way
+type: node
 latitude: 42.60377
 longitude: -89.65474
 postcode: "53566"
 city: Monroe
-street: "West 8th Street"
-housenumber: 317
+street: West 8th Street
+housenumber: "317"
 phone: ""
 opening_hours: ""
 website: ""

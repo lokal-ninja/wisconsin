@@ -1,11 +1,11 @@
 id: 306599166
-type: way
+type: node
 latitude: 43.04864
 longitude: -89.31313
 postcode: "53716"
 city: Monona
-street: "Copps Avenue"
-housenumber: 6401
+street: Copps Avenue
+housenumber: "6401"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3034"
+website: https://www.menards.com/store-details/store.html?store=3034

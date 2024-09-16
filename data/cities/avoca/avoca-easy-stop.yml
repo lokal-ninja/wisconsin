@@ -1,11 +1,11 @@
 id: 180403735
-type: way
+type: node
 latitude: 43.18178
 longitude: -90.32585
 postcode: "53506"
 city: Avoca
-street: "Main Street"
-housenumber: 401
+street: Main Street
+housenumber: "401"
 phone: ""
 opening_hours: ""
 website: ""

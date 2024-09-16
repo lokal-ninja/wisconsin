@@ -4,8 +4,8 @@ latitude: 42.52455
 longitude: -88.98532
 postcode: "53511"
 city: Beloit
-street: "Milwaukee Road"
-housenumber: 2781
+street: Milwaukee Road
+housenumber: "2781"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/WI/Beloit/2781-Milwaukee-Road"
+opening_hours: 24/7
+website: https://www.speedway.com/locations/WI/Beloit/2781-Milwaukee-Road

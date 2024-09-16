@@ -1,11 +1,11 @@
 id: 959224299
-type: way
+type: node
 latitude: 43.95244
 longitude: -89.81696
 postcode: "53910"
 city: Adams
-street: "South Main Street"
-housenumber: 402
+street: South Main Street
+housenumber: "402"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://www.facebook.com/practicalcentsresalestore/"
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: https://www.facebook.com/practicalcentsresalestore/

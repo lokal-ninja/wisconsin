@@ -1,11 +1,11 @@
 id: 84739302
-type: way
+type: node
 latitude: 42.60209
 longitude: -87.83671
 postcode: "53140"
 city: Kenosha
-street: "22nd Avenue"
-housenumber: 3726
+street: 22nd Avenue
+housenumber: "3726"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/kenosha-wi-pharmacies/3726-north-22nd-kenosha-wi-53140/storeid=8777"
+website: https://www.cvs.com/store-locator/kenosha-wi-pharmacies/3726-north-22nd-kenosha-wi-53140/storeid=8777

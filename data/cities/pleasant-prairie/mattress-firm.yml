@@ -1,11 +1,11 @@
 id: 978021339
-type: way
+type: node
 latitude: 42.56601
 longitude: -87.92097
 postcode: "53158"
 city: Pleasant Prairie
-street: "76th Street"
-housenumber: 9370
-phone: "+1 262-697-8955"
-opening_hours: "Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
+street: 76th Street
+housenumber: "9370"
+phone: +1 262-697-8955
+opening_hours: Mo-Th 10:00-20:00; Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
 website: ""

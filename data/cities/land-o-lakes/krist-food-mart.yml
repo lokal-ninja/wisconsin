@@ -1,11 +1,11 @@
 id: 360586253
-type: way
+type: node
 latitude: 46.16168
 longitude: -89.21565
 postcode: "54540"
 city: Land O' Lakes
-street: "County Road B"
-housenumber: 4207
+street: County Road B
+housenumber: "4207"
 phone: ""
 opening_hours: ""
 website: ""

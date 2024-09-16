@@ -1,11 +1,11 @@
 id: 45283539
-type: way
+type: node
 latitude: 45.09941
 longitude: -87.64962
 postcode: "54143"
 city: Marinette
-street: "Hall Avenue"
-housenumber: 3142
+street: Hall Avenue
+housenumber: "3142"
 phone: ""
-opening_hours: "04:30-22:00"
+opening_hours: 04:30-22:00
 website: ""

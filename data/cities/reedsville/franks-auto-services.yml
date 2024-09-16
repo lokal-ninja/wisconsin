@@ -1,11 +1,11 @@
 id: 608420614
-type: way
+type: node
 latitude: 44.15553
 longitude: -87.9478
 postcode: "54230"
 city: Reedsville
-street: "North 2nd Street"
-housenumber: 139
+street: North 2nd Street
+housenumber: "139"
 phone: ""
 opening_hours: ""
 website: ""

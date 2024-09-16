@@ -1,11 +1,11 @@
 id: 659443292
-type: way
+type: node
 latitude: 45.18033
 longitude: -89.6682
 postcode: "54452"
 city: Merrill
-street: "East Main Street"
-housenumber: 2311
+street: East Main Street
+housenumber: "2311"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=386"
+website: https://www.kwiktrip.com/locator/store?id=386

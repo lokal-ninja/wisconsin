@@ -1,11 +1,11 @@
 id: 558188920
-type: way
+type: node
 latitude: 44.52058
 longitude: -88.02267
 postcode: "54303"
 city: Green Bay
-street: "Dousman Street"
-housenumber: 606
+street: Dousman Street
+housenumber: "606"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 789625300
-type: way
+type: node
 latitude: 46.68619
 longitude: -92.10531
-postcode: "54880-5823"
+postcode: 54880-5823
 city: Superior
-street: "Tower Avenue"
-housenumber: 4429
-phone: "+1 833-472-7098"
-opening_hours: "Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00"
-website: "https://stores.aldi.us/wi/superior/4429-tower-avenue"
+street: Tower Avenue
+housenumber: "4429"
+phone: +1 833-472-7098
+opening_hours: Mo, We, Fr-Su 09:00-20:00; Tu, Th 08:30-20:00
+website: https://stores.aldi.us/wi/superior/4429-tower-avenue

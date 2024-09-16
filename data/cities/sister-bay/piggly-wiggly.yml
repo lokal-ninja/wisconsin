@@ -1,11 +1,11 @@
 id: 121507519
-type: way
+type: node
 latitude: 45.18437
 longitude: -87.12691
 postcode: "54234"
 city: Sister Bay
-street: "Country Walk Lane"
-housenumber: 320
-phone: "+1 920-854-2391"
+street: Country Walk Lane
+housenumber: "320"
+phone: +1 920-854-2391
 opening_hours: ""
 website: ""

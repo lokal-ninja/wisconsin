@@ -1,11 +1,11 @@
 id: 672044510
-type: way
+type: node
 latitude: 46.33232
 longitude: -91.25677
 postcode: "54832"
 city: Drummond
-street: "Wisconsin Avenue"
-housenumber: 52150
+street: Wisconsin Avenue
+housenumber: "52150"
 phone: ""
 opening_hours: ""
 website: ""

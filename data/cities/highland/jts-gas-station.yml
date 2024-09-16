@@ -1,11 +1,11 @@
 id: 326122173
-type: way
+type: node
 latitude: 43.04461
 longitude: -90.38014
 postcode: "53543"
 city: Highland
-street: "Spring Street"
-housenumber: 714
-phone: "(608) 929-4900"
+street: Spring Street
+housenumber: "714"
+phone: (608) 929-4900
 opening_hours: ""
 website: ""

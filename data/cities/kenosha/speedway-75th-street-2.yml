@@ -4,8 +4,8 @@ latitude: 42.56662
 longitude: -87.95563
 postcode: "53142"
 city: Kenosha
-street: "75th Street"
-housenumber: 12221
+street: 75th Street
+housenumber: "12221"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/Kenosha/12221-75th-Street"
+website: https://www.speedway.com/locations/WI/Kenosha/12221-75th-Street

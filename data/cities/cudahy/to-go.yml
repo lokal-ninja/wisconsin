@@ -1,11 +1,11 @@
 id: 664232938
-type: way
+type: node
 latitude: 42.94252
 longitude: -87.85936
 postcode: "53110"
 city: Cudahy
-street: "South Packard Avenue"
-housenumber: 5606
+street: South Packard Avenue
+housenumber: "5606"
 phone: ""
 opening_hours: ""
 website: ""

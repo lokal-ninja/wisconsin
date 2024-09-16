@@ -1,11 +1,11 @@
 id: 583925213
-type: way
+type: node
 latitude: 44.07651
 longitude: -87.70264
 postcode: "54220"
 city: Manitowoc
-street: "Harbor Town Lane"
-housenumber: 4144
-phone: "+1 920-652-0367"
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-19:00"
-website: "https://stores.petco.com/wi/manitowoc/pet-supplies-manitowoc-wi-1653.html"
+street: Harbor Town Lane
+housenumber: "4144"
+phone: +1 920-652-0367
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-19:00
+website: https://stores.petco.com/wi/manitowoc/pet-supplies-manitowoc-wi-1653.html

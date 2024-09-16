@@ -1,11 +1,11 @@
 id: 812561466
-type: way
+type: node
 latitude: 46.35273
 longitude: -91.81895
 postcode: "54873"
 city: Solon Springs
-street: "East Main Street"
-housenumber: 9234
+street: East Main Street
+housenumber: "9234"
 phone: ""
 opening_hours: ""
 website: ""

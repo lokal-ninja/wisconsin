@@ -1,11 +1,12 @@
 id: 430281480
-type: way
+type: node
 latitude: 42.51859
 longitude: -87.95124
 postcode: "53158"
 city: Pleasant Prairie
-street: "120th Avenue"
-housenumber: 11211
+street: 120th Avenue
+housenumber: "11211"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-19:00 || 09:00-21:00 Labor Day, Columbus Day Weekend"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-19:00 || 09:00-21:00 "Labor Day, Columbus
+    Day Weekend"
 website: ""

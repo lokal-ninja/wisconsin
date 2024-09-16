@@ -1,11 +1,11 @@
 id: 217381203
-type: way
+type: node
 latitude: 42.51281
 longitude: -89.02668
 postcode: "53511"
 city: Beloit
-street: "Park Avenue"
-housenumber: 1255
+street: Park Avenue
+housenumber: "1255"
 phone: ""
 opening_hours: ""
-website: "http://oldfashionbakery.net/"
+website: http://oldfashionbakery.net/

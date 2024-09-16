@@ -2,10 +2,10 @@ id: 9333489097
 type: node
 latitude: 45.4659
 longitude: -91.10685
-postcode: "54848-1209"
+postcode: 54848-1209
 city: Ladysmith
-street: "Lake Avenue West"
-housenumber: 503
-phone: "+1 715-532-3351"
-opening_hours: "Mo-Sa 07:30-19:00; Su 09:00-16:00"
+street: Lake Avenue West
+housenumber: "503"
+phone: +1 715-532-3351
+opening_hours: Mo-Sa 07:30-19:00; Su 09:00-16:00
 website: ""

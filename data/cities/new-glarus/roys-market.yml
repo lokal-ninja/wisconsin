@@ -1,11 +1,11 @@
 id: 26722367
-type: way
+type: node
 latitude: 42.81396
 longitude: -89.63092
 postcode: "53574"
 city: New Glarus
-street: "State Highway 69"
-housenumber: 600
-phone: "608-527-2914"
+street: State Highway 69
+housenumber: "600"
+phone: 608-527-2914
 opening_hours: ""
-website: "https://roysmarket.net/"
+website: https://roysmarket.net/

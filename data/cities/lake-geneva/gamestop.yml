@@ -1,11 +1,11 @@
 id: 851830069
-type: way
+type: node
 latitude: 42.59276
 longitude: -88.41348
 postcode: "53147"
 city: Lake Geneva
-street: "North Edwards Boulevard"
-housenumber: 281
+street: North Edwards Boulevard
+housenumber: "281"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/wi/lake-geneva/7807/lake-geneva-gamestop"
+website: https://www.gamestop.com/store/us/wi/lake-geneva/7807/lake-geneva-gamestop

@@ -1,11 +1,11 @@
 id: 620376599
-type: way
+type: node
 latitude: 43.87615
 longitude: -91.23048
 postcode: "54650"
 city: Onalaska
-street: "Oak Forest Drive"
-housenumber: 229
+street: Oak Forest Drive
+housenumber: "229"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=767"
+website: https://www.kwiktrip.com/locator/store?id=767

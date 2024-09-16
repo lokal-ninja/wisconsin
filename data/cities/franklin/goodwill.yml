@@ -1,11 +1,11 @@
 id: 664193286
-type: way
+type: node
 latitude: 42.91973
 longitude: -87.95386
 postcode: "53132"
 city: Franklin
-street: "South Riverwood Boulevard"
-housenumber: 6941
+street: South Riverwood Boulevard
+housenumber: "6941"
 phone: ""
 opening_hours: ""
 website: ""

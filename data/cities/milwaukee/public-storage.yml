@@ -1,11 +1,11 @@
 id: 229350909
-type: way
+type: node
 latitude: 43.07963
 longitude: -87.99555
 postcode: "53216"
 city: Milwaukee
-street: "West Appleton Avenue"
-housenumber: 6676
-phone: "+1-414-395-0192"
-opening_hours: "Mo-Fr 09:30-18:00; Sa,Su 09:30-17:00"
-website: "https://www.publicstorage.com/self-storage-wi-milwaukee/1318.html"
+street: West Appleton Avenue
+housenumber: "6676"
+phone: +1-414-395-0192
+opening_hours: Mo-Fr 09:30-18:00; Sa,Su 09:30-17:00
+website: https://www.publicstorage.com/self-storage-wi-milwaukee/1318.html

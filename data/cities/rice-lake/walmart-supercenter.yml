@@ -1,11 +1,11 @@
 id: 120234871
-type: way
+type: node
 latitude: 45.47624
 longitude: -91.76132
 postcode: "54868"
 city: Rice Lake
-street: "West Avenue"
-housenumber: 2501
-phone: "+1 715-234-6990"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1446/rice-lake-wi/whats-new"
+street: West Avenue
+housenumber: "2501"
+phone: +1 715-234-6990
+opening_hours: 24/7
+website: https://www.walmart.com/store/1446/rice-lake-wi/whats-new

@@ -1,11 +1,11 @@
 id: 770560143
-type: way
+type: node
 latitude: 44.91465
 longitude: -89.65199
 postcode: "54401"
 city: Wausau
-street: "Rib Mountain Drive"
-housenumber: 4600
-phone: "+1 715-241-7403"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/wi/wausau/1242/"
+street: Rib Mountain Drive
+housenumber: "4600"
+phone: +1 715-241-7403
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/wi/wausau/1242/

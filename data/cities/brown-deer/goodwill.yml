@@ -1,11 +1,11 @@
 id: 706221441
-type: way
+type: node
 latitude: 43.18692
 longitude: -87.9661
 postcode: "53223"
 city: Brown Deer
-street: "North Green Bay Road"
-housenumber: 9305
+street: North Green Bay Road
+housenumber: "9305"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 09:00-17:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 09:00-17:00
 website: ""

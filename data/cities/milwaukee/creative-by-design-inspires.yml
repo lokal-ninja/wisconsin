@@ -1,11 +1,11 @@
 id: 557512718
-type: way
+type: node
 latitude: 43.05486
 longitude: -87.91411
 postcode: "53212"
 city: Milwaukee
-street: "North Doctor Martin Luther King Junior Drive"
-housenumber: 1840
+street: North Doctor Martin Luther King Junior Drive
+housenumber: "1840"
 phone: ""
-opening_hours: "Tu,Th,Sa 11:00-18:00; We 11:00-17:00"
+opening_hours: Tu,Th,Sa 11:00-18:00; We 11:00-17:00
 website: ""

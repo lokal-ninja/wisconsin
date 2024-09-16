@@ -1,11 +1,11 @@
 id: 677566282
-type: way
+type: node
 latitude: 42.74492
 longitude: -87.83602
 postcode: ""
 city: Racine
-street: "Ole Davidson Road"
-housenumber: 1945
+street: Ole Davidson Road
+housenumber: "1945"
 phone: ""
 opening_hours: ""
 website: ""

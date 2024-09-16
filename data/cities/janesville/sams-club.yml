@@ -1,11 +1,11 @@
 id: 231075441
-type: way
+type: node
 latitude: 42.72743
 longitude: -88.98715
 postcode: "53546"
 city: Janesville
-street: "Deerfield Drive"
-housenumber: 3900
-phone: "+1 608-741-2367"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "http://www3.samsclub.com/clublocator/club_detail.aspx?myClub=4840"
+street: Deerfield Drive
+housenumber: "3900"
+phone: +1 608-741-2367
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: http://www3.samsclub.com/clublocator/club_detail.aspx?myClub=4840

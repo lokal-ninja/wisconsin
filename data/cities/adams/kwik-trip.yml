@@ -1,11 +1,11 @@
 id: 182237156
-type: way
+type: node
 latitude: 43.96126
 longitude: -89.81879
 postcode: "53910"
 city: Adams
-street: "North Main Street"
-housenumber: 237
+street: North Main Street
+housenumber: "237"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=774"
+website: https://www.kwiktrip.com/locator/store?id=774

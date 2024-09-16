@@ -1,11 +1,11 @@
 id: 326625987
-type: way
+type: node
 latitude: 46.59137
 longitude: -90.88458
 postcode: "54806"
 city: Ashland
-street: "Lake Shore Drive West"
-housenumber: 110
+street: Lake Shore Drive West
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-110+lake+shore+dr+w-ashland-wi-54806/id=10758"
+website: https://www.walgreens.com/locator/walgreens-110+lake+shore+dr+w-ashland-wi-54806/id=10758

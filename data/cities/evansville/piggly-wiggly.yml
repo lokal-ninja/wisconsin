@@ -4,8 +4,8 @@ latitude: 42.77978
 longitude: -89.27359
 postcode: "53536"
 city: Evansville
-street: "County Highway M"
-housenumber: 8
-phone: "+1 608-882-5308"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.shopthepig.com/"
+street: County Highway M
+housenumber: "8"
+phone: +1 608-882-5308
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.shopthepig.com/

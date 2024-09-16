@@ -1,11 +1,11 @@
 id: 671887303
-type: way
+type: node
 latitude: 46.17751
 longitude: -91.32165
 postcode: "54821"
 city: Cable
-street: "US 63"
-housenumber: 41410
-phone: "715-798-4237"
-opening_hours: "Mo-Sa 10:00-16:00, Su 10:00-14:00"
-website: "https://villahomedecor.com"
+street: US 63
+housenumber: "41410"
+phone: 715-798-4237
+opening_hours: Mo-Sa 10:00-16:00, Su 10:00-14:00
+website: https://villahomedecor.com

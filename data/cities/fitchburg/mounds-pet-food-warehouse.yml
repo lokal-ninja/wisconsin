@@ -1,11 +1,11 @@
 id: 107656298
-type: way
+type: node
 latitude: 43.019
 longitude: -89.47243
 postcode: "53719"
 city: Fitchburg
-street: "King James Way"
-housenumber: 5350
+street: King James Way
+housenumber: "5350"
 phone: ""
 opening_hours: ""
 website: ""

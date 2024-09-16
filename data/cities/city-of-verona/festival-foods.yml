@@ -1,11 +1,11 @@
 id: 733300507
-type: way
+type: node
 latitude: 42.99626
 longitude: -89.52026
 postcode: "53593"
 city: City of Verona
-street: "Hometown Circle"
-housenumber: 660
-phone: "608-497-0263"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.festfoods.com/stores/verona"
+street: Hometown Circle
+housenumber: "660"
+phone: 608-497-0263
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.festfoods.com/stores/verona

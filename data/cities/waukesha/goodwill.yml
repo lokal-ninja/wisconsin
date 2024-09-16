@@ -1,11 +1,11 @@
 id: 1014267624
-type: way
+type: node
 latitude: 43.02056
 longitude: -88.19843
 postcode: "53186"
 city: Waukesha
-street: "Nike Drive"
-housenumber: 1400
+street: Nike Drive
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

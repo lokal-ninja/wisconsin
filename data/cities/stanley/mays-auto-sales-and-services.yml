@@ -1,11 +1,11 @@
 id: 1294820471
-type: way
+type: node
 latitude: 44.95316
 longitude: -90.93882
 postcode: "54768"
 city: Stanley
-street: "Industrial Park Road"
-housenumber: 104
+street: Industrial Park Road
+housenumber: "104"
 phone: "+17156445585"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00; "
-website: "https://www.maysautosalesandservice.com/"
+opening_hours: 'Mo-Fr 08:00-17:00; Sa 08:00-12:00; '
+website: https://www.maysautosalesandservice.com/

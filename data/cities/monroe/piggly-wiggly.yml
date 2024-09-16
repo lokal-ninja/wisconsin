@@ -1,11 +1,11 @@
 id: 26745249
-type: way
+type: node
 latitude: 42.60429
 longitude: -89.65338
 postcode: "53566"
 city: Monroe
-street: "8th Street"
-housenumber: 725
-phone: "+1 608-325-5088"
+street: 8th Street
+housenumber: "725"
+phone: +1 608-325-5088
 opening_hours: ""
 website: ""

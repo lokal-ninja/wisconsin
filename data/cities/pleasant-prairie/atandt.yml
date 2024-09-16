@@ -1,11 +1,11 @@
 id: 975535102
-type: way
+type: node
 latitude: 42.56626
 longitude: -87.9285
 postcode: "53158"
 city: Pleasant Prairie
-street: "76th Street"
-housenumber: 9800
-phone: "+1 262 697 7100"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.att.com"
+street: 76th Street
+housenumber: "9800"
+phone: +1 262 697 7100
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.att.com

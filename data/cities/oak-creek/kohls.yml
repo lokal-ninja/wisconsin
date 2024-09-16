@@ -1,11 +1,11 @@
 id: 664508023
-type: way
+type: node
 latitude: 42.8807
 longitude: -87.91526
 postcode: "53154"
 city: Oak Creek
-street: "South Howell Avenue"
-housenumber: 9035
-phone: "+1 414-764-7200"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/wi/oakcreek-109.shtml"
+street: South Howell Avenue
+housenumber: "9035"
+phone: +1 414-764-7200
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/wi/oakcreek-109.shtml

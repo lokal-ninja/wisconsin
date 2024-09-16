@@ -1,11 +1,11 @@
 id: 286699862
-type: way
+type: node
 latitude: 44.28248
 longitude: -88.26896
 postcode: "54130"
 city: Kaukauna
-street: "West Wisconsin Avenue"
-housenumber: 150
+street: West Wisconsin Avenue
+housenumber: "150"
 phone: ""
 opening_hours: ""
 website: ""

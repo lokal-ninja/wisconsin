@@ -1,11 +1,11 @@
 id: 229842121
-type: way
+type: node
 latitude: 43.00837
 longitude: -89.02307
 postcode: "53523"
 city: Cambridge
-street: "North Main Street"
-housenumber: 424
+street: North Main Street
+housenumber: "424"
 phone: ""
 opening_hours: ""
 website: ""

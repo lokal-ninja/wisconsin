@@ -1,11 +1,11 @@
 id: 891346134
-type: way
+type: node
 latitude: 44.90329
 longitude: -91.93313
 postcode: "54751"
 city: Menomonie
-street: "Broadway Street"
-housenumber: 1805
+street: Broadway Street
+housenumber: "1805"
 phone: ""
 opening_hours: ""
-website: "https://www.holidaystationstores.com/"
+website: https://www.holidaystationstores.com/

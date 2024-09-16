@@ -1,11 +1,11 @@
 id: 292135529
-type: way
+type: node
 latitude: 42.91669
 longitude: -89.22278
 postcode: "53589"
 city: Stoughton
-street: "West Main Street"
-housenumber: 261
+street: West Main Street
+housenumber: "261"
 phone: ""
 opening_hours: ""
 website: ""

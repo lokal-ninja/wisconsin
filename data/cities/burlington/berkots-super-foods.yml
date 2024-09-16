@@ -1,11 +1,11 @@
 id: 347408885
-type: way
+type: node
 latitude: 42.67476
 longitude: -88.29721
 postcode: "53105"
 city: Burlington
-street: "West State Street"
-housenumber: 690
-phone: "+1-262-763-5955"
-opening_hours: "07:00-19:00"
-website: "https://www.gooseberriesmarket.com/"
+street: West State Street
+housenumber: "690"
+phone: +1-262-763-5955
+opening_hours: 07:00-19:00
+website: https://www.gooseberriesmarket.com/

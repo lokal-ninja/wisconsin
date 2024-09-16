@@ -4,8 +4,8 @@ latitude: 42.78525
 longitude: -88.40694
 postcode: "53120"
 city: East Troy
-street: "Main Street"
-housenumber: 2920
-phone: "262-716-9133"
+street: Main Street
+housenumber: "2920"
+phone: 262-716-9133
 opening_hours: ""
-website: "http://www.strumpetandtart.com/"
+website: http://www.strumpetandtart.com/

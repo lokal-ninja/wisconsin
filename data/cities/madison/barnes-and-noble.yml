@@ -1,11 +1,11 @@
 id: 315215989
-type: way
+type: node
 latitude: 43.05908
 longitude: -89.51072
 postcode: "53717"
 city: Madison
-street: "Mineral Point Road"
-housenumber: 7433
-phone: "+1 608 827 0809"
+street: Mineral Point Road
+housenumber: "7433"
+phone: +1 608 827 0809
 opening_hours: ""
-website: "https://www.barnesandnoble.com/"
+website: https://www.barnesandnoble.com/

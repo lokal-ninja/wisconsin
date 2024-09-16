@@ -1,11 +1,11 @@
 id: 1039306537
-type: way
+type: node
 latitude: 43.10506
 longitude: -88.07609
 postcode: "53007"
 city: Butler
-street: "West Hampton Avenue"
-housenumber: 13180
+street: West Hampton Avenue
+housenumber: "13180"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 362821655
-type: way
+type: node
 latitude: 46.32565
 longitude: -90.66125
 postcode: "53546"
 city: Mellen
-street: "Wilderness Drive"
-housenumber: 101
+street: Wilderness Drive
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

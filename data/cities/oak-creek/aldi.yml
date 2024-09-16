@@ -1,11 +1,11 @@
 id: 664247830
-type: way
+type: node
 latitude: 42.92173
 longitude: -87.94898
 postcode: "53154"
 city: Oak Creek
-street: "South 27th Street"
-housenumber: 6810
-phone: "+1 855-464-7001"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/oak-creek/6810-south-27th-street"
+street: South 27th Street
+housenumber: "6810"
+phone: +1 855-464-7001
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/oak-creek/6810-south-27th-street

@@ -1,11 +1,11 @@
 id: 378824934
-type: way
+type: node
 latitude: 42.73444
 longitude: -87.80298
 postcode: ""
 city: Racine
-street: "Carlisle Avenue"
-housenumber: 1101
+street: Carlisle Avenue
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

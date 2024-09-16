@@ -1,11 +1,11 @@
 id: 105428972
-type: way
+type: node
 latitude: 42.71801
 longitude: -88.9788
 postcode: "53545"
 city: Janesville
-street: "Deerfield Drive"
-housenumber: 2900
-phone: "+1 608-741-1534"
-opening_hours: "Mo-Sa 09:00-20:00; Su 10:00-19:00"
-website: "https://stores.petco.com/wi/janesville/pet-supplies-janesville-wi-881.html"
+street: Deerfield Drive
+housenumber: "2900"
+phone: +1 608-741-1534
+opening_hours: Mo-Sa 09:00-20:00; Su 10:00-19:00
+website: https://stores.petco.com/wi/janesville/pet-supplies-janesville-wi-881.html

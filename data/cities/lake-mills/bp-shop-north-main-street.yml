@@ -1,11 +1,11 @@
 id: 503489084
-type: way
+type: node
 latitude: 43.08938
 longitude: -88.91012
 postcode: "53551"
 city: Lake Mills
-street: "North Main Street"
-housenumber: 819
+street: North Main Street
+housenumber: "819"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 692369517
-type: way
+type: node
 latitude: 42.68317
 longitude: -90.11613
 postcode: "53530"
 city: Darlington
-street: "East Harriet Street"
-housenumber: 206
+street: East Harriet Street
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

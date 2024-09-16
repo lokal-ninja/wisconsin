@@ -1,11 +1,11 @@
 id: 1159233298
-type: way
+type: node
 latitude: 42.62925
 longitude: -88.62678
 postcode: "53115"
 city: Delavan
-street: "South Wright Street"
-housenumber: 408
+street: South Wright Street
+housenumber: "408"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1046"
+website: https://www.kwiktrip.com/locator/store?id=1046

@@ -1,11 +1,11 @@
 id: 664174738
-type: way
+type: node
 latitude: 42.94442
 longitude: -88.0473
 postcode: "53130"
 city: Hales Corners
-street: "South 108th Street"
-housenumber: 5508
+street: South 108th Street
+housenumber: "5508"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/hales-corners/5508-s-108th-st.html"
+website: https://www.autozone.com/locations/wi/hales-corners/5508-s-108th-st.html

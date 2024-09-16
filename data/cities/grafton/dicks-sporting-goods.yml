@@ -1,11 +1,11 @@
 id: 919015377
-type: way
+type: node
 latitude: 43.32292
 longitude: -87.92408
 postcode: "53024"
 city: Grafton
-street: "Port Washington Road"
-housenumber: 1020
-phone: "+1 262-377-6349"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/wi/grafton/711/"
+street: Port Washington Road
+housenumber: "1020"
+phone: +1 262-377-6349
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/wi/grafton/711/

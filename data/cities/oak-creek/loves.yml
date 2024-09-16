@@ -1,11 +1,11 @@
 id: 664951188
-type: way
+type: node
 latitude: 42.87142
 longitude: -87.9409
 postcode: "53154"
 city: Oak Creek
-street: "South 20th Street"
-housenumber: 9650
+street: South 20th Street
+housenumber: "9650"
 phone: ""
 opening_hours: ""
-website: "https://www.loves.com/locations/432"
+website: https://www.loves.com/locations/432

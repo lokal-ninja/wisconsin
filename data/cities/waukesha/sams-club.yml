@@ -1,11 +1,11 @@
 id: 760448196
-type: way
+type: node
 latitude: 43.03777
 longitude: -88.1856
 postcode: "53186"
 city: Waukesha
-street: "Springdale Road"
-housenumber: 600
-phone: "+1 262-798-1490"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/waukesha-wi-sams-club/8164"
+street: Springdale Road
+housenumber: "600"
+phone: +1 262-798-1490
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/waukesha-wi-sams-club/8164

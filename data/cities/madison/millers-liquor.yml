@@ -1,11 +1,11 @@
 id: 343600536
-type: way
+type: node
 latitude: 43.07201
 longitude: -89.42723
 postcode: "53726"
 city: Madison
-street: "University Avenue"
-housenumber: 2401
-phone: "(608) 233-6995"
-opening_hours: "Mo-Sa 11:00-21:00; Su 11:00-19:00"
+street: University Avenue
+housenumber: "2401"
+phone: (608) 233-6995
+opening_hours: Mo-Sa 11:00-21:00; Su 11:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 486395388
-type: way
+type: node
 latitude: 44.38152
 longitude: -89.81621
 postcode: "54494"
 city: Wisconsin Rapids
-street: "8th Street South"
-housenumber: 1211
-phone: "+1 866-464-7008"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/wisconsin-rapids/1211-8th-street-south"
+street: 8th Street South
+housenumber: "1211"
+phone: +1 866-464-7008
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/wisconsin-rapids/1211-8th-street-south

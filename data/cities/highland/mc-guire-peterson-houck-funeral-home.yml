@@ -1,11 +1,11 @@
 id: 326129342
-type: way
+type: node
 latitude: 43.04616
 longitude: -90.38025
 postcode: "53543"
 city: Highland
-street: "Main Street"
-housenumber: 544
+street: Main Street
+housenumber: "544"
 phone: ""
 opening_hours: ""
-website: "https://www.houckfuneralhomes.com/"
+website: https://www.houckfuneralhomes.com/

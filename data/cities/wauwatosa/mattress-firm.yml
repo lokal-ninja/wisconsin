@@ -1,11 +1,11 @@
 id: 661606913
-type: way
+type: node
 latitude: 43.05399
 longitude: -88.04806
 postcode: "53226"
 city: Wauwatosa
-street: "North Mayfair Road"
-housenumber: 1751
-phone: "+1 414-259-0544"
+street: North Mayfair Road
+housenumber: "1751"
+phone: +1 414-259-0544
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/wi/wauwatosa/059092/"
+website: https://www.mattressfirm.com/en-us/stores/wi/wauwatosa/059092/

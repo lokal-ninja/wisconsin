@@ -2,10 +2,10 @@ id: 10237835188
 type: node
 latitude: 43.01245
 longitude: -87.92732
-postcode: "53204-3329"
+postcode: 53204-3329
 city: Milwaukee
-street: "West Historic Mitchell Street"
-housenumber: 1208
-phone: "+1 414-574-6431"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: West Historic Mitchell Street
+housenumber: "1208"
+phone: +1 414-574-6431
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

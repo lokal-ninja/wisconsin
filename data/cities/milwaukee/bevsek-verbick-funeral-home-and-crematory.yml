@@ -1,11 +1,11 @@
 id: 663347504
-type: way
+type: node
 latitude: 43.00313
 longitude: -88.0399
 postcode: "53227"
 city: Milwaukee
-street: "W Lincoln Ave"
-housenumber: 10210
-phone: "(414) 546-4342"
-opening_hours: "24/7"
-website: "https://www.bvfh.net/"
+street: W Lincoln Ave
+housenumber: "10210"
+phone: (414) 546-4342
+opening_hours: 24/7
+website: https://www.bvfh.net/

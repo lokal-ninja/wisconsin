@@ -1,11 +1,11 @@
 id: 293290826
-type: way
+type: node
 latitude: 43.33561
 longitude: -90.38576
 postcode: "53581"
 city: Richland Center
-street: "West Court Street"
-housenumber: 122
-phone: "(608)647-5986"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://www.rccomputerdrs.com"
+street: West Court Street
+housenumber: "122"
+phone: (608)647-5986
+opening_hours: Mo-Fr 08:30-17:00
+website: https://www.rccomputerdrs.com

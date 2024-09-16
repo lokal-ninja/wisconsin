@@ -1,11 +1,11 @@
 id: 660267869
-type: way
+type: node
 latitude: 43.11176
 longitude: -88.02534
 postcode: "53225"
 city: Milwaukee
-street: "West Appleton Avenue"
-housenumber: 9025
+street: West Appleton Avenue
+housenumber: "9025"
 phone: ""
 opening_hours: ""
 website: ""

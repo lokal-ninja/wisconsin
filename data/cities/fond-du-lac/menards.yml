@@ -1,11 +1,11 @@
 id: 361824163
-type: way
+type: node
 latitude: 43.78671
 longitude: -88.48946
 postcode: "54937"
 city: Fond du Lac
-street: "Rickmeyer Drive"
-housenumber: 1200
+street: Rickmeyer Drive
+housenumber: "1200"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3106"
+website: https://www.menards.com/store-details/store.html?store=3106

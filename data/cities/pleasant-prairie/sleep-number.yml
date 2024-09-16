@@ -1,11 +1,11 @@
 id: 976513289
-type: way
+type: node
 latitude: 42.56597
 longitude: -87.91969
 postcode: "53158"
 city: Pleasant Prairie
-street: "76th Street"
-housenumber: 9250
-phone: "+1 262 214 1357"
-opening_hours: "Sa-Mo 09:00-21:00; Tu-Fr 11:00-19:00"
-website: "https://stores.sleepnumber.com"
+street: 76th Street
+housenumber: "9250"
+phone: +1 262 214 1357
+opening_hours: Sa-Mo 09:00-21:00; Tu-Fr 11:00-19:00
+website: https://stores.sleepnumber.com

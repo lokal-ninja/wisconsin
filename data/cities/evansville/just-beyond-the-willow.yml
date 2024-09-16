@@ -1,11 +1,11 @@
 id: 425475508
-type: way
+type: node
 latitude: 42.77292
 longitude: -89.29886
 postcode: "53536"
 city: Evansville
-street: "South Madison Street"
-housenumber: 510
+street: South Madison Street
+housenumber: "510"
 phone: ""
-opening_hours: "Tu-Fr 07:00-14:00; Sa,Su 08:00-14:00"
+opening_hours: Tu-Fr 07:00-14:00; Sa,Su 08:00-14:00
 website: ""

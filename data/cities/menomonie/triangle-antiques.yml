@@ -4,8 +4,8 @@ latitude: 44.87661
 longitude: -91.92633
 postcode: "54751"
 city: Menomonie
-street: "Main Street East"
-housenumber: 335
+street: Main Street East
+housenumber: "335"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

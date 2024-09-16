@@ -1,11 +1,11 @@
 id: 442008029
-type: way
+type: node
 latitude: 43.79434
 longitude: -90.07267
 postcode: "53948"
 city: Mauston
-street: "South Union Street"
-housenumber: 216
-phone: "608-847-4048"
+street: South Union Street
+housenumber: "216"
+phone: 608-847-4048
 opening_hours: ""
 website: ""

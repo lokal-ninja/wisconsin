@@ -1,11 +1,11 @@
 id: 823313127
-type: way
+type: node
 latitude: 44.77508
 longitude: -91.43417
 postcode: "54701"
 city: Eau Claire
-street: "Commonwealth Avenue"
-housenumber: 4071
-phone: "+1 720-966-1574"
+street: Commonwealth Avenue
+housenumber: "4071"
+phone: +1 720-966-1574
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/wi/eau-claire/080044/"
+website: https://www.mattressfirm.com/en-us/stores/wi/eau-claire/080044/

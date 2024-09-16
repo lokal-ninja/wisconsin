@@ -1,11 +1,11 @@
 id: 543185905
-type: way
+type: node
 latitude: 44.56381
 longitude: -88.07962
 postcode: "54313"
 city: Howard
-street: "Glendale Avenue"
-housenumber: 2500
+street: Glendale Avenue
+housenumber: "2500"
 phone: ""
-opening_hours: "Mo,Th 10:00-08:00; Tu,We,Fr 10:00-06:00; Sa 10:00-03:00"
+opening_hours: Mo,Th 10:00-08:00; Tu,We,Fr 10:00-06:00; Sa 10:00-03:00
 website: ""

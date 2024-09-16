@@ -1,11 +1,11 @@
 id: 251406841
-type: way
+type: node
 latitude: 43.85556
 longitude: -88.86547
 postcode: "54971"
 city: Ripon
-street: "West Fond du Lac Street"
-housenumber: 1203
+street: West Fond du Lac Street
+housenumber: "1203"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-1203+w+fond+du+lac+st-ripon-wi-54971/id=1164"
+website: https://www.walgreens.com/locator/walgreens-1203+w+fond+du+lac+st-ripon-wi-54971/id=1164

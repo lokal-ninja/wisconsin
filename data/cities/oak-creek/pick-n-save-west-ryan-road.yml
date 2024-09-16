@@ -1,11 +1,11 @@
 id: 664657791
-type: way
+type: node
 latitude: 42.87438
 longitude: -87.94852
 postcode: "53154"
 city: Oak Creek
-street: "West Ryan Road"
-housenumber: 2320
+street: West Ryan Road
+housenumber: "2320"
 phone: ""
 opening_hours: ""
 website: ""

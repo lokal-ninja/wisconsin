@@ -1,11 +1,11 @@
 id: 553106500
-type: way
+type: node
 latitude: 43.4259
 longitude: -88.18475
 postcode: "53095"
 city: West Bend
-street: "Cedar Street"
-housenumber: 629
-phone: "1-262-334-2301"
+street: Cedar Street
+housenumber: "629"
+phone: 1-262-334-2301
 opening_hours: ""
-website: "http://schmidtfuneralhome.com"
+website: http://schmidtfuneralhome.com

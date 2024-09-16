@@ -1,11 +1,11 @@
 id: 360200478
-type: way
+type: node
 latitude: 46.45879
 longitude: -90.19118
 postcode: "54534"
 city: Hurley
-street: "North US 51"
-housenumber: 13321
+street: North US 51
+housenumber: "13321"
 phone: ""
 opening_hours: ""
 website: ""

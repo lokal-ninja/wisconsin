@@ -1,11 +1,11 @@
 id: 517997135
-type: way
+type: node
 latitude: 44.95737
 longitude: -89.62345
 postcode: "54403"
 city: Wausau
-street: "North 6th Street"
-housenumber: 103
+street: North 6th Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

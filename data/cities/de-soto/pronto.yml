@@ -1,11 +1,11 @@
 id: 495672628
-type: way
+type: node
 latitude: 43.42192
 longitude: -91.19932
 postcode: "54624"
 city: De Soto
-street: "State Highway 35"
-housenumber: 10110
+street: State Highway 35
+housenumber: "10110"
 phone: ""
 opening_hours: ""
 website: ""

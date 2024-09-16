@@ -1,11 +1,11 @@
 id: 1093272548
-type: way
+type: node
 latitude: 44.54031
 longitude: -90.03677
 postcode: "54410"
 city: Arpin
-street: "County Highway N"
-housenumber: 6333
+street: County Highway N
+housenumber: "6333"
 phone: ""
 opening_hours: ""
 website: ""

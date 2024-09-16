@@ -1,11 +1,11 @@
 id: 1011231962
-type: way
+type: node
 latitude: 43.07515
 longitude: -88.24024
 postcode: "53072"
 city: Pewaukee
-street: "East Wisconsin Avenue"
-housenumber: 1235
-phone: "+1 262 691 2740"
+street: East Wisconsin Avenue
+housenumber: "1235"
+phone: +1 262 691 2740
 opening_hours: ""
-website: "https://www.caliber.com/"
+website: https://www.caliber.com/

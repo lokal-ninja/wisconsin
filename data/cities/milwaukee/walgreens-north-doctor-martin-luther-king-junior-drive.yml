@@ -1,11 +1,11 @@
 id: 660765909
-type: way
+type: node
 latitude: 43.06955
 longitude: -87.91351
 postcode: ""
 city: Milwaukee
-street: "North Doctor Martin Luther King Junior Drive"
-housenumber: 2826
+street: North Doctor Martin Luther King Junior Drive
+housenumber: "2826"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2826+n+dr+martin+luther+king+jr+dr-milwaukee-wi-53212/id=12783"
+website: https://www.walgreens.com/locator/walgreens-2826+n+dr+martin+luther+king+jr+dr-milwaukee-wi-53212/id=12783

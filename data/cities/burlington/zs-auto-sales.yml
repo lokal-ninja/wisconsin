@@ -1,11 +1,11 @@
 id: 334650254
-type: way
+type: node
 latitude: 42.68847
 longitude: -88.26905
 postcode: "53105"
 city: Burlington
-street: "Milwaukee Avenue"
-housenumber: 1080
+street: Milwaukee Avenue
+housenumber: "1080"
 phone: ""
 opening_hours: ""
 website: ""

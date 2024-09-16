@@ -1,11 +1,11 @@
 id: 325382820
-type: way
+type: node
 latitude: 42.59153
 longitude: -89.65079
 postcode: "53566"
 city: Monroe
-street: "21st Street"
-housenumber: 703
+street: 21st Street
+housenumber: "703"
 phone: ""
 opening_hours: ""
 website: ""

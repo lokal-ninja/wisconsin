@@ -4,8 +4,8 @@ latitude: 44.52354
 longitude: -89.58629
 postcode: "54481"
 city: Stevens Point
-street: "Main Street"
-housenumber: 824
+street: Main Street
+housenumber: "824"
 phone: ""
 opening_hours: ""
-website: "https://greenthumbalt.com/"
+website: https://greenthumbalt.com/

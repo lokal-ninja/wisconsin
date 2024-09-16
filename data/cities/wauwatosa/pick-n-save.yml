@@ -1,11 +1,11 @@
 id: 661594474
-type: way
+type: node
 latitude: 43.05408
 longitude: -88.04924
 postcode: "53226"
 city: Wauwatosa
-street: "North Mayfair Road"
-housenumber: 1717
+street: North Mayfair Road
+housenumber: "1717"
 phone: ""
-opening_hours: "6:00-23:00"
+opening_hours: 6:00-23:00
 website: ""

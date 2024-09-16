@@ -1,11 +1,11 @@
 id: 106101957
-type: way
+type: node
 latitude: 43.12452
 longitude: -89.31482
 postcode: "53704"
 city: Madison
-street: "East Washington Avenue"
-housenumber: 4016
-phone: "+1 608-245-8892"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/wi/madison/office-depot-355"
+street: East Washington Avenue
+housenumber: "4016"
+phone: +1 608-245-8892
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/wi/madison/office-depot-355

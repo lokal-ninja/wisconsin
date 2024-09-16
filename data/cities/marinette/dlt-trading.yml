@@ -1,11 +1,11 @@
 id: 921492662
-type: way
+type: node
 latitude: 45.08625
 longitude: -87.65077
 postcode: "54143"
 city: Marinette
-street: "Cleveland Avenue"
-housenumber: 2900
-phone: "+1-877-622-2397"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://www.dlttrading.com/"
+street: Cleveland Avenue
+housenumber: "2900"
+phone: +1-877-622-2397
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-12:00
+website: https://www.dlttrading.com/

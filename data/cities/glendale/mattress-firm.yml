@@ -1,11 +1,11 @@
 id: 1152756688
-type: way
+type: node
 latitude: 43.119
 longitude: -87.91439
 postcode: "53217"
 city: Glendale
-street: "West Silver Spring Drive"
-housenumber: 400
-phone: "+1 414-967-3656"
+street: West Silver Spring Drive
+housenumber: "400"
+phone: +1 414-967-3656
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/wi/glendale/059005/"
+website: https://www.mattressfirm.com/en-us/stores/wi/glendale/059005/

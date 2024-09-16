@@ -1,11 +1,11 @@
 id: 334652899
-type: way
+type: node
 latitude: 42.70246
 longitude: -88.24945
 postcode: "53105"
 city: Burlington
-street: "Lynch Way"
-housenumber: 2009
-phone: "+1 855-464-7083"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/burlington/2009-lynch-way"
+street: Lynch Way
+housenumber: "2009"
+phone: +1 855-464-7083
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/burlington/2009-lynch-way

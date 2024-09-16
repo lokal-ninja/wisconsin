@@ -1,11 +1,11 @@
 id: 102924200
-type: way
+type: node
 latitude: 42.72479
 longitude: -87.95608
 postcode: "53177"
 city: Sturtevant
-street: "South Sylvania Avenue"
-housenumber: 717
+street: South Sylvania Avenue
+housenumber: "717"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.racinepetro.com/"
+opening_hours: 24/7
+website: https://www.racinepetro.com/

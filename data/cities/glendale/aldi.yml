@@ -1,11 +1,11 @@
 id: 880726506
-type: way
+type: node
 latitude: 43.14203
 longitude: -87.91413
 postcode: "53217"
 city: Glendale
-street: "North Port Washington Road"
-housenumber: 6825
-phone: "+1 855-464-1042"
-opening_hours: "08:30-20:00"
-website: "https://stores.aldi.us/wi/glendale/6825-n-port-washington-rd"
+street: North Port Washington Road
+housenumber: "6825"
+phone: +1 855-464-1042
+opening_hours: 08:30-20:00
+website: https://stores.aldi.us/wi/glendale/6825-n-port-washington-rd

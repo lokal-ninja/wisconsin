@@ -1,11 +1,11 @@
 id: 324539412
-type: way
+type: node
 latitude: 43.08366
 longitude: -89.47646
 postcode: "53705"
 city: Madison
-street: "University Avenue"
-housenumber: 5522
+street: University Avenue
+housenumber: "5522"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/wi/madison/oil-change-gr0032.html"
+website: https://store.vioc.com/wi/madison/oil-change-gr0032.html

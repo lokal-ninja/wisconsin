@@ -1,11 +1,11 @@
 id: 246352442
-type: way
+type: node
 latitude: 44.52334
 longitude: -89.58666
 postcode: "54481"
 city: Stevens Point
-street: "Main Street"
-housenumber: 823
+street: Main Street
+housenumber: "823"
 phone: ""
 opening_hours: ""
-website: "https://www.callitnewcallitantique.com/stevens-point-wi/4480464"
+website: https://www.callitnewcallitantique.com/stevens-point-wi/4480464

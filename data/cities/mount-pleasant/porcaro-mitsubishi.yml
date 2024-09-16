@@ -1,11 +1,11 @@
 id: 397185405
-type: way
+type: node
 latitude: 42.71839
 longitude: -87.85465
 postcode: ""
 city: Mount Pleasant
-street: "Washington Avenue"
-housenumber: 6107
+street: Washington Avenue
+housenumber: "6107"
 phone: ""
 opening_hours: ""
 website: ""

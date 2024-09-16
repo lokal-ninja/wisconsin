@@ -1,11 +1,11 @@
 id: 223308689
-type: way
+type: node
 latitude: 44.95954
 longitude: -92.72508
 postcode: "54016"
 city: Hudson
-street: "Crest View Drive"
-housenumber: 2312
-phone: "+1 715-386-2223"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.chiconesliquor.com/"
+street: Crest View Drive
+housenumber: "2312"
+phone: +1 715-386-2223
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.chiconesliquor.com/

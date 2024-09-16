@@ -1,11 +1,11 @@
 id: 53209109
-type: way
+type: node
 latitude: 43.01721
 longitude: -88.10829
 postcode: "53005"
 city: Brookfield
-street: "West Greenfield Avenue"
-housenumber: 15650
+street: West Greenfield Avenue
+housenumber: "15650"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-15650+w+greenfield+ave-brookfield-wi-53005/id=4888"
+website: https://www.walgreens.com/locator/walgreens-15650+w+greenfield+ave-brookfield-wi-53005/id=4888

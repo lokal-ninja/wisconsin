@@ -1,11 +1,11 @@
 id: 851666119
-type: way
+type: node
 latitude: 42.59715
 longitude: -88.41327
 postcode: "53147"
 city: Lake Geneva
-street: "North Edwards Boulevard"
-housenumber: 600
-phone: "+1 262-249-0371"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-18:00"
-website: "https://stores.joann.com/wi/lake-geneva/2322/"
+street: North Edwards Boulevard
+housenumber: "600"
+phone: +1 262-249-0371
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-18:00
+website: https://stores.joann.com/wi/lake-geneva/2322/

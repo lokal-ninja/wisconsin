@@ -1,11 +1,11 @@
 id: 1068900008
-type: way
+type: node
 latitude: 42.68643
 longitude: -88.27129
 postcode: "53105"
 city: Burlington
-street: "Milwaukee Avenue"
-housenumber: 824
+street: Milwaukee Avenue
+housenumber: "824"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/burlington/autoparts-4650.html"
+website: https://locations.oreillyauto.com/wi/burlington/autoparts-4650.html

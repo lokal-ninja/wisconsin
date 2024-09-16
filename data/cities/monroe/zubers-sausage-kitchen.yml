@@ -1,11 +1,11 @@
 id: 306642807
-type: way
+type: node
 latitude: 42.59424
 longitude: -89.64815
 postcode: "53566"
 city: Monroe
-street: "19th Street"
-housenumber: 905
+street: 19th Street
+housenumber: "905"
 phone: ""
 opening_hours: ""
-website: "http://www.zubersmeats.com/"
+website: http://www.zubersmeats.com/

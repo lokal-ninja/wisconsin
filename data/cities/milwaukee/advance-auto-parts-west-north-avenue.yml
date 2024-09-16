@@ -1,11 +1,11 @@
 id: 661243722
-type: way
+type: node
 latitude: 43.06081
 longitude: -87.98591
 postcode: "53208"
 city: Milwaukee
-street: "West North Avenue"
-housenumber: 5816
+street: West North Avenue
+housenumber: "5816"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/milwaukee/5816-w-north-ave"
+website: https://stores.advanceautoparts.com/wi/milwaukee/5816-w-north-ave

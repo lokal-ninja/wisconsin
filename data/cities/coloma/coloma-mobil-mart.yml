@@ -1,11 +1,11 @@
 id: 358744546
-type: way
+type: node
 latitude: 44.03622
 longitude: -89.52458
 postcode: "54930"
 city: Coloma
-street: "West Follett Drive"
-housenumber: 215
-phone: "+1 715-228-3291"
+street: West Follett Drive
+housenumber: "215"
+phone: +1 715-228-3291
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200310915"
+website: https://www.exxon.com/en/find-station/200310915

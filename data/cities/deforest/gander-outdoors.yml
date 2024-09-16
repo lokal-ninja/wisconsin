@@ -1,11 +1,11 @@
 id: 406500987
-type: way
+type: node
 latitude: 43.1865
 longitude: -89.33126
 postcode: "53532"
 city: DeForest
-street: "East Metro Drive"
-housenumber: 6199
+street: East Metro Drive
+housenumber: "6199"
 phone: ""
 opening_hours: ""
 website: ""

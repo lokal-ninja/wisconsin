@@ -1,11 +1,11 @@
 id: 307402733
-type: way
+type: node
 latitude: 44.3529
 longitude: -89.81613
 postcode: "54494"
 city: Wisconsin Rapids
-street: "8th Street South"
-housenumber: 4611
+street: 8th Street South
+housenumber: "4611"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=347"
+website: https://www.kwiktrip.com/locator/store?id=347

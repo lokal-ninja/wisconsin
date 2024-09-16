@@ -4,8 +4,8 @@ latitude: 42.60535
 longitude: -89.66216
 postcode: "53566"
 city: Monroe
-street: "West 8th Street"
-housenumber: 405
-phone: "(608) 325-2050"
+street: West 8th Street
+housenumber: "405"
+phone: (608) 325-2050
 opening_hours: ""
-website: "https://www.farmandfleet.com/stores/wi/monroe/"
+website: https://www.farmandfleet.com/stores/wi/monroe/

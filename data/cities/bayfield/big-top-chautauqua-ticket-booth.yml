@@ -1,11 +1,11 @@
 id: 945296492
-type: way
+type: node
 latitude: 46.77819
 longitude: -90.89311
 postcode: "54814"
 city: Bayfield
-street: "Ski Hill Road"
-housenumber: 32535
+street: Ski Hill Road
+housenumber: "32535"
 phone: ""
 opening_hours: ""
-website: "https://www.bigtop.org/"
+website: https://www.bigtop.org/

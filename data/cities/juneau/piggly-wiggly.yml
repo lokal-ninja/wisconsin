@@ -1,11 +1,11 @@
 id: 581962725
-type: way
+type: node
 latitude: 43.40713
 longitude: -88.71248
 postcode: "53039"
 city: Juneau
-street: "South Western Avenue"
-housenumber: 100
-phone: "+1 920-386-2972"
+street: South Western Avenue
+housenumber: "100"
+phone: +1 920-386-2972
 opening_hours: ""
 website: ""

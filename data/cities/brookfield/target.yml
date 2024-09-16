@@ -1,11 +1,11 @@
 id: 547331027
-type: way
+type: node
 latitude: 43.0334
 longitude: -88.07192
 postcode: "53005"
 city: Brookfield
-street: "West Bluemound Road"
-housenumber: 12725
-phone: "+1 262-395-1625"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/brookfield/2780"
+street: West Bluemound Road
+housenumber: "12725"
+phone: +1 262-395-1625
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/brookfield/2780

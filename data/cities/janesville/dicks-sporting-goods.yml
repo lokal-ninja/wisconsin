@@ -1,11 +1,11 @@
 id: 779710127
-type: way
+type: node
 latitude: 42.71345
 longitude: -88.9985
 postcode: "53545"
 city: Janesville
-street: "Milton Avenue"
-housenumber: 2500
-phone: "+1 608-302-4093"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/wi/janesville/1212/"
+street: Milton Avenue
+housenumber: "2500"
+phone: +1 608-302-4093
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/wi/janesville/1212/

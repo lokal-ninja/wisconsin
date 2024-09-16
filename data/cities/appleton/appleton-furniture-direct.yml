@@ -1,11 +1,11 @@
 id: 542630080
-type: way
+type: node
 latitude: 44.26547
 longitude: -88.4097
 postcode: "54911"
 city: Appleton
-street: "North Superior Street"
-housenumber: 311
+street: North Superior Street
+housenumber: "311"
 phone: ""
 opening_hours: ""
 website: ""

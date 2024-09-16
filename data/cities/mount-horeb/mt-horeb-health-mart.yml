@@ -1,11 +1,11 @@
 id: 305065660
-type: way
+type: node
 latitude: 43.00856
 longitude: -89.74047
 postcode: "53572"
 city: Mount Horeb
-street: "West Main Street"
-housenumber: 203
+street: West Main Street
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 463069371
-type: way
+type: node
 latitude: 43.19648
 longitude: -89.34372
 postcode: ""
 city: Windsor
-street: "Lake Circle"
-housenumber: 4494
+street: Lake Circle
+housenumber: "4494"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 144683922
-type: way
+type: node
 latitude: 44.26824
 longitude: -88.48089
 postcode: "54913"
 city: Appleton
-street: "Mutual Way"
-housenumber: 955
-phone: "+1 920-954-6300"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1982/appleton-wi/whats-new"
+street: Mutual Way
+housenumber: "955"
+phone: +1 920-954-6300
+opening_hours: 24/7
+website: https://www.walmart.com/store/1982/appleton-wi/whats-new

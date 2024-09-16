@@ -1,11 +1,11 @@
 id: 567573138
-type: way
+type: node
 latitude: 45.97258
 longitude: -89.89149
 postcode: "54538"
 city: Lac du Flambeau
-street: "State Highway 47;Old Abe Rd (Hwy 47)"
-housenumber: 501
+street: State Highway 47;Old Abe Rd (Hwy 47)
+housenumber: "501"
 phone: ""
 opening_hours: ""
 website: ""

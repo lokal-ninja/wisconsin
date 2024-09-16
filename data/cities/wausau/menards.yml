@@ -1,11 +1,11 @@
 id: 387563572
-type: way
+type: node
 latitude: 44.95581
 longitude: -89.67366
 postcode: "54401"
 city: Wausau
-street: "Stewart Avenue"
-housenumber: 2801
+street: Stewart Avenue
+housenumber: "2801"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3016"
+website: https://www.menards.com/store-details/store.html?store=3016

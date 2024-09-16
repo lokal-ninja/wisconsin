@@ -1,11 +1,11 @@
 id: 816685150
-type: way
+type: node
 latitude: 42.95575
 longitude: -88.10832
 postcode: "53151"
 city: New Berlin
-street: "West Beloit Road"
-housenumber: 15555
+street: West Beloit Road
+housenumber: "15555"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/New-Berlin/15555-West-Beloit-Road"
+website: https://www.speedway.com/locations/WI/New-Berlin/15555-West-Beloit-Road

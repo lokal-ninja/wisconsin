@@ -1,11 +1,11 @@
 id: 663645416
-type: way
+type: node
 latitude: 42.97467
 longitude: -87.94733
 postcode: "53221"
 city: Milwaukee
-street: "South 27th Street"
-housenumber: 3860
+street: South 27th Street
+housenumber: "3860"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/milwaukee-wi-pharmacies/3860-s-27th-st-milwaukee-wi-53221/storeid=3394"
+website: https://www.cvs.com/store-locator/milwaukee-wi-pharmacies/3860-s-27th-st-milwaukee-wi-53221/storeid=3394

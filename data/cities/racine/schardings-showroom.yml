@@ -1,11 +1,11 @@
 id: 372284340
-type: way
+type: node
 latitude: 42.72641
 longitude: -87.78763
 postcode: ""
 city: Racine
-street: "6th Street"
-housenumber: 606
+street: 6th Street
+housenumber: "606"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 663229454
-type: way
+type: node
 latitude: 43.0122
 longitude: -87.93275
-postcode: "53204-3245"
+postcode: 53204-3245
 city: Milwaukee
-street: "West Mitchell Street"
-housenumber: 1575
+street: West Mitchell Street
+housenumber: "1575"
 phone: ""
 opening_hours: ""
 website: ""

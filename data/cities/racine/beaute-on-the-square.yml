@@ -1,11 +1,11 @@
 id: 351036628
-type: way
+type: node
 latitude: 42.72756
 longitude: -87.78343
 postcode: ""
 city: Racine
-street: "Monument Square"
-housenumber: 512
+street: Monument Square
+housenumber: "512"
 phone: ""
 opening_hours: ""
 website: ""

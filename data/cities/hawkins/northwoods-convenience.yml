@@ -1,11 +1,11 @@
 id: 360112027
-type: way
+type: node
 latitude: 45.51556
 longitude: -90.71922
 postcode: "54530"
 city: Hawkins
-street: "Ellingson Avenue"
-housenumber: 718
+street: Ellingson Avenue
+housenumber: "718"
 phone: ""
 opening_hours: ""
 website: ""

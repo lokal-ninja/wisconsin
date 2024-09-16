@@ -1,11 +1,11 @@
 id: 44761799
-type: way
+type: node
 latitude: 43.63517
 longitude: -88.71734
 postcode: "53963"
 city: Waupun
-street: "Gateway Drive"
-housenumber: 100
-phone: "+1 920-324-5526"
+street: Gateway Drive
+housenumber: "100"
+phone: +1 920-324-5526
 opening_hours: ""
 website: ""

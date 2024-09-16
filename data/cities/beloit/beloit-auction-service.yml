@@ -1,11 +1,11 @@
 id: 449956348
-type: way
+type: node
 latitude: 42.50148
 longitude: -89.04609
 postcode: "53511"
 city: Beloit
-street: "West Grand Avenue"
-housenumber: 534
-phone: "+1-608-364-1965"
+street: West Grand Avenue
+housenumber: "534"
+phone: +1-608-364-1965
 opening_hours: ""
-website: "https://www.beloitauction.com/"
+website: https://www.beloitauction.com/

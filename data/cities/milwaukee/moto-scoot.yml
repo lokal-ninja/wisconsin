@@ -1,11 +1,11 @@
 id: 480251734
-type: way
+type: node
 latitude: 43.06651
 longitude: -87.89148
 postcode: "53211"
 city: Milwaukee
-street: "East Belleview Place"
-housenumber: 1420
+street: East Belleview Place
+housenumber: "1420"
 phone: ""
 opening_hours: ""
 website: ""

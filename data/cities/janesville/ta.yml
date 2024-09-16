@@ -1,11 +1,11 @@
 id: 105343012
-type: way
+type: node
 latitude: 42.71445
 longitude: -88.9794
 postcode: "53546"
 city: Janesville
-street: "Humes Road"
-housenumber: 3222
+street: Humes Road
+housenumber: "3222"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.ta-petro.com/location/wi/ta-janesville/"
+opening_hours: 24/7
+website: https://www.ta-petro.com/location/wi/ta-janesville/

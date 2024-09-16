@@ -1,11 +1,11 @@
 id: 453143298
-type: way
+type: node
 latitude: 43.39491
 longitude: -88.1979
 postcode: "53095"
 city: West Bend
-street: "West Paradise Drive"
-housenumber: 1515
-phone: "+1 262-334-5760"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2658/west-bend-wi/whats-new"
+street: West Paradise Drive
+housenumber: "1515"
+phone: +1 262-334-5760
+opening_hours: 24/7
+website: https://www.walmart.com/store/2658/west-bend-wi/whats-new

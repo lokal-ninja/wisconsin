@@ -1,11 +1,11 @@
 id: 374947021
-type: way
+type: node
 latitude: 42.74785
 longitude: -87.78667
 postcode: ""
 city: Racine
-street: "Goold Street"
-housenumber: 506
+street: Goold Street
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

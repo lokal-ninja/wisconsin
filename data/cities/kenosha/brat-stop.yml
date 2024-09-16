@@ -1,11 +1,11 @@
 id: 223610291
-type: way
+type: node
 latitude: 42.56896
 longitude: -87.95758
 postcode: "53142"
 city: Kenosha
-street: "75th Street"
-housenumber: 12304
+street: 75th Street
+housenumber: "12304"
 phone: ""
 opening_hours: ""
 website: ""

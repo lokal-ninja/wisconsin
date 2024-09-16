@@ -1,11 +1,11 @@
 id: 338195521
-type: way
+type: node
 latitude: 43.0542
 longitude: -90.07334
 postcode: "53533"
 city: Dodgeville
-street: "County Road Z"
-housenumber: 4948
+street: County Road Z
+housenumber: "4948"
 phone: ""
 opening_hours: ""
 website: ""

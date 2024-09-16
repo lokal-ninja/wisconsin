@@ -1,11 +1,11 @@
 id: 709919049
-type: way
+type: node
 latitude: 44.02987
 longitude: -88.53726
 postcode: "54901"
 city: Oshkosh
-street: "North Main Street"
-housenumber: 1010
-phone: "+1-920-235-7316"
+street: North Main Street
+housenumber: "1010"
+phone: +1-920-235-7316
 opening_hours: ""
-website: "https://www.computercorner.cc/"
+website: https://www.computercorner.cc/

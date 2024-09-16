@@ -1,11 +1,11 @@
 id: 760192149
-type: way
+type: node
 latitude: 43.50972
 longitude: -88.22098
 postcode: "53040"
 city: Kewaskum
-street: "Fond du Lac Avenue"
-housenumber: 891
+street: Fond du Lac Avenue
+housenumber: "891"
 phone: ""
 opening_hours: ""
 website: ""

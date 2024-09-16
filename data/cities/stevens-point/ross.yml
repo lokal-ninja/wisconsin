@@ -4,8 +4,8 @@ latitude: 44.52121
 longitude: -89.50835
 postcode: "54482"
 city: Stevens Point
-street: "Highway 10 East"
-housenumber: 5601
-phone: "+1 715-343-0609"
-opening_hours: "Mo-Th 10:30-20:00; Fr-Sa 09:30-21:00; Su 10:30-19:30"
+street: Highway 10 East
+housenumber: "5601"
+phone: +1 715-343-0609
+opening_hours: Mo-Th 10:30-20:00; Fr-Sa 09:30-21:00; Su 10:30-19:30
 website: ""

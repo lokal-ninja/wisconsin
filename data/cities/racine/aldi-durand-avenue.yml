@@ -1,11 +1,11 @@
 id: 1026857727
-type: way
+type: node
 latitude: 42.69663
 longitude: -87.86622
 postcode: "53406"
 city: Racine
-street: "Durand Avenue"
-housenumber: 6925
-phone: "+1 877-464-7017"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/racine/6925-durand-avenue"
+street: Durand Avenue
+housenumber: "6925"
+phone: +1 877-464-7017
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/racine/6925-durand-avenue

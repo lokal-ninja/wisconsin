@@ -1,11 +1,11 @@
 id: 628296180
-type: way
+type: node
 latitude: 45.1754
 longitude: -89.64932
 postcode: "54452"
 city: Merrill
-street: "South Pine Ridge Avenue"
-housenumber: 505
-phone: "+1 715-536-2414"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1366/merrill-wi/whats-new"
+street: South Pine Ridge Avenue
+housenumber: "505"
+phone: +1 715-536-2414
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1366/merrill-wi/whats-new

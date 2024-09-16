@@ -4,8 +4,8 @@ latitude: 42.81487
 longitude: -89.63374
 postcode: "53574"
 city: New Glarus
-street: "1st Street"
-housenumber: 534
-phone: "608-527-2916"
+street: 1st Street
+housenumber: "534"
+phone: 608-527-2916
 opening_hours: ""
-website: "https://newglarusbakery.com/"
+website: https://newglarusbakery.com/

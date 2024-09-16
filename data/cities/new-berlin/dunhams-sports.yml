@@ -1,11 +1,11 @@
 id: 816685141
-type: way
+type: node
 latitude: 42.95815
 longitude: -88.10566
 postcode: "53151"
 city: New Berlin
-street: "West Beloit Road"
-housenumber: 15470
+street: West Beloit Road
+housenumber: "15470"
 phone: ""
 opening_hours: ""
 website: ""

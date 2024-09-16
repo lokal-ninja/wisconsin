@@ -1,11 +1,11 @@
 id: 480218014
-type: way
+type: node
 latitude: 42.57189
 longitude: -90.39027
 postcode: "53803"
 city: Benton
-street: "Creek Drive"
-housenumber: 110
+street: Creek Drive
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

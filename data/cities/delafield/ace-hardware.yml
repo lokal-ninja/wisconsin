@@ -1,11 +1,11 @@
 id: 974692460
-type: way
+type: node
 latitude: 43.05035
 longitude: -88.37095
 postcode: "53018"
 city: Delafield
-street: "Heritage Drive"
-housenumber: 2835
-phone: "+1 262-646-4101"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-17:00"
+street: Heritage Drive
+housenumber: "2835"
+phone: +1 262-646-4101
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 879148954
-type: way
+type: node
 latitude: 42.97954
 longitude: -87.87917
 postcode: "53235"
 city: Saint Francis
-street: "South Kinnickinnic Avenue"
-housenumber: 3561
-phone: "+1 414 294 4220"
+street: South Kinnickinnic Avenue
+housenumber: "3561"
+phone: +1 414 294 4220
 opening_hours: ""
-website: "https://cakeladydesigns.com"
+website: https://cakeladydesigns.com

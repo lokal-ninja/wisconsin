@@ -1,11 +1,11 @@
 id: 435759467
-type: way
+type: node
 latitude: 42.88558
 longitude: -87.90973
 postcode: "53154"
 city: Oak Creek
-street: "South Howell Avenue"
-housenumber: 8770
+street: South Howell Avenue
+housenumber: "8770"
 phone: ""
 opening_hours: ""
 website: ""

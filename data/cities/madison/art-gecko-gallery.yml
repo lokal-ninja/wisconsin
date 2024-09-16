@@ -1,11 +1,11 @@
 id: 339087136
-type: way
+type: node
 latitude: 43.06542
 longitude: -89.41618
 postcode: "53711"
 city: Madison
-street: "Monroe Street"
-housenumber: 1725
+street: Monroe Street
+housenumber: "1725"
 phone: ""
 opening_hours: ""
-website: "https://www.artgeckoshop.com/"
+website: https://www.artgeckoshop.com/

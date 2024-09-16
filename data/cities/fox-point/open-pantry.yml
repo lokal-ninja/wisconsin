@@ -1,11 +1,11 @@
 id: 115556452
-type: way
+type: node
 latitude: 43.17634
 longitude: -87.91344
 postcode: "53217"
 city: Fox Point
-street: "West Brown Deer Road"
-housenumber: 501
+street: West Brown Deer Road
+housenumber: "501"
 phone: ""
-opening_hours: "05:00-23:00"
+opening_hours: 05:00-23:00
 website: ""

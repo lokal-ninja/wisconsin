@@ -1,11 +1,11 @@
 id: 619002756
-type: way
+type: node
 latitude: 43.17588
 longitude: -90.06586
 postcode: "53588"
 city: Spring Green
-street: "Worcester St"
-housenumber: 171
+street: Worcester St
+housenumber: "171"
 phone: ""
 opening_hours: ""
 website: ""

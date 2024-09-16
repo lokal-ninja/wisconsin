@@ -1,11 +1,11 @@
 id: 1301802483
-type: way
+type: node
 latitude: 45.10248
 longitude: -92.54093
 postcode: ""
 city: New Richmond
-street: "Hamilton Avenue"
-housenumber: 1475
+street: Hamilton Avenue
+housenumber: "1475"
 phone: ""
 opening_hours: ""
 website: ""

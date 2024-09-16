@@ -1,11 +1,11 @@
 id: 678049456
-type: way
+type: node
 latitude: 43.0934
 longitude: -89.34801
 postcode: "53704"
 city: Madison
-street: "Atwood Avenue"
-housenumber: 2305
+street: Atwood Avenue
+housenumber: "2305"
 phone: ""
 opening_hours: ""
 website: ""

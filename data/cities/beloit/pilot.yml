@@ -1,11 +1,11 @@
 id: 267159048
-type: way
+type: node
 latitude: 42.5268
 longitude: -88.97983
 postcode: "53500"
 city: Beloit
-street: "Milwaukee Road"
-housenumber: 3001
-phone: "+1 608-364-3644"
+street: Milwaukee Road
+housenumber: "3001"
+phone: +1 608-364-3644
 opening_hours: ""
 website: ""

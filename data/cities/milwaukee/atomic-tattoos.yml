@@ -1,11 +1,11 @@
 id: 662749207
-type: way
+type: node
 latitude: 43.05998
 longitude: -87.8916
 postcode: "53202"
 city: Milwaukee
-street: "East North Avenue"
-housenumber: 1507
+street: East North Avenue
+housenumber: "1507"
 phone: ""
-opening_hours: "Mo-Sa 11:00-21:00; Su 12:00-18:00"
+opening_hours: Mo-Sa 11:00-21:00; Su 12:00-18:00
 website: ""

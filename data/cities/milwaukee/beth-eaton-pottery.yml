@@ -4,8 +4,8 @@ latitude: 42.99688
 longitude: -87.89894
 postcode: "53207"
 city: Milwaukee
-street: "East Potter Avenue"
-housenumber: 815
+street: East Potter Avenue
+housenumber: "815"
 phone: ""
-opening_hours: "Fr-Su 11:00-17:00"
-website: "http://www.betheatonpottery.com/"
+opening_hours: Fr-Su 11:00-17:00
+website: http://www.betheatonpottery.com/

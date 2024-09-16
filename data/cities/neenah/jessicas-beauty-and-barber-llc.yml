@@ -1,11 +1,11 @@
 id: 572700418
-type: way
+type: node
 latitude: 44.18701
 longitude: -88.46544
 postcode: "54956"
 city: Neenah
-street: "West Doty Avenue"
-housenumber: 300
-phone: "(920) 659-0205"
+street: West Doty Avenue
+housenumber: "300"
+phone: (920) 659-0205
 opening_hours: ""
-website: "http://jessicasbeautyandbarber.com/"
+website: http://jessicasbeautyandbarber.com/

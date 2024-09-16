@@ -1,11 +1,11 @@
 id: 659752248
-type: way
+type: node
 latitude: 43.12517
 longitude: -88.02605
 postcode: ""
 city: Milwaukee
-street: "North 91st Street"
-housenumber: 5931
+street: North 91st Street
+housenumber: "5931"
 phone: ""
 opening_hours: ""
 website: ""

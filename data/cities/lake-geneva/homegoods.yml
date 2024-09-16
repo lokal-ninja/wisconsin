@@ -4,8 +4,8 @@ latitude: 42.59103
 longitude: -88.41537
 postcode: "53147"
 city: Lake Geneva
-street: "Edwards Boulevard"
-housenumber: 200
-phone: "+1 262-248-3002"
-opening_hours: "Mo-Sa 09:30-21:30; Su 10:00-20:00"
+street: Edwards Boulevard
+housenumber: "200"
+phone: +1 262-248-3002
+opening_hours: Mo-Sa 09:30-21:30; Su 10:00-20:00
 website: ""

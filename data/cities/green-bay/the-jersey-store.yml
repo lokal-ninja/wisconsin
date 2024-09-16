@@ -1,11 +1,11 @@
 id: 435342512
-type: way
+type: node
 latitude: 44.49851
 longitude: -88.05286
 postcode: "54304"
 city: Green Bay
-street: "Holmgren Way"
-housenumber: 1931
-phone: "920-497-6210"
+street: Holmgren Way
+housenumber: "1931"
+phone: 920-497-6210
 opening_hours: ""
-website: "http://www.jerseystore.net/"
+website: http://www.jerseystore.net/

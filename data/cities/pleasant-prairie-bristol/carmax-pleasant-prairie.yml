@@ -1,11 +1,11 @@
 id: 373543670
-type: way
+type: node
 latitude: 42.55595
 longitude: -87.95577
 postcode: "53142"
 city: Pleasant Prairie;Bristol
-street: "Frontage Road;120th Avenue"
-housenumber: 8200
+street: Frontage Road;120th Avenue
+housenumber: "8200"
 phone: ""
 opening_hours: ""
-website: "https://www.carmax.com/stores/7807"
+website: https://www.carmax.com/stores/7807

@@ -1,11 +1,11 @@
 id: 662208872
-type: way
+type: node
 latitude: 43.05459
 longitude: -88.04695
 postcode: "53226"
 city: Wauwatosa
-street: "North Mayfair Road"
-housenumber: 1826
-phone: "+1-414-476-4323"
+street: North Mayfair Road
+housenumber: "1826"
+phone: +1-414-476-4323
 opening_hours: ""
-website: "http://www.pamperedpawsltd.com/"
+website: http://www.pamperedpawsltd.com/

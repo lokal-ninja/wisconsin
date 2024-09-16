@@ -1,11 +1,11 @@
 id: 577758661
-type: way
+type: node
 latitude: 44.26221
 longitude: -88.40246
 postcode: "54911"
 city: Appleton
-street: "East College Avenue"
-housenumber: 308
-phone: "+1-920-734-1969"
+street: East College Avenue
+housenumber: "308"
+phone: +1-920-734-1969
 opening_hours: ""
-website: "https://www.heidmusic.com/"
+website: https://www.heidmusic.com/

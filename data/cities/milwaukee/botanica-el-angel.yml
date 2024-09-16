@@ -4,8 +4,8 @@ latitude: 42.99972
 longitude: -87.91867
 postcode: "53207"
 city: Milwaukee
-street: "South 6th Street"
-housenumber: 2480
-phone: "+1 414-383-4880"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:30"
+street: South 6th Street
+housenumber: "2480"
+phone: +1 414-383-4880
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:30
 website: ""

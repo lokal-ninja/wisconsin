@@ -1,11 +1,11 @@
 id: 479193314
-type: way
+type: node
 latitude: 45.87426
 longitude: -89.70746
 postcode: "54548"
 city: Minocqua
-street: "US-51;United States Highway 51"
+street: US-51;United States Highway 51
 housenumber: 917;911
 phone: ""
-opening_hours: "Mo-Sa 09:00-17:30; Su 09:00-15:30"
+opening_hours: Mo-Sa 09:00-17:30; Su 09:00-15:30
 website: ""

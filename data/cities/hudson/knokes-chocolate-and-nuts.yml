@@ -1,11 +1,11 @@
 id: 264015171
-type: way
+type: node
 latitude: 44.97582
 longitude: -92.75609
 postcode: "54016"
 city: Hudson
-street: "Locust Street"
-housenumber: 218
-phone: "+1-715-381-9866"
-opening_hours: "Mo-Sa 09:00-22:00, Su 11:00-21:00; Jun-Aug Mo-Sa 10:00-22:00, Su 11:00-22:00"
-website: "https://knokeschocolatesandnuts.com/"
+street: Locust Street
+housenumber: "218"
+phone: +1-715-381-9866
+opening_hours: Mo-Sa 09:00-22:00, Su 11:00-21:00; Jun-Aug Mo-Sa 10:00-22:00, Su 11:00-22:00
+website: https://knokeschocolatesandnuts.com/

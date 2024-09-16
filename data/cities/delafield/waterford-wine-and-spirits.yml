@@ -4,8 +4,8 @@ latitude: 43.06062
 longitude: -88.40465
 postcode: "53018"
 city: Delafield
-street: "Genesee Street"
-housenumber: 631
+street: Genesee Street
+housenumber: "631"
 phone: "+12623379774"
-opening_hours: "Mo-Sa 11:00-20:00; Su 12:00-17:00"
-website: "https://www.waterfordwinedelafield.com/store_locations/delafield/"
+opening_hours: Mo-Sa 11:00-20:00; Su 12:00-17:00
+website: https://www.waterfordwinedelafield.com/store_locations/delafield/

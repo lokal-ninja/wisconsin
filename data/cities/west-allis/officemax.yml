@@ -1,11 +1,11 @@
 id: 663352175
-type: way
+type: node
 latitude: 42.99493
 longitude: -88.04597
 postcode: "53227"
 city: West Allis
-street: "West Cleveland Avenue"
-housenumber: 10707
-phone: "+1-414-545-1055"
-opening_hours: "Mo-Fr 8:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/wi/west-allis/officemax-6175"
+street: West Cleveland Avenue
+housenumber: "10707"
+phone: +1-414-545-1055
+opening_hours: Mo-Fr 8:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/wi/west-allis/officemax-6175

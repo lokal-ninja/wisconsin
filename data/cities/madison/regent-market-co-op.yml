@@ -1,11 +1,11 @@
 id: 108038610
-type: way
+type: node
 latitude: 43.06815
 longitude: -89.42357
 postcode: "53726"
 city: Madison
-street: "Regent Street"
-housenumber: 2136
+street: Regent Street
+housenumber: "2136"
 phone: ""
-opening_hours: "Mo-Su,PH 08:00-21:00"
-website: "https://www.regentmarketcoop.org/"
+opening_hours: Mo-Su,PH 08:00-21:00
+website: https://www.regentmarketcoop.org/

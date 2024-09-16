@@ -1,11 +1,11 @@
 id: 835890565
-type: way
+type: node
 latitude: 42.51551
 longitude: -89.06243
 postcode: "53511"
 city: Beloit
-street: "South Madison Road"
-housenumber: 1320
-phone: "+1-608-774-8177"
+street: South Madison Road
+housenumber: "1320"
+phone: +1-608-774-8177
 opening_hours: ""
-website: "https://pinnonmeats.com/"
+website: https://pinnonmeats.com/

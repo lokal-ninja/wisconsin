@@ -1,11 +1,11 @@
 id: 183343192
-type: way
+type: node
 latitude: 43.05289
 longitude: -87.8994
 postcode: "53202"
 city: Milwaukee
-street: "East Brady Street"
-housenumber: 1011
+street: East Brady Street
+housenumber: "1011"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:30-17:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 08:30-17:00
 website: ""

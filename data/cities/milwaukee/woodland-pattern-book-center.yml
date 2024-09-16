@@ -1,11 +1,11 @@
 id: 404967971
-type: way
+type: node
 latitude: 43.07128
 longitude: -87.90214
-postcode: "53212-2547"
+postcode: 53212-2547
 city: Milwaukee
-street: "East Locust Street"
-housenumber: 720
-phone: "+1 414 263 5001"
-opening_hours: "Tu-Fr 11:00-20:00; Sa-Su 12:00-17:00"
-website: "https://www.woodlandpattern.org/"
+street: East Locust Street
+housenumber: "720"
+phone: +1 414 263 5001
+opening_hours: Tu-Fr 11:00-20:00; Sa-Su 12:00-17:00
+website: https://www.woodlandpattern.org/

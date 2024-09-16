@@ -1,11 +1,11 @@
 id: 360181839
-type: way
+type: node
 latitude: 46.16348
 longitude: -90.05661
 postcode: "54547"
 city: Mercer
-street: "US 51"
-housenumber: 5126
+street: US 51
+housenumber: "5126"
 phone: ""
 opening_hours: ""
 website: ""

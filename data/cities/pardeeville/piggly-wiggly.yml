@@ -1,11 +1,11 @@
 id: 836080537
-type: way
+type: node
 latitude: 43.52483
 longitude: -89.30335
 postcode: "53954"
 city: Pardeeville
-street: "South Main Street"
-housenumber: 514
-phone: "+1 608-429-2221"
-opening_hours: "Su-Sa 07:00-17:00"
+street: South Main Street
+housenumber: "514"
+phone: +1 608-429-2221
+opening_hours: Su-Sa 07:00-17:00
 website: ""

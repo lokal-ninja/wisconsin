@@ -1,11 +1,11 @@
 id: 779696207
-type: way
+type: node
 latitude: 42.71982
 longitude: -88.99817
 postcode: "53545"
 city: Janesville
-street: "Milton Avenue"
-housenumber: 3131
-phone: "+1 608-758-8542"
+street: Milton Avenue
+housenumber: "3131"
+phone: +1 608-758-8542
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/wi/janesville/111005/"
+website: https://www.mattressfirm.com/en-us/stores/wi/janesville/111005/

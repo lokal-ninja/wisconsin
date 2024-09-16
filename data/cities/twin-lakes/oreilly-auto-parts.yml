@@ -1,11 +1,11 @@
 id: 922263420
-type: way
+type: node
 latitude: 42.54011
 longitude: -88.24611
 postcode: "53181"
 city: Twin Lakes
-street: "North Lake Avenue"
-housenumber: 760
+street: North Lake Avenue
+housenumber: "760"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/twinlakes/autoparts-5474.html"
+website: https://locations.oreillyauto.com/wi/twinlakes/autoparts-5474.html

@@ -1,11 +1,11 @@
 id: 685127167
-type: way
+type: node
 latitude: 43.75544
 longitude: -87.75308
 postcode: "53081"
 city: Sheboygan
-street: "North Taylor Drive"
-housenumber: 924
-phone: "+1-920-547-2628"
+street: North Taylor Drive
+housenumber: "924"
+phone: +1-920-547-2628
 opening_hours: ""
 website: ""

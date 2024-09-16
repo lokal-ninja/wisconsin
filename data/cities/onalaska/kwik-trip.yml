@@ -1,11 +1,11 @@
 id: 87217508
-type: way
+type: node
 latitude: 43.88338
 longitude: -91.2096
 postcode: "54650"
 city: Onalaska
-street: "East Main Street"
-housenumber: 1802
+street: East Main Street
+housenumber: "1802"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=377"
+website: https://www.kwiktrip.com/locator/store?id=377

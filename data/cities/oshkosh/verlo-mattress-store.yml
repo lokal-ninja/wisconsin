@@ -1,11 +1,11 @@
 id: 551147851
-type: way
+type: node
 latitude: 44.02011
 longitude: -88.58095
 postcode: "54902"
 city: Oshkosh
-street: "North Koeller Street"
-housenumber: 150
+street: North Koeller Street
+housenumber: "150"
 phone: ""
 opening_hours: ""
-website: "https://verlo.com/"
+website: https://verlo.com/

@@ -1,11 +1,11 @@
 id: 749696973
-type: way
+type: node
 latitude: 43.14324
 longitude: -89.74597
 postcode: "53515"
 city: Black Earth
-street: "State Street"
-housenumber: 1110
+street: State Street
+housenumber: "1110"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=596"
+website: https://www.kwiktrip.com/locator/store?id=596

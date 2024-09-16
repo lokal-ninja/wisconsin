@@ -1,11 +1,11 @@
 id: 990213717
-type: way
+type: node
 latitude: 43.44498
 longitude: -88.64881
-postcode: "53032-1552"
+postcode: 53032-1552
 city: Horicon
-street: "Washington Street"
-housenumber: 626
-phone: "+1 920-485-4688"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:30; Su 10:00-14:00"
+street: Washington Street
+housenumber: "626"
+phone: +1 920-485-4688
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:30; Su 10:00-14:00
 website: ""

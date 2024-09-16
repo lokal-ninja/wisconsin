@@ -1,11 +1,11 @@
 id: 692289834
-type: way
+type: node
 latitude: 44.43351
 longitude: -88.1011
 postcode: "54115"
 city: De Pere
-street: "Lawrence Drive"
-housenumber: 1313
+street: Lawrence Drive
+housenumber: "1313"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3281"
+website: https://www.menards.com/store-details/store.html?store=3281

@@ -1,11 +1,11 @@
 id: 599333275
-type: way
+type: node
 latitude: 43.74482
 longitude: -87.74285
 postcode: "53081"
 city: Sheboygan
-street: "South Taylor Drive"
-housenumber: 919
-phone: "+1 855-955-2534"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://aldi.us"
+street: South Taylor Drive
+housenumber: "919"
+phone: +1 855-955-2534
+opening_hours: Mo-Su 08:30-20:00
+website: https://aldi.us

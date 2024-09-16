@@ -1,11 +1,11 @@
 id: 331010512
-type: way
+type: node
 latitude: 42.56866
 longitude: -90.38006
 postcode: "53803"
 city: Benton
-street: "East Main Street"
-housenumber: 119
+street: East Main Street
+housenumber: "119"
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 07:00-21:00"
+opening_hours: Mo-Sa 06:00-21:00; Su 07:00-21:00
 website: ""

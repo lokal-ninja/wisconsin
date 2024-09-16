@@ -1,11 +1,11 @@
 id: 1134399571
-type: way
+type: node
 latitude: 43.07321
 longitude: -89.45263
 postcode: ""
 city: Madison
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "By Appointment"
+opening_hours: '"By Appointment"'
 website: ""

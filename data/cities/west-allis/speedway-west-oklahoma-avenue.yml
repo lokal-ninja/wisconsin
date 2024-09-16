@@ -1,11 +1,11 @@
 id: 663353414
-type: way
+type: node
 latitude: 42.98859
 longitude: -88.06751
 postcode: "53227"
 city: West Allis
-street: "West Oklahoma Avenue"
-housenumber: 12340
-phone: "+1 414 327 1550"
-opening_hours: "24/7"
-website: "https://www.speedway.com/locations/store/4118"
+street: West Oklahoma Avenue
+housenumber: "12340"
+phone: +1 414 327 1550
+opening_hours: 24/7
+website: https://www.speedway.com/locations/store/4118

@@ -4,8 +4,8 @@ latitude: 42.6032
 longitude: -89.63953
 postcode: "53566"
 city: Monroe
-street: "9th Street"
-housenumber: 1607
+street: 9th Street
+housenumber: "1607"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1525"
+website: https://www.kwiktrip.com/locator/store?id=1525

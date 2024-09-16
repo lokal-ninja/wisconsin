@@ -1,11 +1,11 @@
 id: 760171153
-type: way
+type: node
 latitude: 44.27134
 longitude: -88.34421
 postcode: "54136"
 city: Kimberly
-street: "West Kimberly Avenue"
-housenumber: 730
-phone: "+1 920 560 3100"
-opening_hours: "05:00-23:00"
+street: West Kimberly Avenue
+housenumber: "730"
+phone: +1 920 560 3100
+opening_hours: 05:00-23:00
 website: ""

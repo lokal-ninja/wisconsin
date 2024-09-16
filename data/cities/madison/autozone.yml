@@ -1,11 +1,11 @@
 id: 310891476
-type: way
+type: node
 latitude: 43.03351
 longitude: -89.45412
 postcode: "53711"
 city: Madison
-street: "Verona Road"
-housenumber: 4627
-phone: "(608) 274-7215"
+street: Verona Road
+housenumber: "4627"
+phone: (608) 274-7215
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/madison/4627-verona-rd.html"
+website: https://www.autozone.com/locations/wi/madison/4627-verona-rd.html

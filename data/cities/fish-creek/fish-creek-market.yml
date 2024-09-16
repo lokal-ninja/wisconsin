@@ -1,11 +1,11 @@
 id: 846494238
-type: way
+type: node
 latitude: 45.12785
 longitude: -87.24617
 postcode: "54212"
 city: Fish Creek
-street: "Main Street"
-housenumber: 1892
+street: Main Street
+housenumber: "1892"
 phone: ""
 opening_hours: ""
 website: ""

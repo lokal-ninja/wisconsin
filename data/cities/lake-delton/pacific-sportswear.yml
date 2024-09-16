@@ -1,11 +1,11 @@
 id: 1272379285
-type: way
+type: node
 latitude: 43.599
 longitude: -89.79424
 postcode: ""
 city: Lake Delton
-street: "Wisconsin Dells Parkway North"
-housenumber: 711
+street: Wisconsin Dells Parkway North
+housenumber: "711"
 phone: ""
 opening_hours: ""
 website: ""

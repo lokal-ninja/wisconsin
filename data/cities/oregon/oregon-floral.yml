@@ -1,11 +1,11 @@
 id: 808643560
-type: way
+type: node
 latitude: 42.94071
 longitude: -89.38398
 postcode: "53575"
 city: Oregon
-street: "North Main Street"
-housenumber: 933
+street: North Main Street
+housenumber: "933"
 phone: ""
 opening_hours: ""
 website: ""

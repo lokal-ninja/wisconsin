@@ -1,11 +1,11 @@
 id: 1004136976
-type: way
+type: node
 latitude: 45.75771
 longitude: -91.91423
 postcode: "54871"
 city: Shell Lake
-street: "US Highway 63"
-housenumber: 
-phone: "+1 715-468-2980"
-opening_hours: "unknown"
+street: US Highway 63
+housenumber: ""
+phone: +1 715-468-2980
+opening_hours: unknown
 website: ""

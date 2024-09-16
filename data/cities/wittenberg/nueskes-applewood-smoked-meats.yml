@@ -1,11 +1,11 @@
 id: 1311894068
-type: way
+type: node
 latitude: 44.8282
 longitude: -89.16989
 postcode: "54499"
 city: Wittenberg
-street: "N Genesee Street"
-housenumber: 203
+street: N Genesee Street
+housenumber: "203"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

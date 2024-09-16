@@ -1,11 +1,11 @@
 id: 663400550
-type: way
+type: node
 latitude: 42.98905
 longitude: -87.98872
 postcode: "53219"
 city: Milwaukee
-street: "West Oklahoma Avenue"
-housenumber: 6030
+street: West Oklahoma Avenue
+housenumber: "6030"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6030+w+oklahoma+ave-milwaukee-wi-53219/id=6020"
+website: https://www.walgreens.com/locator/walgreens-6030+w+oklahoma+ave-milwaukee-wi-53219/id=6020

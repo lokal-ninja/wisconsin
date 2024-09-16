@@ -1,11 +1,11 @@
 id: 46250324
-type: way
+type: node
 latitude: 42.72806
 longitude: -90.47153
 postcode: "53818"
 city: Platteville
-street: "E Business Hwy 151"
-housenumber: 475
-phone: "+1 608 348-3032"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-16:00; Su 10:00-14:00"
-website: "https://www.napaonline.com/"
+street: E Business Hwy 151
+housenumber: "475"
+phone: +1 608 348-3032
+opening_hours: Mo-Fr 07:30-18:00; Sa 07:30-16:00; Su 10:00-14:00
+website: https://www.napaonline.com/

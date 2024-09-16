@@ -1,11 +1,11 @@
 id: 367039998
-type: way
+type: node
 latitude: 42.60831
 longitude: -89.37723
 postcode: "53520"
 city: Brodhead
-street: "1st Center Avenue"
-housenumber: 2307
-phone: "608-897-2313"
+street: 1st Center Avenue
+housenumber: "2307"
+phone: 608-897-2313
 opening_hours: ""
-website: "https://www.albrechttaxidermy.com/index.html"
+website: https://www.albrechttaxidermy.com/index.html

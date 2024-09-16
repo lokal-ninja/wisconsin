@@ -1,11 +1,11 @@
 id: 1254201506
-type: way
+type: node
 latitude: 43.71488
 longitude: -87.76421
 postcode: "53044"
 city: Kohler
-street: "HIghway 28"
-housenumber: 4025
-phone: "+1-920-451-0624"
+street: HIghway 28
+housenumber: "4025"
+phone: +1-920-451-0624
 opening_hours: ""
-website: "https://www.homedepot.com/l/Kohler/WI/Kohler/53044/4924"
+website: https://www.homedepot.com/l/Kohler/WI/Kohler/53044/4924

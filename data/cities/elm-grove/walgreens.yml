@@ -1,11 +1,11 @@
 id: 77720392
-type: way
+type: node
 latitude: 43.03665
 longitude: -88.10614
 postcode: "53122"
 city: Elm Grove
-street: "West Bluemound Road"
-housenumber: 15350
+street: West Bluemound Road
+housenumber: "15350"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-15350+w+bluemound+rd-elm+grove-wi-53122/id=2752"
+website: https://www.walgreens.com/locator/walgreens-15350+w+bluemound+rd-elm+grove-wi-53122/id=2752

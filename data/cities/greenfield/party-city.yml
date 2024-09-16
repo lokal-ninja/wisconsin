@@ -1,11 +1,11 @@
 id: 1136337917
-type: way
+type: node
 latitude: 42.95308
 longitude: -88.00506
 postcode: "53220"
 city: Greenfield
-street: "South 74th Street"
-housenumber: 5058
-phone: "+1 414-260-8404"
+street: South 74th Street
+housenumber: "5058"
+phone: +1 414-260-8404
 opening_hours: ""
-website: "https://stores.partycity.com/us/wi/greenfield/party-store-pc5337.html"
+website: https://stores.partycity.com/us/wi/greenfield/party-store-pc5337.html

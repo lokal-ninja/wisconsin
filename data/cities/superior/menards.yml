@@ -1,11 +1,11 @@
 id: 458588194
-type: way
+type: node
 latitude: 46.6875
 longitude: -92.10807
 postcode: "54880"
 city: Superior
-street: "Tower Avenue"
-housenumber: 4425
+street: Tower Avenue
+housenumber: "4425"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3139"
+website: https://www.menards.com/store-details/store.html?store=3139

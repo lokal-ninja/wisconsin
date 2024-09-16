@@ -1,11 +1,11 @@
 id: 409157332
-type: way
+type: node
 latitude: 44.96094
 longitude: -92.7308
 postcode: "54016"
 city: Hudson
-street: "O'Keefe Road"
-housenumber: 940
-phone: "+1 (715) 716-5101"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://hudsoncollisioncenter.net/"
+street: O'Keefe Road
+housenumber: "940"
+phone: +1 (715) 716-5101
+opening_hours: Mo-Fr 07:30-18:00
+website: https://hudsoncollisioncenter.net/

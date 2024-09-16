@@ -1,11 +1,11 @@
 id: 762469155
-type: way
+type: node
 latitude: 44.26754
 longitude: -88.40445
 postcode: "54911"
 city: Appleton
-street: "North Morrison Street"
-housenumber: 611
+street: North Morrison Street
+housenumber: "611"
 phone: ""
 opening_hours: ""
 website: ""

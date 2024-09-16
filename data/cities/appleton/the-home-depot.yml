@@ -1,11 +1,11 @@
 id: 574906610
-type: way
+type: node
 latitude: 44.24127
 longitude: -88.36232
 postcode: "54915"
 city: Appleton
-street: "South Kensington Drive"
-housenumber: 2201
-phone: "+1 920-734-8134"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/e-appleton/wi/appleton/54915/4928"
+street: South Kensington Drive
+housenumber: "2201"
+phone: +1 920-734-8134
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/e-appleton/wi/appleton/54915/4928

@@ -1,11 +1,11 @@
 id: 975529925
-type: way
+type: node
 latitude: 42.56624
 longitude: -87.92799
 postcode: "53158"
 city: Pleasant Prairie
-street: "76th Street"
-housenumber: 9780
-phone: "+1 262 697 8533"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-17:00"
-website: "https://www.verizon.com"
+street: 76th Street
+housenumber: "9780"
+phone: +1 262 697 8533
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-17:00
+website: https://www.verizon.com

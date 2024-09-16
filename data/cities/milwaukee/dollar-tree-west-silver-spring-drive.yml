@@ -1,11 +1,11 @@
 id: 917603926
-type: way
+type: node
 latitude: 43.12086
 longitude: -88.04011
 postcode: "53225"
 city: Milwaukee
-street: "West Silver Spring Drive"
-housenumber: 10220
+street: West Silver Spring Drive
+housenumber: "10220"
 phone: ""
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.dollartree.com/locations/wi/milwaukee/666/"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.dollartree.com/locations/wi/milwaukee/666/

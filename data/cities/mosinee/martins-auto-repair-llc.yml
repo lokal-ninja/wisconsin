@@ -1,11 +1,11 @@
 id: 387845451
-type: way
+type: node
 latitude: 44.78832
 longitude: -89.69077
 postcode: "54455"
 city: Mosinee
-street: "Brown Street"
-housenumber: 498
+street: Brown Street
+housenumber: "498"
 phone: ""
 opening_hours: ""
 website: ""

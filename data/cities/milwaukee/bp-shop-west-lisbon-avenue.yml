@@ -1,11 +1,11 @@
 id: 856169366
-type: way
+type: node
 latitude: 43.05376
 longitude: -87.94707
 postcode: ""
 city: Milwaukee
-street: "West Lisbon Avenue"
-housenumber: 2624
+street: West Lisbon Avenue
+housenumber: "2624"
 phone: ""
 opening_hours: ""
 website: ""

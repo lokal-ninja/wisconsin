@@ -1,11 +1,11 @@
 id: 376168553
-type: way
+type: node
 latitude: 43.23522
 longitude: -87.92351
 postcode: "53092"
 city: Mequon
-street: "North Port Washington Road"
-housenumber: 11920
-phone: "+1.262.241.8010"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-17:00"
-website: "https://bermanbasics.com/"
+street: North Port Washington Road
+housenumber: "11920"
+phone: +1.262.241.8010
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-17:00
+website: https://bermanbasics.com/

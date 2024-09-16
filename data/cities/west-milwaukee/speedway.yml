@@ -1,11 +1,11 @@
 id: 605684757
-type: way
+type: node
 latitude: 43.00954
 longitude: -87.96706
 postcode: "53219"
 city: West Milwaukee
-street: "West Burnham Street"
-housenumber: 4225
+street: West Burnham Street
+housenumber: "4225"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/West-Milwaukee/4225-West-Burnham-Street"
+website: https://www.speedway.com/locations/WI/West-Milwaukee/4225-West-Burnham-Street

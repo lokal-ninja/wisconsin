@@ -1,11 +1,11 @@
 id: 1152756790
-type: way
+type: node
 latitude: 43.12041
 longitude: -87.91634
 postcode: "53217"
 city: Glendale
-street: "West Northshore Drive"
-housenumber: 598
+street: West Northshore Drive
+housenumber: "598"
 phone: ""
 opening_hours: ""
 website: ""

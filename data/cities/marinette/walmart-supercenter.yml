@@ -1,11 +1,11 @@
 id: 352843008
-type: way
+type: node
 latitude: 45.07321
 longitude: -87.65667
 postcode: "54143"
 city: Marinette
-street: "Roosevelt Road"
-housenumber: 2900
-phone: "+1 715-735-5117"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/2545/marinette-wi/whats-new"
+street: Roosevelt Road
+housenumber: "2900"
+phone: +1 715-735-5117
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/2545/marinette-wi/whats-new

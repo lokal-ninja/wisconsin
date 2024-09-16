@@ -1,11 +1,11 @@
 id: 820223812
-type: way
+type: node
 latitude: 43.03567
 longitude: -88.14623
 postcode: "53045"
 city: Brookfield
-street: "West Bluemound Road"
-housenumber: 18795
+street: West Bluemound Road
+housenumber: "18795"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/brookfield/18795-w-bluemound-rd"
+website: https://stores.advanceautoparts.com/wi/brookfield/18795-w-bluemound-rd

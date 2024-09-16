@@ -1,11 +1,11 @@
 id: 660740231
-type: way
+type: node
 latitude: 43.0735
 longitude: -87.89922
 postcode: "53212"
 city: Milwaukee
-street: "East Chambers Street"
-housenumber: 1014
+street: East Chambers Street
+housenumber: "1014"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00"
+opening_hours: Mo-Fr 07:00-19:00
 website: ""

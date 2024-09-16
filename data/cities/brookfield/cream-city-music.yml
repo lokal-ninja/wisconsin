@@ -1,11 +1,11 @@
 id: 784347033
-type: way
+type: node
 latitude: 43.0361
 longitude: -88.06903
 postcode: "53005"
 city: Brookfield
-street: "West Bluemound Road"
-housenumber: 12505
+street: West Bluemound Road
+housenumber: "12505"
 phone: ""
 opening_hours: ""
 website: ""

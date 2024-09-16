@@ -1,11 +1,11 @@
 id: 682324734
-type: way
+type: node
 latitude: 43.80188
 longitude: -91.24028
 postcode: "54601"
 city: La Crosse
-street: "Jackson Street"
-housenumber: 1121
+street: Jackson Street
+housenumber: "1121"
 phone: ""
 opening_hours: ""
 website: ""

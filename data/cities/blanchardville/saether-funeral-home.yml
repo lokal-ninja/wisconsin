@@ -1,11 +1,11 @@
 id: 359042189
-type: way
+type: node
 latitude: 42.81115
 longitude: -89.86011
 postcode: "53516"
 city: Blanchardville
-street: "Water Street"
-housenumber: 109
+street: Water Street
+housenumber: "109"
 phone: ""
 opening_hours: ""
 website: ""

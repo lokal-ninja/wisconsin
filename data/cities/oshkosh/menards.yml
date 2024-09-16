@@ -1,11 +1,11 @@
 id: 369781508
-type: way
+type: node
 latitude: 44.02813
 longitude: -88.59126
 postcode: "54904"
 city: Oshkosh
-street: "Westowne Avenue"
-housenumber: 2351
+street: Westowne Avenue
+housenumber: "2351"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3025"
+website: https://www.menards.com/store-details/store.html?store=3025

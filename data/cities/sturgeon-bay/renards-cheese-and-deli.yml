@@ -1,11 +1,11 @@
 id: 1026370696
-type: way
+type: node
 latitude: 44.77609
 longitude: -87.51081
 postcode: "54235"
 city: Sturgeon Bay
-street: "County Road DK"
-housenumber: 2189
-phone: "+1-855-512-3272"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 09:00-16:00; Su 09:00-16:00"
-website: "https://www.renardscheese.com/"
+street: County Road DK
+housenumber: "2189"
+phone: +1-855-512-3272
+opening_hours: Mo-Fr 08:00-17:00; Sa 09:00-16:00; Su 09:00-16:00
+website: https://www.renardscheese.com/

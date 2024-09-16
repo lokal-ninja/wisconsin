@@ -1,11 +1,11 @@
 id: 1293733621
-type: way
+type: node
 latitude: 44.99678
 longitude: -89.66278
 postcode: "54401"
 city: Wausau
-street: "North 20th Avenue"
-housenumber: 2700
+street: North 20th Avenue
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

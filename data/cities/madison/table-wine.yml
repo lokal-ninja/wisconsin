@@ -1,11 +1,11 @@
 id: 678050339
-type: way
+type: node
 latitude: 43.09334
 longitude: -89.34833
 postcode: "53704"
 city: Madison
-street: "Atwood Avenue"
-housenumber: 2301
+street: Atwood Avenue
+housenumber: "2301"
 phone: ""
 opening_hours: ""
-website: "https://www.tablewinemadison.com/"
+website: https://www.tablewinemadison.com/

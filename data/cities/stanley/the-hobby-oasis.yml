@@ -1,11 +1,11 @@
 id: 1306271369
-type: way
+type: node
 latitude: 44.95917
 longitude: -90.93781
 postcode: "54768"
 city: Stanley
-street: "South Broadway Street"
-housenumber: 114
+street: South Broadway Street
+housenumber: "114"
 phone: "+17157090038"
-opening_hours: "Mo-Sa 12:00-22:00"
+opening_hours: Mo-Sa 12:00-22:00
 website: ""

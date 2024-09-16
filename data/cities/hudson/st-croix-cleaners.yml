@@ -1,11 +1,11 @@
 id: 242170345
-type: way
+type: node
 latitude: 44.9657
 longitude: -92.72199
 postcode: "54016"
 city: Hudson
-street: "Carmichael Road"
-housenumber: 103
-phone: "+1 715-381-3673"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 10:00-14:00"
-website: "https://stcroixcleaners.com/hudson-dry-cleaning/"
+street: Carmichael Road
+housenumber: "103"
+phone: +1 715-381-3673
+opening_hours: Mo-Fr 07:00-19:00; Sa 10:00-14:00
+website: https://stcroixcleaners.com/hudson-dry-cleaning/

@@ -1,11 +1,11 @@
 id: 330182721
-type: way
+type: node
 latitude: 42.53537
 longitude: -90.33541
 postcode: "53803"
 city: Benton
-street: "County Road W"
-housenumber: 2944
+street: County Road W
+housenumber: "2944"
 phone: ""
 opening_hours: ""
-website: "https://newdiggs.com/"
+website: https://newdiggs.com/

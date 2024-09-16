@@ -4,8 +4,8 @@ latitude: 43.08452
 longitude: -89.36277
 postcode: "53703"
 city: Madison
-street: "Williamson Street"
-housenumber: 1252
-phone: "+1 608-556-8400"
-opening_hours: "Fr 10:00-17:00 || by appointment"
+street: Williamson Street
+housenumber: "1252"
+phone: +1 608-556-8400
+opening_hours: Fr 10:00-17:00 || "by appointment"
 website: ""

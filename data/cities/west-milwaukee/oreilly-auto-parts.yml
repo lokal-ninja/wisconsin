@@ -1,11 +1,11 @@
 id: 879015944
-type: way
+type: node
 latitude: 43.01729
 longitude: -87.96419
 postcode: "53215"
 city: West Milwaukee
-street: "West Greenfield Avenue"
-housenumber: 4030
+street: West Greenfield Avenue
+housenumber: "4030"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/westmilwaukee/autoparts-4982.html"
+website: https://locations.oreillyauto.com/wi/westmilwaukee/autoparts-4982.html

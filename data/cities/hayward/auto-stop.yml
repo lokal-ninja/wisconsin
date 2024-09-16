@@ -1,11 +1,11 @@
 id: 99272819
-type: way
+type: node
 latitude: 46.01441
 longitude: -91.48167
 postcode: "54843"
 city: Hayward
-street: "US Highway 63"
-housenumber: 15771
+street: US Highway 63
+housenumber: "15771"
 phone: ""
 opening_hours: ""
 website: ""

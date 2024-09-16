@@ -1,11 +1,11 @@
 id: 28773270
-type: way
+type: node
 latitude: 43.042
 longitude: -89.35132
 postcode: "53713"
 city: Monona
-street: "Royal Avenue"
-housenumber: 2151
-phone: "+1 608-226-0913"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/3857/monona-wi/whats-new"
+street: Royal Avenue
+housenumber: "2151"
+phone: +1 608-226-0913
+opening_hours: 24/7
+website: https://www.walmart.com/store/3857/monona-wi/whats-new

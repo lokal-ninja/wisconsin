@@ -1,11 +1,11 @@
 id: 286699855
-type: way
+type: node
 latitude: 44.28284
 longitude: -88.26903
 postcode: "54130"
 city: Kaukauna
-street: "West Wisconsin Avenue"
-housenumber: 166
-phone: "+1-888-923-9675"
+street: West Wisconsin Avenue
+housenumber: "166"
+phone: +1-888-923-9675
 opening_hours: ""
-website: "https://midwestworkwear.com/"
+website: https://midwestworkwear.com/

@@ -1,11 +1,11 @@
 id: 663422808
-type: way
+type: node
 latitude: 42.98841
 longitude: -87.92894
 postcode: "53215"
 city: Milwaukee
-street: "West Oklahoma Avenue"
-housenumber: 1304
+street: West Oklahoma Avenue
+housenumber: "1304"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/milwaukee/1304-w-oklahoma-ave"
+website: https://stores.advanceautoparts.com/wi/milwaukee/1304-w-oklahoma-ave

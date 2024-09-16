@@ -1,11 +1,11 @@
 id: 308191873
-type: way
+type: node
 latitude: 42.74931
 longitude: -89.59585
 postcode: "53570"
 city: Monticello
-street: "West Highland Avenue"
-housenumber: 102
+street: West Highland Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 643475947
-type: way
+type: node
 latitude: 42.91032
 longitude: -87.85922
 postcode: "53172"
 city: South Milwaukee
-street: "Milwaukee Avenue"
-housenumber: 905
+street: Milwaukee Avenue
+housenumber: "905"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-14:00
 website: ""

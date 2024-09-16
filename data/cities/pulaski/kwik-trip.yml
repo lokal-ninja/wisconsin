@@ -1,11 +1,11 @@
 id: 1200958504
-type: way
+type: node
 latitude: 44.66636
 longitude: -88.2296
 postcode: "54162"
 city: Pulaski
-street: "South Wisconsin Street"
-housenumber: 717
+street: South Wisconsin Street
+housenumber: "717"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=946"
+website: https://www.kwiktrip.com/locator/store?id=946

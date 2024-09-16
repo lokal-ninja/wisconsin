@@ -1,11 +1,11 @@
 id: 673221891
-type: way
+type: node
 latitude: 42.5371
 longitude: -88.24586
 postcode: "53181"
 city: Twin Lakes
-street: "North Lake Avenue"
-housenumber: 600
+street: North Lake Avenue
+housenumber: "600"
 phone: ""
 opening_hours: ""
 website: ""

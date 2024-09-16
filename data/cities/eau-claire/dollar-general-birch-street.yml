@@ -1,11 +1,11 @@
 id: 94021033
-type: way
+type: node
 latitude: 44.82084
 longitude: -91.47018
 postcode: "54703"
 city: Eau Claire
-street: "Birch Street"
-housenumber: 2745
-phone: "715-552-3581"
+street: Birch Street
+housenumber: "2745"
+phone: 715-552-3581
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/eau-claire/15733"
+website: https://www.dollargeneral.com/store-directory/wi/eau-claire/15733

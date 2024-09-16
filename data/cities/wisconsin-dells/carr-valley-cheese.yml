@@ -1,11 +1,11 @@
 id: 995148871
-type: way
+type: node
 latitude: 43.6275
 longitude: -89.77116
 postcode: "53965"
 city: Wisconsin Dells
-street: "Broadway"
-housenumber: 420
-phone: "(608) 254-7200"
-opening_hours: "Mo-Su 10:00-16:00"
-website: "https://carrvalleycheese.com/"
+street: Broadway
+housenumber: "420"
+phone: (608) 254-7200
+opening_hours: Mo-Su 10:00-16:00
+website: https://carrvalleycheese.com/

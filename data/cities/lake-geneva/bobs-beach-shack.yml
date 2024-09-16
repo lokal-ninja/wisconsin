@@ -4,8 +4,8 @@ latitude: 42.59119
 longitude: -88.43551
 postcode: "53147"
 city: Lake Geneva
-street: "Broad Street"
-housenumber: 140
+street: Broad Street
+housenumber: "140"
 phone: ""
-opening_hours: "10:00-20:00"
+opening_hours: 10:00-20:00
 website: ""

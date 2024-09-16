@@ -1,11 +1,11 @@
 id: 341946943
-type: way
+type: node
 latitude: 42.96843
 longitude: -90.43518
 postcode: "53569"
 city: Montfort
-street: "West Grant Street"
-housenumber: 203
+street: West Grant Street
+housenumber: "203"
 phone: ""
 opening_hours: ""
 website: ""

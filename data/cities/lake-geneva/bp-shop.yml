@@ -1,11 +1,11 @@
 id: 279252505
-type: way
+type: node
 latitude: 42.5932
 longitude: -88.41661
 postcode: "53147"
 city: Lake Geneva
-street: "Peller Road"
-housenumber: 300
+street: Peller Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

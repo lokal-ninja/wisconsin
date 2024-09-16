@@ -1,11 +1,11 @@
 id: 392005048
-type: way
+type: node
 latitude: 44.86405
 longitude: -89.63557
 postcode: "54474"
 city: Rothschild
-street: "Market Street"
-housenumber: 10209
+street: Market Street
+housenumber: "10209"
 phone: ""
 opening_hours: ""
 website: ""

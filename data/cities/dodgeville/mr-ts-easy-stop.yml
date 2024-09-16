@@ -1,11 +1,11 @@
 id: 302013729
-type: way
+type: node
 latitude: 42.97514
 longitude: -90.13215
 postcode: "53533"
 city: Dodgeville
-street: "County Highway YZ"
-housenumber: 101
+street: County Highway YZ
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

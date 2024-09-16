@@ -1,11 +1,11 @@
 id: 1076995597
-type: way
+type: node
 latitude: 42.65266
 longitude: -88.54289
 postcode: "53121"
 city: Elkhorn
-street: "Commerce Court"
-housenumber: 100
+street: Commerce Court
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

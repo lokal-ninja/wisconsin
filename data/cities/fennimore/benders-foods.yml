@@ -1,11 +1,11 @@
 id: 309777854
-type: way
+type: node
 latitude: 42.98913
 longitude: -90.65651
 postcode: "53809"
 city: Fennimore
-street: "Lincoln Ave"
-housenumber: 320
+street: Lincoln Ave
+housenumber: "320"
 phone: ""
 opening_hours: ""
 website: ""

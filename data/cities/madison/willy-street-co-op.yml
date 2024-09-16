@@ -1,11 +1,11 @@
 id: 120257722
-type: way
+type: node
 latitude: 43.08341
 longitude: -89.36276
 postcode: "53703"
 city: Madison
-street: "Williamson Street"
-housenumber: 1221
-phone: "+1 (608) 251-6776"
-opening_hours: "Mo-Su 07:30-21:00"
-website: "https://willystreet.coop/"
+street: Williamson Street
+housenumber: "1221"
+phone: +1 (608) 251-6776
+opening_hours: Mo-Su 07:30-21:00
+website: https://willystreet.coop/

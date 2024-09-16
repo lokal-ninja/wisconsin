@@ -1,11 +1,11 @@
 id: 121185410
-type: way
+type: node
 latitude: 43.62562
 longitude: -89.77444
 postcode: "53965"
 city: Wisconsin Dells
-street: "Washington Avenue"
-housenumber: 216
-phone: "+1 606-864-5145"
-opening_hours: "Mo-We 07:00-21:00; Th-Su 07:00-22:00"
-website: "https://maurersmarket.com/"
+street: Washington Avenue
+housenumber: "216"
+phone: +1 606-864-5145
+opening_hours: Mo-We 07:00-21:00; Th-Su 07:00-22:00
+website: https://maurersmarket.com/

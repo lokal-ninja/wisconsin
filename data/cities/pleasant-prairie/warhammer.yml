@@ -1,11 +1,11 @@
 id: 972408771
-type: way
+type: node
 latitude: 42.56621
 longitude: -87.92732
 postcode: "53158"
 city: Pleasant Prairie
-street: "76th Street"
-housenumber: 9740
-phone: "+1 262 697 0471"
+street: 76th Street
+housenumber: "9740"
+phone: +1 262 697 0471
 opening_hours: ""
-website: "https://www.games-workshop.com"
+website: https://www.games-workshop.com

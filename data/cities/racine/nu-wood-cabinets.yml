@@ -1,11 +1,11 @@
 id: 402296575
-type: way
+type: node
 latitude: 42.75571
 longitude: -87.80519
 postcode: ""
 city: Racine
-street: "Melvin Avenue"
-housenumber: 1906
+street: Melvin Avenue
+housenumber: "1906"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 345773991
-type: way
+type: node
 latitude: 43.09389
 longitude: -89.34752
 postcode: "53704"
 city: Madison
-street: "Atwood Avenue"
-housenumber: 2330
-phone: "608-244-0009"
+street: Atwood Avenue
+housenumber: "2330"
+phone: 608-244-0009
 opening_hours: ""
-website: "https://www.revolutioncycles.net/"
+website: https://www.revolutioncycles.net/

@@ -1,11 +1,11 @@
 id: 747955281
-type: way
+type: node
 latitude: 43.99879
 longitude: -88.53958
 postcode: "54902"
 city: Oshkosh
-street: "Doty Street"
-housenumber: 1823
+street: Doty Street
+housenumber: "1823"
 phone: ""
 opening_hours: ""
 website: ""

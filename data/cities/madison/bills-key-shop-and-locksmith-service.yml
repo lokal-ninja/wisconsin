@@ -1,11 +1,11 @@
 id: 682541526
-type: way
+type: node
 latitude: 43.07342
 longitude: -89.39529
 postcode: "53703"
 city: Madison
-street: "University Ave"
-housenumber: 536
-phone: "608-256-2556 | 608-241-1252"
-opening_hours: "Mo-Fr 08:30-17:00"
-website: "https://billskeyshop.co/"
+street: University Ave
+housenumber: "536"
+phone: 608-256-2556 | 608-241-1252
+opening_hours: Mo-Fr 08:30-17:00
+website: https://billskeyshop.co/

@@ -1,11 +1,11 @@
 id: 551147842
-type: way
+type: node
 latitude: 44.02063
 longitude: -88.58148
 postcode: "54902"
 city: Oshkosh
-street: "North Koeller Street"
-housenumber: 200
+street: North Koeller Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
-website: "http://krumenauer.co/"
+website: http://krumenauer.co/

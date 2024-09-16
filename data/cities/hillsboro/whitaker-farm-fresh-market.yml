@@ -1,11 +1,11 @@
 id: 423726999
-type: way
+type: node
 latitude: 43.65074
 longitude: -90.3397
 postcode: "54634"
 city: Hillsboro
-street: "Water Avenue"
-housenumber: 810
-phone: "608-343-4500"
+street: Water Avenue
+housenumber: "810"
+phone: 608-343-4500
 opening_hours: ""
-website: "http://scriptoriumediting.com/"
+website: http://scriptoriumediting.com/

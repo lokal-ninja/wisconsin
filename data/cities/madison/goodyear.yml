@@ -1,11 +1,11 @@
 id: 325542831
-type: way
+type: node
 latitude: 43.07922
 longitude: -89.37865
 postcode: "53703"
 city: Madison
-street: "East Washington Avenue"
-housenumber: 608
+street: East Washington Avenue
+housenumber: "608"
 phone: ""
 opening_hours: ""
 website: ""

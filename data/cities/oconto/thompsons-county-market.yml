@@ -1,11 +1,11 @@
 id: 516536996
-type: way
+type: node
 latitude: 44.89452
 longitude: -87.88358
 postcode: "54153"
 city: Oconto
-street: "Brazeau Avenue"
-housenumber: 722
+street: Brazeau Avenue
+housenumber: "722"
 phone: ""
 opening_hours: ""
 website: ""

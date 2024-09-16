@@ -1,11 +1,11 @@
 id: 661243046
-type: way
+type: node
 latitude: 43.06083
 longitude: -87.98138
 postcode: "53210"
 city: Milwaukee
-street: "West North Avenue"
-housenumber: 5428
+street: West North Avenue
+housenumber: "5428"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 629317054
-type: way
+type: node
 latitude: 44.68562
 longitude: -90.15438
 postcode: "54449"
 city: Marshfield
-street: "North Central Avenue;Central Avenue"
-housenumber: 2001
-phone: "+1 715-486-9440"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2813/marshfield-wi/whats-new"
+street: North Central Avenue;Central Avenue
+housenumber: "2001"
+phone: +1 715-486-9440
+opening_hours: 24/7
+website: https://www.walmart.com/store/2813/marshfield-wi/whats-new

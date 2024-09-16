@@ -1,11 +1,11 @@
 id: 159590884
-type: way
+type: node
 latitude: 43.06144
 longitude: -89.43855
 postcode: "53705"
 city: Madison
-street: "Speedway Road"
-housenumber: 3738
+street: Speedway Road
+housenumber: "3738"
 phone: ""
 opening_hours: ""
 website: ""

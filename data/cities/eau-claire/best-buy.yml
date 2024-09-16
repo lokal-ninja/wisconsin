@@ -1,11 +1,11 @@
 id: 1308319434
-type: way
+type: node
 latitude: 44.77334
 longitude: -91.43229
 postcode: "54701"
 city: Eau Claire
-street: "Commonwealth Avenue"
-housenumber: 4090
-phone: "+1 715-833-0666"
+street: Commonwealth Avenue
+housenumber: "4090"
+phone: +1 715-833-0666
 opening_hours: ""
-website: "https://stores.bestbuy.com/wi/eau-claire/4090-commonwealth-ave-40.html"
+website: https://stores.bestbuy.com/wi/eau-claire/4090-commonwealth-ave-40.html

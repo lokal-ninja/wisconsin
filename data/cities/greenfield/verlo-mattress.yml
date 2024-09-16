@@ -1,11 +1,11 @@
 id: 664024983
-type: way
+type: node
 latitude: 42.95912
 longitude: -87.99481
 postcode: "53220"
 city: Greenfield
-street: "West Layton Avenue"
-housenumber: 6501
-phone: "+1-414-282-4334"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00; PH off"
-website: "https://stores.verlo.com/verlo-mattress-of-greenfield-wi/"
+street: West Layton Avenue
+housenumber: "6501"
+phone: +1-414-282-4334
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-18:00; PH off
+website: https://stores.verlo.com/verlo-mattress-of-greenfield-wi/

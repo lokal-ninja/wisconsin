@@ -1,11 +1,11 @@
 id: 378824941
-type: way
+type: node
 latitude: 42.73358
 longitude: -87.80219
 postcode: ""
 city: Racine
-street: "State Street"
-housenumber: 1730
+street: State Street
+housenumber: "1730"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.52657
 longitude: -88.06122
 postcode: "54303"
 city: Green Bay
-street: "Western Avenue"
-housenumber: 1560
-phone: "+1 888-464-7032"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/green-bay/1560-western-avenue"
+street: Western Avenue
+housenumber: "1560"
+phone: +1 888-464-7032
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/green-bay/1560-western-avenue

@@ -1,11 +1,11 @@
 id: 436729167
-type: way
+type: node
 latitude: 43.00541
 longitude: -87.97029
 postcode: "53219"
 city: West Milwaukee
-street: "Miller Park Way"
-housenumber: 2201
+street: Miller Park Way
+housenumber: "2201"
 phone: ""
 opening_hours: ""
 website: ""

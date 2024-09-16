@@ -1,11 +1,11 @@
 id: 1132200299
-type: way
+type: node
 latitude: 45.32046
 longitude: -92.70591
 postcode: "54020"
 city: Osceola
-street: "North Cascade Street"
-housenumber: 117
+street: North Cascade Street
+housenumber: "117"
 phone: ""
 opening_hours: ""
 website: ""

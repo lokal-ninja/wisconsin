@@ -1,11 +1,11 @@
 id: 360190942
-type: way
+type: node
 latitude: 46.16578
 longitude: -90.06385
 postcode: "54547"
 city: Mercer
-street: "US 51"
-housenumber: 5219
+street: US 51
+housenumber: "5219"
 phone: ""
 opening_hours: ""
-website: "http://whimsiesupnorth.com/"
+website: http://whimsiesupnorth.com/

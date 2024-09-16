@@ -1,11 +1,11 @@
 id: 978021371
-type: way
+type: node
 latitude: 42.56422
 longitude: -87.9302
 postcode: "53158"
 city: Pleasant Prairie
-street: "77th Street"
-housenumber: 10033
-phone: "+1 262 697 4288"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-20:00"
+street: 77th Street
+housenumber: "10033"
+phone: +1 262 697 4288
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-20:00
 website: ""

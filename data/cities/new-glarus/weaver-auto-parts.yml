@@ -4,8 +4,8 @@ latitude: 42.80773
 longitude: -89.6322
 postcode: "53574"
 city: New Glarus
-street: "State Highway 69"
-housenumber: 1303
-phone: "608-527-2123"
-opening_hours: "Mo-Fr 7:30-18:00; Sa 08:00-15:00"
-website: "https://www.weaverautoparts.com/"
+street: State Highway 69
+housenumber: "1303"
+phone: 608-527-2123
+opening_hours: Mo-Fr 7:30-18:00; Sa 08:00-15:00
+website: https://www.weaverautoparts.com/

@@ -1,11 +1,11 @@
 id: 355937169
-type: way
+type: node
 latitude: 44.28859
 longitude: -88.42444
 postcode: "54914"
 city: Appleton
-street: "West Northland Avenue"
-housenumber: 1200
+street: West Northland Avenue
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

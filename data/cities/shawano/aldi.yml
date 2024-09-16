@@ -1,11 +1,11 @@
 id: 1311915163
-type: way
+type: node
 latitude: 44.78244
 longitude: -88.57927
 postcode: "54166"
 city: Shawano
-street: "East Green Bay Street"
-housenumber: 1253
-phone: "+1 877-464-7029"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/shawano/1253-east-green-bay-street"
+street: East Green Bay Street
+housenumber: "1253"
+phone: +1 877-464-7029
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/shawano/1253-east-green-bay-street

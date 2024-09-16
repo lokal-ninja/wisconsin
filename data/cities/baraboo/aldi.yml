@@ -1,11 +1,11 @@
 id: 523609080
-type: way
+type: node
 latitude: 43.47588
 longitude: -89.76786
 postcode: "53913"
 city: Baraboo
-street: "West Pine Street"
-housenumber: 614
-phone: "+1 877-464-7012"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/baraboo/614-west-pine-street"
+street: West Pine Street
+housenumber: "614"
+phone: +1 877-464-7012
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/baraboo/614-west-pine-street

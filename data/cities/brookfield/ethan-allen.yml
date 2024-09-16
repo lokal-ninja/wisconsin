@@ -1,11 +1,11 @@
 id: 758612498
-type: way
+type: node
 latitude: 43.0351
 longitude: -88.10704
 postcode: "53005"
 city: Brookfield
-street: "North Moorland Road"
-housenumber: 425
+street: North Moorland Road
+housenumber: "425"
 phone: ""
 opening_hours: ""
 website: ""

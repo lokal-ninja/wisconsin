@@ -1,11 +1,11 @@
 id: 885680062
-type: way
+type: node
 latitude: 42.95686
 longitude: -87.94849
 postcode: ""
 city: Milwaukee
-street: "South 27th Street"
-housenumber: 4810
+street: South 27th Street
+housenumber: "4810"
 phone: ""
 opening_hours: ""
 website: ""

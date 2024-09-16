@@ -4,8 +4,8 @@ latitude: 45.50285
 longitude: -91.73915
 postcode: "54868"
 city: Rice Lake
-street: "West Newton Street"
-housenumber: 207
-phone: "(855) 242-6779"
-opening_hours: "Mon,Tue,Thu,Fri 8:00AM-5:30PM ,Wed 8:00AM-11:30AM ,Sat 10AM-2PM"
+street: West Newton Street
+housenumber: "207"
+phone: (855) 242-6779
+opening_hours: Mon,Tue,Thu,Fri 8:00AM-5:30PM ,Wed 8:00AM-11:30AM ,Sat 10AM-2PM
 website: ""

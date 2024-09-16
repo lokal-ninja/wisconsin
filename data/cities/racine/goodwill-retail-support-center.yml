@@ -1,11 +1,11 @@
 id: 1022064665
-type: way
+type: node
 latitude: 42.70478
 longitude: -87.84454
 postcode: "53406"
 city: Racine
-street: "21st Street"
-housenumber: 5420
-phone: "+1 262 554 3155"
+street: 21st Street
+housenumber: "5420"
+phone: +1 262 554 3155
 opening_hours: ""
-website: "https://www.goodwillsew.com/"
+website: https://www.goodwillsew.com/

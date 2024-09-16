@@ -1,11 +1,11 @@
 id: 497860284
-type: way
+type: node
 latitude: 43.75514
 longitude: -91.20294
 postcode: "54601"
 city: La Crosse
-street: "Mormon Coulee Road"
-housenumber: 5501
-phone: "+1-608-788-0066"
+street: Mormon Coulee Road
+housenumber: "5501"
+phone: +1-608-788-0066
 opening_hours: ""
-website: "https://www.mycityautosales.com/"
+website: https://www.mycityautosales.com/

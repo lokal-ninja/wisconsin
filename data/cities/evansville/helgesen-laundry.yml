@@ -1,11 +1,11 @@
 id: 26725653
-type: way
+type: node
 latitude: 42.7807
 longitude: -89.29966
 postcode: "53536"
 city: Evansville
-street: "North Madison Street"
-housenumber: 11
+street: North Madison Street
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

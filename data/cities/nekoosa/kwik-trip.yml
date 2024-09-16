@@ -1,11 +1,11 @@
 id: 307405240
-type: way
+type: node
 latitude: 44.22035
 longitude: -89.81002
 postcode: "54457"
 city: Nekoosa
-street: "State Highway 13"
-housenumber: 251
+street: State Highway 13
+housenumber: "251"
 phone: ""
 opening_hours: ""
 website: ""

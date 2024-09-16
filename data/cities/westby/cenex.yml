@@ -1,11 +1,11 @@
 id: 441125019
-type: way
+type: node
 latitude: 43.64991
 longitude: -90.85927
 postcode: "54667"
 city: Westby
-street: "South Main Street"
-housenumber: 405
+street: South Main Street
+housenumber: "405"
 phone: ""
 opening_hours: ""
 website: ""

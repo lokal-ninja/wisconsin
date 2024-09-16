@@ -1,11 +1,11 @@
 id: 632637587
-type: way
+type: node
 latitude: 42.85319
 longitude: -88.31539
 postcode: "53149"
 city: Mukwonago
-street: "Wolf Run"
-housenumber: 250
-phone: "+1 262-363-7500"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1571/mukwonago-wi/whats-new"
+street: Wolf Run
+housenumber: "250"
+phone: +1 262-363-7500
+opening_hours: 24/7
+website: https://www.walmart.com/store/1571/mukwonago-wi/whats-new

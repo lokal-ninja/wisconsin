@@ -1,11 +1,11 @@
 id: 391246793
-type: way
+type: node
 latitude: 43.786
 longitude: -88.4789
 postcode: "54935"
 city: Fond Du Lac
-street: "W Johnson Street"
-housenumber: 913
-phone: "+1 920-923-4600"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/wi/fonddulac-132.shtml"
+street: W Johnson Street
+housenumber: "913"
+phone: +1 920-923-4600
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/wi/fonddulac-132.shtml

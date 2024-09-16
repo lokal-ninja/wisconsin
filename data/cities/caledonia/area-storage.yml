@@ -1,11 +1,11 @@
 id: 668768059
-type: way
+type: node
 latitude: 42.7704
 longitude: -87.80523
 postcode: ""
 city: Caledonia
-street: "Three Mile Road"
-housenumber: 1900
+street: Three Mile Road
+housenumber: "1900"
 phone: ""
 opening_hours: ""
 website: ""

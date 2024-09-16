@@ -1,11 +1,11 @@
 id: 565584603
-type: way
+type: node
 latitude: 44.26955
 longitude: -88.4086
 postcode: "54911"
 city: Appleton
-street: "North Superior Street"
-housenumber: 818
+street: North Superior Street
+housenumber: "818"
 phone: ""
 opening_hours: ""
-website: "https://www.chainreactioncycleryllc.com/"
+website: https://www.chainreactioncycleryllc.com/

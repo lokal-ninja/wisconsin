@@ -1,11 +1,11 @@
 id: 181439627
-type: way
+type: node
 latitude: 43.3348
 longitude: -90.38723
 postcode: "53581"
 city: Richland Center
-street: "South Main Street"
-housenumber: 172
+street: South Main Street
+housenumber: "172"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=788"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=788

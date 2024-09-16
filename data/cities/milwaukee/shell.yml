@@ -1,11 +1,11 @@
 id: 661478190
-type: way
+type: node
 latitude: 43.08955
 longitude: -88.00765
 postcode: "53222"
 city: Milwaukee
-street: "West Capitol Drive"
-housenumber: 7609
+street: West Capitol Drive
+housenumber: "7609"
 phone: ""
 opening_hours: ""
 website: ""

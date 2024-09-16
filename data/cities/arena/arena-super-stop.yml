@@ -1,11 +1,11 @@
 id: 441738321
-type: way
+type: node
 latitude: 43.16236
 longitude: -89.90228
 postcode: "53503"
 city: Arena
-street: "Village Edge Road"
-housenumber: 300
+street: Village Edge Road
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 120104217
-type: way
+type: node
 latitude: 45.81541
 longitude: -91.89384
-postcode: "54871;54801"
+postcode: 54871;54801
 city: Spooner
-street: "South River Street;S. River St"
-housenumber: 700
+street: South River Street;S. River St
+housenumber: "700"
 phone: ""
 opening_hours: ""
-website: "https://www.schmitzeconomart.com/"
+website: https://www.schmitzeconomart.com/

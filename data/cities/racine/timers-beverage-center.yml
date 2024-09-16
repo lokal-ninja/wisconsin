@@ -1,11 +1,11 @@
 id: 377140301
-type: way
+type: node
 latitude: 42.75327
 longitude: -87.82611
 postcode: ""
 city: Racine
-street: "Northwestern Avenue"
-housenumber: 3800
+street: Northwestern Avenue
+housenumber: "3800"
 phone: ""
 opening_hours: ""
 website: ""

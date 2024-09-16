@@ -1,11 +1,11 @@
 id: 779460121
-type: way
+type: node
 latitude: 42.71913
 longitude: -88.98775
 postcode: "53545"
 city: Janesville
-street: "Humes Road"
-housenumber: 2727
+street: Humes Road
+housenumber: "2727"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 381597681
-type: way
+type: node
 latitude: 44.96769
 longitude: -89.63489
 postcode: "54401"
 city: Wausau
-street: "Central Bridge Street"
-housenumber: 205
+street: Central Bridge Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

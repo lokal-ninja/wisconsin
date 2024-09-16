@@ -1,11 +1,11 @@
 id: 107935988
-type: way
+type: node
 latitude: 42.61869
 longitude: -89.36756
 postcode: "53520"
 city: Brodhead
-street: "East 9th Avenue"
-housenumber: 1105
-phone: "608-897-2484"
+street: East 9th Avenue
+housenumber: "1105"
+phone: 608-897-2484
 opening_hours: ""
-website: "https://www.dlnewcomerfuneralhome.com/"
+website: https://www.dlnewcomerfuneralhome.com/

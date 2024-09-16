@@ -1,11 +1,11 @@
 id: 779696256
-type: way
+type: node
 latitude: 42.71725
 longitude: -88.99106
 postcode: "53545"
 city: Janesville
-street: "Humes Road"
-housenumber: 2600
-phone: "+1 608-898-6615"
+street: Humes Road
+housenumber: "2600"
+phone: +1 608-898-6615
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/wisconsin/janesville/9000344331/"
+website: https://stores.ashleyfurniture.com/store/us/wisconsin/janesville/9000344331/

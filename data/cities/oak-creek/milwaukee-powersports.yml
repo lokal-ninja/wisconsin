@@ -1,11 +1,11 @@
 id: 455160511
-type: way
+type: node
 latitude: 42.91461
 longitude: -87.93217
 postcode: "53154"
 city: Oak Creek
-street: "South 13th Street"
-housenumber: 7221
-phone: "+1-414-764-2800"
-opening_hours: "Tu-We 09:00-18:00; Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-15:00"
-website: "https://www.milwaukeeps.com/"
+street: South 13th Street
+housenumber: "7221"
+phone: +1-414-764-2800
+opening_hours: Tu-We 09:00-18:00; Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-15:00
+website: https://www.milwaukeeps.com/

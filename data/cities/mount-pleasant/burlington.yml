@@ -1,11 +1,11 @@
 id: 375393448
-type: way
+type: node
 latitude: 42.70216
 longitude: -87.85168
 postcode: "53406"
 city: Mount Pleasant
-street: "South Green Bay Road"
-housenumber: 2433
-phone: "+1 262-598-9041"
-opening_hours: "Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/wi/racine/583"
+street: South Green Bay Road
+housenumber: "2433"
+phone: +1 262-598-9041
+opening_hours: Mo-Th 09:00-23:00; Fr-Sa 09:00-24:00; Su 09:00-22:00
+website: https://stores.burlington.com/wi/racine/583

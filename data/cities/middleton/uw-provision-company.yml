@@ -1,11 +1,11 @@
 id: 90922950
-type: way
+type: node
 latitude: 43.10159
 longitude: -89.53564
 postcode: "53562"
 city: Middleton
-street: "Pleasant View Road"
-housenumber: 2315
+street: Pleasant View Road
+housenumber: "2315"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-15:00; Su 10:00-15:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-15:00; Su 10:00-15:00
 website: ""

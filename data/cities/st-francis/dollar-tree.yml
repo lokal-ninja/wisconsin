@@ -1,11 +1,11 @@
 id: 1171782632
-type: way
+type: node
 latitude: 42.96094
 longitude: -87.8792
 postcode: ""
 city: St. Francis
-street: "South Whitnall Avenue"
-housenumber: 4698
+street: South Whitnall Avenue
+housenumber: "4698"
 phone: ""
 opening_hours: ""
-website: "https://www.dollartree.com/locations/wi/milwaukee/2863/"
+website: https://www.dollartree.com/locations/wi/milwaukee/2863/

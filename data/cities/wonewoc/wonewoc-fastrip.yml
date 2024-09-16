@@ -1,11 +1,11 @@
 id: 423283184
-type: way
+type: node
 latitude: 43.65467
 longitude: -90.22314
 postcode: "53968"
 city: Wonewoc
-street: "Center Street"
-housenumber: 300
+street: Center Street
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.zzipstop.com/wonewoc-location/"
+website: https://www.zzipstop.com/wonewoc-location/

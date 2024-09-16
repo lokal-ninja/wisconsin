@@ -1,11 +1,11 @@
 id: 533014993
-type: way
+type: node
 latitude: 44.12342
 longitude: -91.7093
 postcode: "54629"
 city: Fountain City
-street: "South Main Street"
-housenumber: 615
+street: South Main Street
+housenumber: "615"
 phone: "+16086878601"
 opening_hours: ""
-website: "https://bronesbikeshop.com/"
+website: https://bronesbikeshop.com/

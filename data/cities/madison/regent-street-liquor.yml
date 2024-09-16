@@ -1,11 +1,11 @@
 id: 310376488
-type: way
+type: node
 latitude: 43.06797
 longitude: -89.40204
 postcode: "53715"
 city: Madison
-street: "Regent Street"
-housenumber: 916
+street: Regent Street
+housenumber: "916"
 phone: ""
 opening_hours: ""
-website: "http://www.regentliquor.com/"
+website: http://www.regentliquor.com/

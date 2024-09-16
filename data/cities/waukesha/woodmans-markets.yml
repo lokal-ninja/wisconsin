@@ -1,11 +1,11 @@
 id: 334855045
-type: way
+type: node
 latitude: 43.02207
 longitude: -88.20303
 postcode: "53186"
 city: Waukesha
-street: "East Main Street"
-housenumber: 1600
+street: East Main Street
+housenumber: "1600"
 phone: ""
 opening_hours: ""
 website: ""

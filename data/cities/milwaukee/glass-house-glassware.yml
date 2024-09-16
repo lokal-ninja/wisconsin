@@ -4,8 +4,8 @@ latitude: 42.9939
 longitude: -87.91714
 postcode: "53207"
 city: Milwaukee
-street: "South 5th Court"
-housenumber: 2757
-phone: "+1-414-988-8326"
-opening_hours: "by appointment"
-website: "https://www.glasshouseglassware.com"
+street: South 5th Court
+housenumber: "2757"
+phone: +1-414-988-8326
+opening_hours: '"by appointment"'
+website: https://www.glasshouseglassware.com

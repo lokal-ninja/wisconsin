@@ -1,11 +1,11 @@
 id: 380921316
-type: way
+type: node
 latitude: 42.57225
 longitude: -90.23218
 postcode: "53586"
 city: Shullsburg
-street: "W Water St"
-housenumber: 130
-phone: "608-965-4914"
+street: W Water St
+housenumber: "130"
+phone: 608-965-4914
 opening_hours: ""
-website: "https://www.turpinshometowngrocery.com/"
+website: https://www.turpinshometowngrocery.com/

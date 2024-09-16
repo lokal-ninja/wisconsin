@@ -1,11 +1,11 @@
 id: 226422628
-type: way
+type: node
 latitude: 46.58763
 longitude: -90.89334
 postcode: "54806"
 city: Ashland
-street: "Main Street West"
-housenumber: 823
+street: Main Street West
+housenumber: "823"
 phone: ""
 opening_hours: ""
 website: ""

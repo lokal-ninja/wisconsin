@@ -1,11 +1,11 @@
 id: 328238208
-type: way
+type: node
 latitude: 44.97684
 longitude: -92.7552
 postcode: "54016"
 city: Hudson
-street: "Vine Street"
-housenumber: 302
-phone: "+1 715-386-5011"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://nickscomplete.com/"
+street: Vine Street
+housenumber: "302"
+phone: +1 715-386-5011
+opening_hours: Mo-Fr 07:30-17:30
+website: https://nickscomplete.com/

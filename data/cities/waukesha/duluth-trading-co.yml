@@ -1,11 +1,11 @@
 id: 760447002
-type: way
+type: node
 latitude: 43.03706
 longitude: -88.18113
 postcode: "53186"
 city: Waukesha
-street: "Bluemound Road"
-housenumber: 2310
+street: Bluemound Road
+housenumber: "2310"
 phone: ""
 opening_hours: ""
 website: ""

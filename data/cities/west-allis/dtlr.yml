@@ -4,8 +4,8 @@ latitude: 43.01834
 longitude: -87.99621
 postcode: "53214"
 city: West Allis
-street: "West Greenfield Avenue"
-housenumber: 6732
-phone: "+1-262-320-7001"
-opening_hours: "Mo-Th 11:00-19:00; Fr,Sa 11:00-20:00; Su 12:00-17:00"
-website: "https://locations.dtlr.com/wi/westallis/west-allis-town-center.html"
+street: West Greenfield Avenue
+housenumber: "6732"
+phone: +1-262-320-7001
+opening_hours: Mo-Th 11:00-19:00; Fr,Sa 11:00-20:00; Su 12:00-17:00
+website: https://locations.dtlr.com/wi/westallis/west-allis-town-center.html

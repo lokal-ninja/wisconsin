@@ -1,11 +1,11 @@
 id: 479555623
-type: way
+type: node
 latitude: 44.81631
 longitude: -91.45852
 postcode: "54720"
 city: Altoona
-street: "Woodman Drive"
-housenumber: 2855
+street: Woodman Drive
+housenumber: "2855"
 phone: ""
 opening_hours: ""
 website: ""

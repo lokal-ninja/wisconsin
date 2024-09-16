@@ -1,11 +1,11 @@
 id: 664026043
-type: way
+type: node
 latitude: 42.95038
 longitude: -88.00429
 postcode: "53129"
 city: Greendale
-street: "South 76th Street"
-housenumber: 5300
+street: South 76th Street
+housenumber: "5300"
 phone: ""
 opening_hours: ""
-website: "https://southridgeshoppingmall.com/"
+website: https://southridgeshoppingmall.com/

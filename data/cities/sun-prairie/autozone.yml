@@ -1,11 +1,11 @@
 id: 742722198
-type: way
+type: node
 latitude: 43.16751
 longitude: -89.26751
 postcode: "53590"
 city: Sun Prairie
-street: "Bunny Trail"
-housenumber: 840
+street: Bunny Trail
+housenumber: "840"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/sun-prairie/840-bunny-trl.html"
+website: https://www.autozone.com/locations/wi/sun-prairie/840-bunny-trl.html

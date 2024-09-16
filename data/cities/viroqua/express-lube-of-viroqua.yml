@@ -1,11 +1,11 @@
 id: 415390403
-type: way
+type: node
 latitude: 43.57281
 longitude: -90.88965
 postcode: "54655"
 city: Viroqua
-street: "North Main Street"
-housenumber: 1210
-phone: "608-637-7372"
+street: North Main Street
+housenumber: "1210"
+phone: 608-637-7372
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 377896514
-type: way
+type: node
 latitude: 43.04343
 longitude: -87.91461
-postcode: "53203-1392"
+postcode: 53203-1392
 city: MIlwaukee
-street: "North Doctor Martin Luther King Junior Drive"
-housenumber: 1021
+street: North Doctor Martin Luther King Junior Drive
+housenumber: "1021"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00"
+opening_hours: Mo-Fr 09:00-17:00
 website: ""

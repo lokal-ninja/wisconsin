@@ -1,11 +1,11 @@
 id: 356858533
-type: way
+type: node
 latitude: 46.80918
 longitude: -90.81783
 postcode: "54814"
 city: Bayfield
-street: "South Broad Street"
-housenumber: 125
-phone: "+1 715-779-3360"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 08:00-16:00"
+street: South Broad Street
+housenumber: "125"
+phone: +1 715-779-3360
+opening_hours: Mo-Fr 08:00-17:00; Sa 08:00-16:00
 website: ""

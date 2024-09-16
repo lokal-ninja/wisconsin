@@ -1,11 +1,11 @@
 id: 449145417
-type: way
+type: node
 latitude: 43.08796
 longitude: -87.90956
 postcode: "53212"
 city: Milwaukee
-street: "North Palmer Street"
-housenumber: 3900
+street: North Palmer Street
+housenumber: "3900"
 phone: ""
 opening_hours: ""
 website: ""

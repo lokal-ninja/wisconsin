@@ -1,11 +1,11 @@
 id: 727358013
-type: way
+type: node
 latitude: 44.68454
 longitude: -87.39706
 postcode: "54201"
 city: Algoma
-street: "County Road S"
-housenumber: 292
+street: County Road S
+housenumber: "292"
 phone: ""
 opening_hours: ""
-website: "https://www.atasteofdoorcounty.com"
+website: https://www.atasteofdoorcounty.com

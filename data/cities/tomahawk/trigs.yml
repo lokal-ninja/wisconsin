@@ -1,11 +1,11 @@
 id: 765499897
-type: way
+type: node
 latitude: 45.48116
 longitude: -89.72778
 postcode: "54487"
 city: Tomahawk
-street: "North 4th Street"
-housenumber: 662
+street: North 4th Street
+housenumber: "662"
 phone: ""
 opening_hours: ""
 website: ""

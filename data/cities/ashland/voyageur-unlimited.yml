@@ -1,11 +1,11 @@
 id: 671370875
-type: way
+type: node
 latitude: 46.5785
 longitude: -90.90867
 postcode: "54806"
 city: Ashland
-street: "Junction Road"
-housenumber: 2301
+street: Junction Road
+housenumber: "2301"
 phone: ""
 opening_hours: ""
 website: ""

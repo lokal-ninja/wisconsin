@@ -4,8 +4,8 @@ latitude: 43.0339
 longitude: -87.90916
 postcode: "53202"
 city: Milwaukee
-street: "North Water Street"
-housenumber: 301
+street: North Water Street
+housenumber: "301"
 phone: ""
-opening_hours: "Mo,We-Fr 09:00-18:00; Tu 09:00-19:00; Sa 09:00-15:00"
+opening_hours: Mo,We-Fr 09:00-18:00; Tu 09:00-19:00; Sa 09:00-15:00
 website: ""

@@ -1,11 +1,11 @@
 id: 389417955
-type: way
+type: node
 latitude: 45.00542
 longitude: -92.75279
 postcode: "54016"
 city: North Hudson
-street: "Sixth Street"
-housenumber: 880
+street: Sixth Street
+housenumber: "880"
 phone: ""
 opening_hours: ""
 website: ""

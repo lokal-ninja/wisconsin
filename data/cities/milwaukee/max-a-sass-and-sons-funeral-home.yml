@@ -1,11 +1,11 @@
 id: 663641941
-type: way
+type: node
 latitude: 42.98802
 longitude: -87.93172
-postcode: "53215-4603"
+postcode: 53215-4603
 city: Milwaukee
-street: "West Oklahoma Avenue"
-housenumber: 1515
+street: West Oklahoma Avenue
+housenumber: "1515"
 phone: ""
 opening_hours: ""
 website: ""

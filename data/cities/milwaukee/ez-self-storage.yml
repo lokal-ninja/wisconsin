@@ -1,11 +1,11 @@
 id: 668415742
-type: way
+type: node
 latitude: 43.03108
 longitude: -87.92617
 postcode: "53233"
 city: Milwaukee
-street: "West Canal Street"
-housenumber: 1201
+street: West Canal Street
+housenumber: "1201"
 phone: ""
-opening_hours: "05:30-23:00"
+opening_hours: 05:30-23:00
 website: ""

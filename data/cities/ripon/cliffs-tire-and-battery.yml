@@ -1,11 +1,11 @@
 id: 251404347
-type: way
+type: node
 latitude: 43.85179
 longitude: -88.85661
 postcode: "54971"
 city: Ripon
-street: "West Fond du Lac Street"
-housenumber: 1049
+street: West Fond du Lac Street
+housenumber: "1049"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 664019929
-type: way
+type: node
 latitude: 42.95673
 longitude: -87.94923
 postcode: "53221"
 city: Greenfield
-street: "South 27th Street"
-housenumber: 4839
+street: South 27th Street
+housenumber: "4839"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/wi/greenfield/oil-change-gr0063.html"
+website: https://store.vioc.com/wi/greenfield/oil-change-gr0063.html

@@ -1,11 +1,11 @@
 id: 251211898
-type: way
+type: node
 latitude: 43.84547
 longitude: -88.83693
 postcode: "54971"
 city: Ripon
-street: "Blackburn Street"
-housenumber: 123
-phone: "+1 (920) 748-6798"
+street: Blackburn Street
+housenumber: "123"
+phone: +1 (920) 748-6798
 opening_hours: ""
-website: "http://www.headlinersltd.com/"
+website: http://www.headlinersltd.com/

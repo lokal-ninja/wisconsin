@@ -1,11 +1,11 @@
 id: 24672184
-type: way
+type: node
 latitude: 43.33814
 longitude: -88.27884
 postcode: "53086"
 city: Slinger
-street: "Cedar Creek Road"
-housenumber: 105
-phone: "+1-262-297-9621"
+street: Cedar Creek Road
+housenumber: "105"
+phone: +1-262-297-9621
 opening_hours: ""
-website: "https://www.littleswitz.com/"
+website: https://www.littleswitz.com/

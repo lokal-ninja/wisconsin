@@ -1,11 +1,11 @@
 id: 978021343
-type: way
+type: node
 latitude: 42.56546
 longitude: -87.92969
 postcode: "53158"
 city: Pleasant Prairie
-street: "77th Street"
-housenumber: 9901
-phone: "+1 262 697 9139"
+street: 77th Street
+housenumber: "9901"
+phone: +1 262 697 9139
 opening_hours: ""
-website: "https://www.haircuttery.com/"
+website: https://www.haircuttery.com/

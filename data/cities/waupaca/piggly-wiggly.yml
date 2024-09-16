@@ -1,11 +1,11 @@
 id: 245567380
-type: way
+type: node
 latitude: 44.35906
 longitude: -89.09997
 postcode: "54981"
 city: Waupaca
-street: "West Fulton Street"
-housenumber: 810
-phone: "+1 715-258-3161"
+street: West Fulton Street
+housenumber: "810"
+phone: +1 715-258-3161
 opening_hours: ""
 website: ""

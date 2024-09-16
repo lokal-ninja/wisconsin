@@ -1,11 +1,11 @@
 id: 102234782
-type: way
+type: node
 latitude: 43.06832
 longitude: -89.39284
 postcode: "53703"
 city: Madison
-street: "West Washington Avenue"
-housenumber: 615
+street: West Washington Avenue
+housenumber: "615"
 phone: ""
-opening_hours: "We 13:30-16:30; Sa 12:00-16:00"
-website: "http://www.selfstoragemadison.com/"
+opening_hours: We 13:30-16:30; Sa 12:00-16:00
+website: http://www.selfstoragemadison.com/

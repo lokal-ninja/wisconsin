@@ -1,11 +1,11 @@
 id: 1293418649
-type: way
+type: node
 latitude: 42.97315
 longitude: -88.00746
 postcode: "53220"
 city: Milwaukee
-street: "South 76th Street"
-housenumber: 3928
+street: South 76th Street
+housenumber: "3928"
 phone: ""
 opening_hours: ""
 website: ""

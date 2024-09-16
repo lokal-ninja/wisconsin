@@ -1,11 +1,11 @@
 id: 289564993
-type: way
+type: node
 latitude: 42.98699
 longitude: -88.80854
 postcode: "53549"
 city: Jefferson
-street: "South Main Street"
-housenumber: 1520
-phone: "+1 920-674-2258"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/3499/jefferson-wi/whats-new"
+street: South Main Street
+housenumber: "1520"
+phone: +1 920-674-2258
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/3499/jefferson-wi/whats-new

@@ -1,11 +1,11 @@
 id: 458786163
-type: way
+type: node
 latitude: 46.72391
 longitude: -92.10415
 postcode: "54880"
 city: Superior
-street: "Tower Avenue"
-housenumber: 1207
+street: Tower Avenue
+housenumber: "1207"
 phone: ""
 opening_hours: ""
 website: ""

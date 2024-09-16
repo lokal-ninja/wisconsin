@@ -1,11 +1,11 @@
 id: 435465676
-type: way
+type: node
 latitude: 44.5275
 longitude: -88.09236
 postcode: "54303"
 city: Green Bay
-street: "West Mason"
-housenumber: 2470
-phone: "+1 920-497-2112"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/green-bay-wi-sams-club/8149"
+street: West Mason
+housenumber: "2470"
+phone: +1 920-497-2112
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/green-bay-wi-sams-club/8149

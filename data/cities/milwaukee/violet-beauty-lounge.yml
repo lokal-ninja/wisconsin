@@ -1,11 +1,11 @@
 id: 93835239
-type: way
+type: node
 latitude: 43.03671
 longitude: -87.90873
 postcode: "53202"
 city: Milwaukee
-street: "North Water Street"
-housenumber: 514
+street: North Water Street
+housenumber: "514"
 phone: ""
-opening_hours: "Tu 10:30-20:00; We 11:00-21:00; Fr 12:00-21:00; Sa 09:00-15:00"
+opening_hours: Tu 10:30-20:00; We 11:00-21:00; Fr 12:00-21:00; Sa 09:00-15:00
 website: ""

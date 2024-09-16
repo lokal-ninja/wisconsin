@@ -1,11 +1,11 @@
 id: 99435092
-type: way
+type: node
 latitude: 42.57294
 longitude: -90.23885
 postcode: "53586"
 city: Shullsburg
-street: "State Highway 11"
-housenumber: 206
+street: State Highway 11
+housenumber: "206"
 phone: ""
 opening_hours: ""
 website: ""

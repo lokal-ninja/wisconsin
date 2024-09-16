@@ -1,11 +1,11 @@
 id: 572728102
-type: way
+type: node
 latitude: 44.24153
 longitude: -88.34798
 postcode: "54915"
 city: Appleton
-street: "East Calumet"
-housenumber: 3829
-phone: "+1 920-997-1543"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petco.com/"
+street: East Calumet
+housenumber: "3829"
+phone: +1 920-997-1543
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petco.com/

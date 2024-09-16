@@ -1,11 +1,11 @@
 id: 1152756681
-type: way
+type: node
 latitude: 43.11881
 longitude: -87.91507
 postcode: ""
 city: Glendale
-street: "West Silver Spring Drive"
-housenumber: 480
+street: West Silver Spring Drive
+housenumber: "480"
 phone: ""
 opening_hours: ""
 website: ""

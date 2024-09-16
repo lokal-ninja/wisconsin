@@ -1,11 +1,11 @@
 id: 575749377
-type: way
+type: node
 latitude: 44.27195
 longitude: -88.44553
 postcode: "54914"
 city: Appleton
-street: "North Lynndale Drive"
-housenumber: 1176
-phone: "+1-920-734-6388"
-opening_hours: "Mo 08:00-19:00; Tu-Th 08:00-18:00; Fr 08:00-19:00; Sa 10:00-16:00"
-website: "https://www.thesleepshopwi.com/"
+street: North Lynndale Drive
+housenumber: "1176"
+phone: +1-920-734-6388
+opening_hours: Mo 08:00-19:00; Tu-Th 08:00-18:00; Fr 08:00-19:00; Sa 10:00-16:00
+website: https://www.thesleepshopwi.com/

@@ -1,11 +1,11 @@
 id: 633994595
-type: way
+type: node
 latitude: 44.45283
 longitude: -89.52827
 postcode: "54467"
 city: Plover
-street: "Plover Road"
-housenumber: 1901
+street: Plover Road
+housenumber: "1901"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3107"
+website: https://www.menards.com/store-details/store.html?store=3107

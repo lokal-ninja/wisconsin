@@ -1,11 +1,11 @@
 id: 984021615
-type: way
+type: node
 latitude: 43.34479
 longitude: -89.03179
 postcode: "53925"
 city: Columbus
-street: "Dix Street"
-housenumber: 210
+street: Dix Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 369606885
-type: way
+type: node
 latitude: 44.96321
 longitude: -89.65694
 postcode: "54401"
 city: Wausau
-street: "South 17th Avenue"
-housenumber: 110
+street: South 17th Avenue
+housenumber: "110"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

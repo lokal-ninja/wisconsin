@@ -1,11 +1,11 @@
 id: 1136271990
-type: way
+type: node
 latitude: 42.94548
 longitude: -88.01015
 postcode: "53129"
 city: Greenfield
-street: "West Grange Avenue"
-housenumber: 7630
+street: West Grange Avenue
+housenumber: "7630"
 phone: ""
 opening_hours: ""
 website: ""

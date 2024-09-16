@@ -1,11 +1,11 @@
 id: 1198165359
-type: way
+type: node
 latitude: 45.50476
 longitude: -91.73408
 postcode: "54868"
 city: Rice Lake
-street: "North Main Street"
-housenumber: 314
-phone: "(715) 234-9324"
-opening_hours: "Tu-Th 09:00-17:00; Sa 09:00-12:00"
+street: North Main Street
+housenumber: "314"
+phone: (715) 234-9324
+opening_hours: Tu-Th 09:00-17:00; Sa 09:00-12:00
 website: ""

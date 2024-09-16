@@ -1,11 +1,11 @@
 id: 242170343
-type: way
+type: node
 latitude: 44.96571
 longitude: -92.7222
 postcode: "54016"
 city: Hudson
-street: "Carmichael Road"
-housenumber: 101
+street: Carmichael Road
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-19:00; Su 10:00-17:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-19:00; Su 10:00-17:00
 website: ""

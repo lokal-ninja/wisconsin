@@ -1,11 +1,11 @@
 id: 473421974
-type: way
+type: node
 latitude: 42.51911
 longitude: -89.06677
 postcode: "53511"
 city: Beloit
-street: "South Madison Road"
-housenumber: 1520
-phone: "+1-608-313-4945"
+street: South Madison Road
+housenumber: "1520"
+phone: +1-608-313-4945
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/beloit/10069"
+website: https://www.dollargeneral.com/store-directory/wi/beloit/10069

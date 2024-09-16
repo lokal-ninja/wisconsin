@@ -1,11 +1,11 @@
 id: 1311894080
-type: way
+type: node
 latitude: 44.82699
 longitude: -89.1638
 postcode: "54499"
 city: Wittenberg
-street: "E Grand Avenue"
-housenumber: 506
+street: E Grand Avenue
+housenumber: "506"
 phone: ""
 opening_hours: ""
 website: ""

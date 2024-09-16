@@ -4,8 +4,8 @@ latitude: 42.90045
 longitude: -87.91753
 postcode: "53154"
 city: Oak Creek
-street: "South Main Street"
-housenumber: 7956
-phone: "+1-414-519-5286"
-opening_hours: "Mo-Fr 09:00-22:00; Sa 09:00-19:00; Su 09:00-18:00; PH closed"
-website: "https://handandstone.com/locations/oak-creek/"
+street: South Main Street
+housenumber: "7956"
+phone: +1-414-519-5286
+opening_hours: Mo-Fr 09:00-22:00; Sa 09:00-19:00; Su 09:00-18:00; PH closed
+website: https://handandstone.com/locations/oak-creek/

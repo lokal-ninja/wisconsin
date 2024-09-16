@@ -1,11 +1,11 @@
 id: 464997462
-type: way
+type: node
 latitude: 44.27033
 longitude: -88.48822
 postcode: "54913"
 city: Grand Chute
-street: "Integrity Way"
-housenumber: 5401
-phone: "+1 920-815-4500"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/grand-chute-wi-1222.html"
+street: Integrity Way
+housenumber: "5401"
+phone: +1 920-815-4500
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/grand-chute-wi-1222.html

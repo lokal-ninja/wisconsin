@@ -1,11 +1,11 @@
 id: 1154554257
-type: way
+type: node
 latitude: 43.88457
 longitude: -91.22236
 postcode: "54650"
 city: Onalaska
-street: "Main Street"
-housenumber: 1101
-phone: "+1-608-781-6881"
+street: Main Street
+housenumber: "1101"
+phone: +1-608-781-6881
 opening_hours: ""
-website: "https://www.betterhearingwi.com/location/onalaska/"
+website: https://www.betterhearingwi.com/location/onalaska/

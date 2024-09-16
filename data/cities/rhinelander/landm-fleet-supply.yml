@@ -1,11 +1,11 @@
 id: 360178328
-type: way
+type: node
 latitude: 45.63182
 longitude: -89.37903
 postcode: "54501"
 city: Rhinelander
-street: "Timber Drive"
-housenumber: 2200
+street: Timber Drive
+housenumber: "2200"
 phone: ""
 opening_hours: ""
 website: ""

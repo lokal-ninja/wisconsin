@@ -1,11 +1,11 @@
 id: 103480979
-type: way
+type: node
 latitude: 42.74988
 longitude: -89.60197
 postcode: "53570"
 city: Monticello
-street: "State Highway 69"
-housenumber: 101
+street: State Highway 69
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

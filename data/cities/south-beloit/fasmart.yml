@@ -1,11 +1,11 @@
 id: 225766180
-type: way
+type: node
 latitude: 42.4961
 longitude: -89.04469
 postcode: "61080"
 city: South Beloit
-street: "Shirland Avenue"
-housenumber: 518
-phone: "+1-815-957-4133"
+street: Shirland Avenue
+housenumber: "518"
+phone: +1-815-957-4133
 opening_hours: ""
-website: "https://gpminvestments.com/"
+website: https://gpminvestments.com/

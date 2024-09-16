@@ -1,11 +1,11 @@
 id: 697900132
-type: way
+type: node
 latitude: 44.96145
 longitude: -92.72599
 postcode: "54016"
 city: Hudson
-street: "Badger Drive"
-housenumber: 2220
-phone: "+1 715-954-6063"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-15:00"
-website: "https://www.shopko.com/eye-care/wi/hudson/store-236/"
+street: Badger Drive
+housenumber: "2220"
+phone: +1 715-954-6063
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-15:00
+website: https://www.shopko.com/eye-care/wi/hudson/store-236/

@@ -1,11 +1,11 @@
 id: 347740284
-type: way
+type: node
 latitude: 43.06083
 longitude: -89.52718
 postcode: "53717"
 city: Madison
-street: "Junction Road"
-housenumber: 101
+street: Junction Road
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

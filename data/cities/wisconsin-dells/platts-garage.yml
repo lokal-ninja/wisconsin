@@ -1,11 +1,11 @@
 id: 1236688216
-type: way
+type: node
 latitude: 43.62595
 longitude: -89.76173
 postcode: "53965"
 city: Wisconsin Dells
-street: "Washington Avenue"
-housenumber: 1100
-phone: "(608) 253-1881"
-opening_hours: "Mo-Fr 08:00-17:00, Sa 09:00-13:00"
-website: "https://www.callplatts.com/"
+street: Washington Avenue
+housenumber: "1100"
+phone: (608) 253-1881
+opening_hours: Mo-Fr 08:00-17:00, Sa 09:00-13:00
+website: https://www.callplatts.com/

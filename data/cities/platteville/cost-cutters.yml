@@ -4,8 +4,8 @@ latitude: 42.73207
 longitude: -90.4772
 postcode: "53818"
 city: Platteville
-street: "McGregor Plaza"
-housenumber: 140
-phone: "+1 608 348-5800"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.costcutters.com/"
+street: McGregor Plaza
+housenumber: "140"
+phone: +1 608 348-5800
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.costcutters.com/

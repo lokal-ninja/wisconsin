@@ -1,11 +1,11 @@
 id: 436901574
-type: way
+type: node
 latitude: 44.9002
 longitude: -89.61007
 postcode: "54474"
 city: Rothschild
-street: "East Grand Avenue"
-housenumber: 1133
+street: East Grand Avenue
+housenumber: "1133"
 phone: ""
 opening_hours: ""
 website: ""

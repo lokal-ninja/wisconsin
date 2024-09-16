@@ -1,11 +1,11 @@
 id: 447881807
-type: way
+type: node
 latitude: 42.6773
 longitude: -89.01564
 postcode: "53545"
 city: Janesville
-street: "East Racine Street"
-housenumber: 104
+street: East Racine Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

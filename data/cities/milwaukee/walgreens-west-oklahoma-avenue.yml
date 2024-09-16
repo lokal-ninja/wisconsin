@@ -1,11 +1,11 @@
 id: 663420566
-type: way
+type: node
 latitude: 42.98882
 longitude: -87.91996
 postcode: "53215"
 city: Milwaukee
-street: "West Oklahoma Avenue"
-housenumber: 620
-phone: "+1 414-744-1135"
-opening_hours: "Mo-Su 08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-620+w+oklahoma+ave-milwaukee-wi-53215/id=3509"
+street: West Oklahoma Avenue
+housenumber: "620"
+phone: +1 414-744-1135
+opening_hours: Mo-Su 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-620+w+oklahoma+ave-milwaukee-wi-53215/id=3509

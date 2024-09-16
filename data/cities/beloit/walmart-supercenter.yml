@@ -1,11 +1,11 @@
 id: 229237326
-type: way
+type: node
 latitude: 42.52728
 longitude: -88.98558
 postcode: "53511"
 city: Beloit
-street: "Milwaukee Road"
-housenumber: 2785
-phone: "+1 608-362-0057"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.walmart.com/store/2532/beloit-wi/details"
+street: Milwaukee Road
+housenumber: "2785"
+phone: +1 608-362-0057
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.walmart.com/store/2532/beloit-wi/details

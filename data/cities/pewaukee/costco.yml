@@ -1,11 +1,11 @@
 id: 394882525
-type: way
+type: node
 latitude: 43.08929
 longitude: -88.23074
-postcode: "53072-5886"
+postcode: 53072-5886
 city: Pewaukee
-street: "Pewaukee Road"
-housenumber: 443
-phone: "+1 262-956-6700"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/pewaukee-wi-1101.html"
+street: Pewaukee Road
+housenumber: "443"
+phone: +1 262-956-6700
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/pewaukee-wi-1101.html

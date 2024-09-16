@@ -1,11 +1,11 @@
 id: 503897386
-type: way
+type: node
 latitude: 45.39906
 longitude: -92.60877
 postcode: "54024"
 city: St. Croix Falls
-street: "US Highway 8"
-housenumber: 2191
+street: US Highway 8
+housenumber: "2191"
 phone: ""
 opening_hours: ""
 website: ""

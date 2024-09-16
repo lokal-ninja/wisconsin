@@ -1,11 +1,11 @@
 id: 427928298
-type: way
+type: node
 latitude: 43.0038
 longitude: -89.01604
 postcode: "53523"
 city: Cambridge
-street: "East Main Street"
-housenumber: 110
+street: East Main Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
 website: ""

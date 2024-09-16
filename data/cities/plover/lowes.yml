@@ -1,11 +1,11 @@
 id: 389618040
-type: way
+type: node
 latitude: 44.49561
 longitude: -89.51028
 postcode: "54467"
 city: Plover
-street: "Crossroads Drive"
-housenumber: 230
-phone: "+1 715-869-9000"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/wi-plover/2586"
+street: Crossroads Drive
+housenumber: "230"
+phone: +1 715-869-9000
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/wi-plover/2586

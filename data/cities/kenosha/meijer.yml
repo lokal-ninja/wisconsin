@@ -1,11 +1,11 @@
 id: 676040892
-type: way
+type: node
 latitude: 42.56371
 longitude: -87.88642
 postcode: "53142"
 city: Kenosha
-street: "Green Bay Road"
-housenumber: 7701
-phone: "+1-262-612-1600"
+street: Green Bay Road
+housenumber: "7701"
+phone: +1-262-612-1600
 opening_hours: ""
 website: ""

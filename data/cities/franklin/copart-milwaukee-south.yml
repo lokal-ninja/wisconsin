@@ -1,11 +1,11 @@
 id: 1178378311
-type: way
+type: node
 latitude: 42.86403
 longitude: -88.06902
 postcode: ""
 city: Franklin
-street: "South North Cape Road"
-housenumber: 10020
+street: South North Cape Road
+housenumber: "10020"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 142997004
-type: way
+type: node
 latitude: 44.2749
 longitude: -88.47226
 postcode: "54913"
 city: Appleton
-street: "Greenville Drive"
-housenumber: 4350
-phone: "+1 920-954-9266"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/wi/appleton/109/"
+street: Greenville Drive
+housenumber: "4350"
+phone: +1 920-954-9266
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/wi/appleton/109/

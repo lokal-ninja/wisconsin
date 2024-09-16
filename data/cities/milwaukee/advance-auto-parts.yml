@@ -1,11 +1,11 @@
 id: 100610596
-type: way
+type: node
 latitude: 43.02321
 longitude: -87.93792
 postcode: "53204"
 city: Milwaukee
-street: "West National Avenue"
-housenumber: 1920
+street: West National Avenue
+housenumber: "1920"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/milwaukee/1920-w-national-ave"
+website: https://stores.advanceautoparts.com/wi/milwaukee/1920-w-national-ave

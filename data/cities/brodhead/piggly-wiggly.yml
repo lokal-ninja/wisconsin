@@ -1,11 +1,11 @@
 id: 97521574
-type: way
+type: node
 latitude: 42.61412
 longitude: -89.37625
 postcode: "53520"
 city: Brodhead
-street: "1st Center Avenue"
-housenumber: 1604
-phone: "+1 608-897-2105"
+street: 1st Center Avenue
+housenumber: "1604"
+phone: +1 608-897-2105
 opening_hours: ""
-website: "https://www.shopthepig.com/"
+website: https://www.shopthepig.com/

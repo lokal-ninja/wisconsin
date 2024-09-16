@@ -1,11 +1,11 @@
 id: 623959089
-type: way
+type: node
 latitude: 45.08474
 longitude: -87.62671
 postcode: "54143"
 city: Marinette
-street: "Cleveland Avenue"
-housenumber: 1507
-phone: "+1-715-735-9012"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.jacksfreshmarket.com/"
+street: Cleveland Avenue
+housenumber: "1507"
+phone: +1-715-735-9012
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.jacksfreshmarket.com/

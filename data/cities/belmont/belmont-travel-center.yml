@@ -1,11 +1,11 @@
 id: 66238642
-type: way
+type: node
 latitude: 42.74589
 longitude: -90.34135
 postcode: "53510"
 city: Belmont
-street: "West Mound View Avenue"
-housenumber: 102
+street: West Mound View Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "http://belmonttravelcenter.com/"
+website: http://belmonttravelcenter.com/

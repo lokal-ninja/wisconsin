@@ -1,11 +1,11 @@
 id: 105564884
-type: way
+type: node
 latitude: 43.0483
 longitude: -89.32259
 postcode: "53716"
 city: Madison
-street: "East Broadway"
-housenumber: 205
+street: East Broadway
+housenumber: "205"
 phone: ""
 opening_hours: ""
-website: "https://www.fellys.net/"
+website: https://www.fellys.net/

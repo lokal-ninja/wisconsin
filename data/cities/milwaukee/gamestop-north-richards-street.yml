@@ -1,11 +1,11 @@
 id: 1146040276
-type: way
+type: node
 latitude: 43.08819
 longitude: -87.90771
 postcode: "53212"
 city: Milwaukee
-street: "North Richards Street"
-housenumber: 3907
+street: North Richards Street
+housenumber: "3907"
 phone: ""
 opening_hours: ""
-website: "https://www.gamestop.com/store/us/wi/milwaukee/5178/riverworks-commons-gamestop"
+website: https://www.gamestop.com/store/us/wi/milwaukee/5178/riverworks-commons-gamestop

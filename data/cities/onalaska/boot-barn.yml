@@ -1,11 +1,11 @@
 id: 260167464
-type: way
+type: node
 latitude: 43.87106
 longitude: -91.21115
 postcode: "54650"
 city: Onalaska
-street: "Crossing Meadows Drive"
-housenumber: 1235
-phone: "+1-608-399-2217"
-opening_hours: "Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.bootbarn.com/stores?StoreID=0341"
+street: Crossing Meadows Drive
+housenumber: "1235"
+phone: +1-608-399-2217
+opening_hours: Mo-Th 09:00-21:00; Fr-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.bootbarn.com/stores?StoreID=0341

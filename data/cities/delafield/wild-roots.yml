@@ -1,11 +1,11 @@
 id: 974526227
-type: way
+type: node
 latitude: 43.06205
 longitude: -88.404
 postcode: "53018"
 city: Delafield
-street: "Genesee Street"
-housenumber: 808
+street: Genesee Street
+housenumber: "808"
 phone: ""
-opening_hours: "Mo-We, Fr, Sa 09:00-20:00; Th 09:00-15:00"
+opening_hours: Mo-We, Fr, Sa 09:00-20:00; Th 09:00-15:00
 website: ""

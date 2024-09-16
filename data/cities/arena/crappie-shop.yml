@@ -1,11 +1,11 @@
 id: 754852127
-type: way
+type: node
 latitude: 43.16222
 longitude: -89.89882
 postcode: "53503"
 city: Arena
-street: "Dalogasa Drive"
-housenumber: 300
+street: Dalogasa Drive
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 655209859
-type: way
+type: node
 latitude: 42.51098
 longitude: -89.0616
 postcode: "53511"
 city: Beloit
-street: "East Liberty Avenue"
-housenumber: 1901
+street: East Liberty Avenue
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1028500931
-type: way
+type: node
 latitude: 43.54582
 longitude: -87.9426
 postcode: "53075"
 city: Random Lake
-street: "Orth Drive"
-housenumber: 580
-phone: "+1 920-994-8079"
+street: Orth Drive
+housenumber: "580"
+phone: +1 920-994-8079
 opening_hours: ""
-website: "https://www.caseys.com/"
+website: https://www.caseys.com/

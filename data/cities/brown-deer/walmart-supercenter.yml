@@ -1,11 +1,11 @@
 id: 86562228
-type: way
+type: node
 latitude: 43.17955
 longitude: -87.98938
 postcode: "53223"
 city: Brown Deer
-street: "West Brown Deer Road"
-housenumber: 6300
-phone: "+1 414-410-2548"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/6394/brown-deer-wi/whats-new"
+street: West Brown Deer Road
+housenumber: "6300"
+phone: +1 414-410-2548
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/6394/brown-deer-wi/whats-new

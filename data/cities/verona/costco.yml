@@ -1,11 +1,11 @@
 id: 1084126660
-type: way
+type: node
 latitude: 42.97196
 longitude: -89.50745
 postcode: "53593"
 city: Verona
-street: "Batker Court"
-housenumber: 1001
-phone: "+1 608-497-8355"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/verona-wi-1491.html"
+street: Batker Court
+housenumber: "1001"
+phone: +1 608-497-8355
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/verona-wi-1491.html

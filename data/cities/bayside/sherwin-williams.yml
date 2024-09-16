@@ -1,11 +1,11 @@
 id: 509648705
-type: way
+type: node
 latitude: 43.17704
 longitude: -87.91132
 postcode: "53217"
 city: Bayside
-street: "West Brown Deer Road"
-housenumber: 316
+street: West Brown Deer Road
+housenumber: "316"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-18:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-18:00; Su 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 409157340
-type: way
+type: node
 latitude: 44.96071
 longitude: -92.73192
 postcode: "54016"
 city: Hudson
-street: "O'Keefe Road"
-housenumber: 905
-phone: "+1 715.386.2338"
-opening_hours: "by appointment"
-website: "https://www.pahlsshowrooms.com/Hudson-WI-v2.HTML"
+street: O'Keefe Road
+housenumber: "905"
+phone: +1 715.386.2338
+opening_hours: '"by appointment"'
+website: https://www.pahlsshowrooms.com/Hudson-WI-v2.HTML

@@ -1,11 +1,11 @@
 id: 413768440
-type: way
+type: node
 latitude: 44.02477
 longitude: -90.08013
 postcode: "54646"
 city: Necedah
-street: "West 3rd Street"
-housenumber: 602
-phone: "+1-608-565-2916"
+street: West 3rd Street
+housenumber: "602"
+phone: +1-608-565-2916
 opening_hours: ""
 website: ""

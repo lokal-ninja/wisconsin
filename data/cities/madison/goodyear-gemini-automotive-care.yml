@@ -1,11 +1,11 @@
 id: 26742805
-type: way
+type: node
 latitude: 43.05955
 longitude: -89.52336
 postcode: "53719"
 city: Madison
-street: "Commerce Drive"
-housenumber: 437
-phone: "+1-608-8335150"
+street: Commerce Drive
+housenumber: "437"
+phone: +1-608-8335150
 opening_hours: ""
 website: ""

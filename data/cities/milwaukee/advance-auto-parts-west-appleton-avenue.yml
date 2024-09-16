@@ -1,11 +1,11 @@
 id: 332767801
-type: way
+type: node
 latitude: 43.09526
 longitude: -88.00792
 postcode: "53222"
 city: Milwaukee
-street: "West Appleton Avenue"
-housenumber: 7690
-phone: "+1-414-462-2839"
-opening_hours: "Mo-We,Fr,Sa 07:30-21:00; Th 07:30-18:00; Su 09:00-20:00"
-website: "https://stores.advanceautoparts.com/wi/milwaukee/7690-w-appleton-ave"
+street: West Appleton Avenue
+housenumber: "7690"
+phone: +1-414-462-2839
+opening_hours: Mo-We,Fr,Sa 07:30-21:00; Th 07:30-18:00; Su 09:00-20:00
+website: https://stores.advanceautoparts.com/wi/milwaukee/7690-w-appleton-ave

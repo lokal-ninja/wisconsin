@@ -1,11 +1,11 @@
 id: 439566330
-type: way
+type: node
 latitude: 43.65811
 longitude: -90.85624
 postcode: "54667"
 city: Westby
-street: "Washington Street"
-housenumber: 100
+street: Washington Street
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

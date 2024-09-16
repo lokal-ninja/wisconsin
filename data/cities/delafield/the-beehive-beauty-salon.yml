@@ -1,11 +1,11 @@
 id: 990215773
-type: way
+type: node
 latitude: 43.05794
 longitude: -88.40469
 postcode: "53018"
 city: Delafield
-street: "Genesee Street"
-housenumber: 329
-phone: "(262) 719-4835"
+street: Genesee Street
+housenumber: "329"
+phone: (262) 719-4835
 opening_hours: ""
-website: "https://www.facebook.com/TheBeehiveBeautySuites"
+website: https://www.facebook.com/TheBeehiveBeautySuites

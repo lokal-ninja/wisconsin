@@ -1,11 +1,11 @@
 id: 69889331
-type: way
+type: node
 latitude: 43.03021
 longitude: -88.11008
 postcode: "53005"
 city: Brookfield
-street: "North Moorland Road"
-housenumber: 95
-phone: "+1 262.797.7245"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-18:00"
-website: "https://www.shopbrookfieldsquaremall.com/"
+street: North Moorland Road
+housenumber: "95"
+phone: +1 262.797.7245
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-18:00
+website: https://www.shopbrookfieldsquaremall.com/

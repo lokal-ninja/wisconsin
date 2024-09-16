@@ -1,11 +1,11 @@
 id: 662990690
-type: way
+type: node
 latitude: 43.01676
 longitude: -88.04124
 postcode: "53214"
 city: West Allis
-street: "West Greenfield Avenue"
-housenumber: 10306
+street: West Greenfield Avenue
+housenumber: "10306"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/West-Allis/10306-West-Greenfield-Avenue"
+website: https://www.speedway.com/locations/WI/West-Allis/10306-West-Greenfield-Avenue

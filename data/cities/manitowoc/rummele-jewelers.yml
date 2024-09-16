@@ -1,11 +1,11 @@
 id: 226013407
-type: way
+type: node
 latitude: 44.07734
 longitude: -87.69822
 postcode: "54220"
 city: Manitowoc
-street: "Calumet Avenue"
-housenumber: 4101
+street: Calumet Avenue
+housenumber: "4101"
 phone: ""
-opening_hours: "09:00-19:00"
+opening_hours: 09:00-19:00
 website: ""

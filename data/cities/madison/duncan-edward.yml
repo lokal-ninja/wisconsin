@@ -1,11 +1,11 @@
 id: 322318839
-type: way
+type: node
 latitude: 43.05883
 longitude: -89.4956
 postcode: "53719"
 city: Madison
-street: "Grand Canyon Drive"
-housenumber: 433
-phone: "+1 (608) 662-9010"
+street: Grand Canyon Drive
+housenumber: "433"
+phone: +1 (608) 662-9010
 opening_hours: ""
-website: "https://duncanedward.com/"
+website: https://duncanedward.com/

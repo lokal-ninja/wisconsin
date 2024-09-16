@@ -1,11 +1,11 @@
 id: 663919095
-type: way
+type: node
 latitude: 42.9874
 longitude: -88.02611
 postcode: "53227"
 city: Milwaukee
-street: "West Beloit Road"
-housenumber: 9100
+street: West Beloit Road
+housenumber: "9100"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9100+w+beloit+rd-milwaukee-wi-53227/id=3394"
+website: https://www.walgreens.com/locator/walgreens-9100+w+beloit+rd-milwaukee-wi-53227/id=3394

@@ -1,11 +1,11 @@
 id: 676589666
-type: way
+type: node
 latitude: 42.58134
 longitude: -87.82116
 postcode: "53140"
 city: Kenosha
-street: "Sheridan Road"
-housenumber: 5919
+street: Sheridan Road
+housenumber: "5919"
 phone: ""
 opening_hours: ""
 website: ""

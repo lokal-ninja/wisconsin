@@ -1,11 +1,11 @@
 id: 661591418
-type: way
+type: node
 latitude: 43.07538
 longitude: -88.04917
 postcode: "53222"
 city: Wauwatosa
-street: "West Burleigh Street"
-housenumber: 10830
+street: West Burleigh Street
+housenumber: "10830"
 phone: ""
 opening_hours: ""
 website: ""

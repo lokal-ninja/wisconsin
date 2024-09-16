@@ -4,8 +4,8 @@ latitude: 42.73407
 longitude: -90.47855
 postcode: "53818"
 city: Platteville
-street: "West Main Street"
-housenumber: 25
-phone: "+1 608 348-6888"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-17:00"
-website: "http://www.momentumbikes.com/"
+street: West Main Street
+housenumber: "25"
+phone: +1 608 348-6888
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-17:00
+website: http://www.momentumbikes.com/

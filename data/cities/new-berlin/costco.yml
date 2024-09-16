@@ -1,11 +1,11 @@
 id: 816028922
-type: way
+type: node
 latitude: 42.94621
 longitude: -88.10542
-postcode: "53151-7909"
+postcode: 53151-7909
 city: New Berlin
-street: "West Grange Avenue"
-housenumber: 15300
-phone: "+1 262-599-7030"
-opening_hours: "Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00"
-website: "https://www.costco.com/warehouse-locations/new-berlin-wi-1212.html"
+street: West Grange Avenue
+housenumber: "15300"
+phone: +1 262-599-7030
+opening_hours: Mo-Fr 10:00-20:30; Sa 09:30-18:00; Su 10:00-18:00
+website: https://www.costco.com/warehouse-locations/new-berlin-wi-1212.html

@@ -4,8 +4,8 @@ latitude: 42.98828
 longitude: -87.87719
 postcode: "53207"
 city: Milwaukee
-street: "East Oklahoma Avenue"
-housenumber: 2532
+street: East Oklahoma Avenue
+housenumber: "2532"
 phone: ""
 opening_hours: ""
-website: "https://petstuff.com/"
+website: https://petstuff.com/

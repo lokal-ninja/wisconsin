@@ -1,11 +1,11 @@
 id: 296357881
-type: way
+type: node
 latitude: 43.00396
 longitude: -88.80694
 postcode: "53549"
 city: Jefferson
-street: "South Main Street"
-housenumber: 206
-phone: "920-674-4773"
+street: South Main Street
+housenumber: "206"
+phone: 920-674-4773
 opening_hours: ""
 website: ""

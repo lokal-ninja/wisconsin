@@ -1,11 +1,11 @@
 id: 660309624
-type: way
+type: node
 latitude: 43.1045
 longitude: -87.98346
 postcode: "53218"
 city: Milwaukee
-street: "West Hampton Avenue"
-housenumber: 5639
+street: West Hampton Avenue
+housenumber: "5639"
 phone: ""
 opening_hours: ""
 website: ""

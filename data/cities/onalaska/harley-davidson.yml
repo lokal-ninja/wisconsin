@@ -1,11 +1,11 @@
 id: 611343138
-type: way
+type: node
 latitude: 43.87114
 longitude: -91.21971
 postcode: "54650"
 city: Onalaska
-street: "Oak Forest Drive"
-housenumber: 1116
+street: Oak Forest Drive
+housenumber: "1116"
 phone: ""
 opening_hours: ""
 website: ""

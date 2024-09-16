@@ -1,11 +1,11 @@
 id: 664508024
-type: way
+type: node
 latitude: 42.88072
 longitude: -87.91597
 postcode: "53154"
 city: Oak Creek
-street: "South Howell Avenue"
-housenumber: 9001
+street: South Howell Avenue
+housenumber: "9001"
 phone: ""
 opening_hours: ""
-website: "https://www.officedepot.com/storelocator/wi/oak-creek/officemax-6729"
+website: https://www.officedepot.com/storelocator/wi/oak-creek/officemax-6729

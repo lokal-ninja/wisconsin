@@ -1,11 +1,11 @@
 id: 309347446
-type: way
+type: node
 latitude: 42.60808
 longitude: -89.37757
 postcode: "53520"
 city: Brodhead
-street: "1st Center Avenue"
-housenumber: 2405
-phone: "(608) 897-2187"
+street: 1st Center Avenue
+housenumber: "2405"
+phone: (608) 897-2187
 opening_hours: ""
 website: ""

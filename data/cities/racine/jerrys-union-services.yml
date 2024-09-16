@@ -1,11 +1,11 @@
 id: 362325084
-type: way
+type: node
 latitude: 42.748
 longitude: -87.80729
 postcode: ""
 city: Racine
-street: "Rapids Drive"
-housenumber: 2100
+street: Rapids Drive
+housenumber: "2100"
 phone: ""
 opening_hours: ""
 website: ""

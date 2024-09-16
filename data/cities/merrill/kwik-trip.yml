@@ -1,11 +1,11 @@
 id: 362314059
-type: way
+type: node
 latitude: 45.17915
 longitude: -89.65289
 postcode: "54452"
 city: Merrill
-street: "Pine Ridge Avenue"
-housenumber: 300
+street: Pine Ridge Avenue
+housenumber: "300"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=241"
+website: https://www.kwiktrip.com/locator/store?id=241

@@ -1,11 +1,11 @@
 id: 365430388
-type: way
+type: node
 latitude: 42.59661
 longitude: -89.64835
 postcode: "53566"
 city: Monroe
-street: "9th Avenue"
-housenumber: 1607
-phone: "608-325-7700"
+street: 9th Avenue
+housenumber: "1607"
+phone: 608-325-7700
 opening_hours: ""
-website: "http://www.autoclinicofmonroellc-wi.com/"
+website: http://www.autoclinicofmonroellc-wi.com/

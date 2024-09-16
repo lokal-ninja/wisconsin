@@ -1,11 +1,11 @@
 id: 463012053
-type: way
+type: node
 latitude: 46.72837
 longitude: -92.10292
 postcode: "54880"
 city: Superior
-street: "Winter Street"
-housenumber: 1705
+street: Winter Street
+housenumber: "1705"
 phone: ""
 opening_hours: ""
 website: ""

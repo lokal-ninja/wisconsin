@@ -1,11 +1,11 @@
 id: 302810056
-type: way
+type: node
 latitude: 43.14256
 longitude: -89.74869
 postcode: ""
 city: Black Earth
-street: "Canal Street"
-housenumber: 1314
+street: Canal Street
+housenumber: "1314"
 phone: ""
 opening_hours: ""
 website: ""

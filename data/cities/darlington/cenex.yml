@@ -1,11 +1,11 @@
 id: 389774204
-type: way
+type: node
 latitude: 42.66351
 longitude: -90.1262
 postcode: "53530"
 city: Darlington
-street: "State Highway 23"
-housenumber: 11670
-phone: "(608) 776-8005"
+street: State Highway 23
+housenumber: "11670"
+phone: (608) 776-8005
 opening_hours: ""
-website: "https://www.newhorizonsco-op.com/"
+website: https://www.newhorizonsco-op.com/

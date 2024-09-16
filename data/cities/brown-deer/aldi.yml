@@ -1,11 +1,11 @@
 id: 746692140
-type: way
+type: node
 latitude: 43.1782
 longitude: -87.99338
 postcode: "53223"
 city: Brown Deer
-street: "West Brown Deer Road"
-housenumber: 6720
-phone: "+1 855-464-1016"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/brown-deer/6720-w-brown-deer-road"
+street: West Brown Deer Road
+housenumber: "6720"
+phone: +1 855-464-1016
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/brown-deer/6720-w-brown-deer-road

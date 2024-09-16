@@ -1,11 +1,11 @@
 id: 450151057
-type: way
+type: node
 latitude: 43.01363
 longitude: -88.23482
 postcode: "53188"
 city: Waukesha
-street: "Madison Street"
-housenumber: 230
+street: Madison Street
+housenumber: "230"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-230+madison+st-waukesha-wi-53188/id=5636"
+website: https://www.walgreens.com/locator/walgreens-230+madison+st-waukesha-wi-53188/id=5636

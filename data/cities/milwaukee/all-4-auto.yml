@@ -4,8 +4,8 @@ latitude: 43.02174
 longitude: -87.95305
 postcode: "53215"
 city: Milwaukee
-street: "West National Avenue"
-housenumber: 3111
-phone: "+1-414-391-5003"
-opening_hours: "Mo,We-Sa 10:00-18:00; Su 11:00-17:00; Tu off"
+street: West National Avenue
+housenumber: "3111"
+phone: +1-414-391-5003
+opening_hours: Mo,We-Sa 10:00-18:00; Su 11:00-17:00; Tu off
 website: ""

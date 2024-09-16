@@ -1,11 +1,11 @@
 id: 1089568476
-type: way
+type: node
 latitude: 45.03042
 longitude: -87.28638
 postcode: "54209"
 city: Egg Harbor
-street: "State Highway 42"
-housenumber: 7376
-phone: "+1-920-868-2648"
+street: State Highway 42
+housenumber: "7376"
+phone: +1-920-868-2648
 opening_hours: ""
 website: ""

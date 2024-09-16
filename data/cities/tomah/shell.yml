@@ -1,11 +1,11 @@
 id: 46751872
-type: way
+type: node
 latitude: 44.01929
 longitude: -90.49387
 postcode: "54660"
 city: Tomah
-street: "East McCoy Boulevard"
-housenumber: 907
+street: East McCoy Boulevard
+housenumber: "907"
 phone: ""
 opening_hours: ""
 website: ""

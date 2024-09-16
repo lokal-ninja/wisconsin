@@ -1,11 +1,11 @@
 id: 1282722004
-type: way
+type: node
 latitude: 44.00379
 longitude: -91.43203
 postcode: "54661"
 city: Trempealeau
-street: "3rd Street"
-housenumber: 24013
-phone: "608-534-7400"
+street: 3rd Street
+housenumber: "24013"
+phone: 608-534-7400
 opening_hours: ""
-website: "https://river-stop.edan.io/"
+website: https://river-stop.edan.io/

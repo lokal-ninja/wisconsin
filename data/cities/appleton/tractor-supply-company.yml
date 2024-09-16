@@ -1,11 +1,11 @@
 id: 572739138
-type: way
+type: node
 latitude: 44.24511
 longitude: -88.34531
 postcode: "54915"
 city: Appleton
-street: "Calumet Street"
+street: Calumet Street
 housenumber: W3098
-phone: "+1 920-739-1635"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+phone: +1 920-739-1635
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

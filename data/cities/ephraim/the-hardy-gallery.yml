@@ -1,11 +1,11 @@
 id: 481268893
-type: way
+type: node
 latitude: 45.16207
 longitude: -87.17296
 postcode: "54211"
 city: Ephraim
-street: "Anderson Lane"
-housenumber: 3083
-phone: "+1-920-854-2210"
-opening_hours: "May 15-Oct 15: Mo-Sa 10:00-17:00; May 15-Oct 15: Su 12:00-17:00"
-website: "https://www.thehardy.org/contact-us.html"
+street: Anderson Lane
+housenumber: "3083"
+phone: +1-920-854-2210
+opening_hours: 'May 15-Oct 15: Mo-Sa 10:00-17:00; May 15-Oct 15: Su 12:00-17:00'
+website: https://www.thehardy.org/contact-us.html

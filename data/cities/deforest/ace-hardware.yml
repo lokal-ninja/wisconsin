@@ -1,11 +1,11 @@
 id: 682326894
-type: way
+type: node
 latitude: 43.23739
 longitude: -89.34224
 postcode: "53532"
 city: DeForest
-street: "South Main Street"
-housenumber: 811
-phone: "+1 608-846-3876"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-17:00"
+street: South Main Street
+housenumber: "811"
+phone: +1 608-846-3876
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-17:00
 website: ""

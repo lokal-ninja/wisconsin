@@ -1,11 +1,11 @@
 id: 445815756
-type: way
+type: node
 latitude: 44.82768
 longitude: -89.15179
 postcode: "54449"
 city: Wittenberg
-street: "East Grand Avenue"
-housenumber: 1390
-phone: "+1-800-392-2266"
+street: East Grand Avenue
+housenumber: "1390"
+phone: +1-800-392-2266
 opening_hours: ""
-website: "https://www.nueskes.com/"
+website: https://www.nueskes.com/

@@ -1,11 +1,11 @@
 id: 478961141
-type: way
+type: node
 latitude: 43.13429
 longitude: -90.70661
 postcode: "53805"
 city: Boscobel
-street: "West Oak Street"
-housenumber: 106
-phone: "+1 608-375-4472"
+street: West Oak Street
+housenumber: "106"
+phone: +1 608-375-4472
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 750553098
-type: way
+type: node
 latitude: 44.01037
 longitude: -88.56988
 postcode: "54902"
 city: Oshkosh
-street: "West 9th Avenue"
-housenumber: 1307
+street: West 9th Avenue
+housenumber: "1307"
 phone: ""
 opening_hours: ""
 website: ""

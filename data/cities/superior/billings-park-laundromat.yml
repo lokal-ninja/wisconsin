@@ -1,11 +1,11 @@
 id: 195338098
-type: way
+type: node
 latitude: 46.71582
 longitude: -92.1283
 postcode: "54880"
 city: Superior
-street: "Iowa Avenue"
-housenumber: 1902
+street: Iowa Avenue
+housenumber: "1902"
 phone: ""
 opening_hours: ""
 website: ""

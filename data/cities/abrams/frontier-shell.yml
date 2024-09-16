@@ -1,11 +1,11 @@
 id: 92170609
-type: way
+type: node
 latitude: 44.7654
 longitude: -88.05333
 postcode: "54101"
 city: Abrams
-street: "West Frontier Road"
-housenumber: 2516
+street: West Frontier Road
+housenumber: "2516"
 phone: ""
 opening_hours: ""
 website: ""

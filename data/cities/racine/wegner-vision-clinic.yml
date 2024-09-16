@@ -1,11 +1,11 @@
 id: 398082731
-type: way
+type: node
 latitude: 42.7195
 longitude: -87.81785
 postcode: ""
 city: Racine
-street: "Grove Avenue"
-housenumber: 1120
+street: Grove Avenue
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

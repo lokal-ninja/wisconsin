@@ -1,11 +1,11 @@
 id: 365430938
-type: way
+type: node
 latitude: 42.59601
 longitude: -89.6418
 postcode: "53566"
 city: Monroe
-street: "14th Avenue"
-housenumber: 1619
+street: 14th Avenue
+housenumber: "1619"
 phone: ""
 opening_hours: ""
 website: ""

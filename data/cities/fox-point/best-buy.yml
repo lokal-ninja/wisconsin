@@ -1,11 +1,11 @@
 id: 508909568
-type: way
+type: node
 latitude: 43.17511
 longitude: -87.91432
 postcode: "53217"
 city: Fox Point
-street: "North Port Washington Road"
-housenumber: 8755
-phone: "+1 414-540-6353"
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-20:00"
-website: "https://stores.bestbuy.com/wi/fox-point/8755-n-port-washington-rd-654.html"
+street: North Port Washington Road
+housenumber: "8755"
+phone: +1 414-540-6353
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-20:00
+website: https://stores.bestbuy.com/wi/fox-point/8755-n-port-washington-rd-654.html

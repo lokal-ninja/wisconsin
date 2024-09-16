@@ -1,11 +1,11 @@
 id: 292041135
-type: way
+type: node
 latitude: 42.91803
 longitude: -89.21476
 postcode: "53589"
 city: Stoughton
-street: "East Main Street"
-housenumber: 524
+street: East Main Street
+housenumber: "524"
 phone: ""
 opening_hours: ""
 website: ""

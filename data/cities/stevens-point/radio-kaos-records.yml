@@ -1,11 +1,11 @@
 id: 246354206
-type: way
+type: node
 latitude: 44.52384
 longitude: -89.58464
 postcode: ""
 city: Stevens Point
-street: "Main Street"
-housenumber: 968
+street: Main Street
+housenumber: "968"
 phone: ""
-opening_hours: "Tu-Fr 10:00-17:00; Sa 10:00-14:00"
-website: "https://www.radiokaossp.com/home.html"
+opening_hours: Tu-Fr 10:00-17:00; Sa 10:00-14:00
+website: https://www.radiokaossp.com/home.html

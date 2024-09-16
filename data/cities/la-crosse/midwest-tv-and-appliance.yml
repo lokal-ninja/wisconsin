@@ -1,11 +1,11 @@
 id: 258670403
-type: way
+type: node
 latitude: 43.86595
 longitude: -91.20474
 postcode: "54601"
 city: La Crosse
-street: "WI 157"
-housenumber: 3600
+street: WI 157
+housenumber: "3600"
 phone: ""
 opening_hours: ""
 website: ""

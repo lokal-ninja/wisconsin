@@ -1,11 +1,11 @@
 id: 498629244
-type: way
+type: node
 latitude: 44.95945
 longitude: -89.62375
 postcode: "54403"
 city: Wausau
-street: "East Jefferson Street"
-housenumber: 531
+street: East Jefferson Street
+housenumber: "531"
 phone: ""
 opening_hours: ""
 website: ""

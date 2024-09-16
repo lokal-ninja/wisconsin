@@ -2,10 +2,10 @@ id: 2622896618
 type: node
 latitude: 43.09491
 longitude: -88.48091
-postcode: "53066-4457"
+postcode: 53066-4457
 city: Oconomowoc
-street: "Summit Avenue"
-housenumber: 1081
-phone: "+1 262-567-8288"
-opening_hours: "Mo-Fr 07:30-20:00; Sa 07:30-18:00; Su 08:00-17:00"
+street: Summit Avenue
+housenumber: "1081"
+phone: +1 262-567-8288
+opening_hours: Mo-Fr 07:30-20:00; Sa 07:30-18:00; Su 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 350991586
-type: way
+type: node
 latitude: 42.73097
 longitude: -87.78427
 postcode: ""
 city: Racine
-street: "Wisconsin Avenue"
-housenumber: 239
+street: Wisconsin Avenue
+housenumber: "239"
 phone: ""
 opening_hours: ""
 website: ""

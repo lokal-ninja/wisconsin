@@ -4,8 +4,8 @@ latitude: 45.09126
 longitude: -87.24405
 postcode: "54212"
 city: Fish Creek
-street: "Peninsula Players Road"
-housenumber: 4140
-phone: "+1-920-868-3579"
-opening_hours: "Apr 30 - Oct 31: 10:00-17:00"
-website: "https://edgewoodorchard.com/"
+street: Peninsula Players Road
+housenumber: "4140"
+phone: +1-920-868-3579
+opening_hours: 'Apr 30 - Oct 31: 10:00-17:00'
+website: https://edgewoodorchard.com/

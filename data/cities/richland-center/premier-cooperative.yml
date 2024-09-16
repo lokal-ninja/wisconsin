@@ -1,11 +1,11 @@
 id: 290698217
-type: way
+type: node
 latitude: 43.33404
 longitude: -90.3852
 postcode: "53581"
 city: Richland Center
-street: "South Central Avenue"
-housenumber: 287
-phone: "+1 608 647 6171"
+street: South Central Avenue
+housenumber: "287"
+phone: +1 608 647 6171
 opening_hours: ""
-website: "https://www.cenex.com/Cenex/Locations"
+website: https://www.cenex.com/Cenex/Locations

@@ -1,11 +1,11 @@
 id: 768814456
-type: way
+type: node
 latitude: 45.24239
 longitude: -87.06055
 postcode: "54210"
 city: Ellison Bay
-street: "Mink River Road"
-housenumber: 11736
-phone: "+1-920-854-4839"
-opening_hours: "10:00-17:00"
+street: Mink River Road
+housenumber: "11736"
+phone: +1-920-854-4839
+opening_hours: 10:00-17:00
 website: ""

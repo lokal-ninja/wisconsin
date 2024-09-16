@@ -1,11 +1,11 @@
 id: 359879355
-type: way
+type: node
 latitude: 43.75956
 longitude: -87.73843
 postcode: "53081"
 city: Sheboygan
-street: "North 25th Street"
-housenumber: 1317
+street: North 25th Street
+housenumber: "1317"
 phone: ""
 opening_hours: ""
 website: ""

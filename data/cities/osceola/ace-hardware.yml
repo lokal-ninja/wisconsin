@@ -1,11 +1,11 @@
 id: 895948759
-type: way
+type: node
 latitude: 45.32072
 longitude: -92.70394
 postcode: "54020"
 city: Osceola
-street: "Chieftain Street"
-housenumber: 202
-phone: "+1 715-294-3301"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-14:00"
+street: Chieftain Street
+housenumber: "202"
+phone: +1 715-294-3301
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:00-14:00
 website: ""

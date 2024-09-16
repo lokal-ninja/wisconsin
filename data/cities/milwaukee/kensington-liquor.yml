@@ -1,11 +1,11 @@
 id: 182999006
-type: way
+type: node
 latitude: 43.09818
 longitude: -87.88706
 postcode: "53211"
 city: Milwaukee
-street: "North Oakland Avenue"
-housenumber: 4496
+street: North Oakland Avenue
+housenumber: "4496"
 phone: ""
 opening_hours: ""
 website: ""

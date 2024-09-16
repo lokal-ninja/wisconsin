@@ -1,11 +1,11 @@
 id: 587912718
-type: way
+type: node
 latitude: 42.90844
 longitude: -87.93984
 postcode: "53154"
 city: Oak Creek
-street: "South Ikea Way"
-housenumber: 7500
+street: South Ikea Way
+housenumber: "7500"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 10:00-18:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 10:00-18:00
 website: ""

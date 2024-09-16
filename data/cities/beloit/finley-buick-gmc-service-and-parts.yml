@@ -1,11 +1,11 @@
 id: 1046732911
-type: way
+type: node
 latitude: 42.52146
 longitude: -88.98794
 postcode: "53511"
 city: Beloit
-street: "Milwaukee Road"
-housenumber: 2700
+street: Milwaukee Road
+housenumber: "2700"
 phone: ""
 opening_hours: ""
 website: ""

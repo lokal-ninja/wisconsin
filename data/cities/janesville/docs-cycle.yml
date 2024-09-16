@@ -1,11 +1,11 @@
 id: 447881836
-type: way
+type: node
 latitude: 42.67763
 longitude: -89.01576
 postcode: "53545"
 city: Janesville
-street: "East Racine Street"
-housenumber: 115
-phone: "+1-608-741-7483"
+street: East Racine Street
+housenumber: "115"
+phone: +1-608-741-7483
 opening_hours: ""
-website: "https://www.freewebs.com/DOCSCYCLE/"
+website: https://www.freewebs.com/DOCSCYCLE/

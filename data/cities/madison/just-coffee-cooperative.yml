@@ -1,11 +1,11 @@
 id: 106101992
-type: way
+type: node
 latitude: 43.1224
 longitude: -89.32414
 postcode: "53704"
 city: Madison
-street: "Orin Road"
-housenumber: 3701
-phone: "+1-608-204-9011"
+street: Orin Road
+housenumber: "3701"
+phone: +1-608-204-9011
 opening_hours: ""
-website: "https://justcoffee.coop/"
+website: https://justcoffee.coop/

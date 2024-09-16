@@ -1,11 +1,11 @@
 id: 143928621
-type: way
+type: node
 latitude: 44.17695
 longitude: -88.49258
 postcode: "54956"
 city: Neenah
-street: "West Winneconne Avenue"
-housenumber: 1155
-phone: "+1 920-722-0782"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2986/neenah-wi/whats-new"
+street: West Winneconne Avenue
+housenumber: "1155"
+phone: +1 920-722-0782
+opening_hours: 24/7
+website: https://www.walmart.com/store/2986/neenah-wi/whats-new

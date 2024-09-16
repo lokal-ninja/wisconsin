@@ -1,11 +1,11 @@
 id: 1194510616
-type: way
+type: node
 latitude: 44.86265
 longitude: -91.92873
 postcode: "54751"
 city: Menomonie
-street: "2nd Street East"
-housenumber: 2209
+street: 2nd Street East
+housenumber: "2209"
 phone: ""
-opening_hours: "Mo-Th 09:00-16:00"
+opening_hours: Mo-Th 09:00-16:00
 website: ""

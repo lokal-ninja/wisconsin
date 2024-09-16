@@ -1,11 +1,11 @@
 id: 1004212886
-type: way
+type: node
 latitude: 43.03568
 longitude: -88.15911
 postcode: "53045"
 city: Brookfield
-street: "West Bluemound Road"
-housenumber: 19809
-phone: "262-782-5300"
+street: West Bluemound Road
+housenumber: "19809"
+phone: 262-782-5300
 opening_hours: ""
-website: "https://www.hallmazdamilwaukee.com/"
+website: https://www.hallmazdamilwaukee.com/

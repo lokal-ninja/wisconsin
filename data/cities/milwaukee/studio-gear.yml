@@ -1,11 +1,11 @@
 id: 53160858
-type: way
+type: node
 latitude: 43.03259
 longitude: -87.90426
 postcode: "53202"
 city: Milwaukee
-street: "East Chicago Street"
-housenumber: 511
+street: East Chicago Street
+housenumber: "511"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

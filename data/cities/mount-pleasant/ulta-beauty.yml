@@ -1,11 +1,11 @@
 id: 362345247
-type: way
+type: node
 latitude: 42.72174
 longitude: -87.84807
 postcode: "53406"
 city: Mount Pleasant
-street: "Washington Avenue"
-housenumber: 5630
-phone: "+1 262-634-0067"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/mount-pleasant-wi-1148"
+street: Washington Avenue
+housenumber: "5630"
+phone: +1 262-634-0067
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/mount-pleasant-wi-1148

@@ -1,11 +1,11 @@
 id: 377060724
-type: way
+type: node
 latitude: 43.08338
 longitude: -89.36397
 postcode: "53703"
 city: Madison
-street: "Williamson Street"
-housenumber: 1209
+street: Williamson Street
+housenumber: "1209"
 phone: ""
-opening_hours: "Mo-Su 10:00-21:00"
+opening_hours: Mo-Su 10:00-21:00
 website: ""

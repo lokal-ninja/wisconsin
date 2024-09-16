@@ -4,8 +4,8 @@ latitude: 42.78023
 longitude: -89.29854
 postcode: "53536"
 city: Evansville
-street: "East Main Street"
-housenumber: 11
-phone: "+1 608-576-0542"
+street: East Main Street
+housenumber: "11"
+phone: +1 608-576-0542
 opening_hours: ""
-website: "https://salonkb.com"
+website: https://salonkb.com

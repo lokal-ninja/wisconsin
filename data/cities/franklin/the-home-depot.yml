@@ -1,11 +1,11 @@
 id: 1175397248
-type: way
+type: node
 latitude: 42.92607
 longitude: -87.95347
 postcode: "53132"
 city: Franklin
-street: "South 27th Street"
-housenumber: 6489
-phone: "+1 414-304-1024"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/franklin/wi/franklin/53132/4907"
+street: South 27th Street
+housenumber: "6489"
+phone: +1 414-304-1024
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/franklin/wi/franklin/53132/4907

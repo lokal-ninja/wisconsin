@@ -1,11 +1,11 @@
 id: 83673503
-type: way
+type: node
 latitude: 43.01742
 longitude: -89.83395
 postcode: "53517"
 city: Blue Mounds
-street: "Division Street"
-housenumber: 11024
+street: Division Street
+housenumber: "11024"
 phone: ""
-opening_hours: "Mo-Fr 05:30-21:00; Sa 06:30-21:00; Su 06:30-20:00"
+opening_hours: Mo-Fr 05:30-21:00; Sa 06:30-21:00; Su 06:30-20:00
 website: ""

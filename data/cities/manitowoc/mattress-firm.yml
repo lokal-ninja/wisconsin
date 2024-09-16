@@ -1,11 +1,11 @@
 id: 583980693
-type: way
+type: node
 latitude: 44.07644
 longitude: -87.70249
 postcode: "54220"
 city: Manitowoc
-street: "Harbor Town Lane"
-housenumber: 4144
-phone: "+1 920-682-4911"
+street: Harbor Town Lane
+housenumber: "4144"
+phone: +1 920-682-4911
 opening_hours: ""
-website: "https://www.mattressfirm.com/en-us/stores/wi/manitowoc/112006/"
+website: https://www.mattressfirm.com/en-us/stores/wi/manitowoc/112006/

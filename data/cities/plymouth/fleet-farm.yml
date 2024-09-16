@@ -1,11 +1,11 @@
 id: 810560103
-type: way
+type: node
 latitude: 43.75028
 longitude: -87.94398
 postcode: "53073"
 city: Plymouth
-street: "Eastern Ave."
-housenumber: 3110
+street: Eastern Ave.
+housenumber: "3110"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

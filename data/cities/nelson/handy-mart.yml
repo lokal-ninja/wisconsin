@@ -1,11 +1,11 @@
 id: 785092869
-type: way
+type: node
 latitude: 44.41995
 longitude: -92.00833
 postcode: "54756"
 city: Nelson
-street: "State Road 25"
-housenumber: 110
-phone: "715-673-4344"
+street: State Road 25
+housenumber: "110"
+phone: 715-673-4344
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1110639799
-type: way
+type: node
 latitude: 43.02563
 longitude: -87.92285
 postcode: "53204"
 city: Milwaukee
-street: "West Bruce Street"
-housenumber: 902
-phone: "+1 414  239 8727"
-opening_hours: "Mo-Sa 08:00-18:30; Su off"
-website: "https://hermanos-acosta-auto-repair.business.site/"
+street: West Bruce Street
+housenumber: "902"
+phone: +1 414  239 8727
+opening_hours: Mo-Sa 08:00-18:30; Su off
+website: https://hermanos-acosta-auto-repair.business.site/

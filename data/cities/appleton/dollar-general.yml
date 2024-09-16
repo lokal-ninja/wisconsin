@@ -1,11 +1,11 @@
 id: 572734795
-type: way
+type: node
 latitude: 44.28814
 longitude: -88.40519
 postcode: "54911"
 city: Appleton
-street: "East Northland Avenue"
-housenumber: 102
+street: East Northland Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/appleton/19323"
+website: https://www.dollargeneral.com/store-directory/wi/appleton/19323

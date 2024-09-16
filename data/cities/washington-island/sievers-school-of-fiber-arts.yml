@@ -1,11 +1,11 @@
 id: 1018442805
-type: way
+type: node
 latitude: 45.39584
 longitude: -86.88378
 postcode: "54246"
 city: Washington Island
-street: "Jackson Harbor Road"
-housenumber: 986
-phone: "920-847-2264"
-opening_hours: "May 20 - Oct 31: 10:00-16:00"
-website: "https://sieversschool.com/about-us-our-shop/"
+street: Jackson Harbor Road
+housenumber: "986"
+phone: 920-847-2264
+opening_hours: 'May 20 - Oct 31: 10:00-16:00'
+website: https://sieversschool.com/about-us-our-shop/

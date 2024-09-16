@@ -1,11 +1,11 @@
 id: 846245897
-type: way
+type: node
 latitude: 45.37529
 longitude: -87.95239
 postcode: "54177"
 city: Wausaukee
-street: "Main Street"
-housenumber: 635
+street: Main Street
+housenumber: "635"
 phone: ""
 opening_hours: ""
 website: ""

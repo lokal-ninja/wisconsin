@@ -1,11 +1,11 @@
 id: 995938109
-type: way
+type: node
 latitude: 43.62757
 longitude: -89.77353
 postcode: "53965"
 city: Wisconsin Dells
-street: "Broadway"
-housenumber: 300
+street: Broadway
+housenumber: "300"
 phone: ""
 opening_hours: ""
 website: ""

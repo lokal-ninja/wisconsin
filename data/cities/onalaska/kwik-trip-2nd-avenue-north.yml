@@ -1,11 +1,11 @@
 id: 676032091
-type: way
+type: node
 latitude: 43.89652
 longitude: -91.23987
 postcode: "54650"
 city: Onalaska
-street: "2nd Avenue North"
-housenumber: 950
+street: 2nd Avenue North
+housenumber: "950"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=822"
+website: https://www.kwiktrip.com/locator/store?id=822

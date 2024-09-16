@@ -1,11 +1,11 @@
 id: 1136337918
-type: way
+type: node
 latitude: 42.9533
 longitude: -88.00445
 postcode: "53220"
 city: Greenfield
-street: "South 74th Street"
-housenumber: 5050
-phone: "+1 414-377-4060"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-19:00"
-website: "https://stores.dsw.com/usa/wi/greenfield/dsw-designer-shoe-warehouse-southridge-mall.html"
+street: South 74th Street
+housenumber: "5050"
+phone: +1 414-377-4060
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
+website: https://stores.dsw.com/usa/wi/greenfield/dsw-designer-shoe-warehouse-southridge-mall.html

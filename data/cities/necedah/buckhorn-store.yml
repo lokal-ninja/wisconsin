@@ -1,11 +1,11 @@
 id: 334797690
-type: way
+type: node
 latitude: 43.94777
 longitude: -90.01264
 postcode: "54646"
 city: Necedah
-street: "County Highway G"
-housenumber: 312
+street: County Highway G
+housenumber: "312"
 phone: ""
-opening_hours: "07:00-20:00"
+opening_hours: 07:00-20:00
 website: ""

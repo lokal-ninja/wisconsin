@@ -1,11 +1,11 @@
 id: 558123778
-type: way
+type: node
 latitude: 44.49806
 longitude: -88.06851
-postcode: "54304-4327"
+postcode: 54304-4327
 city: Green Bay
-street: "South Ridge Road"
-housenumber: 2110
-phone: "+1 920-497-6231"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:30-16:00"
+street: South Ridge Road
+housenumber: "2110"
+phone: +1 920-497-6231
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:00; Su 09:30-16:00
 website: ""

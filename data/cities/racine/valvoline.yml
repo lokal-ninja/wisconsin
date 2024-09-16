@@ -1,11 +1,11 @@
 id: 376081073
-type: way
+type: node
 latitude: 42.70559
 longitude: -87.85265
 postcode: ""
 city: Racine
-street: "21st Street"
-housenumber: 5920
+street: 21st Street
+housenumber: "5920"
 phone: ""
 opening_hours: ""
-website: "https://store.vioc.com/wi/racine/oil-change-gr0058.html"
+website: https://store.vioc.com/wi/racine/oil-change-gr0058.html

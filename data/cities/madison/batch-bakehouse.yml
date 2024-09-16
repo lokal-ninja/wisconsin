@@ -4,8 +4,8 @@ latitude: 43.08595
 longitude: -89.36071
 postcode: "53703"
 city: Madison
-street: "Williamson"
-housenumber: 1402
-phone: "(608)257-1652"
-opening_hours: "We-Fr 07:00-17:00; Sa,Su 08:00-17:00"
-website: "https://batchbakehouse.com/"
+street: Williamson
+housenumber: "1402"
+phone: (608)257-1652
+opening_hours: We-Fr 07:00-17:00; Sa,Su 08:00-17:00
+website: https://batchbakehouse.com/

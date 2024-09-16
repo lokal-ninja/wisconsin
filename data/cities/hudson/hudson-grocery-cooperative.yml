@@ -1,11 +1,11 @@
 id: 223984424
-type: way
+type: node
 latitude: 44.96482
 longitude: -92.73452
 postcode: "54016"
 city: Hudson
-street: "Ward Avenue"
-housenumber: 1701
-phone: "+1-715-377-9913"
-opening_hours: "Su 9:00-19:00; Mo-Sa 9:00-20:00"
-website: "https://hudsongrocery.coop"
+street: Ward Avenue
+housenumber: "1701"
+phone: +1-715-377-9913
+opening_hours: Su 9:00-19:00; Mo-Sa 9:00-20:00
+website: https://hudsongrocery.coop

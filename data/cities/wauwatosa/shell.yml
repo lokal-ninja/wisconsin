@@ -1,11 +1,11 @@
 id: 662935556
-type: way
+type: node
 latitude: 43.03842
 longitude: -87.9844
 postcode: "53213"
 city: Wauwatosa
-street: "North Hawley Road"
-housenumber: 641
+street: North Hawley Road
+housenumber: "641"
 phone: ""
 opening_hours: ""
 website: ""

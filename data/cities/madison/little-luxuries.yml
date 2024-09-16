@@ -4,8 +4,8 @@ latitude: 43.0749
 longitude: -89.38935
 postcode: ""
 city: Madison
-street: "State Street"
-housenumber: 230
+street: State Street
+housenumber: "230"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-17:00"
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-17:00
 website: ""

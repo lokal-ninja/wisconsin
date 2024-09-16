@@ -1,11 +1,11 @@
 id: 379150780
-type: way
+type: node
 latitude: 42.81451
 longitude: -87.81627
 postcode: ""
 city: Caledonia
-street: "Six Mile Road"
-housenumber: 3100
+street: Six Mile Road
+housenumber: "3100"
 phone: ""
 opening_hours: ""
 website: ""

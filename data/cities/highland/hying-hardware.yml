@@ -1,11 +1,11 @@
 id: 326129343
-type: way
+type: node
 latitude: 43.046
 longitude: -90.38019
 postcode: "53543"
 city: Highland
-street: "Main Street"
-housenumber: 540
+street: Main Street
+housenumber: "540"
 phone: ""
 opening_hours: ""
 website: ""

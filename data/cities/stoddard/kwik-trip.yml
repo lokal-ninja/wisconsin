@@ -1,11 +1,11 @@
 id: 496833016
-type: way
+type: node
 latitude: 43.66403
 longitude: -91.21862
 postcode: "54658"
 city: Stoddard
-street: "Main Street"
-housenumber: 202
-phone: "+1-608-457-2135"
+street: Main Street
+housenumber: "202"
+phone: +1-608-457-2135
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=308"
+website: https://www.kwiktrip.com/locator/store?id=308

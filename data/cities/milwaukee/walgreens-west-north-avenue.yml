@@ -1,11 +1,11 @@
 id: 662467859
-type: way
+type: node
 latitude: 43.05983
 longitude: -87.94799
 postcode: "53208"
 city: Milwaukee
-street: "West North Avenue"
-housenumber: 2727
+street: West North Avenue
+housenumber: "2727"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2727+w+north+ave-milwaukee-wi-53208/id=2296"
+website: https://www.walgreens.com/locator/walgreens-2727+w+north+ave-milwaukee-wi-53208/id=2296

@@ -1,11 +1,11 @@
 id: 921837009
-type: way
+type: node
 latitude: 43.14954
 longitude: -88.0015
 postcode: ""
 city: Milwaukee
-street: "West Good Hope Road"
-housenumber: 7330
+street: West Good Hope Road
+housenumber: "7330"
 phone: ""
 opening_hours: ""
 website: ""

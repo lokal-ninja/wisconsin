@@ -1,11 +1,11 @@
 id: 389618049
-type: way
+type: node
 latitude: 44.49452
 longitude: -89.51703
 postcode: "54467"
 city: Plover
-street: "Commons Circle"
-housenumber: 1145
-phone: "+1 715-344-0566"
+street: Commons Circle
+housenumber: "1145"
+phone: +1 715-344-0566
 opening_hours: ""
-website: "https://stores.bestbuy.com/wi/plover/1145-commons-cir-1052.html"
+website: https://stores.bestbuy.com/wi/plover/1145-commons-cir-1052.html

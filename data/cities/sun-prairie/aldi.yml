@@ -1,11 +1,11 @@
 id: 438081940
-type: way
+type: node
 latitude: 43.16831
 longitude: -89.26582
 postcode: "53590"
 city: Sun Prairie
-street: "Bunny Trail"
-housenumber: 750
-phone: "+1 855-464-1003"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/sun-prairie/750-bunny-trail"
+street: Bunny Trail
+housenumber: "750"
+phone: +1 855-464-1003
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/sun-prairie/750-bunny-trail

@@ -1,11 +1,11 @@
 id: 503489086
-type: way
+type: node
 latitude: 43.09076
 longitude: -88.91026
 postcode: "53551"
 city: Lake Mills
-street: "Tyranena Park Rd"
-housenumber: 105
+street: Tyranena Park Rd
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=306"
+website: https://www.kwiktrip.com/locator/store?id=306

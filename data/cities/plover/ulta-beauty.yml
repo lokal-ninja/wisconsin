@@ -1,11 +1,11 @@
 id: 661816821
-type: way
+type: node
 latitude: 44.49496
 longitude: -89.51298
 postcode: "54467"
 city: Plover
-street: "Crossroads Drive"
-housenumber: 200
-phone: "+1 715-343-0512"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/plover-wi-1363"
+street: Crossroads Drive
+housenumber: "200"
+phone: +1 715-343-0512
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/plover-wi-1363

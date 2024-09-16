@@ -1,11 +1,11 @@
 id: 991894230
-type: way
+type: node
 latitude: 43.32344
 longitude: -88.00493
 postcode: "53012"
 city: Cedarburg
-street: "WI 60"
-housenumber: 7518
+street: WI 60
+housenumber: "7518"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 660333835
-type: way
+type: node
 latitude: 43.10368
 longitude: -87.90738
 postcode: "53217"
 city: Milwaukee
-street: "East Hampton Avenue"
-housenumber: 285
+street: East Hampton Avenue
+housenumber: "285"
 phone: ""
 opening_hours: ""
 website: ""

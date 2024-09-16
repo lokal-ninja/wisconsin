@@ -1,11 +1,11 @@
 id: 663308084
-type: way
+type: node
 latitude: 43.01647
 longitude: -88.00026
 postcode: "53214"
 city: West Allis
-street: "West Greenfield Avenue"
-housenumber: 7001
-phone: "+1-414-257-1344"
-opening_hours: "Mo-Sa 10:00-20:00; Su 11:00-18:00"
+street: West Greenfield Avenue
+housenumber: "7001"
+phone: +1-414-257-1344
+opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 website: ""

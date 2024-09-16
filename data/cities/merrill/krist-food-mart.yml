@@ -1,11 +1,11 @@
 id: 991370439
-type: way
+type: node
 latitude: 45.18137
 longitude: -89.68263
 postcode: "54452"
 city: Merrill
-street: "South Center Avenue"
-housenumber: 105
+street: South Center Avenue
+housenumber: "105"
 phone: ""
 opening_hours: ""
 website: ""

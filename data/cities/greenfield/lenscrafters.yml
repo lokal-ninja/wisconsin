@@ -1,11 +1,11 @@
 id: 1136337933
-type: way
+type: node
 latitude: 42.95574
 longitude: -88.00582
-postcode: "53220-4359"
+postcode: 53220-4359
 city: Greenfield
-street: "South 74th Street"
-housenumber: 4850
-phone: "+1-414-282-3200"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00"
-website: "https://local.lenscrafters.com/wi/greenfield/4850-south-74th-st.html"
+street: South 74th Street
+housenumber: "4850"
+phone: +1-414-282-3200
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00; Su 10:00-17:00
+website: https://local.lenscrafters.com/wi/greenfield/4850-south-74th-st.html

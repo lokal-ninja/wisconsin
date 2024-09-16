@@ -1,11 +1,11 @@
 id: 437046543
-type: way
+type: node
 latitude: 42.73509
 longitude: -87.78577
 postcode: "53402"
 city: Racine
-street: "North Wisconsin Street"
-housenumber: 1120
+street: North Wisconsin Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

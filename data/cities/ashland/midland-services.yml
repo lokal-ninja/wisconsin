@@ -1,11 +1,11 @@
 id: 510560742
-type: way
+type: node
 latitude: 46.57908
 longitude: -90.90727
 postcode: "54806"
 city: Ashland
-street: "Sanborn Avenue"
-housenumber: 411
+street: Sanborn Avenue
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

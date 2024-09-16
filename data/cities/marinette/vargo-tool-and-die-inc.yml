@@ -1,11 +1,11 @@
 id: 921484312
-type: way
+type: node
 latitude: 45.06984
 longitude: -87.66247
 postcode: "54143"
 city: Marinette
-street: "Parsek Street"
-housenumber: 3545
-phone: "+1-715-732-9405"
-opening_hours: "Mo-Th 05:00-15:00"
-website: "https://vargotoolanddie.com/"
+street: Parsek Street
+housenumber: "3545"
+phone: +1-715-732-9405
+opening_hours: Mo-Th 05:00-15:00
+website: https://vargotoolanddie.com/

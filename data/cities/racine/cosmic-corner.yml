@@ -1,11 +1,11 @@
 id: 437046536
-type: way
+type: node
 latitude: 42.73573
 longitude: -87.78494
 postcode: ""
 city: Racine
-street: "North Main Street"
-housenumber: 1200
+street: North Main Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
 website: ""

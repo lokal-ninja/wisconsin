@@ -1,11 +1,11 @@
 id: 48531080
-type: way
+type: node
 latitude: 42.60258
 longitude: -89.63539
 postcode: "53566"
 city: Monroe
-street: "20th Avenue"
-housenumber: 907
+street: 20th Avenue
+housenumber: "907"
 phone: ""
 opening_hours: ""
 website: ""

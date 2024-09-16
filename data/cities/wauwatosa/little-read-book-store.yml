@@ -1,11 +1,11 @@
 id: 138513204
-type: way
+type: node
 latitude: 43.04922
 longitude: -88.0076
 postcode: "53213"
 city: Wauwatosa
-street: "West State Street"
-housenumber: 7603
+street: West State Street
+housenumber: "7603"
 phone: ""
 opening_hours: ""
 website: ""

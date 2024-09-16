@@ -1,11 +1,11 @@
 id: 1175952892
-type: way
+type: node
 latitude: 42.91396
 longitude: -88.00774
 postcode: "53132"
 city: Franklin
-street: "South 76th Street"
-housenumber: 7150
+street: South 76th Street
+housenumber: "7150"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/wi/franklin/5820/"
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/wi/franklin/5820/

@@ -1,11 +1,11 @@
 id: 360319299
-type: way
+type: node
 latitude: 45.61578
 longitude: -89.50519
 postcode: "54501"
 city: Rhinelander
-street: "US 8"
-housenumber: 6601
+street: US 8
+housenumber: "6601"
 phone: ""
 opening_hours: ""
 website: ""

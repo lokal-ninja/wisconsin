@@ -1,11 +1,11 @@
 id: 664273964
-type: way
+type: node
 latitude: 42.90284
 longitude: -87.86285
 postcode: "53172"
 city: South Milwaukee
-street: "South Chicago Road"
-housenumber: 2931
+street: South Chicago Road
+housenumber: "2931"
 phone: ""
 opening_hours: ""
 website: ""

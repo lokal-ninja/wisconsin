@@ -1,11 +1,11 @@
 id: 861257534
-type: way
+type: node
 latitude: 43.06833
 longitude: -88.00685
 postcode: "53210"
 city: Wauwatosa
-street: "West Center Street"
-housenumber: 7532
+street: West Center Street
+housenumber: "7532"
 phone: ""
 opening_hours: ""
 website: ""

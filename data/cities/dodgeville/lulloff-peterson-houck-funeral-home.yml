@@ -1,11 +1,11 @@
 id: 379988183
-type: way
+type: node
 latitude: 42.96291
 longitude: -90.13092
 postcode: "53533"
 city: Dodgeville
-street: "Diagonal Street"
-housenumber: 126
+street: Diagonal Street
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

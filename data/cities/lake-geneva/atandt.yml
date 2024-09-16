@@ -1,11 +1,11 @@
 id: 851830071
-type: way
+type: node
 latitude: 42.59275
 longitude: -88.41374
 postcode: "53147"
 city: Lake Geneva
-street: "North Edwards Boulevard"
-housenumber: 281
+street: North Edwards Boulevard
+housenumber: "281"
 phone: ""
 opening_hours: ""
 website: ""

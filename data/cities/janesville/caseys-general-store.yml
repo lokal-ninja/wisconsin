@@ -1,11 +1,11 @@
 id: 449154414
-type: way
+type: node
 latitude: 42.65762
 longitude: -89.03227
 postcode: "53546"
 city: Janesville
-street: "Center Avenue"
-housenumber: 1542
+street: Center Avenue
+housenumber: "1542"
 phone: ""
 opening_hours: ""
 website: ""

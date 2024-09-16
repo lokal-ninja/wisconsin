@@ -1,11 +1,11 @@
 id: 88918164
-type: way
+type: node
 latitude: 43.10035
 longitude: -89.52718
 postcode: "53562"
 city: Middleton
-street: "Eagle Drive"
-housenumber: 2225
-phone: "+ 1 608 831 5944"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.smarttoyota.com/Ball-Body-Shop.html"
+street: Eagle Drive
+housenumber: "2225"
+phone: + 1 608 831 5944
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.smarttoyota.com/Ball-Body-Shop.html

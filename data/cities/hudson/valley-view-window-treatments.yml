@@ -4,8 +4,8 @@ latitude: 44.97717
 longitude: -92.75359
 postcode: "54016"
 city: Hudson
-street: "Vine Street"
-housenumber: 403
+street: Vine Street
+housenumber: "403"
 phone: ""
-opening_hours: "by appointment"
-website: "https://www.ellners.com/"
+opening_hours: '"by appointment"'
+website: https://www.ellners.com/

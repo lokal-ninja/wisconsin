@@ -1,11 +1,11 @@
 id: 513686607
-type: way
+type: node
 latitude: 42.77734
 longitude: -88.96133
 postcode: "53563"
 city: Milton
-street: "South John Paul Rd"
-housenumber: 383
+street: South John Paul Rd
+housenumber: "383"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/milton/6787"
+website: https://www.dollargeneral.com/store-directory/wi/milton/6787

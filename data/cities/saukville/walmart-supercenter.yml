@@ -1,11 +1,11 @@
 id: 632307139
-type: way
+type: node
 latitude: 43.38264
 longitude: -87.92385
 postcode: "53080"
 city: Saukville
-street: "East Green Bay Avenue"
-housenumber: 825
-phone: "+1 262-284-9616"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1650/saukville-wi/whats-new"
+street: East Green Bay Avenue
+housenumber: "825"
+phone: +1 262-284-9616
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1650/saukville-wi/whats-new

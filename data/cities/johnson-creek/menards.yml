@@ -1,11 +1,11 @@
 id: 581944149
-type: way
+type: node
 latitude: 43.0825
 longitude: -88.76017
 postcode: "53038"
 city: Johnson Creek
-street: "Wright Road"
-housenumber: 440
+street: Wright Road
+housenumber: "440"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3159"
+website: https://www.menards.com/store-details/store.html?store=3159

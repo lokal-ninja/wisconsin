@@ -1,11 +1,11 @@
 id: 378931201
-type: way
+type: node
 latitude: 42.75816
 longitude: -87.80084
 postcode: "53402"
 city: Racine
-street: "Douglas Avenue"
-housenumber: 3110
-phone: "+1 888-464-7028"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/racine/3110-douglas-avenue"
+street: Douglas Avenue
+housenumber: "3110"
+phone: +1 888-464-7028
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/racine/3110-douglas-avenue

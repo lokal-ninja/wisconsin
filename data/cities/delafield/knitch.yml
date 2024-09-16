@@ -1,11 +1,11 @@
 id: 974687144
-type: way
+type: node
 latitude: 43.06167
 longitude: -88.40376
 postcode: "53018"
 city: Delafield
-street: "Milwaukee Street"
-housenumber: 608
-phone: "262-646-9392"
+street: Milwaukee Street
+housenumber: "608"
+phone: 262-646-9392
 opening_hours: ""
-website: "https://www.knitch.net/"
+website: https://www.knitch.net/

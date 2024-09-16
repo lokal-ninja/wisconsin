@@ -1,11 +1,11 @@
 id: 366326688
-type: way
+type: node
 latitude: 42.61987
 longitude: -89.37866
 postcode: "53520"
 city: Brodhead
-street: "West Exchange Street"
-housenumber: 1003
-phone: "608-897-4030"
+street: West Exchange Street
+housenumber: "1003"
+phone: 608-897-4030
 opening_hours: ""
-website: "https://brodheadtire.com/"
+website: https://brodheadtire.com/

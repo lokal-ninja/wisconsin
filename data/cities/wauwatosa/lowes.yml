@@ -1,11 +1,11 @@
 id: 661578091
-type: way
+type: node
 latitude: 43.07642
 longitude: -88.0626
 postcode: "53222"
 city: Wauwatosa
-street: "West Burleigh Street"
-housenumber: 12000
-phone: "+1 414-257-4159"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/wi-wauwatosa/2309"
+street: West Burleigh Street
+housenumber: "12000"
+phone: +1 414-257-4159
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/wi-wauwatosa/2309

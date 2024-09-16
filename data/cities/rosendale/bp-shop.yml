@@ -1,11 +1,11 @@
 id: 44707367
-type: way
+type: node
 latitude: 43.80735
 longitude: -88.67453
 postcode: "54974"
 city: Rosendale
-street: "E Division St"
-housenumber: 102
+street: E Division St
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

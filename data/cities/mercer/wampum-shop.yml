@@ -1,11 +1,11 @@
 id: 360192958
-type: way
+type: node
 latitude: 46.16602
 longitude: -90.06341
 postcode: "54547"
 city: Mercer
-street: "Lakeview Avenue"
-housenumber: 5257
+street: Lakeview Avenue
+housenumber: "5257"
 phone: ""
 opening_hours: ""
 website: ""

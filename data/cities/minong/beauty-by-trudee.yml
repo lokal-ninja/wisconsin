@@ -1,11 +1,11 @@
 id: 217360591
-type: way
+type: node
 latitude: 46.10142
 longitude: -91.82663
 postcode: "54859"
 city: Minong
-street: "Business 53"
-housenumber: 406
-phone: "+1-715-466-4324"
-opening_hours: "Tu-Sa 09:00-17:00"
+street: Business 53
+housenumber: "406"
+phone: +1-715-466-4324
+opening_hours: Tu-Sa 09:00-17:00
 website: ""

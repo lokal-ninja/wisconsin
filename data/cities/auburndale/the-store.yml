@@ -1,11 +1,11 @@
 id: 1121943981
-type: way
+type: node
 latitude: 44.63069
 longitude: -90.02124
 postcode: "54412"
 city: Auburndale
-street: "Main Street"
-housenumber: 6018
-phone: "+1-715-652-2100"
-opening_hours: "Mo-Su 05:00-22:00"
+street: Main Street
+housenumber: "6018"
+phone: +1-715-652-2100
+opening_hours: Mo-Su 05:00-22:00
 website: ""

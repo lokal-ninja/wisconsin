@@ -1,11 +1,11 @@
 id: 459093671
-type: way
+type: node
 latitude: 44.95958
 longitude: -92.72026
 postcode: "54016"
 city: Hudson
-street: "Pearson Drive"
-housenumber: 1015
-phone: "+1 715-279-0200"
+street: Pearson Drive
+housenumber: "1015"
+phone: +1 715-279-0200
 opening_hours: ""
-website: "https://www.cbdhudsonwi.com/"
+website: https://www.cbdhudsonwi.com/

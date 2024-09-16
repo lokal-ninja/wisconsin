@@ -1,11 +1,11 @@
 id: 653290699
-type: way
+type: node
 latitude: 42.88849
 longitude: -88.03816
 postcode: "53132"
 city: Franklin
-street: "West Loomis Road"
-housenumber: 9909
+street: West Loomis Road
+housenumber: "9909"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-9909+w+loomis+rd-franklin-wi-53132/id=5459"
+website: https://www.walgreens.com/locator/walgreens-9909+w+loomis+rd-franklin-wi-53132/id=5459

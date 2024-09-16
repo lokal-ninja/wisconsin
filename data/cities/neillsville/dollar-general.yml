@@ -1,11 +1,11 @@
 id: 501064257
-type: way
+type: node
 latitude: 44.55343
 longitude: -90.59534
 postcode: "54456"
 city: Neillsville
-street: "East Division Street"
-housenumber: 111
+street: East Division Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/neillsville/16447"
+website: https://www.dollargeneral.com/store-directory/wi/neillsville/16447

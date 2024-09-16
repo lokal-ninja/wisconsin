@@ -1,11 +1,11 @@
 id: 308363430
-type: way
+type: node
 latitude: 42.74589
 longitude: -89.59423
 postcode: "53570"
 city: Monticello
-street: "East Lake Avenue"
-housenumber: 102
+street: East Lake Avenue
+housenumber: "102"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 661530071
-type: way
+type: node
 latitude: 43.07462
 longitude: -88.02517
 postcode: "53222"
 city: Milwaukee
-street: "West Burleigh Street"
-housenumber: 9015
+street: West Burleigh Street
+housenumber: "9015"
 phone: ""
 opening_hours: ""
 website: ""

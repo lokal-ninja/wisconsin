@@ -1,11 +1,11 @@
 id: 1020142918
-type: way
+type: node
 latitude: 42.97262
 longitude: -87.91011
 postcode: "53207"
 city: Milwaukee
-street: "South Howell Avenue"
-housenumber: 3955
+street: South Howell Avenue
+housenumber: "3955"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su 09:00-15:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-17:00; Su 09:00-15:00
 website: ""

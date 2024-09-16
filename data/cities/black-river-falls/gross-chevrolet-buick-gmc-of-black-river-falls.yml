@@ -1,11 +1,11 @@
 id: 848961139
-type: way
+type: node
 latitude: 44.29412
 longitude: -90.82357
 postcode: "54615"
 city: Black River Falls
-street: "Commerce"
-housenumber: 1101
+street: Commerce
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

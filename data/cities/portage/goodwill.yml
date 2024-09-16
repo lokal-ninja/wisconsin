@@ -1,11 +1,11 @@
 id: 241293230
-type: way
+type: node
 latitude: 43.56821
 longitude: -89.47345
 postcode: "53901"
 city: Portage
-street: "Village Road"
-housenumber: 2902
+street: Village Road
+housenumber: "2902"
 phone: ""
 opening_hours: ""
 website: ""

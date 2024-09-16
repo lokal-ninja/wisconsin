@@ -1,11 +1,11 @@
 id: 1026363043
-type: way
+type: node
 latitude: 45.12623
 longitude: -87.23836
 postcode: "54212"
 city: Fish Creek
-street: "Main Street"
-housenumber: 4054
-phone: "+1 920 858 2617"
-opening_hours: "Apr-Aug: 11:00+"
-website: "https://www.notlickedyet.com/"
+street: Main Street
+housenumber: "4054"
+phone: +1 920 858 2617
+opening_hours: 'Apr-Aug: 11:00+'
+website: https://www.notlickedyet.com/

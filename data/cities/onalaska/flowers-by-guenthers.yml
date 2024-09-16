@@ -1,11 +1,11 @@
 id: 691282699
-type: way
+type: node
 latitude: 43.88683
 longitude: -91.21997
 postcode: "54650"
 city: Onalaska
-street: "Sand Lake Road"
-housenumber: 310
-phone: "+1-608-783-2140"
+street: Sand Lake Road
+housenumber: "310"
+phone: +1-608-783-2140
 opening_hours: ""
-website: "https://www.flowersbyguenthers.com/"
+website: https://www.flowersbyguenthers.com/

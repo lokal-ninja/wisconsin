@@ -1,11 +1,11 @@
 id: 583679815
-type: way
+type: node
 latitude: 44.2759
 longitude: -88.32488
 postcode: ""
 city: Kimberly
-street: "East Maes Avenue"
-housenumber: 850
+street: East Maes Avenue
+housenumber: "850"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 44.48307
 longitude: -92.2619
 postcode: "54769"
 city: Stockholm
-street: "Spring Street"
-housenumber: N2030 #3
+street: Spring Street
+housenumber: 'N2030 #3'
 phone: ""
 opening_hours: ""
 website: ""

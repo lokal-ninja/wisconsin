@@ -1,11 +1,11 @@
 id: 202363217
-type: way
+type: node
 latitude: 44.93661
 longitude: -91.3957
 postcode: "54729"
 city: Chippewa Falls
-street: "West Columbia Street"
-housenumber: 111
-phone: "+1 715-861-2050"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-17:00"
+street: West Columbia Street
+housenumber: "111"
+phone: +1 715-861-2050
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-17:00
 website: ""

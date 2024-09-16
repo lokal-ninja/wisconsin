@@ -1,11 +1,11 @@
 id: 360200415
-type: way
+type: node
 latitude: 46.45502
 longitude: -90.1826
 postcode: "54534"
 city: Hurley
-street: "2nd Avenue North"
-housenumber: 210
+street: 2nd Avenue North
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

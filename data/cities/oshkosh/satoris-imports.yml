@@ -1,11 +1,11 @@
 id: 437229120
-type: way
+type: node
 latitude: 44.01825
 longitude: -88.53765
 postcode: "54901"
 city: Oshkosh
-street: "North Main Street"
-housenumber: 411
+street: North Main Street
+housenumber: "411"
 phone: ""
 opening_hours: ""
 website: ""

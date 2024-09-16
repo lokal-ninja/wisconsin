@@ -1,11 +1,11 @@
 id: 663959631
-type: way
+type: node
 latitude: 42.96633
 longitude: -87.94763
 postcode: "53221"
 city: Milwaukee
-street: "South 27th Street"
-housenumber: 4320
+street: South 27th Street
+housenumber: "4320"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/milwaukee/4320-s-27th-st"
+website: https://stores.advanceautoparts.com/wi/milwaukee/4320-s-27th-st

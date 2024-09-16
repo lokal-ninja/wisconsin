@@ -1,11 +1,11 @@
 id: 46934306
-type: way
+type: node
 latitude: 43.48874
 longitude: -88.81208
 postcode: "53916"
 city: Beaver Dam
-street: "Frances Lane"
-housenumber: 120
-phone: "+1 920-887-8900"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1012/beaver-dam-wi/whats-new"
+street: Frances Lane
+housenumber: "120"
+phone: +1 920-887-8900
+opening_hours: 24/7
+website: https://www.walmart.com/store/1012/beaver-dam-wi/whats-new

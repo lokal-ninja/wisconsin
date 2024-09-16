@@ -4,8 +4,8 @@ latitude: 42.79058
 longitude: -88.39433
 postcode: "53120"
 city: East Troy
-street: "Main Street"
-housenumber: 2606
-phone: "262-642-4869"
+street: Main Street
+housenumber: "2606"
+phone: 262-642-4869
 opening_hours: ""
-website: "https://rhodestowingeasttroy.com/"
+website: https://rhodestowingeasttroy.com/

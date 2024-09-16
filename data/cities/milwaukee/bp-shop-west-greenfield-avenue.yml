@@ -1,11 +1,11 @@
 id: 663252630
-type: way
+type: node
 latitude: 43.01655
 longitude: -87.96694
 postcode: "53215"
 city: Milwaukee
-street: "West Greenfield Avenue"
-housenumber: 4229
+street: West Greenfield Avenue
+housenumber: "4229"
 phone: ""
 opening_hours: ""
 website: ""

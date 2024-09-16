@@ -1,11 +1,11 @@
 id: 1174102333
-type: way
+type: node
 latitude: 42.90135
 longitude: -87.86476
 postcode: "53172"
 city: South Milwaukee
-street: "South Chicago Avenue"
-housenumber: 2985
+street: South Chicago Avenue
+housenumber: "2985"
 phone: ""
 opening_hours: ""
 website: ""

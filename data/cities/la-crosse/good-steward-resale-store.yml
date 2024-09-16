@@ -1,11 +1,11 @@
 id: 138756392
-type: way
+type: node
 latitude: 43.85097
 longitude: -91.24785
 postcode: ""
 city: La Crosse
-street: "Rose Street"
-housenumber: 1930
-phone: "+1 608 783 8282"
+street: Rose Street
+housenumber: "1930"
+phone: +1 608 783 8282
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1026352914
-type: way
+type: node
 latitude: 45.05122
 longitude: -87.27991
 postcode: "54209"
 city: Egg Harbor
-street: "WI-42"
-housenumber: 7836
+street: WI-42
+housenumber: "7836"
 phone: ""
 opening_hours: ""
 website: ""

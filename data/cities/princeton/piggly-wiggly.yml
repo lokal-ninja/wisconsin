@@ -1,11 +1,11 @@
 id: 449102703
-type: way
+type: node
 latitude: 43.85131
 longitude: -89.12111
 postcode: "54968"
 city: Princeton
-street: "East Main PO Box 74"
-housenumber: 101
-phone: "+1 920-295-2981"
+street: East Main PO Box 74
+housenumber: "101"
+phone: +1 920-295-2981
 opening_hours: ""
 website: ""

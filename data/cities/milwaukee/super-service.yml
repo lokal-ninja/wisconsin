@@ -1,11 +1,11 @@
 id: 920229493
-type: way
+type: node
 latitude: 43.10546
 longitude: -88.04668
 postcode: "53225"
 city: Milwaukee
-street: "West Hampton Avenue"
-housenumber: 10712
+street: West Hampton Avenue
+housenumber: "10712"
 phone: ""
 opening_hours: ""
 website: ""

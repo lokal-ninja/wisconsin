@@ -1,11 +1,11 @@
 id: 998359867
-type: way
+type: node
 latitude: 42.86562
 longitude: -89.55976
 postcode: "53508"
 city: Belleville
-street: "County Highway PB"
-housenumber: 222
+street: County Highway PB
+housenumber: "222"
 phone: ""
 opening_hours: ""
 website: ""

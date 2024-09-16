@@ -1,11 +1,11 @@
 id: 663954880
-type: way
+type: node
 latitude: 42.9605
 longitude: -87.95098
 postcode: "53221"
 city: Greenfield
-street: "South 27th Street"
-housenumber: 4601
+street: South 27th Street
+housenumber: "4601"
 phone: ""
 opening_hours: ""
 website: ""

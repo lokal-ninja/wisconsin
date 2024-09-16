@@ -1,11 +1,11 @@
 id: 241875388
-type: way
+type: node
 latitude: 43.19185
 longitude: -89.45596
 postcode: "53597"
 city: Waunakee
-street: "West Main Street"
-housenumber: 118
+street: West Main Street
+housenumber: "118"
 phone: ""
 opening_hours: ""
 website: ""

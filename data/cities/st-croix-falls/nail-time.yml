@@ -1,11 +1,11 @@
 id: 1227717207
-type: way
+type: node
 latitude: 45.39788
 longitude: -92.60622
 postcode: ""
 city: St. Croix Falls
-street: "Glacier Drive"
-housenumber: 2201
-phone: "+1-715-483-2577"
+street: Glacier Drive
+housenumber: "2201"
+phone: +1-715-483-2577
 opening_hours: ""
-website: "http://nail-time-st-croix-falls.poi.place/"
+website: http://nail-time-st-croix-falls.poi.place/

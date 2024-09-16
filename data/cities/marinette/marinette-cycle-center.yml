@@ -1,11 +1,11 @@
 id: 1296271316
-type: way
+type: node
 latitude: 45.0893
 longitude: -87.62999
 postcode: "53143"
 city: Marinette
-street: "Pierce Avenue"
-housenumber: 1555
-phone: "+1-715-735-5442"
-opening_hours: "Mo-Fr 09:30-17:00; Sa 09:30-12:00"
-website: "http://mobile.marinettecycle.com/"
+street: Pierce Avenue
+housenumber: "1555"
+phone: +1-715-735-5442
+opening_hours: Mo-Fr 09:30-17:00; Sa 09:30-12:00
+website: http://mobile.marinettecycle.com/

@@ -1,11 +1,11 @@
 id: 485743948
-type: way
+type: node
 latitude: 44.37757
 longitude: -89.79742
 postcode: "54494"
 city: Wisconsin Rapids
-street: "24th Street South"
-housenumber: 1500
-phone: "+1 715-421-1510"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/wisconsin-rapids/wi/wisconsin-rapids/54494/4942"
+street: 24th Street South
+housenumber: "1500"
+phone: +1 715-421-1510
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/wisconsin-rapids/wi/wisconsin-rapids/54494/4942

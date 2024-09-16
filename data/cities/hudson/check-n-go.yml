@@ -1,11 +1,11 @@
 id: 223984422
-type: way
+type: node
 latitude: 44.96464
 longitude: -92.73254
 postcode: "54016"
 city: Hudson
-street: "Ward Avenue"
-housenumber: 1801
+street: Ward Avenue
+housenumber: "1801"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,14:30-18:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-14:00,14:30-18:00; Sa 10:00-14:00
 website: ""

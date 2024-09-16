@@ -1,11 +1,11 @@
 id: 43360810
-type: way
+type: node
 latitude: 42.67959
 longitude: -89.03
 postcode: "53548"
 city: Janesville
-street: "West Milwaukee Street"
-housenumber: 601
+street: West Milwaukee Street
+housenumber: "601"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/wi/janesville/5882/"
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/wi/janesville/5882/

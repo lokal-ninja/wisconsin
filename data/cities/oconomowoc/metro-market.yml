@@ -1,11 +1,11 @@
 id: 834708024
-type: way
+type: node
 latitude: 43.07566
 longitude: -88.46989
 postcode: "53066"
 city: Oconomowoc
-street: "Pabst Farms Circle"
-housenumber: 1300
-phone: "+1 262-200-7425"
-opening_hours: "06:00-22:00"
-website: "https://www.metromarket.net/stores/grocery/wi/oconomowoc/metro-pabst-farms/534/00388"
+street: Pabst Farms Circle
+housenumber: "1300"
+phone: +1 262-200-7425
+opening_hours: 06:00-22:00
+website: https://www.metromarket.net/stores/grocery/wi/oconomowoc/metro-pabst-farms/534/00388

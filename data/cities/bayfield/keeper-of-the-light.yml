@@ -1,11 +1,11 @@
 id: 356858509
-type: way
+type: node
 latitude: 46.81121
 longitude: -90.81326
 postcode: "54814"
 city: Bayfield
-street: "Front Street"
-housenumber: 19
+street: Front Street
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

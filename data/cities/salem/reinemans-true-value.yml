@@ -2,10 +2,10 @@ id: 5538623260
 type: node
 latitude: 42.56872
 longitude: -88.10782
-postcode: "53168-9704"
+postcode: 53168-9704
 city: Salem
-street: "75th Street"
-housenumber: 24708
-phone: "+1 262-843-2422"
+street: 75th Street
+housenumber: "24708"
+phone: +1 262-843-2422
 opening_hours: ""
-website: "https://www.truevalue.com/reinemans"
+website: https://www.truevalue.com/reinemans

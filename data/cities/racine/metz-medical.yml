@@ -1,11 +1,11 @@
 id: 379470094
-type: way
+type: node
 latitude: 42.70958
 longitude: -87.8493
 postcode: ""
 city: Racine
-street: "South Green Bay Road"
-housenumber: 1801
+street: South Green Bay Road
+housenumber: "1801"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 252362909
-type: way
+type: node
 latitude: 45.39587
 longitude: -92.58806
 postcode: "54024"
 city: Saint Croix Falls
-street: "208th Street"
-housenumber: 1285
+street: 208th Street
+housenumber: "1285"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3220"
+website: https://www.menards.com/store-details/store.html?store=3220

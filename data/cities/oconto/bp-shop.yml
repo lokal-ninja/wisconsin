@@ -1,11 +1,11 @@
 id: 1205082572
-type: way
+type: node
 latitude: 44.89339
 longitude: -87.88406
 postcode: "54153"
 city: Oconto
-street: "Main Street"
-housenumber: 211
+street: Main Street
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

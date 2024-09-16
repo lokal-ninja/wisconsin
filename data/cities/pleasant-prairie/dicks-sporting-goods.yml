@@ -1,11 +1,11 @@
 id: 978021370
-type: way
+type: node
 latitude: 42.56419
 longitude: -87.9291
 postcode: "53158"
 city: Pleasant Prairie
-street: "76th Street"
-housenumber: 9899
-phone: "+1 262-697-5764"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/wi/kenosha/753/"
+street: 76th Street
+housenumber: "9899"
+phone: +1 262-697-5764
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/wi/kenosha/753/

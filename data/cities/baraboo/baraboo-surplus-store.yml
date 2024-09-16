@@ -1,11 +1,11 @@
 id: 321406580
-type: way
+type: node
 latitude: 43.46906
 longitude: -89.74197
 postcode: "53913"
 city: Baraboo
-street: "2nd Street"
-housenumber: 111
+street: 2nd Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1059691648
-type: way
+type: node
 latitude: 42.6039
 longitude: -89.64778
 postcode: "53566"
 city: Monroe
-street: "8th Street"
-housenumber: 917
+street: 8th Street
+housenumber: "917"
 phone: "+16083259373"
-opening_hours: "Mo-Th 09:30-14:00; Fr 09:30-12:00; Sa-Su off"
+opening_hours: Mo-Th 09:30-14:00; Fr 09:30-12:00; Sa-Su off
 website: ""

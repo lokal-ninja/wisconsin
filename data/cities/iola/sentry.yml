@@ -1,11 +1,11 @@
 id: 1091736291
-type: way
+type: node
 latitude: 44.50327
 longitude: -89.12216
 postcode: "54945"
 city: Iola
-street: "Meadow Road"
-housenumber: 
+street: Meadow Road
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.sentryfoods.com/stores/iola-sentry"
+website: https://www.sentryfoods.com/stores/iola-sentry

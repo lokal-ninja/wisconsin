@@ -1,11 +1,11 @@
 id: 846245896
-type: way
+type: node
 latitude: 45.37551
 longitude: -87.95216
 postcode: "54177"
 city: Wausaukee
-street: "Main Street"
-housenumber: 640
-phone: "+1 715 856 5136"
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:00-16:00"
-website: "https://www.salsfoodcenter.com/StoreLocator/Store/?L=52&S="
+street: Main Street
+housenumber: "640"
+phone: +1 715 856 5136
+opening_hours: Mo-Sa 08:00-19:00; Su 08:00-16:00
+website: https://www.salsfoodcenter.com/StoreLocator/Store/?L=52&S=

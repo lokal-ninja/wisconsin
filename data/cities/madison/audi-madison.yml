@@ -1,11 +1,11 @@
 id: 297190587
-type: way
+type: node
 latitude: 43.03783
 longitude: -89.38031
 postcode: "53713"
 city: Madison
-street: "Rimrock Road"
-housenumber: 2400
+street: Rimrock Road
+housenumber: "2400"
 phone: ""
 opening_hours: ""
 website: ""

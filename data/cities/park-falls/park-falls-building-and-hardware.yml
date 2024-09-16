@@ -1,11 +1,11 @@
 id: 1110364865
-type: way
+type: node
 latitude: 45.94083
 longitude: -90.45572
 postcode: ""
 city: Park Falls
-street: "4th Avenue North"
-housenumber: 645
-phone: "+1 715 762 3255"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 07:30-12:00"
+street: 4th Avenue North
+housenumber: "645"
+phone: +1 715 762 3255
+opening_hours: Mo-Fr 07:30-17:00; Sa 07:30-12:00
 website: ""

@@ -1,11 +1,12 @@
 id: 1026594191
-type: way
+type: node
 latitude: 45.06416
 longitude: -87.0936
 postcode: "54202"
 city: Baileys Harbor
-street: "Ridges Road"
-housenumber: 8099
-phone: "+1-920-839-2136"
-opening_hours: "Su closed; May: Mo-Sa 12:00-17:00; Jun-Sep: Mo-Sa 08:00-17:00; Oct: Mo-Sa 12:00-17:00; Nov-Apr: closed online orders only"
-website: "https://www.baileysharborfishcompany.com/"
+street: Ridges Road
+housenumber: "8099"
+phone: +1-920-839-2136
+opening_hours: 'Su closed; May: Mo-Sa 12:00-17:00; Jun-Sep: Mo-Sa 08:00-17:00; Oct:
+    Mo-Sa 12:00-17:00; Nov-Apr: closed "online orders only"'
+website: https://www.baileysharborfishcompany.com/

@@ -1,11 +1,11 @@
 id: 220672600
-type: way
+type: node
 latitude: 42.56639
 longitude: -87.88612
 postcode: "53142"
 city: Kenosha
-street: "75th Street"
-housenumber: 6403
-phone: "+1 262 694 9777"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://dickowcyzak.com/"
+street: 75th Street
+housenumber: "6403"
+phone: +1 262 694 9777
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://dickowcyzak.com/

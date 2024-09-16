@@ -1,11 +1,11 @@
 id: 103204578
-type: way
+type: node
 latitude: 44.01614
 longitude: -90.50631
 postcode: "54660"
 city: Tomah
-street: "North Superior"
-housenumber: 1844
-phone: "+1 844-464-1052"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/tomah/1844-north-superior"
+street: North Superior
+housenumber: "1844"
+phone: +1 844-464-1052
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/tomah/1844-north-superior

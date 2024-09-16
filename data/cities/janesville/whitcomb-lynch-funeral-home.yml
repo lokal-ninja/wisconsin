@@ -1,11 +1,11 @@
 id: 380880883
-type: way
+type: node
 latitude: 42.67839
 longitude: -89.07046
 postcode: "53548"
 city: Janesville
-street: "Austin Road"
-housenumber: 21
+street: Austin Road
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

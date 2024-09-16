@@ -1,11 +1,11 @@
 id: 694839907
-type: way
+type: node
 latitude: 44.26289
 longitude: -88.47909
 postcode: "54914"
 city: Appleton
-street: "Grande Market Drive"
-housenumber: 4705
+street: Grande Market Drive
+housenumber: "4705"
 phone: ""
 opening_hours: ""
 website: ""

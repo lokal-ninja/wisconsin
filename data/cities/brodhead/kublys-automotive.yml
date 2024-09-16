@@ -1,11 +1,11 @@
 id: 402799798
-type: way
+type: node
 latitude: 42.6122
 longitude: -89.40559
 postcode: "53520"
 city: Brodhead
-street: "Ten Eyck Road"
-housenumber: 
+street: Ten Eyck Road
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 360200279
-type: way
+type: node
 latitude: 46.45027
 longitude: -90.18235
 postcode: "54534"
 city: Hurley
-street: "Silver Street"
-housenumber: 200
+street: Silver Street
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

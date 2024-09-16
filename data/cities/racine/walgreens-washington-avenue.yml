@@ -1,11 +1,11 @@
 id: 398445018
-type: way
+type: node
 latitude: 42.71922
 longitude: -87.83793
 postcode: ""
 city: Racine
-street: "Washington Avenue"
-housenumber: 4810
+street: Washington Avenue
+housenumber: "4810"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-4810+washington+ave-racine-wi-53406/id=2927"
+website: https://www.walgreens.com/locator/walgreens-4810+washington+ave-racine-wi-53406/id=2927

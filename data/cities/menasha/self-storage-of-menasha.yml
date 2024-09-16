@@ -1,11 +1,11 @@
 id: 569784674
-type: way
+type: node
 latitude: 44.2368
 longitude: -88.42504
 postcode: ""
 city: Menasha
-street: "Valley Road"
-housenumber: 1169
+street: Valley Road
+housenumber: "1169"
 phone: ""
 opening_hours: ""
 website: ""

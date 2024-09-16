@@ -1,11 +1,11 @@
 id: 614556445
-type: way
+type: node
 latitude: 46.67308
 longitude: -90.89106
 postcode: "54891"
 city: Washburn
-street: "East Bayfield Street"
-housenumber: 2
+street: East Bayfield Street
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1296269098
-type: way
+type: node
 latitude: 45.08541
 longitude: -87.59726
 postcode: "54143"
 city: Marinette
-street: "West Bay Shore Street"
-housenumber: 56
-phone: "+1-715-735-9304"
-opening_hours: "Mo-Fr 06:30-16:00"
-website: "https://www.graybar.com/store/mawi/wi/marinette"
+street: West Bay Shore Street
+housenumber: "56"
+phone: +1-715-735-9304
+opening_hours: Mo-Fr 06:30-16:00
+website: https://www.graybar.com/store/mawi/wi/marinette

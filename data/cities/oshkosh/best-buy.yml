@@ -1,11 +1,11 @@
 id: 550540912
-type: way
+type: node
 latitude: 44.00418
 longitude: -88.58028
 postcode: "54902"
 city: Oshkosh
-street: "South Koeller Street"
-housenumber: 1550
-phone: "+1 920-424-8079"
+street: South Koeller Street
+housenumber: "1550"
+phone: +1 920-424-8079
 opening_hours: ""
-website: "https://stores.bestbuy.com/wi/oshkosh/1550-s-koeller-st-1890.html"
+website: https://stores.bestbuy.com/wi/oshkosh/1550-s-koeller-st-1890.html

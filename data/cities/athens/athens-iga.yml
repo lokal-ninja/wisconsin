@@ -1,11 +1,11 @@
 id: 653827253
-type: way
+type: node
 latitude: 45.03523
 longitude: -90.07475
 postcode: "54411"
 city: Athens
-street: "Alfred Street"
-housenumber: 101
-phone: "+1 707-942-6271"
+street: Alfred Street
+housenumber: "101"
+phone: +1 707-942-6271
 opening_hours: ""
 website: ""

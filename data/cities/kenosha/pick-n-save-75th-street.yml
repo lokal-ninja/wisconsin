@@ -1,11 +1,11 @@
 id: 220672594
-type: way
+type: node
 latitude: 42.56876
 longitude: -87.87652
 postcode: "53142"
 city: Kenosha
-street: "75th Street"
-housenumber: 5710
+street: 75th Street
+housenumber: "5710"
 phone: ""
 opening_hours: ""
-website: "https://www.picknsave.com/"
+website: https://www.picknsave.com/

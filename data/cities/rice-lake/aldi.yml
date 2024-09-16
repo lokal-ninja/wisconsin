@@ -1,11 +1,11 @@
 id: 120236787
-type: way
+type: node
 latitude: 45.47775
 longitude: -91.73646
 postcode: "54868"
 city: Rice Lake
-street: "South Main Street"
-housenumber: 2200
-phone: "+1 833-472-7045"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/wi/rice-lake/2200-south-main"
+street: South Main Street
+housenumber: "2200"
+phone: +1 833-472-7045
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/wi/rice-lake/2200-south-main

@@ -1,11 +1,11 @@
 id: 753043576
-type: way
+type: node
 latitude: 43.84052
 longitude: -91.24667
 postcode: "54603"
 city: La Crosse
-street: "Caledonia Street"
-housenumber: 1200
+street: Caledonia Street
+housenumber: "1200"
 phone: ""
 opening_hours: ""
-website: "http://wrenchnrollcollective.com/"
+website: http://wrenchnrollcollective.com/

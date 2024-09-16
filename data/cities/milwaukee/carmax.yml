@@ -1,11 +1,11 @@
 id: 659574529
-type: way
+type: node
 latitude: 43.14369
 longitude: -88.05049
-postcode: "53224-4344"
+postcode: 53224-4344
 city: Milwaukee
-street: "West Metro Auto Mall"
-housenumber: 11011
+street: West Metro Auto Mall
+housenumber: "11011"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00"
-website: "https://www.carmax.com/stores/7179"
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00
+website: https://www.carmax.com/stores/7179

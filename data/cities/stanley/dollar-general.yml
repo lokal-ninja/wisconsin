@@ -1,11 +1,11 @@
 id: 1216108026
-type: way
+type: node
 latitude: 44.95383
 longitude: -90.93875
 postcode: "54768"
 city: Stanley
-street: "South Broadway Street"
-housenumber: 450
+street: South Broadway Street
+housenumber: "450"
 phone: "+17154435201"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.dollargeneral.com/store-directory/wi/stanley/22497"
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.dollargeneral.com/store-directory/wi/stanley/22497

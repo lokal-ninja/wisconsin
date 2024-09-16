@@ -1,11 +1,11 @@
 id: 701427776
-type: way
+type: node
 latitude: 43.11085
 longitude: -89.64207
 postcode: "53528"
 city: Cross Plains
-street: "Main Street"
-housenumber: 2563
+street: Main Street
+housenumber: "2563"
 phone: ""
 opening_hours: ""
 website: ""

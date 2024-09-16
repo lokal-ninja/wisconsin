@@ -1,11 +1,11 @@
 id: 664274001
-type: way
+type: node
 latitude: 42.90222
 longitude: -87.86503
 postcode: "53172"
 city: South Milwaukee
-street: "South Chicago Avenue"
-housenumber: 2929
+street: South Chicago Avenue
+housenumber: "2929"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/south-milwaukee/2929-s-chicago-ave"
+website: https://stores.advanceautoparts.com/wi/south-milwaukee/2929-s-chicago-ave

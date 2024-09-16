@@ -1,11 +1,11 @@
 id: 423267377
-type: way
+type: node
 latitude: 43.74215
 longitude: -90.7806
 postcode: "54619"
 city: Cashton
-street: "Front Street"
-housenumber: 633
+street: Front Street
+housenumber: "633"
 phone: ""
 opening_hours: ""
 website: ""

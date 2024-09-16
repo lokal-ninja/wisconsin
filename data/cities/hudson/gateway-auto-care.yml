@@ -1,11 +1,11 @@
 id: 161619471
-type: way
+type: node
 latitude: 44.95716
 longitude: -92.72502
 postcode: "54016"
 city: Hudson
-street: "Gateway Circle"
-housenumber: 1300
-phone: "+1 715-386-8885"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "https://gatewayautocare.com/"
+street: Gateway Circle
+housenumber: "1300"
+phone: +1 715-386-8885
+opening_hours: Mo-Fr 07:30-17:30
+website: https://gatewayautocare.com/

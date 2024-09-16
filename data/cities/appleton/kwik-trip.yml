@@ -1,11 +1,11 @@
 id: 550539861
-type: way
+type: node
 latitude: 44.30266
 longitude: -88.41624
 postcode: "54913"
 city: Appleton
-street: "West Evergreen Drive"
-housenumber: 710
+street: West Evergreen Drive
+housenumber: "710"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=205"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=205

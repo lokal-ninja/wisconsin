@@ -1,11 +1,11 @@
 id: 659379227
-type: way
+type: node
 latitude: 43.15205
 longitude: -88.00574
 postcode: "53223"
 city: Milwaukee
-street: "North 76th Street"
-housenumber: 7377
+street: North 76th Street
+housenumber: "7377"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/milwaukee/7377-n-76th-st.html"
+website: https://www.autozone.com/locations/wi/milwaukee/7377-n-76th-st.html

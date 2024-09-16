@@ -1,11 +1,11 @@
 id: 1270290663
-type: way
+type: node
 latitude: 44.92147
 longitude: -91.33022
 postcode: "54729"
 city: Chippewa Falls
-street: "169th Street"
-housenumber: 5474
+street: 169th Street
+housenumber: "5474"
 phone: "+17152556192"
-opening_hours: "Mo-Fr 08:00-20:00"
-website: "https://www.dollargeneral.com/store-directory/wi/lake-wissota/14053"
+opening_hours: Mo-Fr 08:00-20:00
+website: https://www.dollargeneral.com/store-directory/wi/lake-wissota/14053

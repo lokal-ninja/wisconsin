@@ -1,11 +1,11 @@
 id: 75226082
-type: way
+type: node
 latitude: 44.59473
 longitude: -87.4441
 postcode: "54201"
 city: Algoma
-street: "Lake Street"
-housenumber: 2025
+street: Lake Street
+housenumber: "2025"
 phone: ""
 opening_hours: ""
 website: ""

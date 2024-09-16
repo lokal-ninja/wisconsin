@@ -1,11 +1,11 @@
 id: 1152756760
-type: way
+type: node
 latitude: 43.12195
 longitude: -87.91516
 postcode: ""
 city: Glendale
-street: "West Glen Bay Avenue"
-housenumber: 5755
+street: West Glen Bay Avenue
+housenumber: "5755"
 phone: ""
 opening_hours: ""
 website: ""

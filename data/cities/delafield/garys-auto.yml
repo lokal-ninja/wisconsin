@@ -1,11 +1,11 @@
 id: 974526240
-type: way
+type: node
 latitude: 43.06125
 longitude: -88.40204
 postcode: "53018"
 city: Delafield
-street: "Main Street"
-housenumber: 703
-phone: "262-646-8507"
-opening_hours: "Mo-Fr 07:30-18:00"
-website: "https://garysautorepair.com/"
+street: Main Street
+housenumber: "703"
+phone: 262-646-8507
+opening_hours: Mo-Fr 07:30-18:00
+website: https://garysautorepair.com/

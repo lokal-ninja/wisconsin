@@ -1,11 +1,11 @@
 id: 765238975
-type: way
+type: node
 latitude: 43.79339
 longitude: -88.4396
 postcode: ""
 city: Fond du lac
-street: "North Park Avenue"
-housenumber: 524
+street: North Park Avenue
+housenumber: "524"
 phone: ""
 opening_hours: ""
 website: ""

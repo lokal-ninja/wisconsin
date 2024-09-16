@@ -1,11 +1,11 @@
 id: 696471436
-type: way
+type: node
 latitude: 44.8924
 longitude: -87.88437
 postcode: "54153"
 city: Oconto
-street: "Main Street"
-housenumber: 102
+street: Main Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=233"
+website: https://www.kwiktrip.com/locator/store?id=233

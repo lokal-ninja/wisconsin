@@ -1,11 +1,11 @@
 id: 954721355
-type: way
+type: node
 latitude: 45.37716
 longitude: -86.91969
 postcode: "54246"
 city: Washington Island
-street: "Airport Road"
-housenumber: 1350
-phone: "1-920-716-0433"
+street: Airport Road
+housenumber: "1350"
+phone: 1-920-716-0433
 opening_hours: ""
 website: ""

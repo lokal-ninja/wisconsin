@@ -1,11 +1,11 @@
 id: 784890731
-type: way
+type: node
 latitude: 43.17386
 longitude: -89.26302
 postcode: "53590"
 city: Sun Prairie
-street: "South Grand Avenue"
-housenumber: 355
+street: South Grand Avenue
+housenumber: "355"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3346"
+website: https://www.menards.com/store-details/store.html?store=3346

@@ -1,11 +1,11 @@
 id: 486408418
-type: way
+type: node
 latitude: 45.40137
 longitude: -92.65103
 postcode: "55084"
 city: Taylors Falls
-street: "South Street"
-housenumber: 155
+street: South Street
+housenumber: "155"
 phone: ""
 opening_hours: ""
 website: ""

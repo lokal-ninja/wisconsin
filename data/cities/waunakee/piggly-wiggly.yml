@@ -1,11 +1,11 @@
 id: 241952315
-type: way
+type: node
 latitude: 43.19312
 longitude: -89.46573
 postcode: "53597"
 city: Waunakee
-street: "North Holiday Drive"
-housenumber: 206
-phone: "+1 608-849-6543"
+street: North Holiday Drive
+housenumber: "206"
+phone: +1 608-849-6543
 opening_hours: ""
 website: ""

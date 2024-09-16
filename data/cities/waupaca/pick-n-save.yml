@@ -1,11 +1,11 @@
 id: 126602575
-type: way
+type: node
 latitude: 44.35564
 longitude: -89.10753
 postcode: "54981"
 city: Waupaca
-street: "West Fulton Street"
-housenumber: 955
+street: West Fulton Street
+housenumber: "955"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 604320889
-type: way
+type: node
 latitude: 44.1545
 longitude: -87.95519
 postcode: "54230"
 city: Reedsville
-street: "Menasha Street"
-housenumber: 422
+street: Menasha Street
+housenumber: "422"
 phone: ""
 opening_hours: ""
 website: ""

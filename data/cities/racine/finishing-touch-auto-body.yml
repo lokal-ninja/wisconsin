@@ -1,11 +1,11 @@
 id: 699020330
-type: way
+type: node
 latitude: 42.78941
 longitude: -87.81397
 postcode: ""
 city: Racine
-street: "Douglas Avenue"
-housenumber: 5306
+street: Douglas Avenue
+housenumber: "5306"
 phone: ""
 opening_hours: ""
 website: ""

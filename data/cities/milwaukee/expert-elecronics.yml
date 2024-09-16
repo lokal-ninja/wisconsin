@@ -1,11 +1,11 @@
 id: 181690354
-type: way
+type: node
 latitude: 43.05978
 longitude: -87.8986
 postcode: "53212"
 city: Milwaukee
-street: "North Humboldt Avenue"
-housenumber: 2231
+street: North Humboldt Avenue
+housenumber: "2231"
 phone: ""
-opening_hours: "Mo 10:00-17:00; Tu-Sa 09:00-18:00"
+opening_hours: Mo 10:00-17:00; Tu-Sa 09:00-18:00
 website: ""

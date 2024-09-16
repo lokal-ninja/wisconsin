@@ -1,11 +1,11 @@
 id: 1051420105
-type: way
+type: node
 latitude: 44.68993
 longitude: -87.47422
 postcode: "54213"
 city: Forestville
-street: "East Main Street"
-housenumber: 229
-phone: "+1-800-544-1003"
+street: East Main Street
+housenumber: "229"
+phone: +1-800-544-1003
 opening_hours: ""
-website: "https://www.countryovens.com/"
+website: https://www.countryovens.com/

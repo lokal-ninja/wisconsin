@@ -4,8 +4,8 @@ latitude: 43.08576
 longitude: -89.36104
 postcode: "53703"
 city: Madison
-street: "Williamson Street"
-housenumber: 1398
-phone: "+1 608-257-1630"
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.acehardware.com/store-details/03166"
+street: Williamson Street
+housenumber: "1398"
+phone: +1 608-257-1630
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.acehardware.com/store-details/03166

@@ -1,11 +1,11 @@
 id: 290284114
-type: way
+type: node
 latitude: 43.53218
 longitude: -90.00629
 postcode: "53959"
 city: Reedsburg
-street: "East Main Street"
-housenumber: 306
+street: East Main Street
+housenumber: "306"
 phone: ""
 opening_hours: ""
 website: ""

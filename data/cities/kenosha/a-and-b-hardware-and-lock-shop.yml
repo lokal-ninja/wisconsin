@@ -1,11 +1,11 @@
 id: 225499351
-type: way
+type: node
 latitude: 42.57725
 longitude: -87.83593
 postcode: "53143"
 city: Kenosha
-street: "22nd Avenue"
-housenumber: 6306
+street: 22nd Avenue
+housenumber: "6306"
 phone: ""
 opening_hours: ""
-website: "http://www.ablockshop.com/"
+website: http://www.ablockshop.com/

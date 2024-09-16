@@ -4,8 +4,8 @@ latitude: 45.48846
 longitude: -91.73302
 postcode: "54868"
 city: Rice Lake
-street: "South Main Street"
-housenumber: 1131
-phone: "(715) 234-4040"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://ticetech.com/"
+street: South Main Street
+housenumber: "1131"
+phone: (715) 234-4040
+opening_hours: Mo-Fr 09:00-17:00
+website: https://ticetech.com/

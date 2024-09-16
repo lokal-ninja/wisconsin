@@ -1,11 +1,11 @@
 id: 1136271998
-type: way
+type: node
 latitude: 42.94604
 longitude: -88.01014
 postcode: ""
 city: Greenfield
-street: "South 76th Street"
-housenumber: 5465
+street: South 76th Street
+housenumber: "5465"
 phone: ""
 opening_hours: ""
 website: ""

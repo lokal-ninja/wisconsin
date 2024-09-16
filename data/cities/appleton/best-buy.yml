@@ -1,11 +1,11 @@
 id: 142996945
-type: way
+type: node
 latitude: 44.27491
 longitude: -88.47112
 postcode: "54913"
 city: Appleton
-street: "West Wisconsin Avenue"
-housenumber: 4240
-phone: "+1 920-739-8319"
+street: West Wisconsin Avenue
+housenumber: "4240"
+phone: +1 920-739-8319
 opening_hours: ""
-website: "https://stores.bestbuy.com/wi/appleton/4240-w-wisconsin-ave-27.html"
+website: https://stores.bestbuy.com/wi/appleton/4240-w-wisconsin-ave-27.html

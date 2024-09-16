@@ -1,11 +1,11 @@
 id: 88918269
-type: way
+type: node
 latitude: 43.1005
 longitude: -89.527
 postcode: "53562"
 city: Middleton
-street: "Eagle Drive"
-housenumber: 2229
-phone: "+1 608 831 5933"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.bennettsautorepair.com/"
+street: Eagle Drive
+housenumber: "2229"
+phone: +1 608 831 5933
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.bennettsautorepair.com/

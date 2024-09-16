@@ -1,11 +1,11 @@
 id: 105818337
-type: way
+type: node
 latitude: 43.08291
 longitude: -89.32417
 postcode: "53716"
 city: Madison
-street: "Monona Drive"
-housenumber: 3920
-phone: "+1-608-283-9860;6082839860"
+street: Monona Drive
+housenumber: "3920"
+phone: +1-608-283-9860;6082839860
 opening_hours: ""
 website: ""

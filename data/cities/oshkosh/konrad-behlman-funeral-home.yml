@@ -1,11 +1,11 @@
 id: 547964316
-type: way
+type: node
 latitude: 44.01895
 longitude: -88.59089
 postcode: "54904"
 city: Oshkosh
-street: "Lake Pointe Drive"
-housenumber: 100
+street: Lake Pointe Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.konrad-behlman.com/"
+website: https://www.konrad-behlman.com/

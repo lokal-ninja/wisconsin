@@ -1,11 +1,11 @@
 id: 838889519
-type: way
+type: node
 latitude: 42.52638
 longitude: -89.18842
 postcode: "53511"
 city: Beloit
 street: ""
-housenumber: 9550
-phone: "+1-608-362-1750"
-opening_hours: "Mo-Sa 08:30-17:30"
-website: "https://kauffmansstore.com/"
+housenumber: "9550"
+phone: +1-608-362-1750
+opening_hours: Mo-Sa 08:30-17:30
+website: https://kauffmansstore.com/

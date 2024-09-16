@@ -1,11 +1,11 @@
 id: 178029486
-type: way
+type: node
 latitude: 42.59592
 longitude: -87.88027
 postcode: "53144"
 city: Kenosha
-street: "Green Bay Road"
-housenumber: 4513
+street: Green Bay Road
+housenumber: "4513"
 phone: ""
 opening_hours: ""
-website: "https://www.anastosmotors.com/"
+website: https://www.anastosmotors.com/

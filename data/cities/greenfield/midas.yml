@@ -1,11 +1,11 @@
 id: 663943387
-type: way
+type: node
 latitude: 42.95987
 longitude: -88.00764
 postcode: "53220"
 city: Greenfield
-street: "South 76th Street"
-housenumber: 4654
-phone: "+1-414-914-2802"
-opening_hours: "Mo-Sa 07:30-17:00; Su off"
-website: "https://www.midas.com/store/wi/greenfield/4654-s-76th-street-53220?shopnum=2153"
+street: South 76th Street
+housenumber: "4654"
+phone: +1-414-914-2802
+opening_hours: Mo-Sa 07:30-17:00; Su off
+website: https://www.midas.com/store/wi/greenfield/4654-s-76th-street-53220?shopnum=2153

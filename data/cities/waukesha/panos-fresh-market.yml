@@ -1,11 +1,11 @@
 id: 997049721
-type: way
+type: node
 latitude: 42.98861
 longitude: -88.23563
 postcode: "53189"
 city: Waukesha
-street: "West Sunset Drive"
-housenumber: 426
+street: West Sunset Drive
+housenumber: "426"
 phone: ""
 opening_hours: ""
-website: "https://panosfreshmarket.com"
+website: https://panosfreshmarket.com

@@ -1,11 +1,11 @@
 id: 455318742
-type: way
+type: node
 latitude: 44.91929
 longitude: -89.65375
 postcode: "54401"
 city: Wausau
-street: "Rib Mountain Drive"
-housenumber: 4300
-phone: "+1 715-359-2282"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2127/wausau-wi/whats-new"
+street: Rib Mountain Drive
+housenumber: "4300"
+phone: +1 715-359-2282
+opening_hours: 24/7
+website: https://www.walmart.com/store/2127/wausau-wi/whats-new

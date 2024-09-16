@@ -1,11 +1,11 @@
 id: 94031315
-type: way
+type: node
 latitude: 44.95957
 longitude: -92.72647
 postcode: "54016"
 city: Hudson
-street: "Crest View Drive"
-housenumber: 2222
-phone: "+1 715-386-1101"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1365/hudson-wi/whats-new"
+street: Crest View Drive
+housenumber: "2222"
+phone: +1 715-386-1101
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1365/hudson-wi/whats-new

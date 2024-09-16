@@ -1,11 +1,11 @@
 id: 663537201
-type: way
+type: node
 latitude: 42.99857
 longitude: -87.89018
 postcode: "53207"
 city: Milwaukee
-street: "East Russell Avenue"
-housenumber: 1441
-phone: "+1-414-747-9012"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://groppis.com/"
+street: East Russell Avenue
+housenumber: "1441"
+phone: +1-414-747-9012
+opening_hours: Mo-Su 07:00-20:00
+website: https://groppis.com/

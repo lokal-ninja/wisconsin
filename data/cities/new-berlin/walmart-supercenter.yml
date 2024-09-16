@@ -1,11 +1,11 @@
 id: 632676776
-type: way
+type: node
 latitude: 43.01497
 longitude: -88.10469
 postcode: "53151"
 city: New Berlin
-street: "West Greenfield Avenue"
-housenumber: 15205
-phone: "+1 262-796-1620"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5438/new-berlin-wi/whats-new"
+street: West Greenfield Avenue
+housenumber: "15205"
+phone: +1 262-796-1620
+opening_hours: 24/7
+website: https://www.walmart.com/store/5438/new-berlin-wi/whats-new

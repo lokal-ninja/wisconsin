@@ -1,11 +1,11 @@
 id: 560547657
-type: way
+type: node
 latitude: 44.26315
 longitude: -88.44548
 postcode: "54914"
 city: Appleton
-street: "West College Avenue"
-housenumber: 2450
-phone: "+1-920-730-4477"
-opening_hours: "Mo-Fr 09:00-19:30; Sa 09:00-17:00; Su 11:00-17:00"
-website: "https://www.vanvreedes.com/"
+street: West College Avenue
+housenumber: "2450"
+phone: +1-920-730-4477
+opening_hours: Mo-Fr 09:00-19:30; Sa 09:00-17:00; Su 11:00-17:00
+website: https://www.vanvreedes.com/

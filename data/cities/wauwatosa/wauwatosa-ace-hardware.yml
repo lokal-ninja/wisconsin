@@ -2,10 +2,10 @@ id: 475440665
 type: node
 latitude: 43.05088
 longitude: -87.99716
-postcode: "53213-2805"
+postcode: 53213-2805
 city: Wauwatosa
-street: "North 68th Street"
-housenumber: 1525
-phone: "+1 414-476-0833"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-16:00"
+street: North 68th Street
+housenumber: "1525"
+phone: +1 414-476-0833
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su 09:00-16:00
 website: ""

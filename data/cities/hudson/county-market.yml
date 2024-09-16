@@ -1,11 +1,11 @@
 id: 159947109
-type: way
+type: node
 latitude: 44.96067
 longitude: -92.72596
 postcode: "54016"
 city: Hudson
-street: "Crest View Drive"
-housenumber: 2310
+street: Crest View Drive
+housenumber: "2310"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.countymarkethudson.com/"
+opening_hours: 24/7
+website: https://www.countymarkethudson.com/

@@ -1,11 +1,11 @@
 id: 1136337959
-type: way
+type: node
 latitude: 42.95427
 longitude: -88.00695
 postcode: "53220"
 city: Greenfield
-street: "West Holmes Avenue"
-housenumber: 7438
+street: West Holmes Avenue
+housenumber: "7438"
 phone: ""
 opening_hours: ""
 website: ""

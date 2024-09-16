@@ -1,11 +1,11 @@
 id: 662417055
-type: way
+type: node
 latitude: 43.04916
 longitude: -88.00451
 postcode: "53213"
 city: Wauwatosa
-street: "West State Street"
-housenumber: 7346
-phone: "+1 414 272 3707"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-16:00"
-website: "https://www.phasetwoskateboarding.com/"
+street: West State Street
+housenumber: "7346"
+phone: +1 414 272 3707
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su 11:00-16:00
+website: https://www.phasetwoskateboarding.com/

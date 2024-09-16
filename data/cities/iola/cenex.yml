@@ -1,11 +1,11 @@
 id: 1091509146
-type: way
+type: node
 latitude: 44.50998
 longitude: -89.1316
 postcode: "54945"
 city: Iola
-street: "North Main Street"
-housenumber: 305
+street: North Main Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
 website: ""

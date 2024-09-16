@@ -1,11 +1,11 @@
 id: 362511857
-type: way
+type: node
 latitude: 42.63405
 longitude: -88.05209
 postcode: "53182"
 city: Union Grove
-street: "200th Avenue"
-housenumber: 1440
+street: 200th Avenue
+housenumber: "1440"
 phone: ""
 opening_hours: ""
 website: ""

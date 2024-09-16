@@ -1,11 +1,11 @@
 id: 550540907
-type: way
+type: node
 latitude: 44.00271
 longitude: -88.57959
 postcode: "54902"
 city: Oshkosh
-street: "South Koeller Street"
-housenumber: 1620
-phone: "+1 920-426-8849"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/1620-south-koeller-st-oshkosh-54902?number=356"
+street: South Koeller Street
+housenumber: "1620"
+phone: +1 920-426-8849
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/1620-south-koeller-st-oshkosh-54902?number=356

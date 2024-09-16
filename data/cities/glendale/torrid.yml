@@ -1,11 +1,11 @@
 id: 1152756709
-type: way
+type: node
 latitude: 43.12037
 longitude: -87.91418
 postcode: ""
 city: Glendale
-street: "North Bayshore Drive"
-housenumber: 5676
+street: North Bayshore Drive
+housenumber: "5676"
 phone: ""
 opening_hours: ""
 website: ""

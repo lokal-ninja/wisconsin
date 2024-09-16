@@ -1,11 +1,11 @@
 id: 164435035
-type: way
+type: node
 latitude: 45.09871
 longitude: -87.63865
 postcode: "54143"
 city: Marinette
-street: "Hall Avenue"
-housenumber: 2301
-phone: "+1-715-732-4102"
+street: Hall Avenue
+housenumber: "2301"
+phone: +1-715-732-4102
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2301+hall+ave-marinette-wi-54143/id=7634"
+website: https://www.walgreens.com/locator/walgreens-2301+hall+ave-marinette-wi-54143/id=7634

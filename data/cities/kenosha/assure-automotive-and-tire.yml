@@ -4,8 +4,8 @@ latitude: 42.58827
 longitude: -87.83548
 postcode: "53140"
 city: Kenosha
-street: "52nd Street"
-housenumber: 2120
-phone: "+1-262-764-0077"
-opening_hours: "Mo-Sa 09:00-17:00"
+street: 52nd Street
+housenumber: "2120"
+phone: +1-262-764-0077
+opening_hours: Mo-Sa 09:00-17:00
 website: ""

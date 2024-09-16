@@ -1,11 +1,11 @@
 id: 700861390
-type: way
+type: node
 latitude: 44.9395
 longitude: -91.39564
 postcode: "54729"
 city: CHIPPEWA FALLS
-street: "North Bridge Street"
-housenumber: 603
+street: North Bridge Street
+housenumber: "603"
 phone: ""
 opening_hours: ""
 website: ""

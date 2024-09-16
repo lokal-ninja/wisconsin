@@ -1,11 +1,11 @@
 id: 374030919
-type: way
+type: node
 latitude: 42.70018
 longitude: -87.85041
 postcode: ""
 city: Racine
-street: "Durand Avenue"
-housenumber: 5538
+street: Durand Avenue
+housenumber: "5538"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00"
+opening_hours: Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-18:00
 website: ""

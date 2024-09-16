@@ -1,11 +1,11 @@
 id: 334654683
-type: way
+type: node
 latitude: 42.7047
 longitude: -88.2413
 postcode: "53105"
 city: Burlington
-street: "Milwaukee Avenue"
-housenumber: 2100
+street: Milwaukee Avenue
+housenumber: "2100"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3212"
+website: https://www.menards.com/store-details/store.html?store=3212

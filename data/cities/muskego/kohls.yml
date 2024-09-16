@@ -1,11 +1,11 @@
 id: 127713019
-type: way
+type: node
 latitude: 42.92202
 longitude: -88.10681
 postcode: "53150"
 city: Muskego
-street: "Janesville Road"
+street: Janesville Road
 housenumber: S68W15388
-phone: "+1 414-422-1413"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/wi/muskego-485.shtml"
+phone: +1 414-422-1413
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/wi/muskego-485.shtml

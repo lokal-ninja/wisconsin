@@ -1,11 +1,11 @@
 id: 664657994
-type: way
+type: node
 latitude: 42.87326
 longitude: -87.95505
 postcode: "53132"
 city: Franklin
-street: "West Ryan Road"
-housenumber: 3012
-phone: "+1-414-761-0500"
+street: West Ryan Road
+housenumber: "3012"
+phone: +1-414-761-0500
 opening_hours: ""
 website: ""

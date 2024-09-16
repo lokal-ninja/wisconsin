@@ -1,11 +1,11 @@
 id: 463472367
-type: way
+type: node
 latitude: 42.86103
 longitude: -90.18763
 postcode: "53565"
 city: Mineral Point
-street: "Ridge Street"
-housenumber: 310
+street: Ridge Street
+housenumber: "310"
 phone: ""
 opening_hours: ""
 website: ""

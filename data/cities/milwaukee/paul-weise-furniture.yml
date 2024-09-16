@@ -1,11 +1,11 @@
 id: 426873539
-type: way
+type: node
 latitude: 43.05031
 longitude: -87.8947
 postcode: "53202"
 city: Milwaukee
-street: "North Farwell Avenue"
-housenumber: 1534
+street: North Farwell Avenue
+housenumber: "1534"
 phone: ""
 opening_hours: ""
 website: ""

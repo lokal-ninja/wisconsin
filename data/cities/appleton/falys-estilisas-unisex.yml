@@ -1,11 +1,11 @@
 id: 574539374
-type: way
+type: node
 latitude: 44.24348
 longitude: -88.40385
 postcode: ""
 city: Appleton
-street: "South Oneida Street"
-housenumber: 2018
+street: South Oneida Street
+housenumber: "2018"
 phone: ""
 opening_hours: ""
 website: ""

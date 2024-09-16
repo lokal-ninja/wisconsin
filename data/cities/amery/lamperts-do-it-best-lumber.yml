@@ -1,11 +1,11 @@
 id: 489854559
-type: way
+type: node
 latitude: 45.31055
 longitude: -92.36177
 postcode: "54001"
 city: Amery
-street: "Keller Avenue South"
-housenumber: 201
+street: Keller Avenue South
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

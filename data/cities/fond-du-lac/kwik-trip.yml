@@ -1,11 +1,11 @@
 id: 389811712
-type: way
+type: node
 latitude: 43.75278
 longitude: -88.46324
 postcode: "54935"
 city: Fond du Lac
-street: "South Hickory Street"
-housenumber: 980
+street: South Hickory Street
+housenumber: "980"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=242"
+website: https://www.kwiktrip.com/locator/store?id=242

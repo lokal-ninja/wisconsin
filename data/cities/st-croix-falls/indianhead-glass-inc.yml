@@ -1,11 +1,11 @@
 id: 486418197
-type: way
+type: node
 latitude: 45.41174
 longitude: -92.645
 postcode: "54024"
 city: St. Croix Falls
-street: "North Washington Street"
-housenumber: 141
+street: North Washington Street
+housenumber: "141"
 phone: ""
 opening_hours: ""
 website: ""

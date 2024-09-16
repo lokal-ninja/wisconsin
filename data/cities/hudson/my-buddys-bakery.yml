@@ -1,11 +1,11 @@
 id: 458921827
-type: way
+type: node
 latitude: 44.97873
 longitude: -92.71987
 postcode: "54016"
 city: Hudson
-street: "Carmichael Road"
-housenumber: 800
-phone: "+1 715-808-0132"
-opening_hours: "Mo-Fr 06:00-19:00; Sa-Su 07:00-17:00"
-website: "https://buddysbakerywi.com/"
+street: Carmichael Road
+housenumber: "800"
+phone: +1 715-808-0132
+opening_hours: Mo-Fr 06:00-19:00; Sa-Su 07:00-17:00
+website: https://buddysbakerywi.com/

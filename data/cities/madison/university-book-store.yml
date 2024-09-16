@@ -4,8 +4,8 @@ latitude: 43.07468
 longitude: -89.39763
 postcode: "53703"
 city: Madison
-street: "State Street"
-housenumber: 711
+street: State Street
+housenumber: "711"
 phone: ""
-opening_hours: "Mo-Th 09:00-19:00; Fr,Sa 09:00-17:30; Su 10:30-17:00"
-website: "https://www.uwbookstore.com"
+opening_hours: Mo-Th 09:00-19:00; Fr,Sa 09:00-17:30; Su 10:30-17:00
+website: https://www.uwbookstore.com

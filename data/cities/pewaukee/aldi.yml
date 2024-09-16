@@ -1,11 +1,11 @@
 id: 992086998
-type: way
+type: node
 latitude: 43.08478
 longitude: -88.24057
 postcode: "53072"
 city: Pewaukee
-street: "George Towne Drive"
-housenumber: 1201
-phone: "+1 877-464-7015"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/pewaukee/1201-george-towne-drive"
+street: George Towne Drive
+housenumber: "1201"
+phone: +1 877-464-7015
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/pewaukee/1201-george-towne-drive

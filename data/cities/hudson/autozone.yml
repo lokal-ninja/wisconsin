@@ -1,11 +1,11 @@
 id: 387293187
-type: way
+type: node
 latitude: 44.9624
 longitude: -92.72444
 postcode: "54016"
 city: Hudson
-street: "Badger Drive"
-housenumber: 2355
-phone: "+1 (715) 245-4070"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-20:00"
-website: "https://www.autozone.com/locations/wi/hudson/2355-badger-dr.html"
+street: Badger Drive
+housenumber: "2355"
+phone: +1 (715) 245-4070
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-20:00
+website: https://www.autozone.com/locations/wi/hudson/2355-badger-dr.html

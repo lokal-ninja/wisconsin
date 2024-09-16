@@ -1,11 +1,11 @@
 id: 241293228
-type: way
+type: node
 latitude: 43.57206
 longitude: -89.4709
 postcode: "53901"
 city: Portage
-street: "New Pinery Road"
-housenumber: 2970
+street: New Pinery Road
+housenumber: "2970"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=683"
+website: https://www.kwiktrip.com/locator/store?id=683

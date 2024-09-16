@@ -3,9 +3,9 @@ type: node
 latitude: 44.35576
 longitude: -89.81426
 postcode: "54494"
-city: Wisconsin Rapids 
-street: "Kuhn Ave "
-housenumber: 930
+city: 'Wisconsin Rapids '
+street: 'Kuhn Ave '
+housenumber: "930"
 phone: ""
 opening_hours: ""
 website: ""

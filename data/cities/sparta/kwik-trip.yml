@@ -1,11 +1,11 @@
 id: 534581704
-type: way
+type: node
 latitude: 43.93999
 longitude: -90.78646
 postcode: "54656"
 city: Sparta
-street: "East Wisconsin Street"
-housenumber: 1751
+street: East Wisconsin Street
+housenumber: "1751"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=317"
+website: https://www.kwiktrip.com/locator/store?id=317

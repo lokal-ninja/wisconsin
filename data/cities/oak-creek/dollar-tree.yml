@@ -1,11 +1,11 @@
 id: 1177651259
-type: way
+type: node
 latitude: 42.88944
 longitude: -87.91421
 postcode: ""
 city: Oak Creek
-street: "South Howell Avenue"
-housenumber: 8561
+street: South Howell Avenue
+housenumber: "8561"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/wi/oak-creek/4701/"
+opening_hours: Mo-Sa 08:00-22:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/wi/oak-creek/4701/

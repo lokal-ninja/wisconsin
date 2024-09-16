@@ -1,11 +1,11 @@
 id: 664026990
-type: way
+type: node
 latitude: 42.95413
 longitude: -88.00886
 postcode: "53220"
 city: Greenfield
-street: "South 76th Street"
-housenumber: 4981
-phone: "+1-414-727-0234"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-16:00"
-website: "https://artscameras.com/"
+street: South 76th Street
+housenumber: "4981"
+phone: +1-414-727-0234
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-16:00
+website: https://artscameras.com/

@@ -1,11 +1,11 @@
 id: 324721855
-type: way
+type: node
 latitude: 44.27246
 longitude: -88.4595
 postcode: "54914"
 city: Appleton
-street: "North Westhill Boulevard"
-housenumber: 1000
-phone: "+1 920-733-4655"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/appleton-wi-sams-club/6321"
+street: North Westhill Boulevard
+housenumber: "1000"
+phone: +1 920-733-4655
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/appleton-wi-sams-club/6321

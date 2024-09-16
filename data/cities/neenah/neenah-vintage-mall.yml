@@ -1,11 +1,11 @@
 id: 564869895
-type: way
+type: node
 latitude: 44.17184
 longitude: -88.46451
 postcode: "54956"
 city: Neenah
-street: "South Commercial Street"
-housenumber: 884
-phone: "+1-920-215-6444"
-opening_hours: "Mo-Sa 10:00-18:00"
+street: South Commercial Street
+housenumber: "884"
+phone: +1-920-215-6444
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

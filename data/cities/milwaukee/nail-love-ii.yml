@@ -2,10 +2,10 @@ id: 10240496610
 type: node
 latitude: 43.09014
 longitude: -88.01183
-postcode: "53222-0000"
+postcode: 53222-0000
 city: Milwaukee
-street: "West Capitol Drive"
-housenumber: 7922
+street: West Capitol Drive
+housenumber: "7922"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1164281540
-type: way
+type: node
 latitude: 43.0871
 longitude: -88.06778
 postcode: "53005"
 city: Brookfield
-street: "West Capitol Drive"
-housenumber: 12575
-phone: "+1 262-783-6799"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/wi/brookfield/112"
+street: West Capitol Drive
+housenumber: "12575"
+phone: +1 262-783-6799
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/wi/brookfield/112

@@ -1,11 +1,11 @@
 id: 675457882
-type: way
+type: node
 latitude: 42.55984
 longitude: -87.95499
 postcode: "53158"
 city: Bristol
-street: "120th Avenue"
-housenumber: 8050
+street: 120th Avenue
+housenumber: "8050"
 phone: ""
 opening_hours: ""
 website: ""

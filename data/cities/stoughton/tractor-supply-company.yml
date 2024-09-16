@@ -4,8 +4,8 @@ latitude: 42.91962
 longitude: -89.24313
 postcode: "53589"
 city: Stoughton
-street: "Highway 51"
-housenumber: 1800
-phone: "+1 608-873-0323"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Highway 51
+housenumber: "1800"
+phone: +1 608-873-0323
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

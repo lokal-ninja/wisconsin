@@ -1,11 +1,11 @@
 id: 372144638
-type: way
+type: node
 latitude: 42.7299
 longitude: -87.78385
 postcode: ""
 city: Racine
-street: "Main Street"
-housenumber: 320
+street: Main Street
+housenumber: "320"
 phone: ""
 opening_hours: ""
-website: "https://www.blackwickcandlesandcreations.com/"
+website: https://www.blackwickcandlesandcreations.com/

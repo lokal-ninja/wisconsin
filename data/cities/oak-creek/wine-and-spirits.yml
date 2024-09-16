@@ -1,11 +1,11 @@
 id: 1175143955
-type: way
+type: node
 latitude: 42.91459
 longitude: -87.88409
 postcode: "53154"
 city: Oak Creek
-street: "East Rawson Avenue"
-housenumber: 2111
+street: East Rawson Avenue
+housenumber: "2111"
 phone: ""
 opening_hours: ""
 website: ""

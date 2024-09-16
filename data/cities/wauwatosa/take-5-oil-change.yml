@@ -1,11 +1,11 @@
 id: 662432560
-type: way
+type: node
 latitude: 43.06053
 longitude: -87.99006
 postcode: "53213"
 city: Wauwatosa
-street: "West North Avenue"
-housenumber: 6207
+street: West North Avenue
+housenumber: "6207"
 phone: ""
 opening_hours: ""
 website: ""

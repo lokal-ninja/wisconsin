@@ -1,11 +1,11 @@
 id: 103372852
-type: way
+type: node
 latitude: 42.94707
 longitude: -89.65618
 postcode: "53593"
 city: Verona
-street: "Washington Street"
-housenumber: 1688
-phone: "608-832-6228"
+street: Washington Street
+housenumber: "1688"
+phone: 608-832-6228
 opening_hours: ""
-website: "http://mtvernonfamilyauto.com/"
+website: http://mtvernonfamilyauto.com/

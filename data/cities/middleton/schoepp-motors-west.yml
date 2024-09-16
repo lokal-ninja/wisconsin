@@ -1,11 +1,11 @@
 id: 97569177
-type: way
+type: node
 latitude: 43.11345
 longitude: -89.51532
 postcode: "53562"
 city: Middleton
-street: "Laura Lane"
-housenumber: 3440
-phone: "+1 (608) 255-7003"
+street: Laura Lane
+housenumber: "3440"
+phone: +1 (608) 255-7003
 opening_hours: ""
-website: "https://www.schoeppmotors.com/"
+website: https://www.schoeppmotors.com/

@@ -1,11 +1,11 @@
 id: 230958468
-type: way
+type: node
 latitude: 44.46368
 longitude: -87.95381
 postcode: "54311"
 city: Green Bay
-street: "Easton Road"
-housenumber: 2595
-phone: "+1 920-465-8237"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/Bellevue-e-Green-Bay/WI/Green-Bay/54311/4915"
+street: Easton Road
+housenumber: "2595"
+phone: +1 920-465-8237
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/Bellevue-e-Green-Bay/WI/Green-Bay/54311/4915

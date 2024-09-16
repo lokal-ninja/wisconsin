@@ -1,11 +1,11 @@
 id: 1171782660
-type: way
+type: node
 latitude: 42.95955
 longitude: -87.87279
 postcode: ""
 city: St. Francis
-street: "East Layton Avenue"
-housenumber: 3044
+street: East Layton Avenue
+housenumber: "3044"
 phone: ""
 opening_hours: ""
 website: ""

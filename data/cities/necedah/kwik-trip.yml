@@ -1,11 +1,11 @@
 id: 300388605
-type: way
+type: node
 latitude: 44.02628
 longitude: -90.07492
 postcode: "54646"
 city: Necedah
-street: "West 3rd Street"
-housenumber: 100
-phone: "+1-608-565-7744"
+street: West 3rd Street
+housenumber: "100"
+phone: +1-608-565-7744
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=399"
+website: https://www.kwiktrip.com/locator/store?id=399

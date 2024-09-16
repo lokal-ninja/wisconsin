@@ -1,11 +1,11 @@
 id: 458950245
-type: way
+type: node
 latitude: 46.72049
 longitude: -92.09459
 postcode: "54880"
 city: Superior
-street: "Belknap Street"
-housenumber: 1120
+street: Belknap Street
+housenumber: "1120"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 583864187
-type: way
+type: node
 latitude: 43.75482
 longitude: -88.44977
 postcode: "54935"
 city: Fond du Lac
-street: "South Main Street"
-housenumber: 904
-phone: "+1-920-923-5246"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
-website: "https://www.amazinggoodwill.com/"
+street: South Main Street
+housenumber: "904"
+phone: +1-920-923-5246
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
+website: https://www.amazinggoodwill.com/

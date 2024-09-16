@@ -1,11 +1,11 @@
 id: 240388589
-type: way
+type: node
 latitude: 43.04907
 longitude: -88.36824
 postcode: "53018"
 city: Delafield
-street: "Heritage Drive"
-housenumber: 2863
-phone: "+1 262-646-8858"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "https://www.walmart.com/store/1678/delafield-wi/whats-new"
+street: Heritage Drive
+housenumber: "2863"
+phone: +1 262-646-8858
+opening_hours: Mo-Su 07:00-24:00
+website: https://www.walmart.com/store/1678/delafield-wi/whats-new

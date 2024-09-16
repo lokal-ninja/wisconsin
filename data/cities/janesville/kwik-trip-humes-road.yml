@@ -1,11 +1,11 @@
 id: 105361956
-type: way
+type: node
 latitude: 42.72228
 longitude: -88.99993
 postcode: "53545"
 city: Janesville
-street: "Humes Road"
-housenumber: 1919
-phone: "608-741-1340"
+street: Humes Road
+housenumber: "1919"
+phone: 608-741-1340
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1134"
+website: https://www.kwiktrip.com/locator/store?id=1134

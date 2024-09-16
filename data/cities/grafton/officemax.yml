@@ -1,11 +1,11 @@
 id: 547373198
-type: way
+type: node
 latitude: 43.31824
 longitude: -87.92482
 postcode: "53024"
 city: Grafton
-street: "North Port Washington Road"
-housenumber: 1346
-phone: "+1-262-387-1813"
-opening_hours: "Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/wi/grafton/officemax-6698"
+street: North Port Washington Road
+housenumber: "1346"
+phone: +1-262-387-1813
+opening_hours: Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/wi/grafton/officemax-6698

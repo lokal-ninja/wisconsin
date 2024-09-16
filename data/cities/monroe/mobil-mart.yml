@@ -1,11 +1,11 @@
 id: 26877892
-type: way
+type: node
 latitude: 42.61437
 longitude: -89.63619
 postcode: "53566"
 city: Monroe
-street: "North 18th Avenue"
-housenumber: 180
-phone: "1-608-325-2725"
+street: North 18th Avenue
+housenumber: "180"
+phone: 1-608-325-2725
 opening_hours: ""
-website: "https://www.exxon.com/en/find-station/200314339"
+website: https://www.exxon.com/en/find-station/200314339

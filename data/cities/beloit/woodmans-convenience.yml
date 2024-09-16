@@ -1,11 +1,11 @@
 id: 835677253
-type: way
+type: node
 latitude: 42.5234
 longitude: -89.07108
 postcode: "53511"
 city: Beloit
-street: "South Madison Road"
-housenumber: 1877
+street: South Madison Road
+housenumber: "1877"
 phone: ""
 opening_hours: ""
 website: ""

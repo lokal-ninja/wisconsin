@@ -1,11 +1,11 @@
 id: 840007796
-type: way
+type: node
 latitude: 42.9892
 longitude: -88.25508
 postcode: "53189"
 city: Waukesha
-street: "West Sunset Drive"
-housenumber: 1130
+street: West Sunset Drive
+housenumber: "1130"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 217104125
-type: way
+type: node
 latitude: 42.49823
 longitude: -89.02617
 postcode: "53511"
 city: Beloit
-street: "Broad Street"
-housenumber: 910
+street: Broad Street
+housenumber: "910"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-910+broad+st-beloit-wi-53511/id=12136"
+website: https://www.walgreens.com/locator/walgreens-910+broad+st-beloit-wi-53511/id=12136

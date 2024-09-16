@@ -1,11 +1,11 @@
 id: 487240699
-type: way
+type: node
 latitude: 44.35447
 longitude: -89.81825
 postcode: "54494"
 city: Wisconsin Rapids
-street: "Ruby Avenue"
-housenumber: 710
+street: Ruby Avenue
+housenumber: "710"
 phone: ""
 opening_hours: ""
 website: ""

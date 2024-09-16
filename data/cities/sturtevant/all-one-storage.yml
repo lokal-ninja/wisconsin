@@ -1,11 +1,11 @@
 id: 375874714
-type: way
+type: node
 latitude: 42.7185
 longitude: -87.90562
 postcode: ""
 city: Sturtevant
-street: "Wisconsin Street"
-housenumber: 1630
+street: Wisconsin Street
+housenumber: "1630"
 phone: ""
 opening_hours: ""
 website: ""

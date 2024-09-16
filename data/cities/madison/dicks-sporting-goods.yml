@@ -1,11 +1,11 @@
 id: 373642581
-type: way
+type: node
 latitude: 43.0567
 longitude: -89.50718
 postcode: "53719"
 city: Madison
-street: "West Towne Mall"
-housenumber: 237
-phone: "+1 608-829-1313"
-opening_hours: "Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/wi/madison/178/"
+street: West Towne Mall
+housenumber: "237"
+phone: +1 608-829-1313
+opening_hours: Mo-Fr 10:00-21:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/wi/madison/178/

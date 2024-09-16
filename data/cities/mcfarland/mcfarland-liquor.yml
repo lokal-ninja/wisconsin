@@ -1,11 +1,11 @@
 id: 679962339
-type: way
+type: node
 latitude: 43.01376
 longitude: -89.30098
 postcode: "53558"
 city: McFarland
-street: "Farwell Street"
-housenumber: 4716
-phone: "+1 608 838 3157"
-opening_hours: "Mo-Fr 10:00-21:00; Sa-Su 09:00-21:00"
+street: Farwell Street
+housenumber: "4716"
+phone: +1 608 838 3157
+opening_hours: Mo-Fr 10:00-21:00; Sa-Su 09:00-21:00
 website: ""

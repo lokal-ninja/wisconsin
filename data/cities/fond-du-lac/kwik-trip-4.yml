@@ -1,11 +1,11 @@
 id: 587372344
-type: way
+type: node
 latitude: 43.7661
 longitude: -88.4481
 postcode: "54935"
 city: Fond du Lac
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=613"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=613

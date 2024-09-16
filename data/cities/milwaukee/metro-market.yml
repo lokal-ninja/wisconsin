@@ -1,11 +1,11 @@
 id: 185565714
-type: way
+type: node
 latitude: 43.04524
 longitude: -87.90459
 postcode: "53202"
 city: Milwaukee
-street: "North Van Buren Street"
-housenumber: 1123
+street: North Van Buren Street
+housenumber: "1123"
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

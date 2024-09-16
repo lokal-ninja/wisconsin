@@ -1,11 +1,11 @@
 id: 951501019
-type: way
+type: node
 latitude: 44.20063
 longitude: -88.48446
 postcode: "54956"
 city: Neenah
-street: "North Green Bay Road"
-housenumber: 670
+street: North Green Bay Road
+housenumber: "670"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/Neenah/670-N-Green-Bay"
+website: https://www.speedway.com/locations/WI/Neenah/670-N-Green-Bay

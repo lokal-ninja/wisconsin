@@ -4,8 +4,8 @@ latitude: 42.98953
 longitude: -89.53317
 postcode: "53593"
 city: Verona
-street: "South Main Street"
-housenumber: 125
+street: South Main Street
+housenumber: "125"
 phone: ""
-opening_hours: "Mo-Su 06:30-17:00"
-website: "https://www.knitandsip.com/"
+opening_hours: Mo-Su 06:30-17:00
+website: https://www.knitandsip.com/

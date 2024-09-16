@@ -1,11 +1,11 @@
 id: 1168069736
-type: way
+type: node
 latitude: 42.99666
 longitude: -88.05037
 postcode: "53227"
 city: West Allis
-street: "West Cleveland Avenue"
-housenumber: 11100
+street: West Cleveland Avenue
+housenumber: "11100"
 phone: ""
 opening_hours: ""
 website: ""

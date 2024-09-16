@@ -1,11 +1,11 @@
 id: 372322732
-type: way
+type: node
 latitude: 42.72128
 longitude: -87.78911
 postcode: ""
 city: Racine
-street: "Center Street"
-housenumber: 1003
+street: Center Street
+housenumber: "1003"
 phone: ""
 opening_hours: ""
 website: ""

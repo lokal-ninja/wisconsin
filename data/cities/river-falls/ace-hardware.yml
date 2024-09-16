@@ -1,11 +1,11 @@
 id: 644896739
-type: way
+type: node
 latitude: 44.87202
 longitude: -92.62268
-postcode: "54022-8280"
+postcode: 54022-8280
 city: River Falls
-street: "North Main Street"
-housenumber: 1163
-phone: "+1 715-425-1775"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-17:00"
+street: North Main Street
+housenumber: "1163"
+phone: +1 715-425-1775
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00; Su 09:00-17:00
 website: ""

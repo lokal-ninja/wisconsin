@@ -1,11 +1,11 @@
 id: 1171782620
-type: way
+type: node
 latitude: 42.96103
 longitude: -87.87677
 postcode: "53235"
 city: St. Francis
-street: "South Whitnall Avenue"
-housenumber: 4698
-phone: "+1 414-481-3178"
-opening_hours: "Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/wi/st-francis/pet-supplies-st-francis-wi-1698.html"
+street: South Whitnall Avenue
+housenumber: "4698"
+phone: +1 414-481-3178
+opening_hours: Mo-We 09:00-21:00; Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/wi/st-francis/pet-supplies-st-francis-wi-1698.html

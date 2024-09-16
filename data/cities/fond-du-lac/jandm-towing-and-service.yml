@@ -1,11 +1,11 @@
 id: 765238996
-type: way
+type: node
 latitude: 43.79258
 longitude: -88.43882
 postcode: ""
 city: Fond du lac
-street: "Winnebago Drive"
-housenumber: 233
+street: Winnebago Drive
+housenumber: "233"
 phone: ""
 opening_hours: ""
 website: ""

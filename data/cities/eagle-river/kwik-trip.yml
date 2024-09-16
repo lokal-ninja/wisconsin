@@ -1,11 +1,11 @@
 id: 798450999
-type: way
+type: node
 latitude: 45.91619
 longitude: -89.25549
 postcode: "54521"
 city: Eagle River
-street: "West Wall Street"
-housenumber: 201
-phone: "715-477-0070"
+street: West Wall Street
+housenumber: "201"
+phone: 715-477-0070
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=131"
+website: https://www.kwiktrip.com/locator/store?id=131

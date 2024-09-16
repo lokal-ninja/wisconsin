@@ -1,11 +1,11 @@
 id: 666005110
-type: way
+type: node
 latitude: 45.63401
 longitude: -89.38426
 postcode: "54501"
 city: Rhinelander
-street: "Lincoln Street"
-housenumber: 1903
-phone: "+1-715-369-9884"
-opening_hours: "Mo-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.gamestop.com/store/us/wi/rhinelander/6931/lincoln-st-rhinelander-gamestop"
+street: Lincoln Street
+housenumber: "1903"
+phone: +1-715-369-9884
+opening_hours: Mo-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.gamestop.com/store/us/wi/rhinelander/6931/lincoln-st-rhinelander-gamestop

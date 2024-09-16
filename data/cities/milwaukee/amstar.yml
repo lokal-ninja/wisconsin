@@ -1,11 +1,11 @@
 id: 662936000
-type: way
+type: node
 latitude: 43.03692
 longitude: -87.98383
 postcode: "53208"
 city: Milwaukee
-street: "West Bluemound Road"
-housenumber: 5706
+street: West Bluemound Road
+housenumber: "5706"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 304937210
-type: way
+type: node
 latitude: 43.0097
 longitude: -89.72497
 postcode: "53572"
 city: Mount Horeb
-street: "Springdale Street"
-housenumber: 1201
+street: Springdale Street
+housenumber: "1201"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/mounthoreb/autoparts-4406.html"
+website: https://locations.oreillyauto.com/wi/mounthoreb/autoparts-4406.html

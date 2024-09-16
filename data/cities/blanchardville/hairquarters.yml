@@ -1,11 +1,11 @@
 id: 359050798
-type: way
+type: node
 latitude: 42.81054
 longitude: -89.86222
 postcode: "53516"
 city: Blanchardville
-street: "South Main Street"
-housenumber: 205
+street: South Main Street
+housenumber: "205"
 phone: ""
 opening_hours: ""
 website: ""

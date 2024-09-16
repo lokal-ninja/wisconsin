@@ -1,11 +1,11 @@
 id: 225499320
-type: way
+type: node
 latitude: 42.60616
 longitude: -87.88346
 postcode: "53144"
 city: Kenosha
-street: "Brumback Boulevard"
-housenumber: 3300
-phone: "+1 262-652-1039"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1167/kenosha-wi/whats-new"
+street: Brumback Boulevard
+housenumber: "3300"
+phone: +1 262-652-1039
+opening_hours: 24/7
+website: https://www.walmart.com/store/1167/kenosha-wi/whats-new

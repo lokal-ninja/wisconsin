@@ -1,11 +1,11 @@
 id: 384704717
-type: way
+type: node
 latitude: 42.98841
 longitude: -87.92265
 postcode: "53215"
 city: Milwaukee
-street: "West Oklahoma Avenue"
-housenumber: 832
+street: West Oklahoma Avenue
+housenumber: "832"
 phone: ""
 opening_hours: ""
 website: ""

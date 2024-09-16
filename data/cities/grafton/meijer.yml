@@ -1,11 +1,11 @@
 id: 547369512
-type: way
+type: node
 latitude: 43.31348
 longitude: -87.92122
 postcode: "53024"
 city: Grafton
-street: "North Port Washington Road"
-housenumber: 1600
-phone: "+1-262-204-2800"
+street: North Port Washington Road
+housenumber: "1600"
+phone: +1-262-204-2800
 opening_hours: ""
 website: ""

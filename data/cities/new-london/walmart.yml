@@ -1,11 +1,11 @@
 id: 632126245
-type: way
+type: node
 latitude: 44.41149
 longitude: -88.74364
 postcode: "54961"
 city: New London
-street: "North Shawano Street"
-housenumber: 1717
-phone: "+1 920-982-7525"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.walmart.com/store/1471/new-london-wi/whats-new"
+street: North Shawano Street
+housenumber: "1717"
+phone: +1 920-982-7525
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.walmart.com/store/1471/new-london-wi/whats-new

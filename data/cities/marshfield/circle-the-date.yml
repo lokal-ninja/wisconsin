@@ -1,11 +1,11 @@
 id: 1093448364
-type: way
+type: node
 latitude: 44.66427
 longitude: -90.17646
 postcode: "54449"
 city: Marshfield
-street: "South Central Avenue"
-housenumber: 400
+street: South Central Avenue
+housenumber: "400"
 phone: ""
-opening_hours: "Mo,We-Fr 10:00-18:00; Sa 09:00-16:00; PH closed"
-website: "https://www.circlethedate.us/"
+opening_hours: Mo,We-Fr 10:00-18:00; Sa 09:00-16:00; PH closed
+website: https://www.circlethedate.us/

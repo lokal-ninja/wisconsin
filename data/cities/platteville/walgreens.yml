@@ -1,11 +1,11 @@
 id: 264286732
-type: way
+type: node
 latitude: 42.72818
 longitude: -90.47575
 postcode: "53818"
 city: Platteville
-street: "South Water Street"
-housenumber: 675
-phone: "+1 608 348-7611"
+street: South Water Street
+housenumber: "675"
+phone: +1 608 348-7611
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-675+s+water+st-platteville-wi-53818/id=12498"
+website: https://www.walgreens.com/locator/walgreens-675+s+water+st-platteville-wi-53818/id=12498

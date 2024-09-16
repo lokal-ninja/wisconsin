@@ -1,11 +1,11 @@
 id: 332935081
-type: way
+type: node
 latitude: 42.77856
 longitude: -89.26907
-postcode: "53536-8106"
+postcode: 53536-8106
 city: Evansville
-street: "Brown School Road"
-housenumber: 755
-phone: "+1 608-882-4646"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-15:00"
+street: Brown School Road
+housenumber: "755"
+phone: +1 608-882-4646
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-15:00
 website: ""

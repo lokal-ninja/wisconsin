@@ -1,11 +1,11 @@
 id: 840228066
-type: way
+type: node
 latitude: 46.58335
 longitude: -91.79829
 postcode: "54864"
 city: Poplar
-street: "East Main Street"
-housenumber: 9719
+street: East Main Street
+housenumber: "9719"
 phone: ""
 opening_hours: ""
 website: ""

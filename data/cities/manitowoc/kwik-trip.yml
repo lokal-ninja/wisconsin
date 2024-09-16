@@ -1,11 +1,11 @@
 id: 226013389
-type: way
+type: node
 latitude: 44.07321
 longitude: -87.70035
 postcode: "54220"
 city: Manitowoc
-street: "S 42nd Street"
-housenumber: 2103
+street: S 42nd Street
+housenumber: "2103"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.kwiktrip.com/locator/store?id=491"
+opening_hours: 24/7
+website: https://www.kwiktrip.com/locator/store?id=491

@@ -1,11 +1,11 @@
 id: 26827890
-type: way
+type: node
 latitude: 42.82033
 longitude: -89.63112
 postcode: "53574"
 city: New Glarus
-street: "Industrial Drive"
-housenumber: 219
-phone: "608-527-2513"
+street: Industrial Drive
+housenumber: "219"
+phone: 608-527-2513
 opening_hours: ""
-website: "https://hoeslysmeats.com/"
+website: https://hoeslysmeats.com/

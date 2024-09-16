@@ -1,11 +1,11 @@
 id: 549992733
-type: way
+type: node
 latitude: 44.01681
 longitude: -88.53676
 postcode: "54901"
 city: Oshkosh
-street: "Waugoo Avenue"
-housenumber: 17
+street: Waugoo Avenue
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

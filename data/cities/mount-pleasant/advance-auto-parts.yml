@@ -1,11 +1,11 @@
 id: 362345255
-type: way
+type: node
 latitude: 42.71963
 longitude: -87.84742
 postcode: ""
 city: Mount Pleasant
-street: "Washington Avenue"
-housenumber: 5534
+street: Washington Avenue
+housenumber: "5534"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/mount-pleasant/5534-washington-ave"
+website: https://stores.advanceautoparts.com/wi/mount-pleasant/5534-washington-ave

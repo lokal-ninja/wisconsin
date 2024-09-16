@@ -1,11 +1,11 @@
 id: 655131864
-type: way
+type: node
 latitude: 43.84146
 longitude: -91.24606
 postcode: ""
 city: La Crosse
-street: "Clinton Street"
-housenumber: 721
+street: Clinton Street
+housenumber: "721"
 phone: ""
 opening_hours: ""
 website: ""

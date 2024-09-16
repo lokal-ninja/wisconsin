@@ -1,11 +1,11 @@
 id: 376385269
-type: way
+type: node
 latitude: 42.70158
 longitude: -87.85566
 postcode: ""
 city: Racine
-street: "Regency West Drive"
-housenumber: 6149
+street: Regency West Drive
+housenumber: "6149"
 phone: ""
 opening_hours: ""
 website: ""

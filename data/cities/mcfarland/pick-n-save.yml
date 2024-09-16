@@ -1,11 +1,11 @@
 id: 401847577
-type: way
+type: node
 latitude: 43.01615
 longitude: -89.29963
 postcode: "53558"
 city: McFarland
-street: "US Highway 51"
-housenumber: 5709
+street: US Highway 51
+housenumber: "5709"
 phone: ""
 opening_hours: ""
 website: ""

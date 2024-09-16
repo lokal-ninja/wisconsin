@@ -2,10 +2,10 @@ id: 1925759755
 type: node
 latitude: 43.96545
 longitude: -89.82011
-postcode: "53910-9307"
+postcode: 53910-9307
 city: Adams
-street: "West North Street"
-housenumber: 225
-phone: "+1 608-339-6311"
-opening_hours: "Mo-Sa 08:00-18:00; Su 09:00-16:00"
+street: West North Street
+housenumber: "225"
+phone: +1 608-339-6311
+opening_hours: Mo-Sa 08:00-18:00; Su 09:00-16:00
 website: ""

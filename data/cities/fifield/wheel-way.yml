@@ -1,11 +1,11 @@
 id: 1056064190
-type: way
+type: node
 latitude: 45.88222
 longitude: -90.42167
 postcode: "54524"
 city: Fifield
-street: "Flambeau Avenue"
-housenumber: 14111
+street: Flambeau Avenue
+housenumber: "14111"
 phone: ""
 opening_hours: ""
-website: "https://www.wheelwayautos.com/"
+website: https://www.wheelwayautos.com/

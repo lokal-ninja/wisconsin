@@ -1,11 +1,11 @@
 id: 229762697
-type: way
+type: node
 latitude: 42.96788
 longitude: -90.33501
 postcode: "53526"
 city: Cobb
-street: "Main Street"
-housenumber: 404
+street: Main Street
+housenumber: "404"
 phone: ""
 opening_hours: ""
 website: ""

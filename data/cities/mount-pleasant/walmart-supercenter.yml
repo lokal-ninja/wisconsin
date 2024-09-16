@@ -1,11 +1,11 @@
 id: 375995593
-type: way
+type: node
 latitude: 42.69451
 longitude: -87.86797
 postcode: "53177"
 city: Mount Pleasant
-street: "South Oakes Road"
-housenumber: 3049
-phone: "+1 262-598-8702"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/2668/sturtevant-wi/whats-new"
+street: South Oakes Road
+housenumber: "3049"
+phone: +1 262-598-8702
+opening_hours: 24/7
+website: https://www.walmart.com/store/2668/sturtevant-wi/whats-new

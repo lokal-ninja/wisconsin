@@ -1,11 +1,11 @@
 id: 294006100
-type: way
+type: node
 latitude: 43.32996
 longitude: -90.38383
 postcode: "53581"
 city: Richland Center
-street: "South Church Street"
-housenumber: 711
-phone: "(608) 647-4558"
+street: South Church Street
+housenumber: "711"
+phone: (608) 647-4558
 opening_hours: ""
 website: ""

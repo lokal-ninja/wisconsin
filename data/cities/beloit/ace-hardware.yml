@@ -1,11 +1,11 @@
 id: 655090264
-type: way
+type: node
 latitude: 42.49834
 longitude: -89.03469
-postcode: "53511-6223"
+postcode: 53511-6223
 city: Beloit
-street: "Broad Street"
-housenumber: 430
-phone: "+1 608-365-7443"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00"
+street: Broad Street
+housenumber: "430"
+phone: +1 608-365-7443
+opening_hours: Mo-Fr 07:30-19:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 102924052
-type: way
+type: node
 latitude: 42.52301
 longitude: -87.94648
 postcode: "53158"
 city: Pleasant Prairie
-street: "120th Avenue"
-housenumber: 
+street: 120th Avenue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

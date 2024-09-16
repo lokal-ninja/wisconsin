@@ -1,11 +1,11 @@
 id: 398445096
-type: way
+type: node
 latitude: 42.71788
 longitude: -87.82653
 postcode: ""
 city: Racine
-street: "Lathrop Avenue"
-housenumber: 1212
+street: Lathrop Avenue
+housenumber: "1212"
 phone: ""
 opening_hours: ""
 website: ""

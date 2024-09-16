@@ -1,11 +1,11 @@
 id: 809725812
-type: way
+type: node
 latitude: 44.97461
 longitude: -89.62303
 postcode: "54403"
 city: Wausau
-street: "North 6th Street"
-housenumber: 2203
+street: North 6th Street
+housenumber: "2203"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=735"
+website: https://www.kwiktrip.com/locator/store?id=735

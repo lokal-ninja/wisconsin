@@ -1,11 +1,11 @@
 id: 217344228
-type: way
+type: node
 latitude: 46.10079
 longitude: -91.82915
 postcode: "54859"
 city: Minong
-street: "W Hokah St"
-housenumber: 660
-phone: "+1-715-466-2222"
+street: W Hokah St
+housenumber: "660"
+phone: +1-715-466-2222
 opening_hours: ""
-website: "http://linkfordminong.com"
+website: http://linkfordminong.com

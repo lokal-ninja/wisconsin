@@ -1,11 +1,11 @@
 id: 1278641085
-type: way
+type: node
 latitude: 44.95413
 longitude: -92.71838
 postcode: "54016"
 city: Hudson
-street: "Maxwell Drive"
-housenumber: 1600
-phone: "+1 715-808-0862"
-opening_hours: "Mo-Fr 11:30-18:30; Sa 11:30-17:00; Su by appointment"
-website: "https://www.stcroixinktattoo.com/"
+street: Maxwell Drive
+housenumber: "1600"
+phone: +1 715-808-0862
+opening_hours: Mo-Fr 11:30-18:30; Sa 11:30-17:00; Su by appointment
+website: https://www.stcroixinktattoo.com/

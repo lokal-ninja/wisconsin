@@ -1,11 +1,11 @@
 id: 663289916
-type: way
+type: node
 latitude: 43.00334
 longitude: -87.98682
 postcode: ""
 city: Milwaukee
-street: "West Lincoln Avenue"
-housenumber: 5920
+street: West Lincoln Avenue
+housenumber: "5920"
 phone: ""
 opening_hours: ""
 website: ""

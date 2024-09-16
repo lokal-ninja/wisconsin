@@ -4,8 +4,8 @@ latitude: 45.50411
 longitude: -91.7337
 postcode: "54868"
 city: Rice Lake
-street: "North Main Street"
-housenumber: 230
-phone: "(715) 234-2841"
-opening_hours: "Tu-Fr 10:00-17:00, Sa 10:00-15:00"
+street: North Main Street
+housenumber: "230"
+phone: (715) 234-2841
+opening_hours: Tu-Fr 10:00-17:00, Sa 10:00-15:00
 website: ""

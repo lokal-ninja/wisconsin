@@ -1,11 +1,11 @@
 id: 1290733693
-type: way
+type: node
 latitude: 44.58871
 longitude: -88.20789
 postcode: "54313"
 city: Green Bay
-street: "Old 29 Drive"
-housenumber: 5746
-phone: "+1 920 819 2706"
+street: Old 29 Drive
+housenumber: "5746"
+phone: +1 920 819 2706
 opening_hours: ""
-website: "https://www.gobigbluestorage.com/"
+website: https://www.gobigbluestorage.com/

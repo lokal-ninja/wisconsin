@@ -1,11 +1,11 @@
 id: 551147844
-type: way
+type: node
 latitude: 44.02034
 longitude: -88.58127
 postcode: "54902"
 city: Oshkosh
-street: "North Koeller Street"
-housenumber: 174
+street: North Koeller Street
+housenumber: "174"
 phone: ""
 opening_hours: ""
 website: ""

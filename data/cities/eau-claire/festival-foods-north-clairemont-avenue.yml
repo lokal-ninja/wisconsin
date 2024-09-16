@@ -1,11 +1,11 @@
 id: 620514880
-type: way
+type: node
 latitude: 44.82667
 longitude: -91.54227
 postcode: "54701"
 city: Eau Claire
-street: "North Clairemont Avenue"
-housenumber: 2615
-phone: "+1-715-895-7256"
-opening_hours: "24/7"
-website: "https://www.festfoods.com/"
+street: North Clairemont Avenue
+housenumber: "2615"
+phone: +1-715-895-7256
+opening_hours: 24/7
+website: https://www.festfoods.com/

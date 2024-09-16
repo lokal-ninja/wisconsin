@@ -4,8 +4,9 @@ latitude: 43.07368
 longitude: -89.39489
 postcode: "53703"
 city: Madison
-street: "West Gilman Street"
-housenumber: 447
-phone: "+1 608 949 4477"
-opening_hours: "Tu,We 10:00-18:00; Th 10:00-19:00; Fr 09:00-18:00; Sa 10:00-17:00; Su 11:00-16:00"
+street: West Gilman Street
+housenumber: "447"
+phone: +1 608 949 4477
+opening_hours: Tu,We 10:00-18:00; Th 10:00-19:00; Fr 09:00-18:00; Sa 10:00-17:00;
+    Su 11:00-16:00
 website: ""

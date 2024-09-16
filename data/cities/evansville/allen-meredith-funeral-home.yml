@@ -1,11 +1,11 @@
 id: 301234187
-type: way
+type: node
 latitude: 42.78016
 longitude: -89.30155
 postcode: "53536"
 city: Evansville
-street: "West Main Street"
-housenumber: 103
+street: West Main Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

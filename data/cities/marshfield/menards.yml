@@ -1,11 +1,11 @@
 id: 676905163
-type: way
+type: node
 latitude: 44.69186
 longitude: -90.15955
 postcode: "54449"
 city: Marshfield
-street: "North Central Avenue;Central Avenue"
-housenumber: 2116
+street: North Central Avenue;Central Avenue
+housenumber: "2116"
 phone: ""
-opening_hours: "06:00-22:00"
-website: "https://www.menards.com/store-details/store.html?store=3147"
+opening_hours: 06:00-22:00
+website: https://www.menards.com/store-details/store.html?store=3147

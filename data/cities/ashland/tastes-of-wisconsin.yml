@@ -1,11 +1,11 @@
 id: 326619100
-type: way
+type: node
 latitude: 46.58994
 longitude: -90.88822
 postcode: "54806"
 city: Ashland
-street: "Lake Shore Drive West"
-housenumber: 420
+street: Lake Shore Drive West
+housenumber: "420"
 phone: ""
 opening_hours: ""
 website: ""

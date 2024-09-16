@@ -1,11 +1,11 @@
 id: 144685557
-type: way
+type: node
 latitude: 44.27001
 longitude: -88.48412
 postcode: "54913"
 city: Appleton
-street: "West Integrity Way"
-housenumber: 5105
+street: West Integrity Way
+housenumber: "5105"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3030"
+website: https://www.menards.com/store-details/store.html?store=3030

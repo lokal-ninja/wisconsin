@@ -1,11 +1,11 @@
 id: 550972442
-type: way
+type: node
 latitude: 44.29138
 longitude: -88.47328
 postcode: "54913"
 city: Appleton
-street: "North Victory Lane"
-housenumber: 2925
+street: North Victory Lane
+housenumber: "2925"
 phone: ""
 opening_hours: ""
 website: ""

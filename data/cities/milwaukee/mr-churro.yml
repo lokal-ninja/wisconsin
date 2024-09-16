@@ -1,11 +1,11 @@
 id: 663022758
-type: way
+type: node
 latitude: 43.02215
 longitude: -87.94314
 postcode: "53204"
 city: Milwaukee
-street: "West National Avenue"
-housenumber: 2333
+street: West National Avenue
+housenumber: "2333"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:30; Sa 06:00-14:00; Su 06:00-13:00"
+opening_hours: Mo-Fr 06:00-17:30; Sa 06:00-14:00; Su 06:00-13:00
 website: ""

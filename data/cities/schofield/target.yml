@@ -1,11 +1,11 @@
 id: 517810892
-type: way
+type: node
 latitude: 44.90661
 longitude: -89.59107
-postcode: "54476-2430"
+postcode: 54476-2430
 city: Schofield
-street: "Schofield Avenue"
-housenumber: 2707
-phone: "+1 715-355-4494"
-opening_hours: "07:00-22:00"
-website: "https://www.target.com/sl/wausau/364"
+street: Schofield Avenue
+housenumber: "2707"
+phone: +1 715-355-4494
+opening_hours: 07:00-22:00
+website: https://www.target.com/sl/wausau/364

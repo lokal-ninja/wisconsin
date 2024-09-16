@@ -1,11 +1,11 @@
 id: 1018461816
-type: way
+type: node
 latitude: 45.12688
 longitude: -87.24017
 postcode: "54212"
 city: Fish Creek
-street: "State Highway 42"
-housenumber: 4084
+street: State Highway 42
+housenumber: "4084"
 phone: ""
 opening_hours: ""
 website: ""

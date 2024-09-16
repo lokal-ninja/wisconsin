@@ -1,11 +1,11 @@
 id: 664179151
-type: way
+type: node
 latitude: 42.92822
 longitude: -88.04707
 postcode: "53132"
 city: Franklin
-street: "South 108th Street"
-housenumber: 6420
+street: South 108th Street
+housenumber: "6420"
 phone: ""
 opening_hours: ""
 website: ""

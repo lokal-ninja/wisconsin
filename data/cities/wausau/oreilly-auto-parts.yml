@@ -1,11 +1,11 @@
 id: 484080559
-type: way
+type: node
 latitude: 44.95657
 longitude: -89.65626
 postcode: "54401"
 city: Wausau
-street: "South 17th Avenue"
-housenumber: 600
+street: South 17th Avenue
+housenumber: "600"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/wi/wausau/autoparts-2131.html"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/wi/wausau/autoparts-2131.html

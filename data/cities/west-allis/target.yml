@@ -1,11 +1,11 @@
 id: 663384306
-type: way
+type: node
 latitude: 42.99677
 longitude: -88.04469
 postcode: "53227"
 city: West Allis
-street: "South 108th Street"
-housenumber: 2600
-phone: "+1 414-545-8000"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/west-allis/2199"
+street: South 108th Street
+housenumber: "2600"
+phone: +1 414-545-8000
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/west-allis/2199

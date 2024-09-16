@@ -1,11 +1,11 @@
 id: 1159233297
-type: way
+type: node
 latitude: 42.63062
 longitude: -88.62654
 postcode: "53115"
 city: Delavan
-street: "South Wright Street"
-housenumber: 204
+street: South Wright Street
+housenumber: "204"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/delavan/204-wright-st.html"
+website: https://www.autozone.com/locations/wi/delavan/204-wright-st.html

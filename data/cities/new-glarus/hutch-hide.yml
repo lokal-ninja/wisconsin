@@ -1,11 +1,11 @@
 id: 291722634
-type: way
+type: node
 latitude: 42.8144
 longitude: -89.63376
 postcode: "53574"
 city: New Glarus
-street: "1st Street"
-housenumber: 600
-phone: "608-636-2300"
+street: 1st Street
+housenumber: "600"
+phone: 608-636-2300
 opening_hours: ""
 website: ""

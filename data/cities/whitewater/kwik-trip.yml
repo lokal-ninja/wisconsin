@@ -1,11 +1,11 @@
 id: 1312714526
-type: way
+type: node
 latitude: 42.82179
 longitude: -88.74606
 postcode: "53190"
 city: Whitewater
-street: "Janesville Street"
-housenumber: 837
-phone: "+1-262-472-0966"
-opening_hours: "24/7"
+street: Janesville Street
+housenumber: "837"
+phone: +1-262-472-0966
+opening_hours: 24/7
 website: ""

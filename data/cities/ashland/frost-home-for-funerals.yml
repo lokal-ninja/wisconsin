@@ -1,11 +1,11 @@
 id: 671374428
-type: way
+type: node
 latitude: 46.58786
 longitude: -90.87934
 postcode: "54806"
 city: Ashland
-street: "Ellis Avenue"
-housenumber: 601
+street: Ellis Avenue
+housenumber: "601"
 phone: ""
 opening_hours: ""
 website: ""

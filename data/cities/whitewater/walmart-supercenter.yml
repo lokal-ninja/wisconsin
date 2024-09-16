@@ -1,11 +1,11 @@
 id: 293642498
-type: way
+type: node
 latitude: 42.8361
 longitude: -88.7573
 postcode: "53190"
 city: Whitewater
-street: "West Main Street"
-housenumber: 1362
-phone: "+1 262-473-7744"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/1274/whitewater-wi/whats-new"
+street: West Main Street
+housenumber: "1362"
+phone: +1 262-473-7744
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/1274/whitewater-wi/whats-new

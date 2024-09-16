@@ -1,11 +1,11 @@
 id: 664189109
-type: way
+type: node
 latitude: 42.93485
 longitude: -87.99274
 postcode: "53129"
 city: Greendale
-street: "West Loomis Road"
-housenumber: 6210
+street: West Loomis Road
+housenumber: "6210"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-6210+w+loomis+rd-greendale-wi-53129/id=4556"
+website: https://www.walgreens.com/locator/walgreens-6210+w+loomis+rd-greendale-wi-53129/id=4556

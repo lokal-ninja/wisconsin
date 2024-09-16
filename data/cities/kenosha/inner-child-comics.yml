@@ -1,11 +1,11 @@
 id: 626678368
-type: way
+type: node
 latitude: 42.58189
 longitude: -87.81847
 postcode: "53140"
 city: Kenosha
-street: "6th Avenue A"
-housenumber: 5917
+street: 6th Avenue A
+housenumber: "5917"
 phone: ""
 opening_hours: ""
 website: ""

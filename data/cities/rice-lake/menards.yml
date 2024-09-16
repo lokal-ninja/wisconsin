@@ -1,11 +1,11 @@
 id: 120234862
-type: way
+type: node
 latitude: 45.47112
 longitude: -91.75526
 postcode: "54868"
 city: Rice Lake
-street: "Decker Drive"
-housenumber: 2920
-phone: "+1 715-236-2100"
-opening_hours: "Mo-Su 06:00-21:00"
-website: "https://www.menards.com/store-details/store.html?store=3152"
+street: Decker Drive
+housenumber: "2920"
+phone: +1 715-236-2100
+opening_hours: Mo-Su 06:00-21:00
+website: https://www.menards.com/store-details/store.html?store=3152

@@ -1,11 +1,11 @@
 id: 722020426
-type: way
+type: node
 latitude: 43.94017
 longitude: -90.82288
 postcode: "54656"
 city: Sparta
-street: "West Wisconsin Street"
-housenumber: 834
-phone: "+1 606-864-5145"
+street: West Wisconsin Street
+housenumber: "834"
+phone: +1 606-864-5145
 opening_hours: ""
 website: ""

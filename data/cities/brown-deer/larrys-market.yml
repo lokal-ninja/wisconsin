@@ -1,11 +1,11 @@
 id: 658849223
-type: way
+type: node
 latitude: 43.1769
 longitude: -87.96406
 postcode: "53209"
 city: Brown Deer
-street: "North Deerwood Drive"
-housenumber: 8737
-phone: "+1.414.355.9650"
+street: North Deerwood Drive
+housenumber: "8737"
+phone: +1.414.355.9650
 opening_hours: ""
-website: "https://www.larrysmarket.com/"
+website: https://www.larrysmarket.com/

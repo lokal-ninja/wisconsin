@@ -1,11 +1,11 @@
 id: 465974963
-type: way
+type: node
 latitude: 42.91871
 longitude: -89.25485
 postcode: "53589"
 city: Stoughton
-street: "State Highway 138"
-housenumber: 2600
-phone: "+1 608-873-5453"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/1176/stoughton-wi/whats-new"
+street: State Highway 138
+housenumber: "2600"
+phone: +1 608-873-5453
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/1176/stoughton-wi/whats-new

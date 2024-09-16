@@ -1,11 +1,11 @@
 id: 663958426
-type: way
+type: node
 latitude: 42.96634
 longitude: -87.93918
 postcode: "53221"
 city: Milwaukee
-street: "South 20th Street"
-housenumber: 4309
+street: South 20th Street
+housenumber: "4309"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 881494174
-type: way
+type: node
 latitude: 44.28549
 longitude: -88.41519
 postcode: "54911"
 city: Appleton
-street: "North Richmond Street"
-housenumber: 2702
-phone: "+1 866-464-1086"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/appleton/2702-n-richmond-street"
+street: North Richmond Street
+housenumber: "2702"
+phone: +1 866-464-1086
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/appleton/2702-n-richmond-street

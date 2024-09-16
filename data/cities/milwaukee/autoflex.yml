@@ -1,11 +1,11 @@
 id: 663862688
-type: way
+type: node
 latitude: 42.98818
 longitude: -87.97012
 postcode: "53219"
 city: Milwaukee
-street: "West Forest Home Avenue"
-housenumber: 4440
-phone: "+1 414 777 0272"
+street: West Forest Home Avenue
+housenumber: "4440"
+phone: +1 414 777 0272
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 371450150
-type: way
+type: node
 latitude: 43.03615
 longitude: -89.39818
 postcode: "53713"
 city: Madison
-street: "Ann Street"
-housenumber: 920
+street: Ann Street
+housenumber: "920"
 phone: ""
 opening_hours: ""
 website: ""

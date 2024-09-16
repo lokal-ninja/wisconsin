@@ -1,11 +1,11 @@
 id: 742049780
-type: way
+type: node
 latitude: 42.88108
 longitude: -88.341
 postcode: "53149"
 city: Mukwonago
-street: "North Rochester Street"
-housenumber: 1212
+street: North Rochester Street
+housenumber: "1212"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=282"
+website: https://www.kwiktrip.com/locator/store?id=282

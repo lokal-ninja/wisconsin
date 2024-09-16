@@ -1,11 +1,11 @@
 id: 496895515
-type: way
+type: node
 latitude: 42.82098
 longitude: -89.63289
 postcode: "53574"
 city: New Glarus
-street: "State Highway 69"
-housenumber: 98
-phone: "608-527-5050"
+street: State Highway 69
+housenumber: "98"
+phone: 608-527-5050
 opening_hours: ""
-website: "http://www.rpm4sale.com/temps/index.cfm"
+website: http://www.rpm4sale.com/temps/index.cfm

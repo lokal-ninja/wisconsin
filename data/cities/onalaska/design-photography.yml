@@ -1,11 +1,11 @@
 id: 676038015
-type: way
+type: node
 latitude: 43.89438
 longitude: -91.23919
 postcode: "54650"
 city: Onalaska
-street: "2nd Avenue North"
-housenumber: 830
-phone: "+1-608-783-2324"
+street: 2nd Avenue North
+housenumber: "830"
+phone: +1-608-783-2324
 opening_hours: ""
-website: "https://www.designphotography.net/"
+website: https://www.designphotography.net/

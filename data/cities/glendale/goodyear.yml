@@ -1,11 +1,11 @@
 id: 73903962
-type: way
+type: node
 latitude: 43.12833
 longitude: -87.91261
 postcode: "53217"
 city: Glendale
-street: "North Port Washington Road"
-housenumber: 6130
+street: North Port Washington Road
+housenumber: "6130"
 phone: ""
 opening_hours: ""
 website: ""

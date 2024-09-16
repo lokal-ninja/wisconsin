@@ -1,11 +1,11 @@
 id: 115364671
-type: way
+type: node
 latitude: 42.59061
 longitude: -87.86221
 postcode: "53144"
 city: kenosha
-street: "52nd Street"
-housenumber: 4404
+street: 52nd Street
+housenumber: "4404"
 phone: "+12626711738"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://www.uhaul.com/Locations/Truck-Rentals-near-Kenosha-WI-53144/750076"
+opening_hours: Mo-Sa 07:00-19:00
+website: https://www.uhaul.com/Locations/Truck-Rentals-near-Kenosha-WI-53144/750076

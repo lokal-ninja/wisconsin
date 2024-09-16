@@ -1,11 +1,11 @@
 id: 94020872
-type: way
+type: node
 latitude: 44.81625
 longitude: -91.50088
 postcode: "54703"
 city: Eau Claire
-street: "East Madison Street"
-housenumber: 419
+street: East Madison Street
+housenumber: "419"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 394660346
-type: way
+type: node
 latitude: 43.79009
 longitude: -88.48386
 postcode: "54937"
 city: Fond Du Lac
-street: "North Rolling Meadows Drive"
-housenumber: 485
-phone: "+1 920-924-0420"
-opening_hours: "Mo-Su 08:00-21:00"
-website: "https://www.target.com/sl/fond-du-lac/808"
+street: North Rolling Meadows Drive
+housenumber: "485"
+phone: +1 920-924-0420
+opening_hours: Mo-Su 08:00-21:00
+website: https://www.target.com/sl/fond-du-lac/808

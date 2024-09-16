@@ -1,11 +1,11 @@
 id: 375158206
-type: way
+type: node
 latitude: 44.66068
 longitude: -90.17687
 postcode: "54449"
 city: Marshfield
-street: "South Central Avenue"
-housenumber: 751
-phone: "+1 715 384 9101"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su 09:00-16:00"
+street: South Central Avenue
+housenumber: "751"
+phone: +1 715 384 9101
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00; Su 09:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 438983918
-type: way
+type: node
 latitude: 42.67178
 longitude: -89.03224
 postcode: "53558"
 city: Janesville
-street: "Center Avenue"
-housenumber: 714
+street: Center Avenue
+housenumber: "714"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1505"
+website: https://www.kwiktrip.com/locator/store?id=1505

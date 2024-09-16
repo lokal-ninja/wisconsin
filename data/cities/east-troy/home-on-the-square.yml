@@ -4,8 +4,8 @@ latitude: 42.78567
 longitude: -88.40558
 postcode: "53120"
 city: East Troy
-street: "Main Street"
-housenumber: 2888
-phone: "262-642-5400"
+street: Main Street
+housenumber: "2888"
+phone: 262-642-5400
 opening_hours: ""
-website: "http://www.homeonthesquare.shop/"
+website: http://www.homeonthesquare.shop/

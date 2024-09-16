@@ -1,11 +1,11 @@
 id: 664246118
-type: way
+type: node
 latitude: 42.92629
 longitude: -87.94845
 postcode: "53154"
 city: Oak Creek
-street: "South 27th Street"
-housenumber: 6534
+street: South 27th Street
+housenumber: "6534"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/oak-creek/6534-s-27th-st"
+website: https://stores.advanceautoparts.com/wi/oak-creek/6534-s-27th-st

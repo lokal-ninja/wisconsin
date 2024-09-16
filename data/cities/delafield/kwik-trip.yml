@@ -1,11 +1,11 @@
 id: 504432127
-type: way
+type: node
 latitude: 43.04979
 longitude: -88.37484
 postcode: "53018"
 city: Delafield
-street: "Sun Valley Drive"
-housenumber: 2694
+street: Sun Valley Drive
+housenumber: "2694"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=972"
+website: https://www.kwiktrip.com/locator/store?id=972

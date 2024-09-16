@@ -1,11 +1,11 @@
 id: 362312979
-type: way
+type: node
 latitude: 44.52411
 longitude: -89.53218
 postcode: ""
 city: Stevens Point
-street: "Main Street"
-housenumber: 4928
+street: Main Street
+housenumber: "4928"
 phone: ""
 opening_hours: ""
 website: ""

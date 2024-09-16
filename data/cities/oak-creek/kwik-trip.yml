@@ -1,11 +1,11 @@
 id: 437690791
-type: way
+type: node
 latitude: 42.87126
 longitude: -87.93327
 postcode: "53154"
 city: Oak Creek
-street: "South 13th Street"
-housenumber: 9535
+street: South 13th Street
+housenumber: "9535"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=422"
+website: https://www.kwiktrip.com/locator/store?id=422

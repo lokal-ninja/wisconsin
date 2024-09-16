@@ -1,11 +1,11 @@
 id: 975529924
-type: way
+type: node
 latitude: 42.56624
 longitude: -87.92791
 postcode: "53158"
 city: Pleasant Prairie
-street: "76th Street"
-housenumber: 9780
-phone: "+1 262 697 6993"
-opening_hours: "Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-17:00; Su 10:00-16:00"
-website: "https://www.costcutters.com"
+street: 76th Street
+housenumber: "9780"
+phone: +1 262 697 6993
+opening_hours: Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 08:00-17:00; Su 10:00-16:00
+website: https://www.costcutters.com

@@ -1,11 +1,11 @@
 id: 696484485
-type: way
+type: node
 latitude: 44.90273
 longitude: -88.30768
 postcode: "54124"
 city: Gillett
-street: "State Highway 32"
-housenumber: 6255
-phone: "920-855-2400"
+street: State Highway 32
+housenumber: "6255"
+phone: 920-855-2400
 opening_hours: ""
-website: "https://find.shell.com/us/fuel/10015003-6255-state-highway-32-n"
+website: https://find.shell.com/us/fuel/10015003-6255-state-highway-32-n

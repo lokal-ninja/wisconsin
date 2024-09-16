@@ -1,11 +1,11 @@
 id: 181439625
-type: way
+type: node
 latitude: 43.336
 longitude: -90.38321
 postcode: "53581"
 city: Richland Center
-street: "North Park Street"
-housenumber: 120
+street: North Park Street
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

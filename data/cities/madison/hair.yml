@@ -1,11 +1,11 @@
 id: 317091936
-type: way
+type: node
 latitude: 43.06491
 longitude: -89.41694
 postcode: "53711"
 city: Madison
-street: "Monroe Street"
-housenumber: 1839
-phone: "608-259-1111"
+street: Monroe Street
+housenumber: "1839"
+phone: 608-259-1111
 opening_hours: ""
-website: "https://www.hairmonroe.com/"
+website: https://www.hairmonroe.com/

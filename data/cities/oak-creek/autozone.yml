@@ -1,11 +1,11 @@
 id: 436474517
-type: way
+type: node
 latitude: 42.87224
 longitude: -87.94994
 postcode: "53154"
 city: Oak Creek
-street: "West Ryan Road"
-housenumber: 2605
+street: West Ryan Road
+housenumber: "2605"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/oak-creek/2605-w-ryan-rd.html"
+website: https://www.autozone.com/locations/wi/oak-creek/2605-w-ryan-rd.html

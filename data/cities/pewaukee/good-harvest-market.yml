@@ -1,11 +1,11 @@
 id: 1010416488
-type: way
+type: node
 latitude: 43.04344
 longitude: -88.2634
 postcode: "53072"
 city: Pewaukee
-street: "Silvernail Road"
-housenumber: 2205
-phone: "+1-262-544-9380"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-19:00"
-website: "https://www.goodharvestmarket.com/"
+street: Silvernail Road
+housenumber: "2205"
+phone: +1-262-544-9380
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-19:00
+website: https://www.goodharvestmarket.com/

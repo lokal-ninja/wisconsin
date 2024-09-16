@@ -1,11 +1,11 @@
 id: 664002633
-type: way
+type: node
 latitude: 42.95777
 longitude: -87.85946
 postcode: "53110"
 city: Cudahy
-street: "South Packard Avenue"
-housenumber: 4758
-phone: "+1-414-831-0211"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 12:00-17:00"
-website: "https://www.southshorecyclery.com/"
+street: South Packard Avenue
+housenumber: "4758"
+phone: +1-414-831-0211
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-17:00; Su 12:00-17:00
+website: https://www.southshorecyclery.com/

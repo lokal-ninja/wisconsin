@@ -4,8 +4,8 @@ latitude: 42.78955
 longitude: -88.39616
 postcode: "53120"
 city: East Troy
-street: "Main Street"
-housenumber: 2654
-phone: "262-642-4444"
+street: Main Street
+housenumber: "2654"
+phone: 262-642-4444
 opening_hours: ""
-website: "https://facebook.com/eastroymotors/"
+website: https://facebook.com/eastroymotors/

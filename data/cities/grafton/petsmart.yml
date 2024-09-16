@@ -1,11 +1,11 @@
 id: 1066003353
-type: way
+type: node
 latitude: 43.32292
 longitude: -87.92468
 postcode: "53024"
 city: Grafton
-street: "North Port Washington Road"
-housenumber: 1030
-phone: "+1 262-375-2853"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://www.petsmart.com/stores/us/wi/grafton-store1632.html"
+street: North Port Washington Road
+housenumber: "1030"
+phone: +1 262-375-2853
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://www.petsmart.com/stores/us/wi/grafton-store1632.html

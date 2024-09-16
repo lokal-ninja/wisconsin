@@ -1,11 +1,11 @@
 id: 1018694350
-type: way
+type: node
 latitude: 44.83462
 longitude: -87.37679
 postcode: "54235"
 city: Sturgeon Bay
-street: "North 3rd Avenue"
-housenumber: 27
+street: North 3rd Avenue
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

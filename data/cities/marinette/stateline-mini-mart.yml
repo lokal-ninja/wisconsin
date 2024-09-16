@@ -1,11 +1,11 @@
 id: 786323930
-type: way
+type: node
 latitude: 45.10006
 longitude: -87.62998
 postcode: "54143"
 city: Marinette
-street: "Bridge Street"
-housenumber: 432
+street: Bridge Street
+housenumber: "432"
 phone: ""
 opening_hours: ""
 website: ""

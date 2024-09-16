@@ -1,11 +1,11 @@
 id: 659171257
-type: way
+type: node
 latitude: 43.17749
 longitude: -87.99767
-postcode: "53223-2105"
+postcode: 53223-2105
 city: Milwaukee
-street: "West Brown Deer Road"
-housenumber: 7001
+street: West Brown Deer Road
+housenumber: "7001"
 phone: ""
 opening_hours: ""
 website: ""

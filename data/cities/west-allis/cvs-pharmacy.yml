@@ -1,11 +1,11 @@
 id: 802012061
-type: way
+type: node
 latitude: 42.98956
 longitude: -88.00741
 postcode: "53219"
 city: West Allis
-street: "West Oklahoma Avenue"
-housenumber: 7552
+street: West Oklahoma Avenue
+housenumber: "7552"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/west-allis-wi-pharmacies/7552-w-oklahoma-ave-west-allis-wi-53219/storeid=5676"
+website: https://www.cvs.com/store-locator/west-allis-wi-pharmacies/7552-w-oklahoma-ave-west-allis-wi-53219/storeid=5676

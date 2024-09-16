@@ -1,11 +1,11 @@
 id: 553161798
-type: way
+type: node
 latitude: 44.22081
 longitude: -88.42973
 postcode: "54952"
 city: Appleton
-street: "Appleton Road"
-housenumber: 1140
+street: Appleton Road
+housenumber: "1140"
 phone: ""
 opening_hours: ""
 website: ""

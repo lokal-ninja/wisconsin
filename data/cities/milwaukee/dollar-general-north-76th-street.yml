@@ -1,11 +1,11 @@
 id: 1062312178
-type: way
+type: node
 latitude: 43.12548
 longitude: -88.00658
 postcode: "53218"
 city: Milwaukee
-street: "North 76th Street"
-housenumber: 5925
+street: North 76th Street
+housenumber: "5925"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/milwaukee/20378"
+website: https://www.dollargeneral.com/store-directory/wi/milwaukee/20378

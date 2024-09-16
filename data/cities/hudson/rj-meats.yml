@@ -1,11 +1,11 @@
 id: 166316930
-type: way
+type: node
 latitude: 44.96371
 longitude: -92.74281
 postcode: "54016"
 city: Hudson
-street: "Coulee Road"
-housenumber: 1101
-phone: "+1-715-386-9291"
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "https://www.rjmeats.com/"
+street: Coulee Road
+housenumber: "1101"
+phone: +1-715-386-9291
+opening_hours: Mo-Sa 09:00-18:00
+website: https://www.rjmeats.com/

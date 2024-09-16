@@ -1,11 +1,11 @@
 id: 340231696
-type: way
+type: node
 latitude: 44.54526
 longitude: -88.07519
 postcode: "54303"
 city: Howard
-street: "Woodman Drive"
-housenumber: 2300
+street: Woodman Drive
+housenumber: "2300"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3294"
+website: https://www.menards.com/store-details/store.html?store=3294

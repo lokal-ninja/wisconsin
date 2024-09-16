@@ -1,11 +1,11 @@
 id: 360200818
-type: way
+type: node
 latitude: 46.43682
 longitude: -90.21539
 postcode: "54534"
 city: Hurley
-street: "Cary Road"
-housenumber: 603
+street: Cary Road
+housenumber: "603"
 phone: ""
 opening_hours: ""
 website: ""

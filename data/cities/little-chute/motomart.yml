@@ -1,11 +1,11 @@
 id: 568809431
-type: way
+type: node
 latitude: 44.27963
 longitude: -88.31865
 postcode: "54140"
 city: Little Chute
-street: "West Main Street"
-housenumber: 303
+street: West Main Street
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

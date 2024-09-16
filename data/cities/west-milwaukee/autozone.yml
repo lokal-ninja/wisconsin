@@ -1,11 +1,11 @@
 id: 663266024
-type: way
+type: node
 latitude: 43.01568
 longitude: -87.96736
 postcode: ""
 city: West Milwaukee
-street: "West Orchard Street"
-housenumber: 4227
+street: West Orchard Street
+housenumber: "4227"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/milwaukee/4227-w-orchard-st.html"
+website: https://www.autozone.com/locations/wi/milwaukee/4227-w-orchard-st.html

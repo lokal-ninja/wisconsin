@@ -1,11 +1,11 @@
 id: 1165488742
-type: way
+type: node
 latitude: 43.06184
 longitude: -88.0679
 postcode: "53005"
 city: Brookfield
-street: "North 124th Street"
-housenumber: 2325
-phone: "+1 262-786-8900"
-opening_hours: "Mo-Sa 09:00-22:00; Su 09:00-21:00"
-website: "https://www.kohls.com/stores/wi/brookfield-39.shtml"
+street: North 124th Street
+housenumber: "2325"
+phone: +1 262-786-8900
+opening_hours: Mo-Sa 09:00-22:00; Su 09:00-21:00
+website: https://www.kohls.com/stores/wi/brookfield-39.shtml

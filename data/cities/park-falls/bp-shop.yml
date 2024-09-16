@@ -1,11 +1,11 @@
 id: 361623458
-type: way
+type: node
 latitude: 45.92169
 longitude: -90.4519
 postcode: "54552"
 city: Park Falls
-street: "4th Avenue South"
-housenumber: 1130
+street: 4th Avenue South
+housenumber: "1130"
 phone: ""
 opening_hours: ""
 website: ""

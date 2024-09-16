@@ -1,11 +1,11 @@
 id: 309779940
-type: way
+type: node
 latitude: 43.1409
 longitude: -90.71016
 postcode: "53805"
 city: Boscobel
-street: "Prarie Street"
-housenumber: 305
+street: Prarie Street
+housenumber: "305"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=231"
+website: https://www.kwiktrip.com/locator/store?id=231

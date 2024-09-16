@@ -1,11 +1,11 @@
 id: 618576582
-type: way
+type: node
 latitude: 43.83032
 longitude: -91.242
 postcode: "54669"
 city: La Crosse
-street: "Lang Drive"
-housenumber: 223
-phone: "+1 608-782-0130"
+street: Lang Drive
+housenumber: "223"
+phone: +1 608-782-0130
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3012"
+website: https://www.menards.com/store-details/store.html?store=3012

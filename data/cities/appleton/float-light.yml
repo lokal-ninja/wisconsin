@@ -1,11 +1,11 @@
 id: 700437212
-type: way
+type: node
 latitude: 44.26136
 longitude: -88.41454
 postcode: "54911"
 city: Appleton
-street: "West College Avenue"
-housenumber: 609
+street: West College Avenue
+housenumber: "609"
 phone: ""
 opening_hours: ""
 website: ""

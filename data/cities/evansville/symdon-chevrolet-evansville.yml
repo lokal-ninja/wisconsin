@@ -1,11 +1,11 @@
 id: 26723369
-type: way
+type: node
 latitude: 42.78748
 longitude: -89.29957
 postcode: "53536"
 city: Evansville
-street: "Union Street"
-housenumber: 
+street: Union Street
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

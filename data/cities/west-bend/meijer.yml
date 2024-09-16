@@ -1,11 +1,11 @@
 id: 584325008
-type: way
+type: node
 latitude: 43.39466
 longitude: -88.18524
 postcode: "53095"
 city: West Bend
-street: "South Main Street"
-housenumber: 2180
-phone: "+1-262-334-8500"
-opening_hours: "24/7"
+street: South Main Street
+housenumber: "2180"
+phone: +1-262-334-8500
+opening_hours: 24/7
 website: ""

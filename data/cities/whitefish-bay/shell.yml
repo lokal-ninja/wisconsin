@@ -1,11 +1,11 @@
 id: 660338234
-type: way
+type: node
 latitude: 43.10366
 longitude: -87.90656
 postcode: "53211"
 city: Whitefish Bay
-street: "East Hampton Road"
-housenumber: 303
+street: East Hampton Road
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 423726908
-type: way
+type: node
 latitude: 43.6524
 longitude: -90.33932
 postcode: "54634"
 city: Hillsboro
-street: "Prairie Avenue"
-housenumber: 908
-phone: "608-489-2516"
+street: Prairie Avenue
+housenumber: "908"
+phone: 608-489-2516
 opening_hours: ""
-website: "https://pichafuneralhomes.com/"
+website: https://pichafuneralhomes.com/

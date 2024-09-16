@@ -1,11 +1,11 @@
 id: 663959462
-type: way
+type: node
 latitude: 42.97057
 longitude: -87.94566
 postcode: "53221"
 city: Milwaukee
-street: "South 27th Street"
-housenumber: 4100
-phone: "+1-414-395-0964"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00"
-website: "https://www.lakechevymke.com/"
+street: South 27th Street
+housenumber: "4100"
+phone: +1-414-395-0964
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00
+website: https://www.lakechevymke.com/

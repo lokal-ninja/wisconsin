@@ -1,11 +1,11 @@
 id: 1176000109
-type: way
+type: node
 latitude: 42.92621
 longitude: -88.04625
 postcode: "53132"
 city: Franklin
-street: "South Lovers Lane Road"
-housenumber: 6524
+street: South Lovers Lane Road
+housenumber: "6524"
 phone: ""
 opening_hours: ""
 website: ""

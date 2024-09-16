@@ -1,11 +1,11 @@
 id: 315045389
-type: way
+type: node
 latitude: 43.53336
 longitude: -89.9818
 postcode: ""
 city: Reedsburg
-street: "Viking Drive"
-housenumber: 100
+street: Viking Drive
+housenumber: "100"
 phone: ""
 opening_hours: ""
 website: ""

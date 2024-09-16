@@ -1,11 +1,11 @@
 id: 549992725
-type: way
+type: node
 latitude: 44.01681
 longitude: -88.5372
 postcode: "54901"
 city: Oshkosh
-street: "Waugoo Avenue"
-housenumber: 5
-phone: "+1-920-235-2700"
-opening_hours: "Mo-Sa 07:30-16:00"
-website: "http://jerrysbarbershoposhkosh.com"
+street: Waugoo Avenue
+housenumber: "5"
+phone: +1-920-235-2700
+opening_hours: Mo-Sa 07:30-16:00
+website: http://jerrysbarbershoposhkosh.com

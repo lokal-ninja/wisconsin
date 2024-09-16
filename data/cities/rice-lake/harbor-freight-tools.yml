@@ -1,11 +1,11 @@
 id: 251557061
-type: way
+type: node
 latitude: 45.47417
 longitude: -91.73394
 postcode: "54868"
 city: Rice Lake
-street: "South Main Street"
-housenumber: 2601
-phone: "+1 715-532-5900"
-opening_hours: "Mo-Sa 08:00-20:00; Su 08:00-18:00"
-website: "https://www.harborfreight.com/storelocator/2601-s-main-street-suite-b-rice-lake-54868?number=874"
+street: South Main Street
+housenumber: "2601"
+phone: +1 715-532-5900
+opening_hours: Mo-Sa 08:00-20:00; Su 08:00-18:00
+website: https://www.harborfreight.com/storelocator/2601-s-main-street-suite-b-rice-lake-54868?number=874

@@ -1,11 +1,11 @@
 id: 291570954
-type: way
+type: node
 latitude: 43.05244
 longitude: -89.39629
 postcode: "53715"
 city: Madison
-street: "South Park Street"
-housenumber: 1312
+street: South Park Street
+housenumber: "1312"
 phone: ""
-opening_hours: "07:00-22:00"
+opening_hours: 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 587873525
-type: way
+type: node
 latitude: 44.28826
 longitude: -88.39964
-postcode: "54911-2128"
+postcode: 54911-2128
 city: Appleton
-street: "East Northland Avenue"
-housenumber: 500
-phone: "+1 920-731-0500"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-15:00"
+street: East Northland Avenue
+housenumber: "500"
+phone: +1 920-731-0500
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-15:00
 website: ""

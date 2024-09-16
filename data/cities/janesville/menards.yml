@@ -1,11 +1,11 @@
 id: 231076709
-type: way
+type: node
 latitude: 42.72569
 longitude: -88.9967
 postcode: "53545"
 city: Janesville
-street: "Morse Street"
-housenumber: 2001
+street: Morse Street
+housenumber: "2001"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3252"
+website: https://www.menards.com/store-details/store.html?store=3252

@@ -1,11 +1,11 @@
 id: 664240494
-type: way
+type: node
 latitude: 42.9297
 longitude: -87.86406
 postcode: "53172"
 city: South Milwaukee
-street: "East College Avenue"
-housenumber: 1223
+street: East College Avenue
+housenumber: "1223"
 phone: ""
 opening_hours: ""
 website: ""

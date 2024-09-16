@@ -1,11 +1,11 @@
 id: 286699865
-type: way
+type: node
 latitude: 44.28244
 longitude: -88.26845
 postcode: "54130"
 city: Kaukauna
-street: "West Wisconsin Avenue"
-housenumber: 132
-phone: "+1-920-766-3657"
+street: West Wisconsin Avenue
+housenumber: "132"
+phone: +1-920-766-3657
 opening_hours: ""
-website: "https://www.kksewvac.com/"
+website: https://www.kksewvac.com/

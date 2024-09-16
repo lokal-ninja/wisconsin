@@ -1,11 +1,11 @@
 id: 180963364
-type: way
+type: node
 latitude: 43.33488
 longitude: -90.38963
 postcode: "53581"
 city: Richland Center
-street: "South Orange Street"
-housenumber: 110
+street: South Orange Street
+housenumber: "110"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/richland-center/110-s-orange-st.html"
+website: https://www.autozone.com/locations/wi/richland-center/110-s-orange-st.html

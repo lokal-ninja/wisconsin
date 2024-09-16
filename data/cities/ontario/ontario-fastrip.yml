@@ -1,11 +1,11 @@
 id: 423267383
-type: way
+type: node
 latitude: 43.72343
 longitude: -90.59182
 postcode: "54651"
 city: Ontario
-street: "N. Garden Street"
-housenumber: 201
+street: N. Garden Street
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

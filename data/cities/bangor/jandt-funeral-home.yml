@@ -1,11 +1,11 @@
 id: 220786945
-type: way
+type: node
 latitude: 43.89257
 longitude: -90.99862
 postcode: "54614"
 city: Bangor
-street: "Hattan Street"
-housenumber: 102
+street: Hattan Street
+housenumber: "102"
 phone: ""
 opening_hours: ""
-website: "http://www.jandtfredrickson.com/"
+website: http://www.jandtfredrickson.com/

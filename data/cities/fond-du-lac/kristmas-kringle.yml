@@ -1,11 +1,11 @@
 id: 583779360
-type: way
+type: node
 latitude: 43.74597
 longitude: -88.45177
 postcode: "54935"
 city: Fond du Lac
-street: "South Main Street"
-housenumber: 1330
-phone: "+1-920-922-3900"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "http://www.kristmaskringle.com/"
+street: South Main Street
+housenumber: "1330"
+phone: +1-920-922-3900
+opening_hours: Mo-Sa 10:00-17:00
+website: http://www.kristmaskringle.com/

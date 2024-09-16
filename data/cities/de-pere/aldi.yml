@@ -1,11 +1,11 @@
 id: 685353719
-type: way
+type: node
 latitude: 44.45304
 longitude: -88.0873
 postcode: "54115"
 city: De Pere
-street: "Main Avenue"
-housenumber: 1100
-phone: "+1 888-464-1053"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/de-pere/1100-main-avenue"
+street: Main Avenue
+housenumber: "1100"
+phone: +1 888-464-1053
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/de-pere/1100-main-avenue

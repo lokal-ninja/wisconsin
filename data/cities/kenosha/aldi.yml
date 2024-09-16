@@ -1,11 +1,11 @@
 id: 220672599
-type: way
+type: node
 latitude: 42.56737
 longitude: -87.88504
 postcode: "53142"
 city: Kenosha
-street: "75th Street"
-housenumber: 6404
-phone: "+1 844-464-7096"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/kenosha/6404-75th-street"
+street: 75th Street
+housenumber: "6404"
+phone: +1 844-464-7096
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/kenosha/6404-75th-street

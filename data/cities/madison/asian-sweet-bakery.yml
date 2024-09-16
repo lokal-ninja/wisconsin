@@ -1,11 +1,11 @@
 id: 432828373
-type: way
+type: node
 latitude: 43.05595
 longitude: -89.39777
 postcode: "53715"
 city: Madison
-street: "South Park Street"
-housenumber: 1017
-phone: "+1-608-665-3988"
-opening_hours: "Tu-Su 09:00-19:00; Mo off"
+street: South Park Street
+housenumber: "1017"
+phone: +1-608-665-3988
+opening_hours: Tu-Su 09:00-19:00; Mo off
 website: ""

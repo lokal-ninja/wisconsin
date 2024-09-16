@@ -1,11 +1,11 @@
 id: 302322698
-type: way
+type: node
 latitude: 43.05038
 longitude: -89.47182
 postcode: "53711"
 city: Madison
-street: "South Whitney Way"
-housenumber: 675
+street: South Whitney Way
+housenumber: "675"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

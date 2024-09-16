@@ -1,11 +1,11 @@
 id: 664657835
-type: way
+type: node
 latitude: 42.87721
 longitude: -87.95038
 postcode: "53154"
 city: Oak Creek
-street: "South 27th Street"
-housenumber: 9200
+street: South 27th Street
+housenumber: "9200"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 445127027
-type: way
+type: node
 latitude: 42.62124
 longitude: -89.37753
 postcode: "53520"
 city: Brodhead
-street: "10th Street"
-housenumber: 905
-phone: "608-436-3787"
+street: 10th Street
+housenumber: "905"
+phone: 608-436-3787
 opening_hours: ""
 website: ""

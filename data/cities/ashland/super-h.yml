@@ -1,11 +1,11 @@
 id: 671374294
-type: way
+type: node
 latitude: 46.59415
 longitude: -90.87814
 postcode: "54806"
 city: Ashland
-street: "Main Street East"
-housenumber: 511
+street: Main Street East
+housenumber: "511"
 phone: ""
 opening_hours: ""
 website: ""

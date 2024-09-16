@@ -1,11 +1,11 @@
 id: 908194209
-type: way
+type: node
 latitude: 44.52283
 longitude: -89.51907
 postcode: "54482"
 city: Stevens Point
-street: "Highway 10 East"
-housenumber: 5423
-phone: "+1 715-544-5051"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/5423-us-highway-10-e-ste-101-stevens-point-54482?number=2911"
+street: Highway 10 East
+housenumber: "5423"
+phone: +1 715-544-5051
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/5423-us-highway-10-e-ste-101-stevens-point-54482?number=2911

@@ -1,11 +1,11 @@
 id: 475945217
-type: way
+type: node
 latitude: 42.56883
 longitude: -89.87917
 postcode: "53587"
 city: South Wayne
-street: "West Center Street"
-housenumber: 103
+street: West Center Street
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

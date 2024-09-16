@@ -1,11 +1,11 @@
 id: 494295255
-type: way
+type: node
 latitude: 43.19189
 longitude: -89.46334
 postcode: "53597"
 city: Waunakee
-street: "West Main Street"
-housenumber: 510
-phone: "+1 (608) 849-4639"
+street: West Main Street
+housenumber: "510"
+phone: +1 (608) 849-4639
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/waunakee/autoparts-5159.html"
+website: https://locations.oreillyauto.com/wi/waunakee/autoparts-5159.html

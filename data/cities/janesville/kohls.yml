@@ -1,11 +1,11 @@
 id: 779710126
-type: way
+type: node
 latitude: 42.71112
 longitude: -89.00141
 postcode: "53545"
 city: Janesville
-street: "Milton Avenue"
-housenumber: 2500
-phone: "+1 608-752-9700"
-opening_hours: "Mo-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/wi/janesville-142.shtml"
+street: Milton Avenue
+housenumber: "2500"
+phone: +1 608-752-9700
+opening_hours: Mo-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/wi/janesville-142.shtml

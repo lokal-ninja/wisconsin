@@ -1,11 +1,11 @@
 id: 662416726
-type: way
+type: node
 latitude: 43.05009
 longitude: -88.00641
 postcode: ""
 city: Wauwatosa
-street: "North Wauwatosa Avenue"
-housenumber: 1348
+street: North Wauwatosa Avenue
+housenumber: "1348"
 phone: ""
 opening_hours: ""
 website: ""

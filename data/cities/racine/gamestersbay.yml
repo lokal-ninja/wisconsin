@@ -4,8 +4,8 @@ latitude: 42.7267
 longitude: -87.78349
 postcode: "53403"
 city: Racine
-street: "6th Street"
-housenumber: 
-phone: "+1 224-518-1100"
-opening_hours: "Mo-Th 12:00-20:00; Fr-Sa 12:00-00:00; Su 11:00-18:00"
-website: "https://gamestersbay.us/"
+street: 6th Street
+housenumber: ""
+phone: +1 224-518-1100
+opening_hours: Mo-Th 12:00-20:00; Fr-Sa 12:00-00:00; Su 11:00-18:00
+website: https://gamestersbay.us/

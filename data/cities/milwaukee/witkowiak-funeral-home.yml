@@ -1,11 +1,11 @@
 id: 663227311
-type: way
+type: node
 latitude: 43.0122
 longitude: -87.91766
 postcode: ""
 city: Milwaukee
-street: "West Historic Mitchell Street"
-housenumber: 529
+street: West Historic Mitchell Street
+housenumber: "529"
 phone: ""
 opening_hours: ""
 website: ""

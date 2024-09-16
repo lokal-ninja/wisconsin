@@ -1,11 +1,11 @@
 id: 985379958
-type: way
+type: node
 latitude: 45.88457
 longitude: -89.20193
 postcode: "54521"
 city: Eagle River
-street: "US Highway 45 S."
-housenumber: 630
-phone: "+1-715-477-2573"
-opening_hours: "Mo-Sa 09:00-17:00"
-website: "https://www.northwoods-furniture.com/"
+street: US Highway 45 S.
+housenumber: "630"
+phone: +1-715-477-2573
+opening_hours: Mo-Sa 09:00-17:00
+website: https://www.northwoods-furniture.com/

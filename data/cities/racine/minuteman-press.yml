@@ -1,11 +1,11 @@
 id: 398082779
-type: way
+type: node
 latitude: 42.72209
 longitude: -87.81647
 postcode: ""
 city: Racine
-street: "West Boulevard"
-housenumber: 910
+street: West Boulevard
+housenumber: "910"
 phone: ""
 opening_hours: ""
 website: ""

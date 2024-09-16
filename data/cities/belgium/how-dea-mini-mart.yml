@@ -1,11 +1,11 @@
 id: 502781652
-type: way
+type: node
 latitude: 43.49934
 longitude: -87.83454
 postcode: "53004"
 city: Belgium
-street: "Lakeview Drive"
-housenumber: 105
-phone: "+1-262-285-3966"
-opening_hours: "24/7"
-website: "http://howdea.net"
+street: Lakeview Drive
+housenumber: "105"
+phone: +1-262-285-3966
+opening_hours: 24/7
+website: http://howdea.net

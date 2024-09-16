@@ -1,11 +1,11 @@
 id: 105564832
-type: way
+type: node
 latitude: 43.04549
 longitude: -89.32182
 postcode: "53716"
 city: Monona
-street: "Monona Drive"
-housenumber: 6540
+street: Monona Drive
+housenumber: "6540"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
+opening_hours: Mo-Su 06:00-23:00
 website: ""

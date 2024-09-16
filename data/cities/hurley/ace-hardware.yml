@@ -2,10 +2,10 @@ id: 7651222612
 type: node
 latitude: 46.45948
 longitude: -90.19577
-postcode: "54534-1063"
+postcode: 54534-1063
 city: Hurley
-street: "Holiday Lane"
-housenumber: 1009
-phone: "+1 715-329-1285"
-opening_hours: "07:00-20:00"
+street: Holiday Lane
+housenumber: "1009"
+phone: +1 715-329-1285
+opening_hours: 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 557184406
-type: way
+type: node
 latitude: 44.26911
 longitude: -88.46454
 postcode: "54914"
 city: Grand Chute
-street: "North Westhill Boulevard"
-housenumber: 653
-phone: "+1 920-993-1123"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/grand-chute/wi/grand-chute/54914/4903"
+street: North Westhill Boulevard
+housenumber: "653"
+phone: +1 920-993-1123
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/grand-chute/wi/grand-chute/54914/4903

@@ -1,11 +1,11 @@
 id: 845387866
-type: way
+type: node
 latitude: 44.87688
 longitude: -92.62169
 postcode: "54022"
 city: River Falls
-street: "Sullivan Court"
-housenumber: 1567
-phone: "+1 833-472-7049"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/river-falls/1567-sullivan-court"
+street: Sullivan Court
+housenumber: "1567"
+phone: +1 833-472-7049
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/river-falls/1567-sullivan-court

@@ -1,11 +1,11 @@
 id: 229498614
-type: way
+type: node
 latitude: 42.67786
 longitude: -90.11748
 postcode: "53530"
 city: Darlington
-street: "Main Street"
-housenumber: 145
+street: Main Street
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

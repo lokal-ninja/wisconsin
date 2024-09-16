@@ -1,11 +1,11 @@
 id: 398445035
-type: way
+type: node
 latitude: 42.71898
 longitude: -87.83572
 postcode: "53405"
 city: Racine
-street: "Washington Avenue"
-housenumber: 4620
+street: Washington Avenue
+housenumber: "4620"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/Racine/4620-Washington-Avenue"
+website: https://www.speedway.com/locations/WI/Racine/4620-Washington-Avenue

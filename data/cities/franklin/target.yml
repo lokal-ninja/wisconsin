@@ -1,11 +1,11 @@
 id: 705887826
-type: way
+type: node
 latitude: 42.90371
 longitude: -88.03695
 postcode: "53132"
 city: Franklin
-street: "South Lovers Lane Road"
-housenumber: 7800
-phone: "+1 414-448-4000"
-opening_hours: "08:00-22:00"
-website: "https://www.target.com/sl/franklin/2388"
+street: South Lovers Lane Road
+housenumber: "7800"
+phone: +1 414-448-4000
+opening_hours: 08:00-22:00
+website: https://www.target.com/sl/franklin/2388

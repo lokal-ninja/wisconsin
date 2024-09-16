@@ -1,11 +1,11 @@
 id: 437496013
-type: way
+type: node
 latitude: 46.6083
 longitude: -90.8485
 postcode: "54806"
 city: Ashland
-street: "Lake Shore Drive East"
-housenumber: 2803
+street: Lake Shore Drive East
+housenumber: "2803"
 phone: ""
 opening_hours: ""
 website: ""

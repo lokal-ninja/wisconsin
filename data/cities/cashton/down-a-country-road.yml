@@ -1,11 +1,11 @@
 id: 1060402201
-type: way
+type: node
 latitude: 43.73357
 longitude: -90.73859
 postcode: "54619"
 city: Cashton
-street: "State Highway 33"
-housenumber: 12651
+street: State Highway 33
+housenumber: "12651"
 phone: ""
 opening_hours: ""
 website: ""

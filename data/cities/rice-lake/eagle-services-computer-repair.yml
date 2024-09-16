@@ -4,8 +4,8 @@ latitude: 45.49808
 longitude: -91.73377
 postcode: "54868"
 city: Rice Lake
-street: "South Main Street"
-housenumber: 212
-phone: "(715) 234-2292"
-opening_hours: "Mon-Thu 8:30AM-4:00PM,Fri 8:30AM-2:00PM"
-website: "https://eagleservices.co/"
+street: South Main Street
+housenumber: "212"
+phone: (715) 234-2292
+opening_hours: Mon-Thu 8:30AM-4:00PM,Fri 8:30AM-2:00PM
+website: https://eagleservices.co/

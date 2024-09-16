@@ -1,11 +1,11 @@
 id: 798216441
-type: way
+type: node
 latitude: 44.91341
 longitude: -91.93276
 postcode: "54751"
 city: Menomonie
-street: "Hils Court"
-housenumber: 2505
-phone: "+1 833-472-7044"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/menomonie/2505-hils-court"
+street: Hils Court
+housenumber: "2505"
+phone: +1 833-472-7044
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/menomonie/2505-hils-court

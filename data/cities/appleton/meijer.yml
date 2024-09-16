@@ -1,11 +1,11 @@
 id: 588825090
-type: way
+type: node
 latitude: 44.30119
 longitude: -88.41962
 postcode: "54913"
 city: Appleton
-street: "North Richmond Street"
-housenumber: 3801
-phone: "+1-920-350-6200"
-opening_hours: "24/7"
-website: "https://www.meijer.com/"
+street: North Richmond Street
+housenumber: "3801"
+phone: +1-920-350-6200
+opening_hours: 24/7
+website: https://www.meijer.com/

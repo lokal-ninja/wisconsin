@@ -1,11 +1,11 @@
 id: 974692453
-type: way
+type: node
 latitude: 43.04859
 longitude: -88.36455
 postcode: "53018"
 city: Delafield
-street: "Hillside Drive"
-housenumber: 3322
+street: Hillside Drive
+housenumber: "3322"
 phone: ""
 opening_hours: ""
 website: ""

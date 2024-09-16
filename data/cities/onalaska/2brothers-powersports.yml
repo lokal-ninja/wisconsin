@@ -1,11 +1,11 @@
 id: 620376512
-type: way
+type: node
 latitude: 43.87331
 longitude: -91.22954
 postcode: "54650"
 city: Onalaska
-street: "Oak Avenue South"
-housenumber: 905
-phone: "+1-608-781-3360"
+street: Oak Avenue South
+housenumber: "905"
+phone: +1-608-781-3360
 opening_hours: ""
-website: "https://www.2brotherspowersports.com/"
+website: https://www.2brotherspowersports.com/

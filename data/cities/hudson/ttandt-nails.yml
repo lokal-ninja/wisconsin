@@ -1,11 +1,11 @@
 id: 697218700
-type: way
+type: node
 latitude: 44.96144
 longitude: -92.7249
 postcode: "54016"
 city: Hudson
-street: "Badger Drive"
-housenumber: 2320
-phone: "+1 (715) 808-8629"
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-17:00; Su 11:00-16:00"
-website: "https://ttt-nail-salon.business.site/"
+street: Badger Drive
+housenumber: "2320"
+phone: +1 (715) 808-8629
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-17:00; Su 11:00-16:00
+website: https://ttt-nail-salon.business.site/

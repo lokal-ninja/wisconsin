@@ -1,11 +1,11 @@
 id: 121273600
-type: way
+type: node
 latitude: 42.62806
 longitude: -88.6278
 postcode: "53115"
 city: Delavan
-street: "East Geneva Street"
-housenumber: 1231
+street: East Geneva Street
+housenumber: "1231"
 phone: ""
 opening_hours: ""
 website: ""

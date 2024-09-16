@@ -1,11 +1,11 @@
 id: 779696257
-type: way
+type: node
 latitude: 42.71727
 longitude: -88.99052
 postcode: "53545"
 city: Janesville
-street: "Humes Road"
-housenumber: 2600
-phone: "+1 608-756-5123"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-18:00"
-website: "https://www.harborfreight.com/storelocator/2600-humes-road-ste-120-janesville-53545?number=797"
+street: Humes Road
+housenumber: "2600"
+phone: +1 608-756-5123
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-18:00
+website: https://www.harborfreight.com/storelocator/2600-humes-road-ste-120-janesville-53545?number=797

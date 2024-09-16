@@ -4,8 +4,8 @@ latitude: 43.0221
 longitude: -87.95664
 postcode: "53215"
 city: Milwaukee
-street: "West National Avenue"
-housenumber: 3402
-phone: "+1-414-702-3311"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off"
-website: "https://www.sphinx-auto.com/"
+street: West National Avenue
+housenumber: "3402"
+phone: +1-414-702-3311
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:00; Su off
+website: https://www.sphinx-auto.com/

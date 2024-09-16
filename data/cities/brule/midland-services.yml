@@ -1,11 +1,11 @@
 id: 291324476
-type: way
+type: node
 latitude: 46.55126
 longitude: -91.57479
 postcode: "54820"
 city: Brule
-street: "United States Highway 2"
-housenumber: 13995
+street: United States Highway 2
+housenumber: "13995"
 phone: ""
 opening_hours: ""
 website: ""

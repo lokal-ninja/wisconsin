@@ -1,11 +1,11 @@
 id: 381382965
-type: way
+type: node
 latitude: 43.04851
 longitude: -88.36245
 postcode: "53018"
 city: Delafield
-street: "Hillside Drive"
-housenumber: 3400
-phone: "+1 262-646-9160"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/delafield/wi/delafield/53018/4910"
+street: Hillside Drive
+housenumber: "3400"
+phone: +1 262-646-9160
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/delafield/wi/delafield/53018/4910

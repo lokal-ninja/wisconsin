@@ -1,11 +1,11 @@
 id: 339083290
-type: way
+type: node
 latitude: 43.06523
 longitude: -89.41641
 postcode: "53711"
 city: Madison
-street: "Monroe Street"
-housenumber: 1801
-phone: "1-877-242-9177"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.persianbijar.com/"
+street: Monroe Street
+housenumber: "1801"
+phone: 1-877-242-9177
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.persianbijar.com/

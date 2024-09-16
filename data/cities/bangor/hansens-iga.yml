@@ -1,11 +1,11 @@
 id: 220750263
-type: way
+type: node
 latitude: 43.89286
 longitude: -90.99588
 postcode: "54614"
 city: Bangor
-street: "Commercial Street"
-housenumber: 1800
-phone: "+1-608-486-2626"
-opening_hours: "Mo-Su 06:30-22:00"
-website: "https://bangor.hansensiga.com/"
+street: Commercial Street
+housenumber: "1800"
+phone: +1-608-486-2626
+opening_hours: Mo-Su 06:30-22:00
+website: https://bangor.hansensiga.com/

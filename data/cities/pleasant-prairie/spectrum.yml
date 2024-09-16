@@ -1,11 +1,11 @@
 id: 978021342
-type: way
+type: node
 latitude: 42.56546
 longitude: -87.9296
 postcode: "53158"
 city: Pleasant Prairie
-street: "77th Street"
-housenumber: 9901
-phone: "+1 888 406 7063"
-opening_hours: "Mo-Sa 10:00-20:00; Su 12:00-17:00"
-website: "https://stores.spectrum.com"
+street: 77th Street
+housenumber: "9901"
+phone: +1 888 406 7063
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-17:00
+website: https://stores.spectrum.com

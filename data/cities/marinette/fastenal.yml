@@ -1,11 +1,11 @@
 id: 352692491
-type: way
+type: node
 latitude: 45.0801
 longitude: -87.66389
 postcode: "54143"
 city: Marinette
-street: "Old Peshtigo Road"
-housenumber: 1360
-phone: "+1-715-732-9115"
-opening_hours: "Mo-Fr 09:00-15:00"
-website: "https://www.fastenal.com/"
+street: Old Peshtigo Road
+housenumber: "1360"
+phone: +1-715-732-9115
+opening_hours: Mo-Fr 09:00-15:00
+website: https://www.fastenal.com/

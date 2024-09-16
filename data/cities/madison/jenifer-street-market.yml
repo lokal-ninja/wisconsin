@@ -1,11 +1,11 @@
 id: 345776183
-type: way
+type: node
 latitude: 43.09064
 longitude: -89.35161
 postcode: "53704"
 city: Madison
-street: "Jenifer Street"
-housenumber: 2038
-phone: "608-244-6646"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Jenifer Street
+housenumber: "2038"
+phone: 608-244-6646
+opening_hours: Mo-Su 07:00-21:00
 website: ""

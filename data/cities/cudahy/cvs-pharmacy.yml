@@ -1,11 +1,11 @@
 id: 664233082
-type: way
+type: node
 latitude: 42.94032
 longitude: -87.85932
 postcode: "53110"
 city: Cudahy
-street: "South Packard Avenue"
-housenumber: 5740
+street: South Packard Avenue
+housenumber: "5740"
 phone: ""
 opening_hours: ""
-website: "https://www.cvs.com/store-locator/cudahy-wi-pharmacies/5740-s-packard-ave-cudahy-wi-53110/storeid=8772"
+website: https://www.cvs.com/store-locator/cudahy-wi-pharmacies/5740-s-packard-ave-cudahy-wi-53110/storeid=8772

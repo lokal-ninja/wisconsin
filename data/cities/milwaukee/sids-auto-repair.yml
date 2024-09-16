@@ -1,11 +1,11 @@
 id: 456679545
-type: way
+type: node
 latitude: 42.98691
 longitude: -87.88252
 postcode: "53207"
 city: Milwaukee
-street: "South Kinnickinnic Avenue"
-housenumber: 3166
+street: South Kinnickinnic Avenue
+housenumber: "3166"
 phone: ""
 opening_hours: ""
 website: ""

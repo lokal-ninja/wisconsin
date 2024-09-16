@@ -1,11 +1,11 @@
 id: 762387149
-type: way
+type: node
 latitude: 44.28056
 longitude: -88.39535
 postcode: "54911"
 city: Appleton
-street: "North Meade Street"
-housenumber: 2006
+street: North Meade Street
+housenumber: "2006"
 phone: ""
 opening_hours: ""
 website: ""

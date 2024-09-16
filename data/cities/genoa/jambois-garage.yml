@@ -1,11 +1,11 @@
 id: 496837287
-type: way
+type: node
 latitude: 43.57466
 longitude: -91.22558
 postcode: "54632"
 city: Genoa
-street: "Main Street"
-housenumber: 505
-phone: "+1-608-689-2565"
+street: Main Street
+housenumber: "505"
+phone: +1-608-689-2565
 opening_hours: ""
 website: ""

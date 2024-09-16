@@ -1,11 +1,11 @@
 id: 697900130
-type: way
+type: node
 latitude: 44.9614
 longitude: -92.72571
 postcode: "54016"
 city: Hudson
-street: "Badger Drive"
-housenumber: 2250
-phone: "+1 (715) 690- 2966"
-opening_hours: "Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00"
-website: "https://onenineboutique.com/"
+street: Badger Drive
+housenumber: "2250"
+phone: +1 (715) 690- 2966
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-18:00; Sa 10:00-17:00; Su 12:00-16:00
+website: https://onenineboutique.com/

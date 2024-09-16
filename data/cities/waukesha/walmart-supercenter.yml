@@ -1,11 +1,11 @@
 id: 564469755
-type: way
+type: node
 latitude: 42.98091
 longitude: -88.23899
 postcode: "53189"
 city: Waukesha
-street: "South West Avenue"
-housenumber: 2000
-phone: "+1 262-521-1815"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1635/waukesha-wi/whats-new"
+street: South West Avenue
+housenumber: "2000"
+phone: +1 262-521-1815
+opening_hours: 24/7
+website: https://www.walmart.com/store/1635/waukesha-wi/whats-new

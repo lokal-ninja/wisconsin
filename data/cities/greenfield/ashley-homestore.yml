@@ -1,11 +1,11 @@
 id: 664024080
-type: way
+type: node
 latitude: 42.95757
 longitude: -87.95229
 postcode: "53221"
 city: Greenfield
-street: "South 27th Street"
-housenumber: 4771
-phone: "+1 414-281-3170"
+street: South 27th Street
+housenumber: "4771"
+phone: +1 414-281-3170
 opening_hours: ""
-website: "https://stores.ashleyfurniture.com/store/us/wisconsin/greenfield/7710000487/"
+website: https://stores.ashleyfurniture.com/store/us/wisconsin/greenfield/7710000487/

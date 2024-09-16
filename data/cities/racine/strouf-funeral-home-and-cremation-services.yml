@@ -1,11 +1,11 @@
 id: 374898283
-type: way
+type: node
 latitude: 42.74208
 longitude: -87.79234
 postcode: ""
 city: Racine
-street: "High Street"
-housenumber: 1001
+street: High Street
+housenumber: "1001"
 phone: ""
 opening_hours: ""
 website: ""

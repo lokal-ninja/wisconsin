@@ -1,11 +1,11 @@
 id: 751096399
-type: way
+type: node
 latitude: 44.00517
 longitude: -88.5834
 postcode: "54904"
 city: Oshkosh
-street: "South Washburn Street"
-housenumber: 1451
+street: South Washburn Street
+housenumber: "1451"
 phone: ""
 opening_hours: ""
 website: ""

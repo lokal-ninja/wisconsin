@@ -1,11 +1,11 @@
 id: 241293229
-type: way
+type: node
 latitude: 43.57159
 longitude: -89.47405
 postcode: "53901"
 city: Portage
-street: "New Pinery Road"
-housenumber: 2950
-phone: "+1 608-742-1432"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1799/portage-wi/whats-new"
+street: New Pinery Road
+housenumber: "2950"
+phone: +1 608-742-1432
+opening_hours: 24/7
+website: https://www.walmart.com/store/1799/portage-wi/whats-new

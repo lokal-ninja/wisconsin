@@ -1,11 +1,11 @@
 id: 96332971
-type: way
+type: node
 latitude: 43.03466
 longitude: -87.93549
 postcode: "53233"
 city: Milwaukee
-street: "West Saint Paul Avenue"
-housenumber: 1741
+street: West Saint Paul Avenue
+housenumber: "1741"
 phone: ""
 opening_hours: ""
 website: ""

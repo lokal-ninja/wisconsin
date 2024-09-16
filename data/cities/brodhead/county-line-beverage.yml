@@ -1,11 +1,11 @@
 id: 107935991
-type: way
+type: node
 latitude: 42.62128
 longitude: -89.36668
 postcode: "53520"
 city: Brodhead
-street: "County Highway T"
-housenumber: 4141
+street: County Highway T
+housenumber: "4141"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1104207748
-type: way
+type: node
 latitude: 42.90058
 longitude: -87.94997
 postcode: "53154"
 city: Oak Creek
-street: "South 27th Street"
-housenumber: 7948
-phone: "+1-414-761-3250"
-opening_hours: "Mo-Tu,Th 07:00-21:00; We 07:00-19:00; Fr 07:00-18:00"
-website: "https://www.oakcreekautowi.com/"
+street: South 27th Street
+housenumber: "7948"
+phone: +1-414-761-3250
+opening_hours: Mo-Tu,Th 07:00-21:00; We 07:00-19:00; Fr 07:00-18:00
+website: https://www.oakcreekautowi.com/

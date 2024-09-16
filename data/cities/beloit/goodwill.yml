@@ -1,11 +1,11 @@
 id: 1301802482
-type: way
+type: node
 latitude: 42.5406
 longitude: -89.01128
 postcode: ""
 city: Beloit
-street: "Prairie Avenue"
-housenumber: 2543
+street: Prairie Avenue
+housenumber: "2543"
 phone: ""
 opening_hours: ""
 website: ""

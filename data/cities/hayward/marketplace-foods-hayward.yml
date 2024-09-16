@@ -1,11 +1,11 @@
 id: 99278105
-type: way
+type: node
 latitude: 46.01306
 longitude: -91.48088
 postcode: "54843"
 city: Hayward
-street: "Main Street"
-housenumber: 10514
-phone: "+1-715-634-8996"
+street: Main Street
+housenumber: "10514"
+phone: +1-715-634-8996
 opening_hours: ""
-website: "https://marketplacefoodsonline.com/"
+website: https://marketplacefoodsonline.com/

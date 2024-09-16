@@ -1,11 +1,11 @@
 id: 501064255
-type: way
+type: node
 latitude: 44.55317
 longitude: -90.59582
 postcode: "54456"
 city: Neillsville
-street: "Hewett Street"
-housenumber: 1
+street: Hewett Street
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 107454790
-type: way
+type: node
 latitude: 43.07117
 longitude: -89.45171
-postcode: "53705-3264"
+postcode: 53705-3264
 city: Madison
-street: "North Midvale Boulevard"
-housenumber: 414
-phone: "+1 608-441-6900"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-17:00"
+street: North Midvale Boulevard
+housenumber: "414"
+phone: +1 608-441-6900
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-17:00
 website: ""

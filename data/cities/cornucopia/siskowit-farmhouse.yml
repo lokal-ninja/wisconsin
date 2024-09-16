@@ -1,11 +1,11 @@
 id: 361920280
-type: way
+type: node
 latitude: 46.85417
 longitude: -91.10324
 postcode: "54827"
 city: Cornucopia
-street: "Superior Avenue"
-housenumber: 88528
+street: Superior Avenue
+housenumber: "88528"
 phone: ""
 opening_hours: ""
 website: ""

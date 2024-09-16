@@ -1,11 +1,11 @@
 id: 463069376
-type: way
+type: node
 latitude: 43.19521
 longitude: -89.34268
 postcode: "53598"
 city: Windsor
-street: "Lake Road"
-housenumber: 6340
+street: Lake Road
+housenumber: "6340"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/Windsor/6340-Lake-Road"
+website: https://www.speedway.com/locations/WI/Windsor/6340-Lake-Road

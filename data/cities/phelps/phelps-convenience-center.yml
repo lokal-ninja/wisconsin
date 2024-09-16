@@ -1,11 +1,11 @@
 id: 360580271
-type: way
+type: node
 latitude: 46.05648
 longitude: -89.10061
 postcode: "54554"
 city: Phelps
-street: "State Highway 17"
-housenumber: 2518
+street: State Highway 17
+housenumber: "2518"
 phone: ""
 opening_hours: ""
 website: ""

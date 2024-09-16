@@ -1,11 +1,11 @@
 id: 334152019
-type: way
+type: node
 latitude: 42.67801
 longitude: -88.27568
 postcode: "53105"
 city: Burlington
-street: "North Pine Street"
-housenumber: 233
-phone: "+1-262-767-1200"
+street: North Pine Street
+housenumber: "233"
+phone: +1-262-767-1200
 opening_hours: ""
 website: ""

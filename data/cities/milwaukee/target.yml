@@ -1,11 +1,11 @@
 id: 218031159
-type: way
+type: node
 latitude: 42.9911
 longitude: -87.90712
 postcode: "53207"
 city: Milwaukee
-street: "South Chase Avenue"
-housenumber: 2950
-phone: "+1-414-483-2000"
-opening_hours: "Mo-Su 08:00-20:00"
-website: "https://www.target.com/sl/milwaukee-chase/223"
+street: South Chase Avenue
+housenumber: "2950"
+phone: +1-414-483-2000
+opening_hours: Mo-Su 08:00-20:00
+website: https://www.target.com/sl/milwaukee-chase/223

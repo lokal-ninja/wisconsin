@@ -1,11 +1,11 @@
 id: 183080556
-type: way
+type: node
 latitude: 42.57049
 longitude: -87.94866
 postcode: "53142"
 city: Kenosha
-street: "120th Avenue"
-housenumber: 7145
-phone: "+1-262-857-3801"
-opening_hours: "24/7"
-website: "https://www.woodmans-food.com/kenosha"
+street: 120th Avenue
+housenumber: "7145"
+phone: +1-262-857-3801
+opening_hours: 24/7
+website: https://www.woodmans-food.com/kenosha

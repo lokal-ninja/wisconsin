@@ -1,11 +1,11 @@
 id: 1175824458
-type: way
+type: node
 latitude: 43.034
 longitude: -89.38133
 postcode: "53713"
 city: Fitchburg
-street: "Rimrock Road"
-housenumber: 2620
-phone: "+1 608 223 9300"
+street: Rimrock Road
+housenumber: "2620"
+phone: +1 608 223 9300
 opening_hours: ""
-website: "https://rutabaga.com"
+website: https://rutabaga.com

@@ -1,11 +1,11 @@
 id: 312155564
-type: way
+type: node
 latitude: 42.59922
 longitude: -89.62132
 postcode: "53566"
 city: Monroe
-street: "31st Avenue"
-housenumber: 3101
+street: 31st Avenue
+housenumber: "3101"
 phone: ""
 opening_hours: ""
-website: "http://www.monroebeveragemart.com"
+website: http://www.monroebeveragemart.com

@@ -1,11 +1,11 @@
 id: 301974482
-type: way
+type: node
 latitude: 43.02776
 longitude: -88.18559
 postcode: "53186"
 city: Waukesha
-street: "East Moreland Boulevard"
-housenumber: 2145
+street: East Moreland Boulevard
+housenumber: "2145"
 phone: ""
 opening_hours: ""
-website: "https://www.bouchercadillac.com/"
+website: https://www.bouchercadillac.com/

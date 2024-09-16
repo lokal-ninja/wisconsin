@@ -1,11 +1,11 @@
 id: 404453931
-type: way
+type: node
 latitude: 42.56513
 longitude: -87.95518
 postcode: "53142"
 city: Kenosha
-street: "77th Street"
-housenumber: 12180
+street: 77th Street
+housenumber: "12180"
 phone: ""
 opening_hours: ""
 website: ""

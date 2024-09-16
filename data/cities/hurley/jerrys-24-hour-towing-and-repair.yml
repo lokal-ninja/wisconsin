@@ -1,11 +1,11 @@
 id: 360200186
-type: way
+type: node
 latitude: 46.44832
 longitude: -90.182
 postcode: "54534"
 city: Hurley
-street: "2nd Avenue South"
-housenumber: 210
+street: 2nd Avenue South
+housenumber: "210"
 phone: ""
 opening_hours: ""
-website: "http://jerrystowingandrepair.net/"
+website: http://jerrystowingandrepair.net/

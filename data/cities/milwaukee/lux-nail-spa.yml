@@ -4,8 +4,8 @@ latitude: 43.0344
 longitude: -88.00706
 postcode: "53213"
 city: Milwaukee
-street: "South 76th Street"
-housenumber: 320
-phone: "+1-414-239-8027"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: South 76th Street
+housenumber: "320"
+phone: +1-414-239-8027
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

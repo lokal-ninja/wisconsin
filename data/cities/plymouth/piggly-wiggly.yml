@@ -1,11 +1,11 @@
 id: 583792322
-type: way
+type: node
 latitude: 43.74669
 longitude: -87.96461
 postcode: "53073"
 city: Plymouth
-street: "Eastern Avenue"
-housenumber: 1411
+street: Eastern Avenue
+housenumber: "1411"
 phone: ""
-opening_hours: "Mo-Su 06:00-21:00"
+opening_hours: Mo-Su 06:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 479193318
-type: way
+type: node
 latitude: 45.87989
 longitude: -89.70279
 postcode: "54548"
 city: Minocqua
-street: "US-51"
-housenumber: 8576
+street: US-51
+housenumber: "8576"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 663975420
-type: way
+type: node
 latitude: 42.95955
 longitude: -87.89744
 postcode: "53207"
 city: Milwaukee
-street: "East Layton Avenue"
-housenumber: 960
+street: East Layton Avenue
+housenumber: "960"
 phone: ""
 opening_hours: ""
 website: ""

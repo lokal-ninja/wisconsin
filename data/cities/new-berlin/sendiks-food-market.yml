@@ -1,11 +1,11 @@
 id: 1039750425
-type: way
+type: node
 latitude: 42.97815
 longitude: -88.10685
 postcode: "53151"
 city: New Berlin
-street: "South Moorland Road"
-housenumber: 3600
+street: South Moorland Road
+housenumber: "3600"
 phone: ""
 opening_hours: ""
 website: ""

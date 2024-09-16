@@ -1,11 +1,11 @@
 id: 400508922
-type: way
+type: node
 latitude: 42.56662
 longitude: -87.95087
 postcode: "53158"
 city: Pleasant Prairie
-street: "118th Avenue"
-housenumber: 7520
+street: 118th Avenue
+housenumber: "7520"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-7520+118th+ave-pleasant+prairie-wi-53158/id=7965"
+website: https://www.walgreens.com/locator/walgreens-7520+118th+ave-pleasant+prairie-wi-53158/id=7965

@@ -1,11 +1,11 @@
 id: 664247139
-type: way
+type: node
 latitude: 42.92508
 longitude: -87.93381
 postcode: "53154"
 city: Milwaukee
-street: "West Zellman Court"
-housenumber: 1501
-phone: "+1 414-764-2474"
-opening_hours: "Mo-Sa 09:00-23:00; Su 09:00-22:00"
-website: "https://stores.burlington.com/wi/milwaukee/2"
+street: West Zellman Court
+housenumber: "1501"
+phone: +1 414-764-2474
+opening_hours: Mo-Sa 09:00-23:00; Su 09:00-22:00
+website: https://stores.burlington.com/wi/milwaukee/2

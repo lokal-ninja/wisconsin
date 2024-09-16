@@ -1,11 +1,11 @@
 id: 727356987
-type: way
+type: node
 latitude: 44.60669
 longitude: -87.43836
 postcode: "54201"
 city: Algoma
-street: "4th Street"
-housenumber: 702
+street: 4th Street
+housenumber: "702"
 phone: ""
 opening_hours: ""
 website: ""

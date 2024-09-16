@@ -1,11 +1,11 @@
 id: 105818339
-type: way
+type: node
 latitude: 43.06104
 longitude: -89.32662
 postcode: "53716"
 city: Monona
-street: "Monona Drive"
-housenumber: 4301
-phone: "+1 608-509-7279"
+street: Monona Drive
+housenumber: "4301"
+phone: +1 608-509-7279
 opening_hours: ""
-website: "http://insty-printsmonona.com"
+website: http://insty-printsmonona.com

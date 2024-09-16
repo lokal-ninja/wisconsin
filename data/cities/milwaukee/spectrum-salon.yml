@@ -2,10 +2,10 @@ id: 3966671171
 type: node
 latitude: 43.04002
 longitude: -87.90833
-postcode: "53202-3602"
+postcode: 53202-3602
 city: Milwaukee
-street: "East Mason Street"
-housenumber: 226
+street: East Mason Street
+housenumber: "226"
 phone: ""
-opening_hours: "Mo 09:00-18:00; Tu-Fr 09:00-20:00; Sa 09:00-16:00"
+opening_hours: Mo 09:00-18:00; Tu-Fr 09:00-20:00; Sa 09:00-16:00
 website: ""

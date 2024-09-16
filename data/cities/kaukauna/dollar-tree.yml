@@ -1,11 +1,11 @@
 id: 659395774
-type: way
+type: node
 latitude: 44.25893
 longitude: -88.27103
 postcode: "54130"
 city: Kaukauna
-street: "East Ann Street"
-housenumber: 321
+street: East Ann Street
+housenumber: "321"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-20:00"
-website: "https://www.dollartree.com/locations/wi/kaukauna/7643/"
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-20:00
+website: https://www.dollartree.com/locations/wi/kaukauna/7643/

@@ -1,11 +1,11 @@
 id: 117742713
-type: way
+type: node
 latitude: 42.77433
 longitude: -88.96183
 postcode: "53563"
 city: Milton
-street: "South John Paul Road"
-housenumber: 464
+street: South John Paul Road
+housenumber: "464"
 phone: ""
 opening_hours: ""
 website: ""

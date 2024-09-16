@@ -4,8 +4,8 @@ latitude: 45.92381
 longitude: -88.25775
 postcode: "54121"
 city: Florence
-street: "Central Avenue"
-housenumber: 1000
-phone: "+1 715-528-2018"
-opening_hours: "Mo-We 07:00-20:00; Th-Sa 07:00-21:00; Su 07:00-20:00"
+street: Central Avenue
+housenumber: "1000"
+phone: +1 715-528-2018
+opening_hours: Mo-We 07:00-20:00; Th-Sa 07:00-21:00; Su 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 376081072
-type: way
+type: node
 latitude: 42.70567
 longitude: -87.85388
 postcode: ""
 city: Racine
-street: "21st Street"
-housenumber: 6006
+street: 21st Street
+housenumber: "6006"
 phone: ""
 opening_hours: ""
 website: ""

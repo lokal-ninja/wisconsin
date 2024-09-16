@@ -1,11 +1,11 @@
 id: 478525199
-type: way
+type: node
 latitude: 42.60391
 longitude: -90.42979
 postcode: "53807"
 city: Cuba City
-street: "South Main Street"
-housenumber: 312
-phone: "+1 608-634-2464"
+street: South Main Street
+housenumber: "312"
+phone: +1 608-634-2464
 opening_hours: ""
 website: ""

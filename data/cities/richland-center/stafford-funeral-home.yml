@@ -1,11 +1,11 @@
 id: 291975047
-type: way
+type: node
 latitude: 43.34339
 longitude: -90.39933
 postcode: "53581"
 city: Richland Center
-street: "US Highway 14 West"
-housenumber: 1235
+street: US Highway 14 West
+housenumber: "1235"
 phone: ""
 opening_hours: ""
 website: ""

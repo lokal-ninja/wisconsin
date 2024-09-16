@@ -1,11 +1,11 @@
 id: 658897894
-type: way
+type: node
 latitude: 43.17939
 longitude: -88.00571
 postcode: "53223"
 city: Milwaukee
-street: "North 76th Street"
-housenumber: 8825
+street: North 76th Street
+housenumber: "8825"
 phone: ""
 opening_hours: ""
 website: ""

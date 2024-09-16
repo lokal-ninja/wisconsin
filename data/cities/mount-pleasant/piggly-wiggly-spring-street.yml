@@ -1,11 +1,11 @@
 id: 377220574
-type: way
+type: node
 latitude: 42.7377
 longitude: -87.84864
 postcode: "53406"
 city: Mount Pleasant
-street: "Spring Street"
-housenumber: 5600
-phone: "+1 262-886-0373"
+street: Spring Street
+housenumber: "5600"
+phone: +1 262-886-0373
 opening_hours: ""
 website: ""

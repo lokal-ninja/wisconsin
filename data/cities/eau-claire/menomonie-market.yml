@@ -1,11 +1,11 @@
 id: 1273903333
-type: way
+type: node
 latitude: 44.81461
 longitude: -91.50204
 postcode: "54703"
 city: Eau Claire
-street: "North Barstow Street"
-housenumber: 206
-phone: "(715) 552-3366"
-opening_hours: "07:00-21:00"
+street: North Barstow Street
+housenumber: "206"
+phone: (715) 552-3366
+opening_hours: 07:00-21:00
 website: ""

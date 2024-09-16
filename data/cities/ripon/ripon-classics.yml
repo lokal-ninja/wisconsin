@@ -1,11 +1,11 @@
 id: 250427032
-type: way
+type: node
 latitude: 43.84429
 longitude: -88.83787
 postcode: "54971"
 city: Ripon
-street: "East Blossom Street"
-housenumber: 114
-phone: "+1 920 428 4822"
+street: East Blossom Street
+housenumber: "114"
+phone: +1 920 428 4822
 opening_hours: ""
-website: "http://riponclassics.com/"
+website: http://riponclassics.com/

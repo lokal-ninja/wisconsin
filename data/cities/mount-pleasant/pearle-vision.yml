@@ -1,11 +1,11 @@
 id: 375376992
-type: way
+type: node
 latitude: 42.69926
 longitude: -87.85327
 postcode: ""
 city: Mount Pleasant
-street: "South Green Bay Road"
-housenumber: 2721
+street: South Green Bay Road
+housenumber: "2721"
 phone: ""
 opening_hours: ""
 website: ""

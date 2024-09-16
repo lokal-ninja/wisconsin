@@ -1,11 +1,11 @@
 id: 443904930
-type: way
+type: node
 latitude: 44.95472
 longitude: -92.72264
 postcode: "54016"
 city: Hudson
-street: "Hanley Road"
-housenumber: 2421
+street: Hanley Road
+housenumber: "2421"
 phone: ""
 opening_hours: ""
 website: ""

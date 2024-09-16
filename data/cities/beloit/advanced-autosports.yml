@@ -1,11 +1,11 @@
 id: 835896410
-type: way
+type: node
 latitude: 42.51801
 longitude: -89.06256
 postcode: "53511"
 city: Beloit
-street: "Whipple Street"
-housenumber: 1928
-phone: "+1-608-313-1230"
+street: Whipple Street
+housenumber: "1928"
+phone: +1-608-313-1230
 opening_hours: ""
-website: "https://www.advanced-autosports.com/"
+website: https://www.advanced-autosports.com/

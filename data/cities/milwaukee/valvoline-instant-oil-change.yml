@@ -1,11 +1,11 @@
 id: 660616218
-type: way
+type: node
 latitude: 43.06028
 longitude: -87.88905
 postcode: "53202"
 city: Milwaukee
-street: "East North Avenue"
-housenumber: 1700
+street: East North Avenue
+housenumber: "1700"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-16:00"
-website: "https://store.vioc.com/wi/milwaukee/oil-change-gr0056.html"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:00; Su 09:00-16:00
+website: https://store.vioc.com/wi/milwaukee/oil-change-gr0056.html

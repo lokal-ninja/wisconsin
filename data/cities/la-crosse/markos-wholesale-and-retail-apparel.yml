@@ -4,8 +4,8 @@ latitude: 43.81201
 longitude: -91.25284
 postcode: "54601"
 city: La Crosse
-street: "Pearl Street"
-housenumber: 303
+street: Pearl Street
+housenumber: "303"
 phone: ""
-opening_hours: "Tu-Fr 13:00-17:30; Sa 11:00-17:00; Su 11:00-15:00"
-website: "http://www.markosapparel.com/"
+opening_hours: Tu-Fr 13:00-17:30; Sa 11:00-17:00; Su 11:00-15:00
+website: http://www.markosapparel.com/

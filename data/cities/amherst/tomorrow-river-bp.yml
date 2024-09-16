@@ -1,11 +1,11 @@
 id: 506581343
-type: way
+type: node
 latitude: 44.45308
 longitude: -89.29564
 postcode: "54406"
 city: Amherst
-street: "County Highway KK"
-housenumber: 9762
+street: County Highway KK
+housenumber: "9762"
 phone: ""
 opening_hours: ""
 website: ""

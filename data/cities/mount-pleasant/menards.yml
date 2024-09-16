@@ -1,11 +1,11 @@
 id: 375995591
-type: way
+type: node
 latitude: 42.69482
 longitude: -87.87087
 postcode: "53177"
 city: Mount Pleasant
-street: "Oakes Road"
-housenumber: 3101
+street: Oakes Road
+housenumber: "3101"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3043"
+website: https://www.menards.com/store-details/store.html?store=3043

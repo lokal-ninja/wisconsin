@@ -1,11 +1,11 @@
 id: 1223368591
-type: way
+type: node
 latitude: 43.21608
 longitude: -87.92257
 postcode: "53092"
 city: Mequon
-street: "North Port Washington Lane"
-housenumber: 10916
+street: North Port Washington Lane
+housenumber: "10916"
 phone: ""
 opening_hours: ""
-website: "https://envitamins.com/locations/mequon-wi/"
+website: https://envitamins.com/locations/mequon-wi/

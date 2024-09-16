@@ -1,11 +1,11 @@
 id: 1040404811
-type: way
+type: node
 latitude: 44.95902
 longitude: -92.72097
 postcode: "54016"
 city: Hudson
-street: "Pearson Drive"
-housenumber: 1041
-phone: "+1 715-386-5255"
-opening_hours: "Mo-Th 10:00-20:00; Fr 9:00-21:00;Sa 10:00-19:00;Su 11:00-18:00"
+street: Pearson Drive
+housenumber: "1041"
+phone: +1 715-386-5255
+opening_hours: Mo-Th 10:00-20:00; Fr 9:00-21:00;Sa 10:00-19:00;Su 11:00-18:00
 website: ""

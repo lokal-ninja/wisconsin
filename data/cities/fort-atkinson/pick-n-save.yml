@@ -1,11 +1,11 @@
 id: 291560062
-type: way
+type: node
 latitude: 42.93925
 longitude: -88.86112
 postcode: "53538"
 city: Fort Atkinson
-street: "Madison Avenue"
-housenumber: 1505
+street: Madison Avenue
+housenumber: "1505"
 phone: ""
 opening_hours: ""
 website: ""

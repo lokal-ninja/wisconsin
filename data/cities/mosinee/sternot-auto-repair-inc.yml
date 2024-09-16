@@ -1,11 +1,11 @@
 id: 401481453
-type: way
+type: node
 latitude: 44.78268
 longitude: -89.68826
 postcode: "54455"
 city: Mosinee
-street: "Luke Street"
-housenumber: 535
+street: Luke Street
+housenumber: "535"
 phone: ""
 opening_hours: ""
 website: ""

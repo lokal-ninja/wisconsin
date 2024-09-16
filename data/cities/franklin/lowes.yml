@@ -1,11 +1,11 @@
 id: 664193317
-type: way
+type: node
 latitude: 42.91845
 longitude: -87.95256
 postcode: "53132"
 city: Franklin
-street: "South 27th Street"
-housenumber: 7027
-phone: "+1 414-281-2840"
-opening_hours: "Mo-Sa 06:00-22:00; Su 08:00-20:00"
-website: "https://www.lowes.com/store/wi-franklin/2554"
+street: South 27th Street
+housenumber: "7027"
+phone: +1 414-281-2840
+opening_hours: Mo-Sa 06:00-22:00; Su 08:00-20:00
+website: https://www.lowes.com/store/wi-franklin/2554

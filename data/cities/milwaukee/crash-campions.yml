@@ -4,8 +4,8 @@ latitude: 42.95542
 longitude: -87.91913
 postcode: "53207"
 city: Milwaukee
-street: "South 6th Street"
-housenumber: 4930
-phone: "+1 414-481-7576"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://crashchampions.com/locations/crash-champions-milwaukee"
+street: South 6th Street
+housenumber: "4930"
+phone: +1 414-481-7576
+opening_hours: Mo-Fr 08:00-17:00
+website: https://crashchampions.com/locations/crash-champions-milwaukee

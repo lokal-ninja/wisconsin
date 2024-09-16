@@ -1,11 +1,11 @@
 id: 669732824
-type: way
+type: node
 latitude: 42.70654
 longitude: -87.81014
 postcode: "53403"
 city: Racine
-street: "Taylor Avenue"
-housenumber: 1950
-phone: "+1 262-637-6145"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:30; Su 09:00-16:00"
+street: Taylor Avenue
+housenumber: "1950"
+phone: +1 262-637-6145
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:30; Su 09:00-16:00
 website: ""

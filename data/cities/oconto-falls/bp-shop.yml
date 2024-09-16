@@ -1,11 +1,11 @@
 id: 696475498
-type: way
+type: node
 latitude: 44.87885
 longitude: -88.14668
 postcode: "54154"
 city: Oconto Falls
-street: "North Main Street"
-housenumber: 418
-phone: "920-846-0301"
+street: North Main Street
+housenumber: "418"
+phone: 920-846-0301
 opening_hours: ""
-website: "https://map.bp.com/en-US/US/gas-station/oconto-falls/bp/93968754354185415400100000000000"
+website: https://map.bp.com/en-US/US/gas-station/oconto-falls/bp/93968754354185415400100000000000

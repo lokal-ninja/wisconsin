@@ -1,11 +1,11 @@
 id: 911663034
-type: way
+type: node
 latitude: 46.58814
 longitude: -90.88122
 postcode: "54806"
 city: Ashland
-street: "Ellis Avenue"
-housenumber: 515
+street: Ellis Avenue
+housenumber: "515"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=163"
+website: https://www.kwiktrip.com/locator/store?id=163

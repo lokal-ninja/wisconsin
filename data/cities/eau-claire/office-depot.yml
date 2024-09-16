@@ -1,11 +1,11 @@
 id: 106093596
-type: way
+type: node
 latitude: 44.77567
 longitude: -91.43639
 postcode: "54701"
 city: Eau Claire
-street: "Commomwealth Avenue"
-housenumber: 4040
-phone: "+1 715-830-0154"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.officedepot.com/storelocator/wi/eau-claire/officemax-6348"
+street: Commomwealth Avenue
+housenumber: "4040"
+phone: +1 715-830-0154
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.officedepot.com/storelocator/wi/eau-claire/officemax-6348

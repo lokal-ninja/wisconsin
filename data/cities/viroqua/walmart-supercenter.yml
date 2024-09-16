@@ -1,11 +1,11 @@
 id: 478965254
-type: way
+type: node
 latitude: 43.57093
 longitude: -90.8857
 postcode: "54665"
 city: Viroqua
-street: "North Main Street"
-housenumber: 1133
-phone: "+1 608-637-8511"
-opening_hours: "Mo-Su 06:00-01:00"
-website: "https://www.walmart.com/store/971/viroqua-wi/whats-new"
+street: North Main Street
+housenumber: "1133"
+phone: +1 608-637-8511
+opening_hours: Mo-Su 06:00-01:00
+website: https://www.walmart.com/store/971/viroqua-wi/whats-new

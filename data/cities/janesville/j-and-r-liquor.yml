@@ -1,11 +1,11 @@
 id: 380878175
-type: way
+type: node
 latitude: 42.67922
 longitude: -89.04048
 postcode: "53548"
 city: Janesville
-street: "West Court Street"
-housenumber: 1621
+street: West Court Street
+housenumber: "1621"
 phone: ""
 opening_hours: ""
 website: ""

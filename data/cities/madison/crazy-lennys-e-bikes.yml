@@ -1,11 +1,11 @@
 id: 37783822
-type: way
+type: node
 latitude: 43.05302
 longitude: -89.4853
 postcode: "53719"
 city: Madison
-street: "Odana Road"
-housenumber: 6017
-phone: "+1 608 276 5921"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-17:00; Su 12:00-16:00"
-website: "https://www.crazylennysebikes.com"
+street: Odana Road
+housenumber: "6017"
+phone: +1 608 276 5921
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-17:00; Su 12:00-16:00
+website: https://www.crazylennysebikes.com

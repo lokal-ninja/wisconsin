@@ -1,11 +1,11 @@
 id: 26878893
-type: way
+type: node
 latitude: 42.602
 longitude: -89.63844
 postcode: "53566"
 city: Monroe
-street: "17th Avenue"
-housenumber: 1000
+street: 17th Avenue
+housenumber: "1000"
 phone: ""
 opening_hours: ""
 website: ""

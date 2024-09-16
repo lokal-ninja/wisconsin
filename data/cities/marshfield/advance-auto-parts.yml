@@ -1,11 +1,11 @@
 id: 1093448362
-type: way
+type: node
 latitude: 44.66313
 longitude: -90.17715
 postcode: "54449"
 city: Marshfield
-street: "South Central Avenue"
-housenumber: 510
+street: South Central Avenue
+housenumber: "510"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/marshfield/510-s-central-ave"
+website: https://stores.advanceautoparts.com/wi/marshfield/510-s-central-ave

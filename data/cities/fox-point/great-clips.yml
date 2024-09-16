@@ -1,11 +1,11 @@
 id: 509096974
-type: way
+type: node
 latitude: 43.17473
 longitude: -87.91457
 postcode: "53217"
 city: Fox Point
-street: "North Port Washington Road"
-housenumber: 8689
+street: North Port Washington Road
+housenumber: "8689"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 08:00-18:00; Su 09:00-17:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa 08:00-18:00; Su 09:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 839176395
-type: way
+type: node
 latitude: 42.6892
 longitude: -90.71341
 postcode: "53820"
 city: Potosi
-street: "South Main Street"
-housenumber: 111
+street: South Main Street
+housenumber: "111"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 631906639
-type: way
+type: node
 latitude: 42.73435
 longitude: -90.47985
 postcode: "53818"
 city: Platteville
-street: "West Main Street"
-housenumber: 145
+street: West Main Street
+housenumber: "145"
 phone: ""
 opening_hours: ""
 website: ""

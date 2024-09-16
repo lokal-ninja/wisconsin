@@ -1,11 +1,11 @@
 id: 47872166
-type: way
+type: node
 latitude: 43.87096
 longitude: -91.21193
 postcode: "54650"
 city: Onalaska
-street: "Crossing Meadows Drive"
-housenumber: 1231
-phone: "+1 608-783-3910"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.petco.com/wi/onalaska/pet-supplies-onalaska-wi-622.html"
+street: Crossing Meadows Drive
+housenumber: "1231"
+phone: +1 608-783-3910
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.petco.com/wi/onalaska/pet-supplies-onalaska-wi-622.html

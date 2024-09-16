@@ -1,11 +1,11 @@
 id: 328896723
-type: way
+type: node
 latitude: 43.15928
 longitude: -88.73032
 postcode: "53094"
 city: Watertown
-street: "Market Way"
-housenumber: 1911
-phone: "+1 920-261-3953"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-19:00"
+street: Market Way
+housenumber: "1911"
+phone: +1 920-261-3953
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-19:00
 website: ""

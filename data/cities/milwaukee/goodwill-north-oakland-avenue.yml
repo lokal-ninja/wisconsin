@@ -1,11 +1,11 @@
 id: 393471537
-type: way
+type: node
 latitude: 43.07015
 longitude: -87.88771
 postcode: "53211"
 city: Milwaukee
-street: "North Oakland Avenue"
-housenumber: 2830
-phone: "1-414-962-3281"
-opening_hours: "Mo-Sa 09:00-21:00; Su 10:00-20:00"
+street: North Oakland Avenue
+housenumber: "2830"
+phone: 1-414-962-3281
+opening_hours: Mo-Sa 09:00-21:00; Su 10:00-20:00
 website: ""

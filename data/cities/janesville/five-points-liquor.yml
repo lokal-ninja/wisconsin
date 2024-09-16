@@ -4,8 +4,8 @@ latitude: 42.68012
 longitude: -89.03085
 postcode: "53548"
 city: Janesville
-street: "West Milwaukee Street"
-housenumber: 600
-phone: "+1-608-752-5221"
-opening_hours: "08:00-21:00"
+street: West Milwaukee Street
+housenumber: "600"
+phone: +1-608-752-5221
+opening_hours: 08:00-21:00
 website: ""

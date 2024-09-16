@@ -1,11 +1,11 @@
 id: 1227694577
-type: way
+type: node
 latitude: 45.31983
 longitude: -92.70514
 postcode: "54020"
 city: Osceola
-street: "1st Avenue"
-housenumber: 213
-phone: "+1-715-294-4650"
+street: 1st Avenue
+housenumber: "213"
+phone: +1-715-294-4650
 opening_hours: ""
-website: "https://studioasalonspa.com/"
+website: https://studioasalonspa.com/

@@ -1,11 +1,11 @@
 id: 1253114473
-type: way
+type: node
 latitude: 45.09927
 longitude: -92.5372
 postcode: "54017"
 city: New Richmond
-street: "Dorset Lane"
-housenumber: 1737
-phone: "+1 833-472-7046"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/new-richmond/1737-dorset-lane"
+street: Dorset Lane
+housenumber: "1737"
+phone: +1 833-472-7046
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/new-richmond/1737-dorset-lane

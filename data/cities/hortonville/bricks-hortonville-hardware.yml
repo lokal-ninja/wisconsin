@@ -1,11 +1,11 @@
 id: 524550067
-type: way
+type: node
 latitude: 44.33279
 longitude: -88.63866
 postcode: "54944"
 city: Hortonville
-street: "South Nash Street"
-housenumber: 326
-phone: "+1-920-779-3202"
-opening_hours: "Mo-Fr 07:00-20:00"
+street: South Nash Street
+housenumber: "326"
+phone: +1-920-779-3202
+opening_hours: Mo-Fr 07:00-20:00
 website: ""

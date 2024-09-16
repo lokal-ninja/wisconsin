@@ -1,11 +1,11 @@
 id: 663308250
-type: way
+type: node
 latitude: 43.01391
 longitude: -87.99838
 postcode: "53214"
 city: West Allis
-street: "West National Avenue"
-housenumber: 6804
+street: West National Avenue
+housenumber: "6804"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/west-allis/6804-w-national-ave"
+website: https://stores.advanceautoparts.com/wi/west-allis/6804-w-national-ave

@@ -1,11 +1,11 @@
 id: 988269547
-type: way
+type: node
 latitude: 43.23184
 longitude: -87.98472
 postcode: "53092"
 city: Thiensville
-street: "North Main Street"
-housenumber: 139
-phone: "+1-262-242-2464"
-opening_hours: "Mo,We,Fr 09:00-19:00; Tu,Th 09:00-18:00; Sa 09:00-15:00; PH off"
-website: "https://www.suburbanharley.com/"
+street: North Main Street
+housenumber: "139"
+phone: +1-262-242-2464
+opening_hours: Mo,We,Fr 09:00-19:00; Tu,Th 09:00-18:00; Sa 09:00-15:00; PH off
+website: https://www.suburbanharley.com/

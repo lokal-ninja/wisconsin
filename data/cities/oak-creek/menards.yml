@@ -1,11 +1,11 @@
 id: 664247716
-type: way
+type: node
 latitude: 42.92204
 longitude: -87.94628
 postcode: "53154"
 city: Oak Creek
-street: "South 27th Street"
-housenumber: 6800
+street: South 27th Street
+housenumber: "6800"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3032"
+website: https://www.menards.com/store-details/store.html?store=3032

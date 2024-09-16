@@ -1,11 +1,11 @@
 id: 409363763
-type: way
+type: node
 latitude: 45.1822
 longitude: -89.68208
 postcode: "54452"
 city: Merrill
-street: "North Center Avenue"
-housenumber: 101
+street: North Center Avenue
+housenumber: "101"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-101+n+center+ave-merrill-wi-54452/id=10574"
+website: https://www.walgreens.com/locator/walgreens-101+n+center+ave-merrill-wi-54452/id=10574

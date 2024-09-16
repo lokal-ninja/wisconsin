@@ -1,11 +1,11 @@
 id: 296784226
-type: way
+type: node
 latitude: 44.25995
 longitude: -88.26986
 postcode: "54130"
 city: Kaukauna
-street: "East Ann Street"
-housenumber: 400
-phone: "+1 920-766-7773"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-17:00; Su 09:00-17:00"
+street: East Ann Street
+housenumber: "400"
+phone: +1 920-766-7773
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-17:00; Su 09:00-17:00
 website: ""

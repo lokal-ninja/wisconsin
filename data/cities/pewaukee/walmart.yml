@@ -1,11 +1,11 @@
 id: 632645050
-type: way
+type: node
 latitude: 43.08717
 longitude: -88.22842
 postcode: "53072"
 city: Pewaukee
-street: "Pewaukee Road"
-housenumber: 411
-phone: "+1 262-695-1847"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/3322/pewaukee-wi/whats-new"
+street: Pewaukee Road
+housenumber: "411"
+phone: +1 262-695-1847
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/3322/pewaukee-wi/whats-new

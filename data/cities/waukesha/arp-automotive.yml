@@ -1,11 +1,11 @@
 id: 286414569
-type: way
+type: node
 latitude: 43.02543
 longitude: -88.19095
 postcode: "53186"
 city: Waukesha
-street: "East Main Street"
-housenumber: 1925
+street: East Main Street
+housenumber: "1925"
 phone: ""
 opening_hours: ""
-website: "https://www.arpautomotive.com/about"
+website: https://www.arpautomotive.com/about

@@ -1,11 +1,11 @@
 id: 448165313
-type: way
+type: node
 latitude: 42.69362
 longitude: -89.02652
 postcode: "53545"
 city: Janesville
-street: "East Memorial Drive"
-housenumber: 254
+street: East Memorial Drive
+housenumber: "254"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=617"
+website: https://www.kwiktrip.com/locator/store?id=617

@@ -1,11 +1,11 @@
 id: 668995699
-type: way
+type: node
 latitude: 44.3352
 longitude: -88.64044
 postcode: "54944"
 city: Hortonville
-street: "West Main Street"
-housenumber: 226
+street: West Main Street
+housenumber: "226"
 phone: ""
 opening_hours: ""
 website: ""

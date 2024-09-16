@@ -1,11 +1,11 @@
 id: 658489613
-type: way
+type: node
 latitude: 43.14277
 longitude: -87.9133
 postcode: "53217"
 city: Glendale
-street: "North Port Washington Road"
-housenumber: 6969
-phone: "+1 414-351-0298"
-opening_hours: "06:00-22:00"
-website: "https://www.metromarket.net/stores/grocery/wi/glendale/mm-glendale-port-wash/534/00876"
+street: North Port Washington Road
+housenumber: "6969"
+phone: +1 414-351-0298
+opening_hours: 06:00-22:00
+website: https://www.metromarket.net/stores/grocery/wi/glendale/mm-glendale-port-wash/534/00876

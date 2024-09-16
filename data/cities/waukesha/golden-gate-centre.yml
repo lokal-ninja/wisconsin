@@ -1,11 +1,11 @@
 id: 848921431
-type: way
+type: node
 latitude: 42.99703
 longitude: -88.20894
 postcode: "53186"
 city: Waukesha
-street: "East Racine Avenue"
-housenumber: 1427
+street: East Racine Avenue
+housenumber: "1427"
 phone: ""
 opening_hours: ""
 website: ""

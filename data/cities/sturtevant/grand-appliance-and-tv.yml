@@ -1,11 +1,11 @@
 id: 375874678
-type: way
+type: node
 latitude: 42.72086
 longitude: -87.91237
 postcode: ""
 city: Sturtevant
-street: "Washington Avenue"
-housenumber: 10400
+street: Washington Avenue
+housenumber: "10400"
 phone: ""
 opening_hours: ""
 website: ""

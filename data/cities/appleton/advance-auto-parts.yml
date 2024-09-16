@@ -1,11 +1,11 @@
 id: 321366297
-type: way
+type: node
 latitude: 44.24352
 longitude: -88.36202
 postcode: ""
 city: Appleton
-street: "East Calumet Street"
-housenumber: 3121
+street: East Calumet Street
+housenumber: "3121"
 phone: ""
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/appleton/3121-e-calumet-st"
+website: https://stores.advanceautoparts.com/wi/appleton/3121-e-calumet-st

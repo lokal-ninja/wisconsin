@@ -1,11 +1,11 @@
 id: 1136337923
-type: way
+type: node
 latitude: 42.95397
 longitude: -88.00495
 postcode: "53220"
 city: Greenfield
-street: "South 74th Street"
-housenumber: 5012
+street: South 74th Street
+housenumber: "5012"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 458413612
-type: way
+type: node
 latitude: 44.85461
 longitude: -92.62767
 postcode: "54022"
 city: River Falls
-street: "South Main Street"
-housenumber: 428
+street: South Main Street
+housenumber: "428"
 phone: ""
 opening_hours: ""
 website: ""

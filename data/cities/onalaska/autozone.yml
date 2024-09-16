@@ -1,11 +1,11 @@
 id: 618981989
-type: way
+type: node
 latitude: 43.88023
 longitude: -91.20037
 postcode: "54650"
 city: Onalaska
-street: "Theater Road"
-housenumber: 100
+street: Theater Road
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/onalaska/100-theater-rd.html"
+website: https://www.autozone.com/locations/wi/onalaska/100-theater-rd.html

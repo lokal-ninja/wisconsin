@@ -1,11 +1,11 @@
 id: 26745394
-type: way
+type: node
 latitude: 42.60628
 longitude: -89.65038
 postcode: "53566"
 city: Monroe
-street: "8th Avenue"
-housenumber: 604
+street: 8th Avenue
+housenumber: "604"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/monroe/604-8th-ave.html"
+website: https://www.autozone.com/locations/wi/monroe/604-8th-ave.html

@@ -1,11 +1,11 @@
 id: 324536704
-type: way
+type: node
 latitude: 43.08217
 longitude: -89.47578
 postcode: "53705"
 city: Madison
-street: "University Avenue"
-housenumber: 5445
+street: University Avenue
+housenumber: "5445"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=1514"
+website: https://www.kwiktrip.com/locator/store?id=1514

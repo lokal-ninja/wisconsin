@@ -4,8 +4,8 @@ latitude: 42.50969
 longitude: -89.03769
 postcode: "53511"
 city: Beloit
-street: "4th Street"
-housenumber: 1017
-phone: "1-608-856-9369"
+street: 4th Street
+housenumber: "1017"
+phone: 1-608-856-9369
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/beloit/autoparts-6320.html"
+website: https://locations.oreillyauto.com/wi/beloit/autoparts-6320.html

@@ -1,11 +1,11 @@
 id: 417759862
-type: way
+type: node
 latitude: 44.95959
 longitude: -92.73919
 postcode: "54016"
 city: Hudson
-street: "Hosford Street"
-housenumber: 1400
+street: Hosford Street
+housenumber: "1400"
 phone: ""
 opening_hours: ""
 website: ""

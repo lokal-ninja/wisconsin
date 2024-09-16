@@ -1,11 +1,11 @@
 id: 101439399
-type: way
+type: node
 latitude: 44.95622
 longitude: -92.72173
 postcode: "54016"
 city: Hudson
-street: "Gateway Boulevard"
-housenumber: 1400
-phone: "+1 715-386-2918"
-opening_hours: "Mo-Sa 06:30-22:00; Su 08:00-20:00"
-website: "https://www.menards.com/store-details/store.html?store=3089"
+street: Gateway Boulevard
+housenumber: "1400"
+phone: +1 715-386-2918
+opening_hours: Mo-Sa 06:30-22:00; Su 08:00-20:00
+website: https://www.menards.com/store-details/store.html?store=3089

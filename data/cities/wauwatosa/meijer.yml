@@ -1,11 +1,11 @@
 id: 661591439
-type: way
+type: node
 latitude: 43.07359
 longitude: -88.05149
-postcode: "53222;53226"
+postcode: 53222;53226
 city: Wauwatosa
-street: "West Burleigh Street"
-housenumber: 11111
-phone: "+1-414-290-2900"
+street: West Burleigh Street
+housenumber: "11111"
+phone: +1-414-290-2900
 opening_hours: ""
 website: ""

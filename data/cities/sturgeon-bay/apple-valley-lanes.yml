@@ -1,11 +1,11 @@
 id: 538904283
-type: way
+type: node
 latitude: 44.85048
 longitude: -87.36307
 postcode: "54235"
 city: Sturgeon Bay
-street: "North 14th Avenue"
-housenumber: 1217
+street: North 14th Avenue
+housenumber: "1217"
 phone: ""
 opening_hours: ""
-website: "http://www.applevalleylanes.net/"
+website: http://www.applevalleylanes.net/

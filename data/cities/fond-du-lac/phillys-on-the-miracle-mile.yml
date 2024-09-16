@@ -1,11 +1,11 @@
 id: 587618440
-type: way
+type: node
 latitude: 43.7475
 longitude: -88.44913
 postcode: "54935"
 city: Fond du Lac
-street: "South Main Street"
-housenumber: 1305
+street: South Main Street
+housenumber: "1305"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 93545932
-type: way
+type: node
 latitude: 44.9612
 longitude: -92.74082
 postcode: "54016"
 city: Hudson
-street: "Crest View Drive"
-housenumber: 1220
+street: Crest View Drive
+housenumber: "1220"
 phone: ""
 opening_hours: ""
 website: ""

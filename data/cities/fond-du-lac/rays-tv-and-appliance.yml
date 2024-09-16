@@ -1,11 +1,11 @@
 id: 591396452
-type: way
+type: node
 latitude: 43.77624
 longitude: -88.48142
 postcode: "54935"
 city: Fond du Lac
-street: "South Pioneer Road"
-housenumber: 33
-phone: "+1-920-924-6000"
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-20:00; Sa 09:00-16:00"
-website: "https://www.raystvappliances.com/"
+street: South Pioneer Road
+housenumber: "33"
+phone: +1-920-924-6000
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-20:00; Sa 09:00-16:00
+website: https://www.raystvappliances.com/

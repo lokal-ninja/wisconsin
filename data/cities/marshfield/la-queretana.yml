@@ -1,11 +1,11 @@
 id: 1093448358
-type: way
+type: node
 latitude: 44.66419
 longitude: -90.1753
 postcode: "54449"
 city: Marshfield
-street: "South Central Avenue"
-housenumber: 355
+street: South Central Avenue
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

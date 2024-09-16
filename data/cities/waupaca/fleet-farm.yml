@@ -1,11 +1,11 @@
 id: 401288797
-type: way
+type: node
 latitude: 44.33156
 longitude: -89.04952
 postcode: "54981"
 city: Waupaca
-street: "Farm Drive"
-housenumber: 2016
+street: Farm Drive
+housenumber: "2016"
 phone: ""
 opening_hours: ""
 website: ""

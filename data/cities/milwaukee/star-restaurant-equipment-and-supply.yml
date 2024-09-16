@@ -4,8 +4,8 @@ latitude: 43.00225
 longitude: -87.91863
 postcode: "53207"
 city: Milwaukee
-street: "South 6th Street"
-housenumber: 2324
-phone: "+1 414-384-7777"
-opening_hours: "Mo-Fr 09:00-17:00; Sa,Su off"
-website: "https://www.starrestsupply.com/"
+street: South 6th Street
+housenumber: "2324"
+phone: +1 414-384-7777
+opening_hours: Mo-Fr 09:00-17:00; Sa,Su off
+website: https://www.starrestsupply.com/

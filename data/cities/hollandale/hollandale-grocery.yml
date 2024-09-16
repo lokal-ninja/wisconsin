@@ -1,11 +1,11 @@
 id: 92931318
-type: way
+type: node
 latitude: 42.87691
 longitude: -89.93462
 postcode: "53544"
 city: Hollandale
-street: "Main Street"
-housenumber: 330
+street: Main Street
+housenumber: "330"
 phone: ""
-opening_hours: "Mo-Th 08:00-18:00;Fr 08:00-17:00;Sa 08:00-15:00;Su 09:00-12:00"
+opening_hours: Mo-Th 08:00-18:00;Fr 08:00-17:00;Sa 08:00-15:00;Su 09:00-12:00
 website: ""

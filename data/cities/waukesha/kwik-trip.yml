@@ -1,11 +1,11 @@
 id: 300361324
-type: way
+type: node
 latitude: 43.0313
 longitude: -88.18102
 postcode: "53186"
 city: Waukesha
-street: "East Moreland Boulevard"
-housenumber: 2302
+street: East Moreland Boulevard
+housenumber: "2302"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=968"
+website: https://www.kwiktrip.com/locator/store?id=968

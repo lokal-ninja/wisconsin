@@ -1,11 +1,11 @@
 id: 1208641815
-type: way
+type: node
 latitude: 44.94922
 longitude: -90.93748
 postcode: "54768"
 city: Stanley
-street: "County Highway H"
-housenumber: 625
+street: County Highway H
+housenumber: "625"
 phone: "+17156445579"
 opening_hours: ""
-website: "https://stores.advanceautoparts.com/wi/stanley/625-s-broadway-st"
+website: https://stores.advanceautoparts.com/wi/stanley/625-s-broadway-st

@@ -1,11 +1,11 @@
 id: 108283673
-type: way
+type: node
 latitude: 44.96584
 longitude: -92.72387
 postcode: "54016"
 city: Hudson
-street: "Coulee Road"
-housenumber: 2401
-phone: "+1 715-381-0469"
-opening_hours: "Mo-Sa 08:00-20:00; Su 8:00-20:00"
-website: "https://www.target.com/sl/hudson/1235"
+street: Coulee Road
+housenumber: "2401"
+phone: +1 715-381-0469
+opening_hours: Mo-Sa 08:00-20:00; Su 8:00-20:00
+website: https://www.target.com/sl/hudson/1235

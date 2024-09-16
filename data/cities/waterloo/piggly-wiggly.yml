@@ -1,11 +1,11 @@
 id: 387724115
-type: way
+type: node
 latitude: 43.19203
 longitude: -88.9891
 postcode: "53594"
 city: Waterloo
-street: "North Monroe Street"
-housenumber: 810
-phone: "+1 920-478-3088"
+street: North Monroe Street
+housenumber: "810"
+phone: +1 920-478-3088
 opening_hours: ""
 website: ""

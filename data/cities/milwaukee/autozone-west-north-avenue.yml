@@ -1,11 +1,11 @@
 id: 662470443
-type: way
+type: node
 latitude: 43.06041
 longitude: -87.94472
 postcode: "53205"
 city: Milwaukee
-street: "West North Avenue"
-housenumber: 2475
+street: West North Avenue
+housenumber: "2475"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/milwaukee/2475-w-north-ave.html"
+website: https://www.autozone.com/locations/wi/milwaukee/2475-w-north-ave.html

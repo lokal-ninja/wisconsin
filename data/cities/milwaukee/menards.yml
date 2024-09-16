@@ -1,11 +1,11 @@
 id: 739556565
-type: way
+type: node
 latitude: 43.18101
 longitude: -88.01287
 postcode: "53223"
 city: Milwaukee
-street: "West Brown Deer Road"
-housenumber: 8110
+street: West Brown Deer Road
+housenumber: "8110"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3029"
+website: https://www.menards.com/store-details/store.html?store=3029

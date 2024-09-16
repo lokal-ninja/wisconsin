@@ -1,11 +1,11 @@
 id: 997055825
-type: way
+type: node
 latitude: 43.01609
 longitude: -88.08787
 postcode: "53151"
 city: New Berlin
-street: "West Greenfield Avenue"
-housenumber: 14001
+street: West Greenfield Avenue
+housenumber: "14001"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/New-Berlin/14001-West-Greenfield-Avenue"
+website: https://www.speedway.com/locations/WI/New-Berlin/14001-West-Greenfield-Avenue

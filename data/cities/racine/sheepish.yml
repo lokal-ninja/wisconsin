@@ -1,11 +1,11 @@
 id: 1179833124
-type: way
+type: node
 latitude: 42.72978
 longitude: -87.78351
 postcode: ""
 city: Racine
-street: "Main Street"
-housenumber: 326
+street: Main Street
+housenumber: "326"
 phone: ""
 opening_hours: ""
-website: "https://sheepishwi.com"
+website: https://sheepishwi.com

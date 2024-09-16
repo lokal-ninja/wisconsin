@@ -1,11 +1,11 @@
 id: 102923648
-type: way
+type: node
 latitude: 43.04058
 longitude: -88.25682
 postcode: "53188"
 city: Waukesha
-street: "North Grandview Boulevard"
-housenumber: 2700
+street: North Grandview Boulevard
+housenumber: "2700"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-2700+n+grandview+blvd-waukesha-wi-53188/id=7730"
+website: https://www.walgreens.com/locator/walgreens-2700+n+grandview+blvd-waukesha-wi-53188/id=7730

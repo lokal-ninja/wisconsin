@@ -1,11 +1,11 @@
 id: 334295080
-type: way
+type: node
 latitude: 42.67811
 longitude: -88.27403
 postcode: "53105"
 city: Burlington
-street: "Madison Street"
-housenumber: 232
+street: Madison Street
+housenumber: "232"
 phone: ""
 opening_hours: ""
 website: ""

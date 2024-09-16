@@ -1,11 +1,11 @@
 id: 669036485
-type: way
+type: node
 latitude: 42.76979
 longitude: -87.81304
 postcode: ""
 city: Racine
-street: "Three Mile Road"
-housenumber: 2525
+street: Three Mile Road
+housenumber: "2525"
 phone: ""
 opening_hours: ""
 website: ""

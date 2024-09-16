@@ -1,11 +1,11 @@
 id: 663926997
-type: way
+type: node
 latitude: 42.98057
 longitude: -88.04661
 postcode: "53227"
 city: Greenfield
-street: "South 108th Street"
-housenumber: 3520
+street: South 108th Street
+housenumber: "3520"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1039327457
-type: way
+type: node
 latitude: 43.20111
 longitude: -87.92335
 postcode: ""
 city: Mequon
-street: "North Port Washington Road"
-housenumber: 10050
+street: North Port Washington Road
+housenumber: "10050"
 phone: ""
 opening_hours: ""
-website: "https://bakerytotable.com/"
+website: https://bakerytotable.com/

@@ -1,11 +1,11 @@
 id: 663863170
-type: way
+type: node
 latitude: 42.98826
 longitude: -87.97737
 postcode: "53219"
 city: Milwaukee
-street: "West Oklahoma Avenue"
-housenumber: 5031
+street: West Oklahoma Avenue
+housenumber: "5031"
 phone: ""
 opening_hours: ""
-website: "http://www.discountliquorinc.com/"
+website: http://www.discountliquorinc.com/

@@ -1,11 +1,11 @@
 id: 632677026
-type: way
+type: node
 latitude: 42.95956
 longitude: -88.04379
 postcode: "53228"
 city: Greenfield
-street: "West Layton Avenue"
-housenumber: 10600
-phone: "+1 414-529-0455"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1394/greenfield-wi/whats-new"
+street: West Layton Avenue
+housenumber: "10600"
+phone: +1 414-529-0455
+opening_hours: 24/7
+website: https://www.walmart.com/store/1394/greenfield-wi/whats-new

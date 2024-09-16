@@ -1,11 +1,11 @@
 id: 46603667
-type: way
+type: node
 latitude: 44.51186
 longitude: -88.01039
 postcode: "54301"
 city: Green Bay
-street: "East Walnut Street"
-housenumber: 610
+street: East Walnut Street
+housenumber: "610"
 phone: ""
 opening_hours: ""
 website: ""

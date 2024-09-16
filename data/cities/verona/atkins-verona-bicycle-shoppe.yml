@@ -1,11 +1,11 @@
 id: 675805587
-type: way
+type: node
 latitude: 42.98776
 longitude: -89.54582
 postcode: "53593"
 city: Verona
-street: "Half Mile Road"
-housenumber: 517
-phone: "(608) 845-6644"
-opening_hours: "Mo-Sa 10:00-17:00"
-website: "https://www.atkinsbike.com/"
+street: Half Mile Road
+housenumber: "517"
+phone: (608) 845-6644
+opening_hours: Mo-Sa 10:00-17:00
+website: https://www.atkinsbike.com/

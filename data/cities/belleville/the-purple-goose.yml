@@ -1,11 +1,11 @@
 id: 675917806
-type: way
+type: node
 latitude: 42.92956
 longitude: -89.52545
 postcode: "53508"
 city: Belleville
-street: "Paoli Road"
-housenumber: 6890
+street: Paoli Road
+housenumber: "6890"
 phone: ""
 opening_hours: ""
 website: ""

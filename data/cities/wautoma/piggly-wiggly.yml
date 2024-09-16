@@ -1,11 +1,11 @@
 id: 333202062
-type: way
+type: node
 latitude: 44.06945
 longitude: -89.27038
 postcode: "54982"
 city: Wautoma
-street: "East Main Street"
-housenumber: 975
-phone: "+1 920-787-5444"
+street: East Main Street
+housenumber: "975"
+phone: +1 920-787-5444
 opening_hours: ""
-website: "https://www.stoneridgepw.com/"
+website: https://www.stoneridgepw.com/

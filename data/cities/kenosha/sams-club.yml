@@ -1,11 +1,11 @@
 id: 225499323
-type: way
+type: node
 latitude: 42.60723
 longitude: -87.88466
 postcode: "53144"
 city: Kenosha
-street: "Brumback Boulevard"
-housenumber: 3300
-phone: "+1-262-654-6213"
-opening_hours: "10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/kenosha-wi-sams-club/6331"
+street: Brumback Boulevard
+housenumber: "3300"
+phone: +1-262-654-6213
+opening_hours: 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/kenosha-wi-sams-club/6331

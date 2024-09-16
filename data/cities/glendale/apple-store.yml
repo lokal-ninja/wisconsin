@@ -1,11 +1,11 @@
 id: 1152756776
-type: way
+type: node
 latitude: 43.12153
 longitude: -87.91505
 postcode: ""
 city: Glendale
-street: "North Centerpark Way"
-housenumber: 5715
+street: North Centerpark Way
+housenumber: "5715"
 phone: ""
 opening_hours: ""
-website: "https://www.apple.com/retail/bayshore"
+website: https://www.apple.com/retail/bayshore

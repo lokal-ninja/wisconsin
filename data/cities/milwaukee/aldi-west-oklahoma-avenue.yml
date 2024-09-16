@@ -1,11 +1,11 @@
 id: 663865410
-type: way
+type: node
 latitude: 42.9881
 longitude: -87.98639
 postcode: "53219"
 city: Milwaukee
-street: "West Oklahoma Avenue"
-housenumber: 5811
-phone: "+1 888-464-7040"
-opening_hours: "09:00-20:00"
-website: "https://stores.aldi.us/wi/milwaukee/5811-w-oklahoma-avenue"
+street: West Oklahoma Avenue
+housenumber: "5811"
+phone: +1 888-464-7040
+opening_hours: 09:00-20:00
+website: https://stores.aldi.us/wi/milwaukee/5811-w-oklahoma-avenue

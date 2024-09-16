@@ -1,11 +1,11 @@
 id: 102757076
-type: way
+type: node
 latitude: 43.07291
 longitude: -89.3906
 postcode: "53703"
 city: Madison
-street: "North Broom Street"
-housenumber: 111
-phone: "+1 608 255 2616"
-opening_hours: "Mo-Su 07:00-24:00"
-website: "http://www.capcentremarket.com/"
+street: North Broom Street
+housenumber: "111"
+phone: +1 608 255 2616
+opening_hours: Mo-Su 07:00-24:00
+website: http://www.capcentremarket.com/

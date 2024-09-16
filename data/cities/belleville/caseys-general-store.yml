@@ -1,11 +1,11 @@
 id: 68520851
-type: way
+type: node
 latitude: 42.86752
 longitude: -89.5325
 postcode: "53508"
 city: Belleville
-street: "River Street"
-housenumber: 428
-phone: "+1-608-424-0113"
+street: River Street
+housenumber: "428"
+phone: +1-608-424-0113
 opening_hours: ""
 website: ""

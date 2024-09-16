@@ -1,11 +1,11 @@
 id: 486849735
-type: way
+type: node
 latitude: 44.37527
 longitude: -89.81679
 postcode: "54494"
 city: Wisconsin Rapids
-street: "8th St S"
-housenumber: 2131
+street: 8th St S
+housenumber: "2131"
 phone: ""
 opening_hours: ""
 website: ""

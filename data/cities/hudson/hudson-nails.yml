@@ -1,11 +1,11 @@
 id: 339854315
-type: way
+type: node
 latitude: 44.96403
 longitude: -92.72941
 postcode: "54016"
 city: Hudson
-street: "Coulee Road"
-housenumber: 2121
+street: Coulee Road
+housenumber: "2121"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa,Su 09:30-18:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa,Su 09:30-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 295187622
-type: way
+type: node
 latitude: 42.72637
 longitude: -88.98691
 postcode: "53546"
 city: Janesville
-street: "Deerfield Drive"
-housenumber: 3800
-phone: "+1 608-754-7800"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/1305/janesville-wi/whats-new"
+street: Deerfield Drive
+housenumber: "3800"
+phone: +1 608-754-7800
+opening_hours: 24/7
+website: https://www.walmart.com/store/1305/janesville-wi/whats-new

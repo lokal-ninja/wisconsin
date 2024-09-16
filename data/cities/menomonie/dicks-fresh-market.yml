@@ -1,11 +1,11 @@
 id: 484279243
-type: way
+type: node
 latitude: 44.87002
 longitude: -91.91896
 postcode: "54751"
 city: Menomonie
-street: "9th Street East"
-housenumber: 1408
-phone: "715-235-2134"
-opening_hours: "06:00-22:00"
-website: "https://dicksfreshmarket.com/"
+street: 9th Street East
+housenumber: "1408"
+phone: 715-235-2134
+opening_hours: 06:00-22:00
+website: https://dicksfreshmarket.com/

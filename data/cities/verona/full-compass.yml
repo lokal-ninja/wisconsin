@@ -1,11 +1,11 @@
 id: 406343555
-type: way
+type: node
 latitude: 43.05918
 longitude: -89.55815
 postcode: "53593"
 city: Verona
-street: "Silicon Prairie Parkway"
-housenumber: 970
+street: Silicon Prairie Parkway
+housenumber: "970"
 phone: "8003565844"
-opening_hours: "Mo-Fr 07:00-17:30"
-website: "https://www.fullcompass.com/"
+opening_hours: Mo-Fr 07:00-17:30
+website: https://www.fullcompass.com/

@@ -1,11 +1,11 @@
 id: 415119534
-type: way
+type: node
 latitude: 44.90421
 longitude: -91.92858
 postcode: "54751"
 city: Menomonie
-street: "Oak Avenue"
-housenumber: 303
+street: Oak Avenue
+housenumber: "303"
 phone: ""
 opening_hours: ""
 website: ""

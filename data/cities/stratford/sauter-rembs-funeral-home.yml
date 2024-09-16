@@ -1,11 +1,11 @@
 id: 1018456818
-type: way
+type: node
 latitude: 44.79237
 longitude: -90.07993
 postcode: "54484"
 city: Stratford
-street: "State Highway 97"
-housenumber: 211910
+street: State Highway 97
+housenumber: "211910"
 phone: ""
 opening_hours: ""
 website: ""

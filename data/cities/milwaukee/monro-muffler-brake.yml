@@ -1,11 +1,11 @@
 id: 664210474
-type: way
+type: node
 latitude: 42.93347
 longitude: -87.9486
 postcode: "53221"
 city: Milwaukee
-street: "South 27th Street"
-housenumber: 6112
-phone: "+1-414-285-6365"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00"
-website: "https://locations.monro.com/wi/milwaukee/6112-s-27th-street"
+street: South 27th Street
+housenumber: "6112"
+phone: +1-414-285-6365
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-18:00; Su 09:00-17:00
+website: https://locations.monro.com/wi/milwaukee/6112-s-27th-street

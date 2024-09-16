@@ -1,11 +1,11 @@
 id: 376097697
-type: way
+type: node
 latitude: 42.60324
 longitude: -87.89432
 postcode: "53144"
 city: Kenosha
-street: "38th St"
-housenumber: 7115
+street: 38th St
+housenumber: "7115"
 phone: ""
 opening_hours: ""
 website: ""

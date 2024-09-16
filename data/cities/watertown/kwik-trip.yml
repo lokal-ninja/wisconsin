@@ -1,11 +1,11 @@
 id: 292030446
-type: way
+type: node
 latitude: 43.17034
 longitude: -88.73157
 postcode: "53094"
 city: Watertown
-street: "South Church Street"
-housenumber: 1731
+street: South Church Street
+housenumber: "1731"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=354"
+website: https://www.kwiktrip.com/locator/store?id=354

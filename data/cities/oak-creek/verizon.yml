@@ -1,11 +1,11 @@
 id: 766366546
-type: way
+type: node
 latitude: 42.89967
 longitude: -87.91232
 postcode: "53154"
 city: Oak Creek
-street: "West Town Square Way"
-housenumber: 120
+street: West Town Square Way
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

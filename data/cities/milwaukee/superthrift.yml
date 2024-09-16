@@ -1,11 +1,11 @@
 id: 914486257
-type: way
+type: node
 latitude: 43.11495
 longitude: -88.02712
-postcode: "53225-0000"
+postcode: 53225-0000
 city: Milwaukee
-street: "North 91st Street"
-housenumber: 5333
+street: North 91st Street
+housenumber: "5333"
 phone: ""
 opening_hours: ""
 website: ""

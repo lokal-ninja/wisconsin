@@ -1,11 +1,11 @@
 id: 339087140
-type: way
+type: node
 latitude: 43.06558
 longitude: -89.41592
 postcode: "53711"
 city: Madison
-street: "Monroe Street"
-housenumber: 1719
-phone: "608-237-3032"
-opening_hours: "by appointment"
-website: "https://eyeopia.com/"
+street: Monroe Street
+housenumber: "1719"
+phone: 608-237-3032
+opening_hours: '"by appointment"'
+website: https://eyeopia.com/

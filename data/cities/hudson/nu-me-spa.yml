@@ -1,11 +1,11 @@
 id: 1279987147
-type: way
+type: node
 latitude: 44.95292
 longitude: -92.71998
 postcode: "54016"
 city: Hudson
-street: "Maxwell Drive"
-housenumber: 1615
-phone: "+1 6125135431"
-opening_hours: "Tu-Sa 09:00-19:00; Su 12:00-17:00"
+street: Maxwell Drive
+housenumber: "1615"
+phone: +1 6125135431
+opening_hours: Tu-Sa 09:00-19:00; Su 12:00-17:00
 website: ""

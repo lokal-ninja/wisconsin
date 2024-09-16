@@ -1,11 +1,11 @@
 id: 548617891
-type: way
+type: node
 latitude: 44.02929
 longitude: -88.58351
 postcode: "54904"
 city: Oshkosh
-street: "North Washburn Street"
-housenumber: 1015
-phone: "+1 920-252-8271"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00"
-website: "https://stores.dickssportinggoods.com/wi/oshkosh/1230/"
+street: North Washburn Street
+housenumber: "1015"
+phone: +1 920-252-8271
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-21:00; Su 10:00-19:00
+website: https://stores.dickssportinggoods.com/wi/oshkosh/1230/

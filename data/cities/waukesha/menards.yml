@@ -1,11 +1,11 @@
 id: 299713437
-type: way
+type: node
 latitude: 43.03517
 longitude: -88.1814
 postcode: "53186"
 city: Waukesha
-street: "Bluemound Road"
-housenumber: 2315
+street: Bluemound Road
+housenumber: "2315"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3261"
+website: https://www.menards.com/store-details/store.html?store=3261

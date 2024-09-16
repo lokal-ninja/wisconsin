@@ -1,11 +1,11 @@
 id: 495604989
-type: way
+type: node
 latitude: 44.51567
 longitude: -88.02278
 postcode: "54303"
 city: Green Bay
-street: "South Broadway"
-housenumber: 126
+street: South Broadway
+housenumber: "126"
 phone: ""
 opening_hours: ""
 website: ""

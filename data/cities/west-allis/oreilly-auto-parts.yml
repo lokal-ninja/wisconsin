@@ -1,11 +1,11 @@
 id: 662987737
-type: way
+type: node
 latitude: 43.01705
 longitude: -88.04773
 postcode: "53214"
 city: West Allis
-street: "South 108th Street"
-housenumber: 1357
+street: South 108th Street
+housenumber: "1357"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/westallis/autoparts-3463.html"
+website: https://locations.oreillyauto.com/wi/westallis/autoparts-3463.html

@@ -1,11 +1,11 @@
 id: 624850157
-type: way
+type: node
 latitude: 44.52286
 longitude: -89.58654
 postcode: "54481"
 city: Stevens Point
-street: "Clark Street"
-housenumber: 800
+street: Clark Street
+housenumber: "800"
 phone: ""
 opening_hours: ""
 website: ""

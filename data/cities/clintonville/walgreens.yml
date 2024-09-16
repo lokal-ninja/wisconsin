@@ -1,11 +1,11 @@
 id: 1092517407
-type: way
+type: node
 latitude: 44.61543
 longitude: -88.76228
 postcode: "54929"
 city: Clintonville
-street: "South Main Street"
-housenumber: 201
-phone: "715-823-4238"
+street: South Main Street
+housenumber: "201"
+phone: 715-823-4238
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-201+s+main+st-clintonville-wi-54929/id=12983"
+website: https://www.walgreens.com/locator/walgreens-201+s+main+st-clintonville-wi-54929/id=12983

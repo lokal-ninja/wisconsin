@@ -1,11 +1,11 @@
 id: 398082783
-type: way
+type: node
 latitude: 42.72251
 longitude: -87.817
 postcode: ""
 city: Racine
-street: "Kinzie Avenue"
-housenumber: 3113
+street: Kinzie Avenue
+housenumber: "3113"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 43.69122
 longitude: -88.36872
 postcode: "53019"
 city: Eden
-street: "West Main Street"
-housenumber: 301
-phone: "(920) 477-4203"
-opening_hours: "Mo-Fr 05:30-21:00; Sa 06:00-21:00; Su 06:30-21:00"
-website: "https://www.edenmeat.com/convenience_stores/corner_express.html"
+street: West Main Street
+housenumber: "301"
+phone: (920) 477-4203
+opening_hours: Mo-Fr 05:30-21:00; Sa 06:00-21:00; Su 06:30-21:00
+website: https://www.edenmeat.com/convenience_stores/corner_express.html

@@ -1,11 +1,11 @@
 id: 607558944
-type: way
+type: node
 latitude: 44.53092
 longitude: -89.57578
 postcode: "54481"
 city: Stevens Point
-street: "Division Street"
-housenumber: 428
+street: Division Street
+housenumber: "428"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-17:00; Su off"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-17:00; Su off
 website: ""

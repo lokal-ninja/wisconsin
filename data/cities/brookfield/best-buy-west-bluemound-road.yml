@@ -1,11 +1,11 @@
 id: 77720374
-type: way
+type: node
 latitude: 43.0354
 longitude: -88.15453
 postcode: "53045"
 city: Brookfield
-street: "West Bluemound Road"
-housenumber: 19555
-phone: "+1 262-796-0669"
+street: West Bluemound Road
+housenumber: "19555"
+phone: +1 262-796-0669
 opening_hours: ""
-website: "https://stores.bestbuy.com/wi/brookfield/19555-w-bluemound-rd-44.html"
+website: https://stores.bestbuy.com/wi/brookfield/19555-w-bluemound-rd-44.html

@@ -1,11 +1,11 @@
 id: 126983439
-type: way
+type: node
 latitude: 44.9582
 longitude: -92.72343
 postcode: "54016"
 city: Hudson
-street: "Crest View Drive"
-housenumber: 2330
-phone: "+1 715-531-1416"
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
-website: "https://www.homedepot.com/l/hudson/wi/hudson/54016/4935"
+street: Crest View Drive
+housenumber: "2330"
+phone: +1 715-531-1416
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
+website: https://www.homedepot.com/l/hudson/wi/hudson/54016/4935

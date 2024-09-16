@@ -1,11 +1,11 @@
 id: 419976460
-type: way
+type: node
 latitude: 43.05193
 longitude: -87.9183
 postcode: "53212"
 city: Milwaukee
-street: "West Walnut Street"
-housenumber: 525
+street: West Walnut Street
+housenumber: "525"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:00; Sa 10:30-14:00"
+opening_hours: Mo-Fr 08:30-17:00; Sa 10:30-14:00
 website: ""

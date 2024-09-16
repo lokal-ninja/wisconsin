@@ -1,11 +1,11 @@
 id: 663239496
-type: way
+type: node
 latitude: 43.01243
 longitude: -87.93331
 postcode: "53204"
 city: Milwaukee
-street: "South Cesar E Chavez Drive"
-housenumber: 1681
-phone: "+1-414-645-2355"
-opening_hours: "Mo-Sa 10:00-19:00; Su 12:00-17:00"
-website: "https://www.boostmobile.com/locations/bd/boost-mobile-wi-milwaukee-1681-s-cesar-e-chavez-dr-53204/"
+street: South Cesar E Chavez Drive
+housenumber: "1681"
+phone: +1-414-645-2355
+opening_hours: Mo-Sa 10:00-19:00; Su 12:00-17:00
+website: https://www.boostmobile.com/locations/bd/boost-mobile-wi-milwaukee-1681-s-cesar-e-chavez-dr-53204/

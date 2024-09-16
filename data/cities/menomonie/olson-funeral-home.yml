@@ -1,11 +1,11 @@
 id: 722498062
-type: way
+type: node
 latitude: 44.87603
 longitude: -91.9229
 postcode: "54751"
 city: Menomonie
-street: "Wilson Avenue"
-housenumber: 615
-phone: "+1-715-235-2154"
+street: Wilson Avenue
+housenumber: "615"
+phone: +1-715-235-2154
 opening_hours: ""
-website: "https://olsonfuneral.com/"
+website: https://olsonfuneral.com/

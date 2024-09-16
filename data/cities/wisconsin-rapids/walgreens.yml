@@ -1,11 +1,11 @@
 id: 486813316
-type: way
+type: node
 latitude: 44.36557
 longitude: -89.81829
 postcode: "54494"
 city: Wisconsin Rapids
-street: "8th St S"
-housenumber: 3200
+street: 8th St S
+housenumber: "3200"
 phone: ""
 opening_hours: ""
-website: "https://www.walgreens.com/locator/walgreens-3200+8th+st+s-wisconsin+rapids-wi-54494/id=9009"
+website: https://www.walgreens.com/locator/walgreens-3200+8th+st+s-wisconsin+rapids-wi-54494/id=9009

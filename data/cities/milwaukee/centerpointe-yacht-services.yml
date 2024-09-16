@@ -1,11 +1,11 @@
 id: 663078874
-type: way
+type: node
 latitude: 43.02468
 longitude: -87.90424
 postcode: "53204"
 city: Milwaukee
-street: "South Water Street"
-housenumber: 700
+street: South Water Street
+housenumber: "700"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 436069408
-type: way
+type: node
 latitude: 42.89903
 longitude: -87.9158
 postcode: "53154"
 city: Oak Creek
-street: "West Town Square Way"
-housenumber: 171
-phone: "+1-414-501-1700"
-opening_hours: "24/7"
+street: West Town Square Way
+housenumber: "171"
+phone: +1-414-501-1700
+opening_hours: 24/7
 website: ""

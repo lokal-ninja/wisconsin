@@ -1,11 +1,11 @@
 id: 587895133
-type: way
+type: node
 latitude: 45.63454
 longitude: -89.39669
 postcode: "54501"
 city: Rhinelander
-street: "Lincoln Street"
-housenumber: 1035
-phone: "+1 715-362-8525"
-opening_hours: "Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00"
-website: "https://www.kohls.com/stores/wi/rhinelander-1199.shtml"
+street: Lincoln Street
+housenumber: "1035"
+phone: +1 715-362-8525
+opening_hours: Mo-Th 09:00-20:00; Fr-Sa 09:00-21:00; Su 09:00-20:00
+website: https://www.kohls.com/stores/wi/rhinelander-1199.shtml

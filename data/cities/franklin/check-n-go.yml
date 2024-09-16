@@ -1,11 +1,11 @@
 id: 1175397243
-type: way
+type: node
 latitude: 42.92641
 longitude: -87.95038
 postcode: "53132"
 city: Franklin
-street: "South 27th Street"
-housenumber: 6505
+street: South 27th Street
+housenumber: "6505"
 phone: ""
 opening_hours: ""
 website: ""

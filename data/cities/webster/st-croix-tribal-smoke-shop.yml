@@ -1,11 +1,11 @@
 id: 824014242
-type: way
+type: node
 latitude: 45.80937
 longitude: -92.20298
 postcode: "54893"
 city: Webster
-street: "State Highway 70"
-housenumber: 4380
+street: State Highway 70
+housenumber: "4380"
 phone: ""
 opening_hours: ""
 website: ""

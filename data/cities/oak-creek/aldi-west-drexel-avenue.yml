@@ -1,11 +1,11 @@
 id: 766366558
-type: way
+type: node
 latitude: 42.90228
 longitude: -87.91801
 postcode: "53154"
 city: Oak Creek
-street: "West Drexel Avenue"
-housenumber: 410
-phone: "+1 855-464-7091"
-opening_hours: "Mo-Su 09:00-20:00"
-website: "https://stores.aldi.us/wi/oak-creek/410-w-drexel-avenue"
+street: West Drexel Avenue
+housenumber: "410"
+phone: +1 855-464-7091
+opening_hours: Mo-Su 09:00-20:00
+website: https://stores.aldi.us/wi/oak-creek/410-w-drexel-avenue

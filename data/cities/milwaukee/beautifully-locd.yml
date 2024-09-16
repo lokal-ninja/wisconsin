@@ -4,8 +4,9 @@ latitude: 43.0873
 longitude: -88.00152
 postcode: "53216"
 city: Milwaukee
-street: "West Appleton Avenue"
-housenumber: 7212
-phone: "+1-414-388-4693"
-opening_hours: "Mo-Fr off; Sa 09:00-18:00 open by appointment; Su 09:00-14:00 open by appointment"
-website: "https://www.beautifullylocd.com/"
+street: West Appleton Avenue
+housenumber: "7212"
+phone: +1-414-388-4693
+opening_hours: Mo-Fr off; Sa 09:00-18:00 open "by appointment"; Su 09:00-14:00 open
+    "by appointment"
+website: https://www.beautifullylocd.com/

@@ -1,11 +1,11 @@
 id: 352860196
-type: way
+type: node
 latitude: 45.07477
 longitude: -87.66101
 postcode: "54143"
 city: Marinette
-street: "Roosevelt Road"
-housenumber: 2871
-phone: "+1 844-464-4002"
-opening_hours: "Mo-Su 08:30-20:00"
-website: "https://stores.aldi.us/wi/marinette/2871-roosevelt-road"
+street: Roosevelt Road
+housenumber: "2871"
+phone: +1 844-464-4002
+opening_hours: Mo-Su 08:30-20:00
+website: https://stores.aldi.us/wi/marinette/2871-roosevelt-road

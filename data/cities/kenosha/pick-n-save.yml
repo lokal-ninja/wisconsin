@@ -1,11 +1,11 @@
 id: 115364647
-type: way
+type: node
 latitude: 42.57551
 longitude: -87.83259
 postcode: "53143"
 city: Kenosha
-street: "63rd Street"
-housenumber: 1901
-phone: "+1 262 653 0132"
-opening_hours: "Sa-Fr 07:00-22:00"
+street: 63rd Street
+housenumber: "1901"
+phone: +1 262 653 0132
+opening_hours: Sa-Fr 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 632658371
-type: way
+type: node
 latitude: 42.92783
 longitude: -87.86316
 postcode: "53172"
 city: South Milwaukee
-street: "North Chicago Avenue"
-housenumber: 222
-phone: "+1 414-501-1121"
-opening_hours: "24/7"
-website: "https://www.walmart.com/store/5667/south-milwaukee-wi/whats-new"
+street: North Chicago Avenue
+housenumber: "222"
+phone: +1 414-501-1121
+opening_hours: 24/7
+website: https://www.walmart.com/store/5667/south-milwaukee-wi/whats-new

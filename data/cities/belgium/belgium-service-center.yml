@@ -1,11 +1,11 @@
 id: 502793953
-type: way
+type: node
 latitude: 43.49871
 longitude: -87.83483
 postcode: "53004"
 city: Belgium
-street: "South Royal Avenue"
-housenumber: 116
+street: South Royal Avenue
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

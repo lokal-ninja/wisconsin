@@ -1,11 +1,11 @@
 id: 366965923
-type: way
+type: node
 latitude: 42.71442
 longitude: -89.43348
 postcode: "53502"
 city: Albany
-street: "North Mechanic Street"
-housenumber: 614
+street: North Mechanic Street
+housenumber: "614"
 phone: ""
 opening_hours: ""
-website: "https://www.dollargeneral.com/store-directory/wi/albany/16028"
+website: https://www.dollargeneral.com/store-directory/wi/albany/16028

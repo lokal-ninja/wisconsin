@@ -1,11 +1,11 @@
 id: 590633626
-type: way
+type: node
 latitude: 44.26133
 longitude: -88.46311
 postcode: "54914"
 city: Appleton
-street: "West College Avenue"
-housenumber: 3939
-phone: "+1 (920) 997-9300"
+street: West College Avenue
+housenumber: "3939"
+phone: +1 (920) 997-9300
 opening_hours: ""
-website: "https://www.wheelandsprocket.com/"
+website: https://www.wheelandsprocket.com/

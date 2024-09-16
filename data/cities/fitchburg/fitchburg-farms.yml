@@ -1,11 +1,11 @@
 id: 1222273522
-type: way
+type: node
 latitude: 42.95522
 longitude: -89.37987
 postcode: "53575"
 city: Fitchburg
-street: "County Road MM"
-housenumber: 1839
+street: County Road MM
+housenumber: "1839"
 phone: ""
 opening_hours: ""
-website: "https://www.fitchburgfarms.com/"
+website: https://www.fitchburgfarms.com/

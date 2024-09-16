@@ -1,11 +1,11 @@
 id: 435219222
-type: way
+type: node
 latitude: 42.80826
 longitude: -89.12791
 postcode: "53534"
 city: Edgerton
-street: "County Road H"
-housenumber: 9413
-phone: "1-608-884-0131"
+street: County Road H
+housenumber: "9413"
+phone: 1-608-884-0131
 opening_hours: ""
 website: ""

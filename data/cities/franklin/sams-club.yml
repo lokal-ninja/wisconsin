@@ -1,11 +1,11 @@
 id: 1175397263
-type: way
+type: node
 latitude: 42.92356
 longitude: -87.95355
 postcode: "53132"
 city: Franklin
-street: "South 27th Street"
-housenumber: 6705
-phone: "+1 414-761-0088"
-opening_hours: "Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00"
-website: "https://www.samsclub.com/club/franklin-wi-sams-club/8167"
+street: South 27th Street
+housenumber: "6705"
+phone: +1 414-761-0088
+opening_hours: Mo 10:00-20:00; Sa 09:00-20:00; Su 10:00-18:00
+website: https://www.samsclub.com/club/franklin-wi-sams-club/8167

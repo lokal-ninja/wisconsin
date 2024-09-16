@@ -1,11 +1,11 @@
 id: 384717024
-type: way
+type: node
 latitude: 43.00438
 longitude: -87.92867
 postcode: "53215"
 city: Milwaukee
-street: "South 13th Street"
-housenumber: 2201
+street: South 13th Street
+housenumber: "2201"
 phone: ""
 opening_hours: ""
 website: ""

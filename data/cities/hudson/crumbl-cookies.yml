@@ -1,11 +1,11 @@
 id: 1089347985
-type: way
+type: node
 latitude: 44.95927
 longitude: -92.71927
 postcode: "54016"
 city: Hudson
-street: "Pearson Drive"
-housenumber: 1020
+street: Pearson Drive
+housenumber: "1020"
 phone: ""
 opening_hours: ""
 website: ""

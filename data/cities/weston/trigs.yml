@@ -1,11 +1,11 @@
 id: 436901562
-type: way
+type: node
 latitude: 44.90137
 longitude: -89.60759
 postcode: "54476"
 city: Weston
-street: "Business US-51"
-housenumber: 6205
+street: Business US-51
+housenumber: "6205"
 phone: ""
 opening_hours: ""
 website: ""

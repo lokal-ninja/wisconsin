@@ -4,8 +4,8 @@ latitude: 43.0966
 longitude: -89.51366
 postcode: "53562"
 city: Middleton
-street: "Cayuga Street"
-housenumber: 1903
-phone: "+1-608-831-3469"
-opening_hours: "Tu, We, Fr 10:00-17:00; Th 10:00-18:00; Sa 10:00-15:00"
-website: "https://www.dinys.com/"
+street: Cayuga Street
+housenumber: "1903"
+phone: +1-608-831-3469
+opening_hours: Tu, We, Fr 10:00-17:00; Th 10:00-18:00; Sa 10:00-15:00
+website: https://www.dinys.com/

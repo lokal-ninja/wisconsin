@@ -1,11 +1,11 @@
 id: 279442775
-type: way
+type: node
 latitude: 42.59953
 longitude: -88.41593
 postcode: "53147"
 city: Lake Geneva
-street: "North Edwards Boulevard"
-housenumber: 700
-phone: "+1 262-348-9269"
+street: North Edwards Boulevard
+housenumber: "700"
+phone: +1 262-348-9269
 opening_hours: ""
-website: "https://stores.bestbuy.com/wi/lake-geneva/700-n-edwards-blvd-1489.html"
+website: https://stores.bestbuy.com/wi/lake-geneva/700-n-edwards-blvd-1489.html

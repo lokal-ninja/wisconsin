@@ -1,11 +1,11 @@
 id: 852191032
-type: way
+type: node
 latitude: 43.09324
 longitude: -88.47919
 postcode: "53066"
 city: Oconomowoc
-street: "Summit Avenue"
-housenumber: 1165
-phone: "(262) 567-4457"
+street: Summit Avenue
+housenumber: "1165"
+phone: (262) 567-4457
 opening_hours: ""
-website: "https://www.pagenkopf.com/"
+website: https://www.pagenkopf.com/

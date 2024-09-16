@@ -1,11 +1,11 @@
 id: 205675404
-type: way
+type: node
 latitude: 44.91649
 longitude: -89.64719
 postcode: ""
 city: Wausau
-street: "Morning Glory Lane"
-housenumber: 1101
+street: Morning Glory Lane
+housenumber: "1101"
 phone: ""
 opening_hours: ""
 website: ""

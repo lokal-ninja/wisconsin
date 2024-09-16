@@ -2,10 +2,10 @@ id: 5633905904
 type: node
 latitude: 42.95829
 longitude: -87.92246
-postcode: "53221-2426"
+postcode: 53221-2426
 city: Milwaukee
-street: "West Layton Avenue"
-housenumber: 841
+street: West Layton Avenue
+housenumber: "841"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/milwaukee/autoparts-3274.html"
+website: https://locations.oreillyauto.com/wi/milwaukee/autoparts-3274.html

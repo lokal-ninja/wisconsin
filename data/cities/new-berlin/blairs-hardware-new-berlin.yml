@@ -1,11 +1,11 @@
 id: 1039750899
-type: way
+type: node
 latitude: 42.97958
 longitude: -88.10497
 postcode: "53151"
 city: New Berlin
-street: "West National Avenue"
-housenumber: 15300
-phone: "1-262-784-5656"
+street: West National Avenue
+housenumber: "15300"
+phone: 1-262-784-5656
 opening_hours: ""
 website: ""

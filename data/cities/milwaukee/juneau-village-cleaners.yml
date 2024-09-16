@@ -4,8 +4,8 @@ latitude: 43.0448
 longitude: -87.90449
 postcode: "53202"
 city: Milwaukee
-street: "North Jackson Street"
-housenumber: 1112
+street: North Jackson Street
+housenumber: "1112"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

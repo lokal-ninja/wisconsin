@@ -1,11 +1,11 @@
 id: 408979826
-type: way
+type: node
 latitude: 45.16389
 longitude: -89.14205
 postcode: "54409"
 city: Antigo
-street: "State Highway 64"
-housenumber: 200
-phone: "+1 715-627-1382"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.walmart.com/store/3268/antigo-wi/whats-new"
+street: State Highway 64
+housenumber: "200"
+phone: +1 715-627-1382
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.walmart.com/store/3268/antigo-wi/whats-new

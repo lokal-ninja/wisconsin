@@ -1,11 +1,11 @@
 id: 232356480
-type: way
+type: node
 latitude: 43.77633
 longitude: -91.22087
 postcode: "54601"
 city: La Crosse
-street: "Mormon Coulee Road"
-housenumber: 3909
+street: Mormon Coulee Road
+housenumber: "3909"
 phone: ""
-opening_hours: "08:00-22:00"
-website: "https://www.walgreens.com/locator/walgreens-3909+mormon+coulee+rd-la+crosse-wi-54601/id=12455"
+opening_hours: 08:00-22:00
+website: https://www.walgreens.com/locator/walgreens-3909+mormon+coulee+rd-la+crosse-wi-54601/id=12455

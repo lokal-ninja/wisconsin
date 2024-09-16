@@ -1,11 +1,11 @@
 id: 662475180
-type: way
+type: node
 latitude: 43.04856
 longitude: -87.95743
 postcode: "53208"
 city: Milwaukee
-street: "West Vliet Street"
-housenumber: 3431
+street: West Vliet Street
+housenumber: "3431"
 phone: ""
 opening_hours: ""
-website: "https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-milwaukee-wi-10278142/"
+website: https://www.metrobyt-mobile.com/stores/bd/metro-by-t-mobile-milwaukee-wi-10278142/

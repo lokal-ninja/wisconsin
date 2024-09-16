@@ -1,11 +1,11 @@
 id: 371664149
-type: way
+type: node
 latitude: 43.39671
 longitude: -88.18258
 postcode: "53095"
 city: West Bend
-street: "West Paradise Drive"
-housenumber: 575
+street: West Paradise Drive
+housenumber: "575"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3149"
+website: https://www.menards.com/store-details/store.html?store=3149

@@ -1,11 +1,11 @@
 id: 96767467
-type: way
+type: node
 latitude: 42.70863
 longitude: -89.43885
 postcode: "53502"
 city: Albany
-street: "North Water Street"
-housenumber: 201
-phone: "608-862-3276"
+street: North Water Street
+housenumber: "201"
+phone: 608-862-3276
 opening_hours: ""
 website: ""

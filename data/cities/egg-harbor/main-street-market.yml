@@ -1,11 +1,11 @@
 id: 291263049
-type: way
+type: node
 latitude: 45.04894
 longitude: -87.2793
 postcode: "54209"
 city: Egg Harbor
-street: "State Highway 42"
-housenumber: 7770
-phone: "+1 920 868 2120"
+street: State Highway 42
+housenumber: "7770"
+phone: +1 920 868 2120
 opening_hours: ""
-website: "https://www.doorcountygrocery.com/"
+website: https://www.doorcountygrocery.com/

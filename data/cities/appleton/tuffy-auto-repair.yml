@@ -1,11 +1,11 @@
 id: 470704205
-type: way
+type: node
 latitude: 44.25917
 longitude: -88.36484
 postcode: ""
 city: Appleton
-street: "East College Avenue"
-housenumber: 2940
+street: East College Avenue
+housenumber: "2940"
 phone: ""
 opening_hours: ""
 website: ""

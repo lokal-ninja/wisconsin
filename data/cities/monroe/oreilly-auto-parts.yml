@@ -1,11 +1,11 @@
 id: 593684839
-type: way
+type: node
 latitude: 42.60541
 longitude: -89.65148
 postcode: "53566"
 city: Monroe
-street: "8th Avenue"
-housenumber: 611
-phone: "608-325-2254"
+street: 8th Avenue
+housenumber: "611"
+phone: 608-325-2254
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/monroe/autoparts-4628.html"
+website: https://locations.oreillyauto.com/wi/monroe/autoparts-4628.html

@@ -1,11 +1,11 @@
 id: 352857626
-type: way
+type: node
 latitude: 45.07595
 longitude: -87.65644
 postcode: "54143"
 city: Marinette
-street: "Gallagher Road"
-housenumber: 3403
-phone: "+1-715-732-4111"
-opening_hours: "Mo-Fr 08:00-17:30; Sa 08:00-16:00"
-website: "http://www.lauermans.net/"
+street: Gallagher Road
+housenumber: "3403"
+phone: +1-715-732-4111
+opening_hours: Mo-Fr 08:00-17:30; Sa 08:00-16:00
+website: http://www.lauermans.net/

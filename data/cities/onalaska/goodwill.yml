@@ -1,11 +1,11 @@
 id: 262477433
-type: way
+type: node
 latitude: 43.87916
 longitude: -91.19978
 postcode: "54650"
 city: Onalaska
-street: "Theater Road"
-housenumber: 200
+street: Theater Road
+housenumber: "200"
 phone: ""
 opening_hours: ""
 website: ""

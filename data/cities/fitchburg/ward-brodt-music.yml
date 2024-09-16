@@ -1,11 +1,11 @@
 id: 469436577
-type: way
+type: node
 latitude: 43.01123
 longitude: -89.46038
 postcode: "53719"
 city: Fitchburg
-street: "Executive Drive"
-housenumber: 5976
+street: Executive Drive
+housenumber: "5976"
 phone: ""
-opening_hours: "Mo-Sa 12:00-17:00"
-website: "https://www.wardbrodt.com/"
+opening_hours: Mo-Sa 12:00-17:00
+website: https://www.wardbrodt.com/

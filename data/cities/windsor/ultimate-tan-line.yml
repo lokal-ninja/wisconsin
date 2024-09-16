@@ -1,11 +1,11 @@
 id: 583602282
-type: way
+type: node
 latitude: 43.21581
 longitude: -89.34416
 postcode: "53598"
 city: Windsor
-street: "Lake Road"
-housenumber: 6725
+street: Lake Road
+housenumber: "6725"
 phone: ""
 opening_hours: ""
 website: ""

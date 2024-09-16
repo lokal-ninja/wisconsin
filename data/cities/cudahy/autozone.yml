@@ -1,11 +1,11 @@
 id: 664233039
-type: way
+type: node
 latitude: 42.94085
 longitude: -87.85911
 postcode: "53110"
 city: Cudahy
-street: "South Packard Avenue"
-housenumber: 5656
+street: South Packard Avenue
+housenumber: "5656"
 phone: ""
 opening_hours: ""
-website: "https://www.autozone.com/locations/wi/cudahy/5656-s-packard-ave.html"
+website: https://www.autozone.com/locations/wi/cudahy/5656-s-packard-ave.html

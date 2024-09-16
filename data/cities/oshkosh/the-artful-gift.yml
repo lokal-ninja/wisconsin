@@ -1,11 +1,11 @@
 id: 549992723
-type: way
+type: node
 latitude: 44.01681
 longitude: -88.5371
 postcode: "54901"
 city: Oshkosh
-street: "Waugoo Avenue"
-housenumber: 11
-phone: "+1-920-235-7870"
-opening_hours: "Tu,We,Fr 09:00-17:00; Th 09:00-19:00; Sa 09:00-15:00"
-website: "https://www.reimerjewelers.com/"
+street: Waugoo Avenue
+housenumber: "11"
+phone: +1-920-235-7870
+opening_hours: Tu,We,Fr 09:00-17:00; Th 09:00-19:00; Sa 09:00-15:00
+website: https://www.reimerjewelers.com/

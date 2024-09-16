@@ -1,11 +1,11 @@
 id: 699806022
-type: way
+type: node
 latitude: 44.28786
 longitude: -88.41428
 postcode: "54911"
 city: Appleton
-street: "West Northland Avenue"
-housenumber: 650
+street: West Northland Avenue
+housenumber: "650"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=359"
+website: https://www.kwiktrip.com/locator/store?id=359

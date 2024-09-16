@@ -1,11 +1,11 @@
 id: 508085082
-type: way
+type: node
 latitude: 43.17676
 longitude: -87.90455
-postcode: "53217-2339"
+postcode: 53217-2339
 city: Bayside
-street: "East Brown Deer Road"
-housenumber: 400
+street: East Brown Deer Road
+housenumber: "400"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-17:30; Su 09:00-17:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-17:30; Su 09:00-17:00
 website: ""

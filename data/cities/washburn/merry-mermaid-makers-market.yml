@@ -1,11 +1,11 @@
 id: 672119069
-type: way
+type: node
 latitude: 46.6707
 longitude: -90.89339
 postcode: "54891"
 city: Washburn
-street: "South 2nd Avenue West"
-housenumber: 123
+street: South 2nd Avenue West
+housenumber: "123"
 phone: ""
 opening_hours: ""
 website: ""

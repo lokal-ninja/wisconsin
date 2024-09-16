@@ -1,11 +1,11 @@
 id: 1051858860
-type: way
+type: node
 latitude: 44.98622
 longitude: -92.68415
 postcode: "54016"
 city: Hudson
-street: "Hartman Circle"
-housenumber: 861
-phone: "+1 (715) 201-9990"
+street: Hartman Circle
+housenumber: "861"
+phone: +1 (715) 201-9990
 opening_hours: ""
-website: "https://www.hudsongrandgarages.com"
+website: https://www.hudsongrandgarages.com

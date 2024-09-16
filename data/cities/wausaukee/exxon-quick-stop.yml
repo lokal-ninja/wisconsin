@@ -1,11 +1,11 @@
 id: 846245893
-type: way
+type: node
 latitude: 45.36752
 longitude: -87.95218
 postcode: "54177"
 city: Wausaukee
-street: "State Highway 180"
-housenumber: 530
+street: State Highway 180
+housenumber: "530"
 phone: ""
 opening_hours: ""
 website: ""

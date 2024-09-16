@@ -4,8 +4,8 @@ latitude: 44.48083
 longitude: -88.06762
 postcode: "54304"
 city: Green Bay
-street: "Pilgrim Way"
-housenumber: 803
-phone: "+1 920-494-7035"
-opening_hours: "Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00"
-website: "https://www.ulta.com/stores/green-bay-wi-418"
+street: Pilgrim Way
+housenumber: "803"
+phone: +1 920-494-7035
+opening_hours: Mo-We 10:00-20:00; Th-Sa 10:00-21:00; Su 11:00-18:00
+website: https://www.ulta.com/stores/green-bay-wi-418

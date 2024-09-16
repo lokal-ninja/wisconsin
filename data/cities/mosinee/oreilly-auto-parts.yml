@@ -1,11 +1,11 @@
 id: 1148090450
-type: way
+type: node
 latitude: 44.78594
 longitude: -89.69017
 postcode: "54455"
 city: Mosinee
-street: "State Highway 153"
-housenumber: 495
+street: State Highway 153
+housenumber: "495"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/wi/mosinee/autoparts-6331.html"
+website: https://locations.oreillyauto.com/wi/mosinee/autoparts-6331.html

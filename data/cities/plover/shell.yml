@@ -1,11 +1,11 @@
 id: 366764455
-type: way
+type: node
 latitude: 44.45297
 longitude: -89.54372
 postcode: "54467"
 city: Plover
-street: "Plover Road"
-housenumber: 2621
+street: Plover Road
+housenumber: "2621"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 844856731
-type: way
+type: node
 latitude: 45.00386
 longitude: -92.75338
 postcode: "54016"
 city: North Hudson
-street: "Sixth Street North"
-housenumber: 740
+street: Sixth Street North
+housenumber: "740"
 phone: ""
 opening_hours: ""
-website: "https://www.kwiktrip.com/locator/store?id=935"
+website: https://www.kwiktrip.com/locator/store?id=935

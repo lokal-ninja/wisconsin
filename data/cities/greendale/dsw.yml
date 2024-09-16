@@ -1,11 +1,11 @@
 id: 664026044
-type: way
+type: node
 latitude: 42.94905
 longitude: -88.0078
 postcode: "53129"
 city: Greendale
-street: "South 76th Street"
-housenumber: 5250
+street: South 76th Street
+housenumber: "5250"
 phone: ""
 opening_hours: ""
 website: ""

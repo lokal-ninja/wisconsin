@@ -4,8 +4,8 @@ latitude: 42.56922
 longitude: -87.8964
 postcode: "53142"
 city: Kenosha
-street: "74th Place"
-housenumber: 7330
+street: 74th Place
+housenumber: "7330"
 phone: ""
 opening_hours: ""
-website: "https://www.menards.com/store-details/store.html?store=3127"
+website: https://www.menards.com/store-details/store.html?store=3127

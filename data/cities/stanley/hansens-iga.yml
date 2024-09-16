@@ -1,11 +1,11 @@
 id: 1254484108
-type: way
+type: node
 latitude: 44.958
 longitude: -90.93696
 postcode: "54768"
 city: Stanley
-street: "Washington Street"
-housenumber: 218
+street: Washington Street
+housenumber: "218"
 phone: "+17156445842"
-opening_hours: "Mo-Su 07:00-21:00"
-website: "https://www.hansensiga.com/"
+opening_hours: Mo-Su 07:00-21:00
+website: https://www.hansensiga.com/

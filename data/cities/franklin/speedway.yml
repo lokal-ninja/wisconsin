@@ -1,11 +1,11 @@
 id: 240146014
-type: way
+type: node
 latitude: 42.90515
 longitude: -88.04008
 postcode: "53132"
 city: Franklin
-street: "West Church Street"
-housenumber: 10001
+street: West Church Street
+housenumber: "10001"
 phone: ""
 opening_hours: ""
-website: "https://www.speedway.com/locations/WI/Franklin/10001-West-Church-Street"
+website: https://www.speedway.com/locations/WI/Franklin/10001-West-Church-Street
