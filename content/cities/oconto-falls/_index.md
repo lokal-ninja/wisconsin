@@ -1,6 +1,6 @@
 ---
 title: Oconto Falls
 url: /oconto-falls/
-latitude: 44.878
-longitude: -88.136
+latitude: 44.884
+longitude: -88.138
 ---
