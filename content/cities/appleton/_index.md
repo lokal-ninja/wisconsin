@@ -1,6 +1,6 @@
 ---
 title: Appleton
 url: /appleton/
-latitude: 44.243
-longitude: -88.351
+latitude: 44.259
+longitude: -88.361
 ---
