@@ -1,6 +1,6 @@
 ---
 title: Highland
 url: /highland/
-latitude: 43.045
+latitude: 43.046
 longitude: -90.38
 ---
