@@ -2,5 +2,5 @@
 title: Reedsburg
 url: /reedsburg/
 latitude: 43.533
-longitude: -90.026
+longitude: -89.987
 ---
