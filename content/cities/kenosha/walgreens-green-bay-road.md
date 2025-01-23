@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
-url: /kenosha/walgreens-30th-avenue/
+url: /kenosha/walgreens-green-bay-road/
 shop: chemist
 ---
