@@ -1,6 +1,6 @@
 ---
 title: Roberts
 url: /roberts/
-latitude: 44.977
-longitude: -92.557
+latitude: 44.992
+longitude: -92.553
 ---
