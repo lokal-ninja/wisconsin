@@ -1,6 +1,6 @@
 ---
 title: Eagle River
 url: /eagle-river/
-latitude: 45.916
-longitude: -89.252
+latitude: 45.915
+longitude: -89.241
 ---
