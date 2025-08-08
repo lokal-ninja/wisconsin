@@ -1,6 +1,6 @@
 ---
 title: Necedah
 url: /necedah/
-latitude: 44.026
-longitude: -90.075
+latitude: 44.025
+longitude: -90.082
 ---

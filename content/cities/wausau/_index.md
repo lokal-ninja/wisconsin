@@ -1,6 +1,6 @@
 ---
 title: Wausau
 url: /wausau/
-latitude: 44.926
-longitude: -89.654
+latitude: 44.958
+longitude: -89.645
 ---

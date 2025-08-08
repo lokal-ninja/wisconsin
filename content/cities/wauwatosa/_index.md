@@ -1,6 +1,6 @@
 ---
 title: Wauwatosa
 url: /wauwatosa/
-latitude: 43.051
-longitude: -87.997
+latitude: 43.047
+longitude: -87.996
 ---

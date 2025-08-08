@@ -1,6 +1,6 @@
 ---
 title: Waupun
 url: /waupun/
-latitude: 43.635
-longitude: -88.717
+latitude: 43.634
+longitude: -88.752
 ---

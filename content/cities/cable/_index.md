@@ -1,6 +1,6 @@
 ---
 title: Cable
 url: /cable/
-latitude: 46.194
-longitude: -91.322
+latitude: 46.212
+longitude: -91.294
 ---
