@@ -1,6 +1,6 @@
 ---
 title: Belgium
 url: /belgium/
-latitude: 43.499
-longitude: -87.835
+latitude: 43.528
+longitude: -87.942
 ---
