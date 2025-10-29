@@ -1,6 +1,6 @@
 ---
 title: Sheboygan
 url: /sheboygan/
-latitude: 43.743
-longitude: -87.715
+latitude: 43.776
+longitude: -87.723
 ---
