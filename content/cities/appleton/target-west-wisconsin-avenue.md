@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /appleton/target-south-kensington-drive/
+url: /appleton/target-west-wisconsin-avenue/
 shop: department store
 ---
