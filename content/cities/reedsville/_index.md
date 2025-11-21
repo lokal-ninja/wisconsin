@@ -1,6 +1,6 @@
 ---
 title: Reedsville
 url: /reedsville/
-latitude: 44.156
-longitude: -87.949
+latitude: 44.153
+longitude: -87.951
 ---
