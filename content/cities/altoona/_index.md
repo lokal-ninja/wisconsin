@@ -1,6 +1,6 @@
 ---
 title: Altoona
 url: /altoona/
-latitude: 44.816
-longitude: -91.459
+latitude: 44.808
+longitude: -91.439
 ---
