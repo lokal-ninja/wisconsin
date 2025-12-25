@@ -1,5 +1,5 @@
 ---
 title: "Kohl's"
-url: /madison/kohls-west-towne-way/
+url: /madison/kohls-east-springs-drive/
 shop: department store
 ---
