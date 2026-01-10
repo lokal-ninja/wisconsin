@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
-url: /green-bay/family-dollar-west-walnut-street/
+url: /green-bay/family-dollar-main-street/
 shop: variety store
 ---
