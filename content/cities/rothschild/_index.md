@@ -1,6 +1,6 @@
 ---
 title: Rothschild
 url: /rothschild/
-latitude: 44.864
-longitude: -89.635
+latitude: 44.899
+longitude: -89.61
 ---

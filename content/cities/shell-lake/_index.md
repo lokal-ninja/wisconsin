@@ -1,6 +1,6 @@
 ---
 title: Shell Lake
 url: /shell-lake/
-latitude: 45.732
-longitude: -91.931
+latitude: 45.749
+longitude: -91.913
 ---

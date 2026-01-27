@@ -1,6 +1,6 @@
 ---
 title: Whitefish Bay
 url: /whitefish-bay/
-latitude: 43.104
-longitude: -87.907
+latitude: 43.119
+longitude: -87.903
 ---

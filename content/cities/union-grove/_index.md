@@ -1,6 +1,6 @@
 ---
 title: Union Grove
 url: /union-grove/
-latitude: 42.686
-longitude: -88.065
+latitude: 42.688
+longitude: -88.052
 ---
