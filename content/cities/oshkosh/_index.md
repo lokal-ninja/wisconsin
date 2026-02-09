@@ -1,6 +1,6 @@
 ---
 title: Oshkosh
 url: /oshkosh/
-latitude: 44.02
-longitude: -88.537
+latitude: 44.019
+longitude: -88.538
 ---
