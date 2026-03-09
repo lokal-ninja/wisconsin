@@ -1,6 +1,6 @@
 ---
 title: Clintonville
 url: /clintonville/
-latitude: 44.617
-longitude: -88.763
+latitude: 44.622
+longitude: -88.762
 ---
