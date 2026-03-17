@@ -1,6 +1,6 @@
 ---
 title: Markesan
 url: /markesan/
-latitude: 43.704
-longitude: -89.066
+latitude: 43.674
+longitude: -89.104
 ---
