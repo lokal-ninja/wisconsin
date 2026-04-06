@@ -1,6 +1,6 @@
 ---
 title: Mineral Point
 url: /mineral-point/
-latitude: 42.861
-longitude: -90.188
+latitude: 42.872
+longitude: -90.173
 ---
