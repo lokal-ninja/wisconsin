@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /schofield/shell/
+url: /schofield-weston/shell/
 shop: convenience
 ---

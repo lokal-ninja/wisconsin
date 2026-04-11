@@ -1,5 +1,5 @@
 ---
 title: "Metro Market"
-url: /madison/metro-market-university-avenue/
+url: /madison/metro-market-junction-road/
 shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Menards"
-url: /appleton/menards-west-integrity-way/
+url: /appleton/menards-east-express-court/
 shop: doityourself
 ---
