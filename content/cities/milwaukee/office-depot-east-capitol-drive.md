@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
-url: /milwaukee/office-depot-south-27th-street/
+url: /milwaukee/office-depot-east-capitol-drive/
 shop: office supplies
 ---
