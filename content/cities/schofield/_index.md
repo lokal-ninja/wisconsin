@@ -1,6 +1,6 @@
 ---
 title: Schofield
 url: /schofield/
-latitude: 44.906
-longitude: -89.588
+latitude: 44.926
+longitude: -89.614
 ---
