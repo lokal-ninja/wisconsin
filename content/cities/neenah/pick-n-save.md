@@ -1,5 +1,5 @@
 ---
-title: "Pick N Save"
+title: "Pick 'n Save"
 url: /neenah/pick-n-save/
-shop: convenience
+shop: supermarket
 ---
