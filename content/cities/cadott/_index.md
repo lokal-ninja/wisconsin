@@ -1,6 +1,6 @@
 ---
 title: Cadott
 url: /cadott/
-latitude: 44.945
-longitude: -91.145
+latitude: 44.929
+longitude: -91.184
 ---
