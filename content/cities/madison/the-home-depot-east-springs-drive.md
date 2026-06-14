@@ -1,5 +1,5 @@
 ---
 title: "The Home Depot"
-url: /madison/the-home-depot-verona-road/
+url: /madison/the-home-depot-east-springs-drive/
 shop: doityourself
 ---
