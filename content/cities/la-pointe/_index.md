@@ -1,6 +1,6 @@
 ---
 title: La Pointe
 url: /la-pointe/
-latitude: 46.78
-longitude: -90.789
+latitude: 46.779
+longitude: -90.787
 ---
