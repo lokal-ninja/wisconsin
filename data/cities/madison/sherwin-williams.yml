@@ -7,5 +7,6 @@ city: Madison
 street: East Washington Avenue
 housenumber: "2958"
 phone: ""
-opening_hours: ""
+opening_hours: Mo 07:00-18:00; Tu 07:00-18:00; We 07:00-18:00; Th 07:00-18:00; Fr
+    07:00-18:00; Sa 08:00-17:00; Su 10:00-16:00
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Wales
 url: /wales/
-latitude: 43.007
-longitude: -88.383
+latitude: 43.01
+longitude: -88.386
 ---
