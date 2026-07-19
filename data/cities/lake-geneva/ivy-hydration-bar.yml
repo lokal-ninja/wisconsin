@@ -7,5 +7,6 @@ city: Lake Geneva
 street: West Main Street
 housenumber: "601"
 phone: +1 262-812-4000
-opening_hours: '"By appointment"'
+opening_hours: Mo 16:00 20:00, Tu Closed, We 10:00 17:30, Th Closed, Fr 10:00 17:30,
+    Sa 8:00 12:00, Su 8:00 12:00
 website: https://www.ivyhydrationbar.com/
