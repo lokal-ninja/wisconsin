@@ -7,6 +7,6 @@ city: Oconto Falls
 street: Arndt Road
 housenumber: "7989"
 phone: ""
-opening_hours: Mo 08:30-12:00 ; Tu off ; We 08:30-16:30 ; Th 08:30-12:00 ; Fri-Sa
-    08:30-16:30 ; Su off
+opening_hours: Mo 08:30-12:00; Tu off; We 08:30-16:30; Th 08:30-12:00; Fr-Sa 08:30-16:30;
+    Su off
 website: ""
