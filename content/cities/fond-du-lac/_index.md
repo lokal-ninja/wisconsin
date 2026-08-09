@@ -1,6 +1,6 @@
 ---
-title: Fond du Lac
+title: Fond du lac
 url: /fond-du-lac/
-latitude: 43.793
-longitude: -88.449
+latitude: 43.794
+longitude: -88.436
 ---

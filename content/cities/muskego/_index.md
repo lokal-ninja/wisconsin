@@ -1,6 +1,6 @@
 ---
 title: Muskego
 url: /muskego/
-latitude: 42.925
-longitude: -88.158
+latitude: 42.92
+longitude: -88.108
 ---
