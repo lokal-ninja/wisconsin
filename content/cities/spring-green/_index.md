@@ -1,6 +1,6 @@
 ---
 title: Spring Green
 url: /spring-green/
-latitude: 43.177
-longitude: -90.067
+latitude: 43.189
+longitude: -90.073
 ---

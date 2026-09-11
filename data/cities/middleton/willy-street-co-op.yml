@@ -5,7 +5,8 @@ longitude: -89.50038
 postcode: ""
 city: Middleton
 street: University Avenue
-housenumber: ""
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: "6825"
+phone: +1-608-284-7800
+opening_hours: Mo-Su 07:30-21:00; Jan 01 closed; May Mo[-1] 07:30-19:00; Jul 04 07:30-19:00;
+    Sep Mo[1] 07:30-19:00; Nov Th[4] 07:30-14:00; Dec 24 07:30-18:00; Dec 25 closed
+website: https://www.willystreet.coop

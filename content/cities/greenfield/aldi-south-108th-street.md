@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /greenfield/aldi-south-108th-street/
 shop: supermarket
 ---
