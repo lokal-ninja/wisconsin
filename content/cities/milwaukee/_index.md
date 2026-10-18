@@ -1,6 +1,6 @@
 ---
 title: Milwaukee
 url: /milwaukee/
-latitude: 43.04
-longitude: -87.914
+latitude: 43.032
+longitude: -87.91
 ---

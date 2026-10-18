@@ -1,6 +1,6 @@
 ---
 title: Trempealeau
 url: /trempealeau/
-latitude: 44.004
-longitude: -91.432
+latitude: 44.003
+longitude: -91.42
 ---

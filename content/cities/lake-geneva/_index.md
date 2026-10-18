@@ -1,6 +1,6 @@
 ---
 title: Lake Geneva
 url: /lake-geneva/
-latitude: 42.598
-longitude: -88.414
+latitude: 42.591
+longitude: -88.415
 ---
