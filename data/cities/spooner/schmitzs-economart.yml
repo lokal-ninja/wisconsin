@@ -2,10 +2,10 @@ id: 120104217
 type: node
 latitude: 45.81546
 longitude: -91.89391
-postcode: 54871;54801
+postcode: "54801"
 city: Spooner
-street: South River Street;S. River St
+street: South River Street
 housenumber: "700"
-phone: ""
-opening_hours: ""
+phone: +1 715-635-2836
+opening_hours: 24/7
 website: https://www.schmitzeconomart.com/

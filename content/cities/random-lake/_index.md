@@ -1,6 +1,6 @@
 ---
 title: Random Lake
 url: /random-lake/
-latitude: 43.559
-longitude: -87.94
+latitude: 43.556
+longitude: -87.96
 ---

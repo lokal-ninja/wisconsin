@@ -2,5 +2,5 @@
 title: Neenah
 url: /neenah/
 latitude: 44.176
-longitude: -88.484
+longitude: -88.483
 ---
