@@ -1,6 +1,6 @@
 ---
 title: Campbellsport
 url: /campbellsport/
-latitude: 43.602
-longitude: -88.279
+latitude: 43.594
+longitude: -88.283
 ---

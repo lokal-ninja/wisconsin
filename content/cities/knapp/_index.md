@@ -1,6 +1,6 @@
 ---
 title: Knapp
 url: /knapp/
-latitude: 44.954
-longitude: -92.085
+latitude: 44.908
+longitude: -92.102
 ---
