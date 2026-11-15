@@ -1,6 +1,6 @@
 ---
 title: Brillion
 url: /brillion/
-latitude: 44.177
-longitude: -88.064
+latitude: 44.183
+longitude: -88.07
 ---
